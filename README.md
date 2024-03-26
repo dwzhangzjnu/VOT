@@ -114,8 +114,8 @@
 
 - **SDSTrack:** Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu.<br />
   "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://arxiv.org/abs/2403.16002)] 
+  [[code](https://github.com/hoqolo/SDSTrack)]
 
 - **HDETrack:** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
   "Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline." CVPR (2024).
@@ -190,6 +190,16 @@
   [[paper](https://arxiv.org/abs/2402.17976)] 
   [[code](https://github.com/)]
 
+- **MPLKD:** Yang Luo, Xiqing Guo, Hao Li.<br />
+  "From Two Stream to One Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.16834)] 
+  [[code](https://github.com/)]
+
+- **MAPNet:** Xinglong Sun, Haijiang Sun, Shan Jiang, Jiacheng Wang, Xilai Wei, Zhonghe Hu.<br />
+  "Multi-attention Associate Prediction Network for Visual Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.16395)] 
+  [[code](https://github.com/)]
+  
 - **ACTrack:** Yushan Han, Kaer Huang.<br />
   "ACTrack: Adding Spatio-Temporal Condition for Visual Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.07914)] 
