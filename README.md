@@ -190,6 +190,16 @@
   [[paper](https://arxiv.org/abs/2402.17976)] 
   [[code](https://github.com/)]
 
+- **DyTrack:** Jiawen Zhu, Xin Chen, Haiwen Diao, Shuai Li, Jun-Yan He, Chenyang Li, Bin Luo, Dong Wang, Huchuan Lu.<br />
+  "Exploring Dynamic Transformer for Efficient Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.17651)] 
+  [[code](https://github.com/)]
+
+- **CaDeX++:** Yunzhou Song, Jiahui Lei, Ziyun Wang, Lingjie Liu, Kostas Daniilidis.<br />
+  "Track Everything Everywhere Fast and Robustly." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.17931)] 
+  [[code](https://timsong412.github.io/FastOmniTrack/)]
+  
 - **MPLKD:** Yang Luo, Xiqing Guo, Hao Li.<br />
   "From Two Stream to One Stream: Efficient RGB-T Tracking via Mutual Prompt Learning and Knowledge Distillation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.16834)] 
