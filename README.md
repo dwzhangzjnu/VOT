@@ -89,8 +89,8 @@
 
 - **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang.<br />
   "RTracker: Recoverable Tracking via PN Tree Structured Memory." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://arxiv.org/abs/2403.19242)] 
+  [[code](https://github.com/NorahGreen/RTracker)]
 
 - **NetTrack:** Guangze Zheng, Shijie Lin, Haobo Zuo, Changhong Fu, Jia Pan.<br />
   "NetTrack: Tracking Highly Dynamic Objects with a Net." CVPR (2024).
