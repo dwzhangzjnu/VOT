@@ -166,7 +166,12 @@
   "Explicit Visual Prompts for Visual Object Tracking." AAAI (2024).
   [[paper](https://arxiv.org/abs/2401.03142)] 
   [[code](https://github.com/GXNU-ZhongLab/EVPTrack)] 
-  
+
+ - **STCFormer:** Kun Hu, Wenjing Yang, Wanrong Huang, Xianchen Zhou, Mingyu Cao, Jing Ren, Huibin Tan.<br />
+  "Sequential Fusion Based Multi-Granularity Consistency for Space-Time Transformer Tracking." AAAI (2024).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29145)] 
+  [[code]( )]
+
 - **BAT:** Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu.<br />
   "Bi-directional Adapter for Multimodal Tracking." AAAI (2024).
   [[paper](https://arxiv.org/abs/2312.10611)] 
@@ -182,6 +187,10 @@
   [[paper](https://arxiv.org/abs/2308.00783)] 
   [[code](https://github.com/ymzis69/HybirdSORT)]
 
+- **SR-Track:** Zepeng Li, Dongxiang Zhang, Sai Wu, Mingli Song, Gang Chen.<br />
+  "Sampling-Resilient Multi-Object Tracking." AAAI (2024).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28115)] 
+  [[code]( )]
 
 ### ArXiv 2024
 
