@@ -124,8 +124,13 @@
 
 - **CAI:** Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen.<br />
   "Context-Aware Integration of Language and Visual References for Natural Language Tracking." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://arxiv.org/abs/2403.19975)] 
+  [[code](https://github.com/twotwo2/QueryNLT)]
+
+- **MTMMC:** Sanghyun Woo, Kwanyong Park, Inkyu Shin, Myungchul Kim, In So Kweon.<br />
+  "MTMMC: A Large-Scale Real-World Multi-Modal Camera Tracking Benchmark." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2403.20225)] 
+  [[code](https://sites.google.com/view/mtmmc)]
 
 
 ### WACV 2024
