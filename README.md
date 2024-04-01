@@ -192,6 +192,19 @@
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28115)] 
   [[code]( )]
 
+### ICASSP 2024
+
+- **VADT:** Guangtong Zhang, Qihua Liang, Zhiyi Mo, Ning Li, Bineng Zhong.<br />
+  "Visual Adapt for RGBD Tracking." ICASSP (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10447728)] 
+  [[code]( )]
+
+- **GFATrack:** Yanfang Deng, Canlong Zhang, Zhixin Li, Chunrong Wei, Zhiwen Wang, Shuqi Pan.<br />
+  "Gradually Spatio-Temporal Feature Activation for Target Tracking." ICASSP (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10447555)] 
+  [[code]( )]
+
+  
 ### ArXiv 2024
 
 - **DuaLossDef:** Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, Shijie Zhou.<br />
