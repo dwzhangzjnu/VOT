@@ -212,6 +212,21 @@
   
 ### ArXiv 2024
 
+- **PromptVT:** Minghua Zhang, Qiuyang Zhang, Wei Song, Dongmei Huang, Qi He.<br />
+  "PromptVT: Prompting for Efficient and Accurate Visual Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10468656)] 
+  [[code](https://github.com/faicaiwawa/PromptVT)]
+
+- **RTSformer:** Fengwei Gu, Jun Lu, Chengtao Cai, Qidan Zhu, Zhaojie Ju.<br />
+  "RTSformer: A Robust Toroidal Transformer With Spatiotemporal Features for Visual Tracking." THMS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10474210)] 
+  [[code]( )]
+
+- **GAA:** Mingyang Lei, Hong Song, Jingfan Fan, Deqiang Xiao, Danni Ai, Ying Gu, Jian Yang.<br />
+  "GAA: Ghost Adversarial Attack for Object Tracking." TETCI (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10466775)] 
+  [[code]( )]
+  
 - **DuaLossDef:** Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, Shijie Zhou.<br />
   "Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.17976)] 
