@@ -232,6 +232,11 @@
   [[paper](https://arxiv.org/abs/2402.17976)] 
   [[code](https://github.com/)]
 
+- **Sigma:** Zifu Wan, Yuhao Wang, Silong Yong, Pingping Zhang, Simon Stepputtis, Katia Sycara, Yaqi Xie.<br />
+  "Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.04256)] 
+  [[code](https://github.com/zifuwan/Sigma)]
+
 - **DyTrack:** Jiawen Zhu, Xin Chen, Haiwen Diao, Shuai Li, Jun-Yan He, Chenyang Li, Bin Luo, Dong Wang, Huchuan Lu.<br />
   "Exploring Dynamic Transformer for Efficient Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.17651)] 
