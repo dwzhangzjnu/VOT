@@ -117,6 +117,16 @@
   [[paper](https://arxiv.org/abs/2403.16002)] 
   [[code](https://github.com/hoqolo/SDSTrack)]
 
+- **SpatialTracker:** Yuxi Xiao, Qianqian Wang, Shangzhan Zhang, Nan Xue, Sida Peng, Yujun Shen, Xiaowei Zhou.<br />
+  "SpatialTracker: Tracking Any 2D Pixels in 3D Space." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2404.04319)] 
+  [[code](https://henry123-boy.github.io/SpaTracker/)]
+
+- **RALF:** Jooyeon Kim, Eulrang Cho, Sehyung Kim, Hyunwoo J. Kim.<br />
+  "Retrieval-Augmented Open-Vocabulary Object Detection." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2404.05687)] 
+  [[code](https://github.com/mlvlab/RALF)]
+
 - **HDETrack:** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
   "Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline." CVPR (2024).
   [[paper](https://arxiv.org/abs/2309.14611)] 
