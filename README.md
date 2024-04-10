@@ -227,6 +227,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10468656)] 
   [[code](https://github.com/faicaiwawa/PromptVT)]
 
+- **EasyTrack:** Baojie Fan, Wuyang Zhou, Kai Wang, Shijun Zhou, Fengyu Xu, Jiandong Tian.<br />
+  "EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2404.05960)] 
+  [[code](https://github.com/KnightApple427/Easytrack)]
+
 - **RTSformer:** Fengwei Gu, Jun Lu, Chengtao Cai, Qidan Zhu, Zhaojie Ju.<br />
   "RTSformer: A Robust Toroidal Transformer With Spatiotemporal Features for Visual Tracking." THMS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10474210)] 
