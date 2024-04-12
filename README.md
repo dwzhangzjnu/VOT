@@ -227,6 +227,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10468656)] 
   [[code](https://github.com/faicaiwawa/PromptVT)]
 
+- **PillarTrack:** Weisheng Xu, Sifan Zhou, Zhihang Yuan.<br />
+  "PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2404.07495)] 
+  [[code](https://github.com/StiphyJay/PillarTrack)]
+
 - **EasyTrack:** Baojie Fan, Wuyang Zhou, Kai Wang, Shijun Zhou, Fengyu Xu, Jiandong Tian.<br />
   "EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker." arxiv (2024).
   [[paper](https://arxiv.org/abs/2404.05960)] 
