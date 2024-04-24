@@ -82,11 +82,6 @@
   [[paper](https://arxiv.org/)] 
   [[code](https://)]
 
-- **AQAT:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
-  "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
-
 - **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang.<br />
   "RTracker: Recoverable Tracking via PN Tree Structured Memory." CVPR (2024).
   [[paper](https://arxiv.org/abs/2403.19242)] 
@@ -226,6 +221,26 @@
   "PromptVT: Prompting for Efficient and Accurate Visual Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10468656)] 
   [[code](https://github.com/faicaiwawa/PromptVT)]
+
+- **AttMOT:** Yunhao Li, Zhen Xiao, Lin Yang, Dan Meng, Xin Zhou, Heng Fan, Libo Zhang.<br />
+  "AttMOT: Improving Multiple-Object Tracking by Introducing Auxiliary Pedestrian Attributes." TNNLS (2024).
+  [[paper](https://arxiv.org/abs/2308.07537)] 
+  [[code]()]
+
+- **BenSMOT:** Yunhao Li, Hao Wang, Xue Ma, Jiali Yao, Shaohua Dong, Heng Fan, Libo Zhang.<br />
+  "Beyond MOT: Semantic Multi-Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.05021)] 
+  [[code]()]
+
+- **LoRAT:** Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, Haibin Ling.<br />
+  "Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.05231)] 
+  [[code]()]
+
+- **VastTrack:** Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang.<br />
+  "VastTrack: Vast Category Visual Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.03493)] 
+  [[code](https://github.com/HengLan/VastTrack)]
 
 - **PillarTrack:** Weisheng Xu, Sifan Zhou, Zhihang Yuan.<br />
   "PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds." arxiv (2024).
@@ -980,6 +995,11 @@
   
 ### ArXiv 2022
  
+- **VisDrone:** Pengfei Zhu, Longyin Wen, Dawei Du, Xiao Bian, Heng Fan, Qinghua Hu, Haibin Ling.<br />
+  "Detection and Tracking Meet Drones Challenge." TPAMI (2022).
+  [[paper](https://arxiv.org/abs/2001.06303)] 
+  [[code](https://github.com/VisDrone/VisDrone-Dataset)]
+
 - **ProTrack:** Jinyu Yang, Zhe Li, Feng Zheng, Aleš Leonardis, Jingkuan Song.<br />
   "Prompting for Multi-Modal Tracking." ACM MM (2022).
   [[paper](https://arxiv.org/abs/2207.14571)] 
