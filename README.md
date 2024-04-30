@@ -222,6 +222,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10468656)] 
   [[code](https://github.com/faicaiwawa/PromptVT)]
 
+- **Mamba-FETrack:** Ju Huang, Shiao Wang, Shuai Wang, Zhe Wu, Xiao Wang, Bo Jiang.<br />
+  "Mamba-FETrack: Frame-Event Tracking via State Space Model." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2404.18174)] 
+  [[code](https://github.com/Event-AHU/Mamba_FETrack)]
+
 - **AttMOT:** Yunhao Li, Zhen Xiao, Lin Yang, Dan Meng, Xin Zhou, Heng Fan, Libo Zhang.<br />
   "AttMOT: Improving Multiple-Object Tracking by Introducing Auxiliary Pedestrian Attributes." TNNLS (2024).
   [[paper](https://arxiv.org/abs/2308.07537)] 
