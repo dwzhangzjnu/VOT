@@ -217,6 +217,11 @@
   
 ### ArXiv 2024
 
+- **QueryTrack:** Huijie Fan, Zhencheng Yu, Qiang Wang, Baojie Fan, Yandong Tang.<br />
+  "QueryTrack: Joint-modality Query Fusion Network for RGBT Tracking." TIP (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10516307)] 
+  [[code]( )]
+
 - **PromptVT:** Minghua Zhang, Qiuyang Zhang, Wei Song, Dongmei Huang, Qi He.<br />
   "PromptVT: Prompting for Efficient and Accurate Visual Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10468656)] 
