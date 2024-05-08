@@ -226,7 +226,12 @@
   "AFter: Attention-based Fusion Router for RGBT Tracking." arxiv (2024).
   [[paper](https://arxiv.org/abs/2405.02717)] 
   [[code](https://github.com/Alexadlu/AFter)]
-
+  
+- **MoETrack:** Zhangyong Tang, Tianyang Xu, Zhenhua Feng, Xuefeng Zhu, He Wang, Pengcheng Shao, Chunyang Cheng, Xiao-Jun Wu, Muhammad Awais, Sara Atito, Josef Kittler.<br />
+  "Revisiting RGBT Tracking Benchmarks from the Perspective of Modality Validity: A New Benchmark, Problem, and Method." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2405.00168)] 
+  [[code](https://github.com/Zhangyong-Tang/MoETrack)]
+  
 - **PromptVT:** Minghua Zhang, Qiuyang Zhang, Wei Song, Dongmei Huang, Qi He.<br />
   "PromptVT: Prompting for Efficient and Accurate Visual Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10468656)] 
