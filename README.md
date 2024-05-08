@@ -222,6 +222,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10516307)] 
   [[code]( )]
 
+- **AFter:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "AFter: Attention-based Fusion Router for RGBT Tracking." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2405.02717)] 
+  [[code](https://github.com/Alexadlu/AFter)]
+
 - **PromptVT:** Minghua Zhang, Qiuyang Zhang, Wei Song, Dongmei Huang, Qi He.<br />
   "PromptVT: Prompting for Efficient and Accurate Visual Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10468656)] 
@@ -261,6 +266,11 @@
   "EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker." arxiv (2024).
   [[paper](https://arxiv.org/abs/2404.05960)] 
   [[code](https://github.com/KnightApple427/Easytrack)]
+
+- **Anti-UAV410:** Bo Huang, Jianan Li, Junjie Chen, Gang Wang, Jian Zhao, Tingfa Xu.<br />
+  "Anti-UAV410: A Thermal Infrared Benchmark and Customized Scheme for Tracking Drones in the Wild." TPAMI (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10325629)] 
+  [[code](https://github.com/HwangBo94/Anti-UAV410)]
 
 - **RTSformer:** Fengwei Gu, Jun Lu, Chengtao Cai, Qidan Zhu, Zhaojie Ju.<br />
   "RTSformer: A Robust Toroidal Transformer With Spatiotemporal Features for Visual Tracking." THMS (2024).
