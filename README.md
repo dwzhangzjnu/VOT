@@ -237,6 +237,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10468656)] 
   [[code](https://github.com/faicaiwawa/PromptVT)]
 
+- **MobileSiam-LT:** Xin Yang, Jinxiang Huang, Yizhao Liao, Yong Song, Ya Zhou, Jinqi Yang.<br />
+  "Light Siamese Network for Long-term Onboard Aerial Tracking." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10521630)] 
+  [[code](https://github.com/YoungZnBIT/PySOT-trial)]
+  
 - **Mamba-FETrack:** Ju Huang, Shiao Wang, Shuai Wang, Zhe Wu, Xiao Wang, Bo Jiang.<br />
   "Mamba-FETrack: Frame-Event Tracking via State Space Model." arxiv (2024).
   [[paper](https://arxiv.org/abs/2404.18174)] 
