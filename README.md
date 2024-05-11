@@ -553,6 +553,11 @@
 
 ### ArXiV 2023
 
+- **LaTOT/MKDNet:** Yabin Zhu, Chenglong Li, Yao Liu, Xiao Wang, Jin Tang, Bin Luo, Zhixiang Huang.<br />
+  "Tiny Object Tracking: A Large-scale Dataset and A Baseline." TNNLS (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10035907)] 
+  [[code](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
+  
 - **UTrack:** Jie Gao, Bineng Zhong, Yan Chen.<br />
   "Unambiguous Object Tracking by Exploiting Target Cues." ACM MM (2023).
   [[paper](https://dl.acm.org/doi/10.1145/3581783.3612240)] 
@@ -1124,11 +1129,6 @@
   "RGBD Object Tracking: An In-depth Review." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2203.14134)] 
   [[code](https://github.com/memoryunreal/RGBD-tracking-review)]
-  
-- **TOT/MKDNet:** Yabin Zhu, Chenglong Li, Yao Liu, Xiao Wang, Jin Tang, Bin Luo, Zhixiang Huang.<br />
-  "Tiny Object Tracking: A Large-scale Dataset and A Baseline." ArXiv (2022).
-  [[paper](https://arxiv.org/abs/2202.05659)] 
-  [[code](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
   
 - **WebUAV-3M:** Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Yuxuan Zhang, Xiang Wan, Shiming Ge.<br />
   "WebUAV-3M: A Benchmark Unveiling the Power of Million-Scale Deep UAV Tracking." ArXiv (2022).
