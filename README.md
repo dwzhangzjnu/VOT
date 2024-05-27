@@ -217,6 +217,21 @@
   
 ### ArXiv 2024
 
+- **MDETrack:** Zhenyu Wei, Yujie He, Zhanchuan Cai.<br />
+  "Enhanced Object Tracking by Self-Supervised Auxiliary Depth Estimation Learning." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2405.14195)] 
+  [[code](https://anonymous.4open.science/r/MDETrack)]
+
+- **BTSOT:** Omar Abdelaziz, Mohamed Shehata, Mohamed Mohamed.<br />
+  "Beyond Traditional Single Object Tracking: A Survey." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2405.10439)] 
+  [[code]( )]
+
+- **RGBTSOT:** Mingzheng Feng, Jianbo Su.<br />
+  "RGBT tracking: A comprehensive review." Information Fusion (2024).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002707)] 
+  [[code]( )]
+  
 - **QueryTrack:** Huijie Fan, Zhencheng Yu, Qiang Wang, Baojie Fan, Yandong Tang.<br />
   "QueryTrack: Joint-modality Query Fusion Network for RGBT Tracking." TIP (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10516307)] 
