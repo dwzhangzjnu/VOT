@@ -222,6 +222,11 @@
   [[paper](https://arxiv.org/abs/2405.14195)] 
   [[code](https://anonymous.4open.science/r/MDETrack)]
 
+- **XTrack:** Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
+  "Towards a Generalist and Blind RGB-X Tracker." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2405.17773)] 
+  [[code](https://github.com/supertyd/XTrack)]
+
 - **BTSOT:** Omar Abdelaziz, Mohamed Shehata, Mohamed Mohamed.<br />
   "Beyond Traditional Single Object Tracking: A Survey." arxiv (2024).
   [[paper](https://arxiv.org/abs/2405.10439)] 
