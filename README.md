@@ -236,6 +236,16 @@
   "RGBT tracking: A comprehensive review." Information Fusion (2024).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002707)] 
   [[code]( )]
+
+- **WebUOT-1M:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2405.19818)] 
+  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+
+- **MMOT:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "Awesome Multi-modal Object Tracking." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2405.14200)] 
+  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
   
 - **QueryTrack:** Huijie Fan, Zhencheng Yu, Qiang Wang, Baojie Fan, Yandong Tang.<br />
   "QueryTrack: Joint-modality Query Fusion Network for RGBT Tracking." TIP (2024).
