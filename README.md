@@ -227,6 +227,16 @@
   [[paper](https://arxiv.org/abs/2405.17773)] 
   [[code](https://github.com/supertyd/XTrack)]
 
+- **LoReTrack:** Shaohua Dong, Yunhe Feng, Qing Yang, Yuewei Lin, Heng Fan.<br />
+  "LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2405.17660)] 
+  [[code](https://github.com/ShaohuaDong2021/LoReTrack)]
+
+- **MATrack:** Guotian Zeng, Bi Zeng, Qingmao Wei, Huiting Hu, Hong Zhang.<br />
+  "Visual Object Tracking with Mutual Affinity Aligned to Human Intuition." arxiv (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10539277)] 
+  [[code]( )]
+  
 - **BTSOT:** Omar Abdelaziz, Mohamed Shehata, Mohamed Mohamed.<br />
   "Beyond Traditional Single Object Tracking: A Survey." arxiv (2024).
   [[paper](https://arxiv.org/abs/2405.10439)] 
