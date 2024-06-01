@@ -233,7 +233,7 @@
   [[code](https://github.com/ShaohuaDong2021/LoReTrack)]
 
 - **MATrack:** Guotian Zeng, Bi Zeng, Qingmao Wei, Huiting Hu, Hong Zhang.<br />
-  "Visual Object Tracking with Mutual Affinity Aligned to Human Intuition." arxiv (2024).
+  "Visual Object Tracking with Mutual Affinity Aligned to Human Intuition." TMM (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10539277)] 
   [[code]( )]
   
