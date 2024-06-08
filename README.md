@@ -67,6 +67,11 @@
 
 ### CVPR 2024
 
+- **MASA:** Siyuan Li, Lei Ke, Martin Danelljan, Luigi Piccinelli, Mattia Segu, Luc Van Gool, Fisher Yu.<br />
+  "Matching Anything by Segmenting Anything." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2406.04221)] 
+  [[code](https://matchinganything.github.io/)]
+
 - **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang.<br />
   "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning." CVPR (2024).
   [[paper](https://arxiv.org/abs/2403.09634)] 
