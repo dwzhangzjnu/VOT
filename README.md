@@ -1218,9 +1218,9 @@
   [[code](https://github.com/xxxxxx)]
   
 - **SRRT:** Jiawen Zhu, Xin Chen, Dong Wang, Wenda Zhao, Huchuan Lu.<br />
-  "SRRT: Search Region Regulation Tracking" ArXiv (2022).
-  [[paper](https://arxiv.org/abs/2207.04438)] 
-  [[code](https://github.com/xxxxxx)]
+  "SRRT: Exploring Search Region Regulation for Visual Object Tracking" IEEE TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10549949)] 
+  [[code]( )]
   
 - **DIMBA:** Xiangyu Yin, Wenjie Ruan, Jonathan Fieldsend.<br />
   "DIMBA: Discretely Masked Black-Box Attack in Single Object Tracking" ArXiv (2022).
