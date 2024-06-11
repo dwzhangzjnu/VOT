@@ -227,6 +227,11 @@
   [[paper](https://arxiv.org/abs/2405.14195)] 
   [[code](https://anonymous.4open.science/r/MDETrack)]
 
+- **CRM:** Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang.<br />
+  "Consistent Representation Mining for Multi-Drone Single Object Tracking." arxiv (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10551855)] 
+  [[code](https://github.com/xyl-507/CRM)]
+  
 - **XTrack:** Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
   "Towards a Generalist and Blind RGB-X Tracker." arxiv (2024).
   [[paper](https://arxiv.org/abs/2405.17773)] 
