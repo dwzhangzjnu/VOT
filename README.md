@@ -227,6 +227,11 @@
   [[paper](https://arxiv.org/abs/2405.14195)] 
   [[code](https://anonymous.4open.science/r/MDETrack)]
 
+- **RGBS50:** Yunfeng Li, Bo Wang, Jiuran Sun, Xueyi Wu, Ye Li.<br />
+  "RGB-Sonar Tracking Benchmark and Spatial Cross-Attention Transformer Tracker." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2406.07189)] 
+  [[code](https://github.com/LiYunfengLYF/RGBS50)]
+
 - **CRM:** Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang.<br />
   "Consistent Representation Mining for Multi-Drone Single Object Tracking." arxiv (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10551855)] 
