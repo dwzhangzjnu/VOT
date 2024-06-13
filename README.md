@@ -237,6 +237,16 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10551855)] 
   [[code](https://github.com/xyl-507/CRM)]
   
+- **LaMOT:** Yunhao Li, Xiaoqiong Liu, Luke Liu, Heng Fan, Libo Zhang.<br />
+  "LaMOT: Language-Guided Multi-Object Tracking." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2406.08324)] 
+  [[code](https://github.com/Nathan-Li123/LaMOT)]
+
+- **ABTrack:** Xiangyang Yang, Dan Zeng, Xucheng Wang, You Wu, Hengzhou Ye, Shuiwang Li.<br />
+  "Adaptively Bypassing Vision Transformer Blocks for Efficient Visual Tracking." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2406.08037)] 
+  [[code](https://github.com/1HykhqV3rU/ABTrack)]
+
 - **XTrack:** Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
   "Towards a Generalist and Blind RGB-X Tracker." arxiv (2024).
   [[paper](https://arxiv.org/abs/2405.17773)] 
