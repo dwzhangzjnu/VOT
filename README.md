@@ -13,10 +13,10 @@
   [[paper](https://arxiv.org/pdf/1912.00535.pdf)] 
   [[code](https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey)]
    
-- **GIT:** Shiyu Hu, Xin Zhao, Lianghua Huang, Kaiqi Huang.<br />
-  "Global Instance Tracking: Locating Target More Like Humans." IEEE TPAMI (2022).
-  [[paper](https://arxiv.org/pdf/2202.13073.pdf)] 
-  [[code](http://videocube.aitestunion.com/)]
+- **DAMv2:** Lihe Yang, Bingyi Kang, Zilong Huang, Zhen Zhao, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao.<br />
+  "Depth Anything V2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.09414)] 
+  [[code](https://depth-anything-v2.github.io/)]
       
 - **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
   "Segment Anything." ArXiv (2023).
@@ -1099,6 +1099,11 @@
   "Detection and Tracking Meet Drones Challenge." TPAMI (2022).
   [[paper](https://arxiv.org/abs/2001.06303)] 
   [[code](https://github.com/VisDrone/VisDrone-Dataset)]
+
+- **GIT:** Shiyu Hu, Xin Zhao, Lianghua Huang, Kaiqi Huang.<br />
+  "Global Instance Tracking: Locating Target More Like Humans." IEEE TPAMI (2022).
+  [[paper](https://arxiv.org/pdf/2202.13073.pdf)] 
+  [[code](http://videocube.aitestunion.com/)]
 
 - **ProTrack:** Jinyu Yang, Zhe Li, Feng Zheng, Aleš Leonardis, Jingkuan Song.<br />
   "Prompting for Multi-Modal Tracking." ACM MM (2022).
@@ -2589,13 +2594,13 @@
 
 * **MCPF:** Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang.
     " Learning Multi-task Correlation Particle Filters for Visual Tracking." TPAMI (2017).
-      [[paper]]
+      [[paper]( )]
       [[project](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/lmcpf.html)]
       [[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_mcpf/Source_Code/Source_Code.zip)] 
 
 * **RSST:** Tianzhu Zhang, Changsheng Xu, Ming-Hsuan Yang.
   " Robust Structural Sparse Tracking." TPAMI (2017).
-  [[paper]]
+  [[paper]( )
   [[project](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/rsst.html)]
   [[code](http://nlpr-web.ia.ac.cn/mmc/homepage/tzzhang/Project_Tianzhu/zhang_RSST/RSSTDeep/RSSTDeep_Code.zip)] 
 
