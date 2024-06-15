@@ -84,8 +84,8 @@
 
 - **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma.<br />
   "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xie_DiffusionTrack_Point_Set_Diffusion_Model_for_Visual_Object_Tracking_CVPR_2024_paper.html)] 
+  [[code](https://github.com/VISION-SJTU/DiffusionTrack)]
 
 - **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang.<br />
   "RTracker: Recoverable Tracking via PN Tree Structured Memory." CVPR (2024).
@@ -105,12 +105,17 @@
 - **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang.<br />
   "HIPTrack: Visual Tracking with Historical Prompts." CVPR (2024).
   [[paper](https://arxiv.org/abs/2311.02072)] 
-  [[code](https://xxx)]
+  [[code](https://github.com/WenRuiCai/HIPTrack)]
 
-- **AQAT:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
+- **AQATrack:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
   "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xie_Autoregressive_Queries_for_Adaptive_Tracking_with_Spatio-Temporal_Transformers_CVPR_2024_paper.html)] 
+  [[code](https://github.com/GXNU-ZhongLab/AQATrack)]
+
+- **MMA:** Lingxiao Yang, Ru-Yuan Zhang, Yanchen Wang, Xiaohua Xie.<br />
+  "MMA: Multi-Modal Adapter for Vision-Language Models." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.html)] 
+  [[code](https://github.com/ZjjConan/Multi-Modal-Adapter)]
 
 - **SDSTrack:** Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu.<br />
   "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking." CVPR (2024).
