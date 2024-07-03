@@ -17,6 +17,11 @@
   "Depth Anything V2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.09414)] 
   [[code](https://depth-anything-v2.github.io/)]
+
+- **4M-21:** Roman Bachmann, Oğuzhan Fatih Kar, David Mizrahi, Ali Garjani, Mingfei Gao, David Griffiths, Jiaming Hu, Afshin Dehghan, Amir Zamir.<br />
+  "4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.09406)] 
+  [[code](https://4m.epfl.ch/)]
       
 - **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
   "Segment Anything." ArXiv (2023).
@@ -63,6 +68,16 @@
   "SegGPT: Segmenting Everything In Context." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
+
+
+### ECCV 2024
+
+- **VideoMamba:** Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao.<br />
+  "VideoMamba: State Space Model for Efficient Video Understanding." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2403.06977)] 
+  [[code](https://huggingface.co/OpenGVLab/VideoMamba)]
+
+
 
 
 ### CVPR 2024
@@ -237,6 +252,31 @@
   [[paper](https://arxiv.org/abs/2406.07189)] 
   [[code](https://github.com/LiYunfengLYF/RGBS50)]
 
+- **ViDSOD-100:** Junhao Lin, Lei Zhu, Jiaxing Shen, Huazhu Fu, Qing Zhang, Liansheng Wang.<br />
+  "ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection." IJCV (2024).
+  [[paper](https://arxiv.org/abs/2406.07189)] 
+  [[code](https://github.com/jhl-Det/RGBD_Video_SOD)]
+
+- **RGBT-Tiny:** Xinyi Ying, Chao Xiao, Ruojing Li, Xu He, Boyang Li, Zhaoxu Li, Yingqian Wang, Mingyuan Hu, Qingyu Xu, Zaiping Lin, Miao Li, Shilin Zhou, Wei An, Weidong Sheng, Li Liu.<br />
+  "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2406.14482)] 
+  [[code](https://github.com/XinyiYing24/RGBT-Tiny)]
+
+- **HSOD-BIT:** Haolin Qin, Tingfa Xu, Peifu Liu, Jingxuan Xu, Jianan Li.<br />
+  "DMSSN: Distilled Mixed Spectral–Spatial Network for Hyperspectral Salient Object Detection." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10475351)] 
+  [[code](https://github.com/anonymous0519/HSOD-BIT)]
+
+- **QSFNet:** Liuxin Bao, Xiaofei Zhou, Xiankai Lu, Yaoqi Sun, Haibing Yin, Zhenghui Hu, Jiyong Zhang, Chenggang Yan.<br />
+  "Quality-aware Selective Fusion Network for V-D-T Salient Object Detection." TIP (2024).
+  [[paper](https://arxiv.org/abs/2405.07655)] 
+  [[code](https://github.com/Lx-Bao/QSFNet)]
+
+- **DWFPRNet:** Yi Luo, Feng Shao, Baoyang Mu, Hangwei Chen, Zhuo Li, Qiuping Jiang.<br />
+  "Dynamic Weighted Fusion and Progressive Refinement Network for Visible-Depth-Thermal Salient Object Detection." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10556617)] 
+  [[code]( )]
+  
 - **CRM:** Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao, Lianfeng Wang.<br />
   "Consistent Representation Mining for Multi-Drone Single Object Tracking." arxiv (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10551855)] 
@@ -262,10 +302,20 @@
   [[paper](https://arxiv.org/abs/2405.17660)] 
   [[code](https://github.com/ShaohuaDong2021/LoReTrack)]
 
+- **TATrack:** Shuiwang Li, Xiangyang Yang, Xucheng Wang, Dan Zeng, Hengzhou Ye, Qijun Zhao.<br />
+  "Learning Target-Aware Vision Transformers for Real-Time UAV Tracking." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10568178)] 
+  [[code](https://github.com/xyyang317/TATrack)]
+
 - **MATrack:** Guotian Zeng, Bi Zeng, Qingmao Wei, Huiting Hu, Hong Zhang.<br />
   "Visual Object Tracking with Mutual Affinity Aligned to Human Intuition." TMM (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10539277)] 
   [[code]( )]
+
+- **SPOT:** Jilai Zheng, Wenxi Li, Chao Ma, Xiaokang Yang.<br />
+  "Sparsely-Supervised Object Tracking." TIP (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10541917)] 
+  [[code](https://github.com/VISION-SJTU/SPOT)]
   
 - **BTSOT:** Omar Abdelaziz, Mohamed Shehata, Mohamed Mohamed.<br />
   "Beyond Traditional Single Object Tracking: A Survey." arxiv (2024).
