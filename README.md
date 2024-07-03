@@ -112,6 +112,31 @@
   [[paper](https://arxiv.org/abs/2403.11186)] 
   [[code](https://george-zhuang.github.io/nettrack/)]
 
+- **LMOT:** Xinzhe Wang, Kang Ma, Qiankun Liu, Yunhao Zou, Ying Fu.<br />
+  "Multi-Object Tracking in the Dark." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2405.06600)] 
+  [[code](https://github.com/ying-fu/LMOT)]
+
+- **DeconfuseTrack:** Cheng Huang, Shoudong Han, Mengyu He, Wenbo Zheng, Yuhao Wei.<br />
+  "DeconfuseTrack: Dealing with Confusion for Multi-Object Tracking." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2403.02767)] 
+  [[code]( )]
+
+- **DiffMOT:** Weiyi Lv, Yuhang Huang, Ning Zhang, Ruei-Sung Lin, Mei Han, Dan Zeng.<br />
+  "DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2403.02075)] 
+  [[code](https://diffmot.github.io/)]
+
+- **GeneralTrack:** Zheng Qin, Le Wang, Sanping Zhou, Panpan Fu, Gang Hua, Wei Tang.<br />
+  "Towards Generalizable Multi-Object Tracking." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2406.00429)] 
+  [[code](https://github.com/qinzheng2000/GeneralTrack.git)]
+
+- **TLTDMOT:** Sijia Chen, En Yu, Jinyang Li, Wenbing Tao.<br />
+  "Delving into the Trajectory Long-tail Distribution for Muti-object Tracking." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2403.04700)] 
+  [[code](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)]
+  
 - **Un-Track:** Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
   "Single-Model and Any-Modality for Video Object Tracking." CVPR (2024).
   [[paper](https://arxiv.org/abs/2311.15851)] 
@@ -262,6 +287,11 @@
   [[paper](https://arxiv.org/abs/2406.14482)] 
   [[code](https://github.com/XinyiYing24/RGBT-Tiny)]
 
+- **HGTM:** Qingyu Xu, Longguang Wang, Weidong Sheng, Yingqian Wang, Chao Xiao, Chao Ma, Wei An.<br />
+  "Heterogeneous Graph Transformer for Multiple Tiny Object Tracking in RGB-T Videos." TMM (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10531011)] 
+  [[code](https://github.com/xuqingyu26/HGTM)]
+  
 - **HSOD-BIT:** Haolin Qin, Tingfa Xu, Peifu Liu, Jingxuan Xu, Jianan Li.<br />
   "DMSSN: Distilled Mixed Spectral–Spatial Network for Hyperspectral Salient Object Detection." TGRS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10475351)] 
@@ -297,6 +327,11 @@
   [[paper](https://arxiv.org/abs/2405.17773)] 
   [[code](https://github.com/supertyd/XTrack)]
 
+- **PuTR:** Chongwei Liu, Haojie Li, Zhihui Wang, Rui Xu.<br />
+  "PuTR: A Pure Transformer for Decoupled and Online Multi-Object Tracking." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2405.14119)] 
+  [[code](https://github.com/chongweiliu/PuTR)]
+  
 - **LoReTrack:** Shaohua Dong, Yunhe Feng, Qing Yang, Yuewei Lin, Heng Fan.<br />
   "LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking." arxiv (2024).
   [[paper](https://arxiv.org/abs/2405.17660)] 
