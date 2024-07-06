@@ -77,7 +77,10 @@
   [[paper](https://arxiv.org/abs/2403.06977)] 
   [[code](https://huggingface.co/OpenGVLab/VideoMamba)]
 
-
+- **DINO-Tracker:** Narek Tumanyan, Assaf Singer, Shai Bagon, Tali Dekel.<br />
+  "DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2403.14548v1)] 
+  [[code](https://dino-tracker.github.io/)]
 
 
 ### CVPR 2024
