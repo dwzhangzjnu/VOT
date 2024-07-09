@@ -270,6 +270,16 @@
   
 ### ArXiv 2024
 
+- **TRO:** Xiaoyu Guo, Pengzhi Zhong, Lizhi Lin, Hao Zhang, Ling Huang, Shuiwang Li.<br />
+  "Tracking Reflected Objects: A Benchmark." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2407.05235)] 
+  [[code](https://github.com/OpenCodeGithub/HIP-HaTrack)]
+  
+- **P2P:** Jiahao Nie, Fei Xie, Xueyi Zhou, Sifan Zhou, Zhiwei He, Dong-Kyu Chae.<br />
+  "P2P: Part-to-Part Motion Cues Guide a Strong Tracking Framework for LiDAR Point Clouds." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2407.05238)] 
+  [[code](https://github.com/haooozi/P2P)]
+  
 - **MDETrack:** Zhenyu Wei, Yujie He, Zhanchuan Cai.<br />
   "Enhanced Object Tracking by Self-Supervised Auxiliary Depth Estimation Learning." arxiv (2024).
   [[paper](https://arxiv.org/abs/2405.14195)] 
