@@ -274,6 +274,11 @@
   "Tracking Reflected Objects: A Benchmark." arxiv (2024).
   [[paper](https://arxiv.org/abs/2407.05235)] 
   [[code](https://github.com/OpenCodeGithub/HIP-HaTrack)]
+
+- **eMoE-Tracker:** Yucheng Chen, Lin Wang.<br />
+  "eMoE-Tracker: Environmental MoE-based Transformer for Robust Event-guided Object Tracking." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2406.20024)] 
+  [[code](https://vlislab22.github.io/eMoE-Tracker/)]
   
 - **P2P:** Jiahao Nie, Fei Xie, Xueyi Zhou, Sifan Zhou, Zhiwei He, Dong-Kyu Chae.<br />
   "P2P: Part-to-Part Motion Cues Guide a Strong Tracking Framework for LiDAR Point Clouds." arxiv (2024).
