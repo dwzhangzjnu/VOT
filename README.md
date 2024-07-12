@@ -72,6 +72,11 @@
 
 ### ECCV 2024
 
+- **Diff-Tracker:** Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, Jun Liu.<br />
+  "Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.08394)] 
+  [[code]( )]
+
 - **VideoMamba:** Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao.<br />
   "VideoMamba: State Space Model for Efficient Video Understanding." ECCV (2024).
   [[paper](https://arxiv.org/abs/2403.06977)] 
@@ -274,6 +279,11 @@
   "Learning Motion Blur Robust Vision Transformers with Dynamic Early Exit for Real-Time UAV Tracking." arxiv (2024).
   [[paper](https://arxiv.org/abs/2407.05383)] 
   [[code](https://github.com/wuyou3474/BDTrack)]
+
+- **NLMTrack:** Miao Yan, Ping Zhang, Haofei Zhang, Ruqian Hao, Juanxiu Liu, Xiaoyang Wang, Lin Liu.<br />
+  "Enhancing Thermal Infrared Tracking with Natural Language Modeling and Coordinate Sequence Generation." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2407.08265)] 
+  [[code](https://github.com/ELOESZHANG/NLMTrack)]
 
 - **TRO:** Xiaoyu Guo, Pengzhi Zhong, Lizhi Lin, Hao Zhang, Ling Huang, Shuiwang Li.<br />
   "Tracking Reflected Objects: A Benchmark." arxiv (2024).
