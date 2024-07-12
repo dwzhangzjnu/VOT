@@ -270,6 +270,11 @@
   
 ### ArXiv 2024
 
+- **BDTrack:** You Wu, Xucheng Wang, Dan Zeng, Hengzhou Ye, Xiaolan Xie, Qijun Zhao, Shuiwang Li.<br />
+  "Learning Motion Blur Robust Vision Transformers with Dynamic Early Exit for Real-Time UAV Tracking." arxiv (2024).
+  [[paper](https://arxiv.org/abs/2407.05383)] 
+  [[code](https://github.com/wuyou3474/BDTrack)]
+
 - **TRO:** Xiaoyu Guo, Pengzhi Zhong, Lizhi Lin, Hao Zhang, Ling Huang, Shuiwang Li.<br />
   "Tracking Reflected Objects: A Benchmark." arxiv (2024).
   [[paper](https://arxiv.org/abs/2407.05235)] 
