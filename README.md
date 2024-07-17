@@ -87,6 +87,11 @@
   [[paper](https://arxiv.org/abs/2403.14548v1)] 
   [[code](https://dino-tracker.github.io/)]
 
+- **DecoMotion:** Rui Li, Dong Liu.<br />
+  "Decomposition Betters Tracking Everything Everywhere." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.06531)] 
+  [[code](https://github.com/qianduoduolr/DecoMotion)]
+  
 
 ### CVPR 2024
 
