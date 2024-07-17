@@ -280,6 +280,11 @@
   
 ### ArXiv 2024
 
+- **FRTT:** Tianyang Xu, Yifan Pan, Zhenhua Feng, Xuefeng Zhu, Chunyang Cheng, Xiao-Jun Wu, Josef Kittler.<br />
+  "Learning Feature Restoration Transformer for Robust Dehazing Visual Object Tracking." IJCV (2024).
+  [[paper](https://link.springer.com/article/10.1007/s11263-024-02182-9)] 
+  [[code]( )]
+
 - **BDTrack:** You Wu, Xucheng Wang, Dan Zeng, Hengzhou Ye, Xiaolan Xie, Qijun Zhao, Shuiwang Li.<br />
   "Learning Motion Blur Robust Vision Transformers with Dynamic Early Exit for Real-Time UAV Tracking." arxiv (2024).
   [[paper](https://arxiv.org/abs/2407.05383)] 
