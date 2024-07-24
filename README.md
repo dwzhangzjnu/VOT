@@ -265,6 +265,7 @@
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28115)] 
   [[code]( )]
 
+
 ### ICASSP 2024
 
 - **VADT:** Guangtong Zhang, Qihua Liang, Zhiyi Mo, Ning Li, Bineng Zhong.<br />
@@ -280,6 +281,41 @@
   
 ### ArXiv 2024
 
+- **TP2N:** Basit Alawode, Sajid Javed, Arif Mahmood, Jiri Matas.<br />
+  "Predicting the Best of N Visual Trackers." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.15707)] 
+  [[code](https://github.com/BasitAlawode/Best_of_N_Trackers)]
+
+- **CKD:** Andong Lu, Jiacong Zhao, Chenglong Li, Yun Xiao, Bin Luo.<br />
+  "Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation." ACM MM (2024).
+  [[paper]( )] 
+  [[code]( )]
+
+- **MELT:** Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu, Josef Kittler.<br />
+  "Multi-Level Fusion for Robust RGBT Tracking via Enhanced Thermal Representation." TOMM (2024).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3678176)] 
+  [[code](https://github.com/Zhangyong-Tang/MELT)]
+
+- **MMSTC:** Tianlu Zhang, Qiang Jiao, Qiang Zhang, Jungong Han.<br />
+  "Exploring Multi-modal Spatial-Temporal Contexts for High-performance RGB-T Tracking." TIP (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10605602)] 
+  [[code]( )]
+
+- **LMANet:** Yabin Zhu, Xingle Zhao, Chenglong Li, Jin Tang, Zhixiang Huang.<br />
+  "Long-term Motion Assisted Remote Sensing Object Tracking." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10601232)] 
+  [[code](https://github.com/zhaoxingle/LMANet)]
+  
+- **ADSF:** Jingjing Wu, Xi Zhou, Xiaohong Li, Hao Liu, Meibin Qi, Richang Hong.<br />
+  "Asymmetric Deformable Spatio-temporal Framework for Infrared Object Tracking." TOMM (2024).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3678882)] 
+  [[code]( )]
+  
+- **ReFocus:** Simiao Lai, Chang Liu, Dong Wang, Huchuan Lu.<br />
+  "Refocus the Attention for Parameter-Efficient Thermal Infrared Object Tracking." TNNLS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10601348)] 
+  [[code](https://github.com/laisimiao/ReFocus_TIRTracking)]
+  
 - **FRTT:** Tianyang Xu, Yifan Pan, Zhenhua Feng, Xuefeng Zhu, Chunyang Cheng, Xiao-Jun Wu, Josef Kittler.<br />
   "Learning Feature Restoration Transformer for Robust Dehazing Visual Object Tracking." IJCV (2024).
   [[paper](https://link.springer.com/article/10.1007/s11263-024-02182-9)] 
