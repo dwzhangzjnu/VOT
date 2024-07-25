@@ -291,6 +291,11 @@
   [[paper]( )] 
   [[code]( )]
 
+- **DenseTrack:** Yi Lei, Huilin Zhu, Jingling Yuan, Guangli Xiang, Xian Zhong, Shengfeng He.<br />
+  "DenseTrack: Drone-based Crowd Tracking via Density-aware Motion-appearance Synergy." ACM MM (2024).
+  [[paper](https://arxiv.org/abs/2407.17272)] 
+  [[code]( )]
+  
 - **MELT:** Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu, Josef Kittler.<br />
   "Multi-Level Fusion for Robust RGBT Tracking via Enhanced Thermal Representation." TOMM (2024).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3678176)] 
