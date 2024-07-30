@@ -286,6 +286,11 @@
   [[paper](https://arxiv.org/abs/2407.15707)] 
   [[code](https://github.com/BasitAlawode/Best_of_N_Trackers)]
 
+- **PDAT:** Qiao Li, Kanlun Tan, Qiao Liu, Di Yuan, Xin Li, Yunpeng Liu.<br />
+  "Progressive Domain Adaptation for Thermal Infrared Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.19430)] 
+  [[code]( )]
+
 - **CKD:** Andong Lu, Jiacong Zhao, Chenglong Li, Yun Xiao, Bin Luo.<br />
   "Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation." ACM MM (2024).
   [[paper]( )] 
