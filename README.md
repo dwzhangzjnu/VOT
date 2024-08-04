@@ -265,6 +265,10 @@
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28115)] 
   [[code]( )]
 
+- **DMTrack:** Guangtong Zhang, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shuxiang Song.<br />
+  "Diffusion Mask-Driven Visual-language Tracking." IJCAI (2024).
+  [[paper](https://www.ijcai.org/proceedings/2024/183)] 
+  [[code]( )]
 
 ### ICASSP 2024
 
@@ -280,6 +284,11 @@
 
   
 ### ArXiv 2024
+
+- **RGBTReview:** Haiping Zhang, Di Yuan, Xiu Shu, Zhihui Li, Qiao Liu, Xiaojun Chang, Zhenyu He, Guming Shi.<br />
+  "A Comprehensive Review of RGBT Tracking." TIM (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10616144)] 
+  [[code]( )]
 
 - **TP2N:** Basit Alawode, Sajid Javed, Arif Mahmood, Jiri Matas.<br />
   "Predicting the Best of N Visual Trackers." ArXiv (2024).
@@ -301,6 +310,11 @@
   [[paper](https://arxiv.org/abs/2407.17272)] 
   [[code]( )]
   
+- **TGTrack:** Liang Chen, Bineng Zhong, Qihua Liang, Yaozong Zheng, Zhiyi Mo, Shuxiang Song.<br />
+  "Top-down Cross-modal Guidance for Robust RGB-T Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10614652)] 
+  [[code]( )]
+
 - **MELT:** Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu, Josef Kittler.<br />
   "Multi-Level Fusion for Robust RGBT Tracking via Enhanced Thermal Representation." TOMM (2024).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3678176)] 
