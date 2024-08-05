@@ -310,7 +310,12 @@
   [[paper](https://arxiv.org/abs/2407.17272)] 
   [[code]( )]
   
-- **TGTrack:** Liang Chen, Bineng Zhong, Qihua Liang, Yaozong Zheng, Zhiyi Mo, Shuxiang Song.<br />
+- **VLCTrack:** Jiahao Wang, Fang Liu, Licheng Jiao, Yingjia Gao, Hao Wang, Shuo Li, Lingling Li, Puhua Chen, Xu Liu.<br />
+  "Visual and Language Collaborative Learning for RGBT Object Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10620225)] 
+  [[code]( )]
+
+  - **TGTrack:** Liang Chen, Bineng Zhong, Qihua Liang, Yaozong Zheng, Zhiyi Mo, Shuxiang Song.<br />
   "Top-down Cross-modal Guidance for Robust RGB-T Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10614652)] 
   [[code]( )]
