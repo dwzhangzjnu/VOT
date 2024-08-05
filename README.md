@@ -315,7 +315,7 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10620225)] 
   [[code]( )]
 
-  - **TGTrack:** Liang Chen, Bineng Zhong, Qihua Liang, Yaozong Zheng, Zhiyi Mo, Shuxiang Song.<br />
+- **TGTrack:** Liang Chen, Bineng Zhong, Qihua Liang, Yaozong Zheng, Zhiyi Mo, Shuxiang Song.<br />
   "Top-down Cross-modal Guidance for Robust RGB-T Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10614652)] 
   [[code]( )]
