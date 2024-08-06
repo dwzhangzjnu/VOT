@@ -91,6 +91,11 @@
   "Decomposition Betters Tracking Everything Everywhere." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.06531)] 
   [[code](https://github.com/qianduoduolr/DecoMotion)]
+
+- **HVTrack:** Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, Jiaqi Yang.<br />
+  "3D Single-object Tracking in Point Clouds with High Temporal Variation." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2408.02049)] 
+  [[code]( )]
   
 
 ### CVPR 2024
@@ -289,6 +294,16 @@
   "A Comprehensive Review of RGBT Tracking." TIM (2024).
   [[paper](https://ieeexplore.ieee.org/document/10616144)] 
   [[code]( )]
+
+- **VoxelTrack:** Yuxuan Lu, Jiahao Nie, Zhiwei He, Hongjie Gu, Xudong Lv.<br />
+  "VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.02263)] 
+  [[code]( )]
+  
+- **SiamMo:** Yuxiang Yang, Yingqi Deng, Jing Zhang, Hongjie Gu, Zhekang Don.<br />
+  "SiamMo: Siamese Motion-Centric 3D Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.01688)] 
+  [[code](https://github.com/HDU-VRLab/SiamMo)]
 
 - **TP2N:** Basit Alawode, Sajid Javed, Arif Mahmood, Jiri Matas.<br />
   "Predicting the Best of N Visual Trackers." ArXiv (2024).
