@@ -295,6 +295,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10616144)] 
   [[code]( )]
 
+- **CAFormer:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Yin Lin, Bing Yin, Cong Liu.<br />
+  "Cross-modulated Attention Transformer for RGBT Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.02222)] 
+  [[code]( )]
+
 - **VoxelTrack:** Yuxuan Lu, Jiahao Nie, Zhiwei He, Hongjie Gu, Xudong Lv.<br />
   "VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.02263)] 
