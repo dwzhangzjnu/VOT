@@ -330,6 +330,16 @@
   [[paper](https://arxiv.org/abs/2407.17272)] 
   [[code]( )]
   
+- **ETIT:** Weisheng Li, Shunping Chen, Yuhao Fang, Yidong Peng.<br />
+  "Efficient Thermal Infrared Tracking via Multi-enhancement and Spatial Shift Pyramid." JSEN (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10630644)] 
+  [[code]( )]
+
+- **OTETrack:** Li Shen, Xuyi Fan, Hongguang Li.<br />
+  "Overlapped Trajectory-Enhanced Visual Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10630872)] 
+  [[code](https://github.com/OrigamiSL/OTETrack)]
+
 - **VLCTrack:** Jiahao Wang, Fang Liu, Licheng Jiao, Yingjia Gao, Hao Wang, Shuo Li, Lingling Li, Puhua Chen, Xu Liu.<br />
   "Visual and Language Collaborative Learning for RGBT Object Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10620225)] 
