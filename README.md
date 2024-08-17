@@ -92,6 +92,11 @@
   [[paper](https://arxiv.org/abs/2407.06531)] 
   [[code](https://github.com/qianduoduolr/DecoMotion)]
 
+- **Elysium:** Han Wang, Yanjie Wang, Yongjie Ye, Yuxiang Nie, Can Huang.<br />
+  "Elysium: Exploring Object-level Perception in Videos via MLLM." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2408.02049)] 
+  [[code](https://github.com/Hon-Wong/Elysium)]
+  
 - **HVTrack:** Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, Jiaqi Yang.<br />
   "3D Single-object Tracking in Point Clouds with High Temporal Variation." ECCV (2024).
   [[paper](https://arxiv.org/abs/2408.02049)] 
@@ -295,6 +300,16 @@
   [[paper](https://ieeexplore.ieee.org/document/10616144)] 
   [[code]( )]
 
+- **MambaVT:** Simiao Lai, Chang Liu, Jiawen Zhu, Ben Kang, Yang Liu, Dong Wang, Huchuan Lu.<br />
+  "MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.07889)] 
+  [[code]( )]
+
+- **KSTrack:** Yuhang He, Zhiheng Ma, Xing Wei, Yihong Gong.<br />
+  "Knowledge Synergy Learning for Multi-Modal Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10388341)] 
+  [[code]( )]
+  
 - **CAFormer:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Yin Lin, Bing Yin, Cong Liu.<br />
   "Cross-modulated Attention Transformer for RGBT Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.02222)] 
