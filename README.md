@@ -300,6 +300,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10616144)] 
   [[code]( )]
 
+- **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.08827)] 
+  [[code]( )]
+
 - **MambaVT:** Simiao Lai, Chang Liu, Jiawen Zhu, Ben Kang, Yang Liu, Dong Wang, Huchuan Lu.<br />
   "MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.07889)] 
