@@ -280,6 +280,25 @@
   [[paper](https://www.ijcai.org/proceedings/2024/183)] 
   [[code]( )]
 
+
+### ACM MM 2024
+
+- **MambaTrack:** Changcheng Xiao, Qiong Cao, Zhigang Luo, Long Lan.<br />
+  "MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model." ACM MM (2024).
+  [[paper](https://arxiv.org/abs/2408.09178)] 
+  [[code]( )]
+
+- **CKD:** Andong Lu, Jiacong Zhao, Chenglong Li, Yun Xiao, Bin Luo.<br />
+  "Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation." ACM MM (2024).
+  [[paper]( )] 
+  [[code]( )]
+
+- **DenseTrack:** Yi Lei, Huilin Zhu, Jingling Yuan, Guangli Xiang, Xian Zhong, Shengfeng He.<br />
+  "DenseTrack: Drone-based Crowd Tracking via Density-aware Motion-appearance Synergy." ACM MM (2024).
+  [[paper](https://arxiv.org/abs/2407.17272)] 
+  [[code]( )]
+
+  
 ### ICASSP 2024
 
 - **VADT:** Guangtong Zhang, Qihua Liang, Zhiyi Mo, Ning Li, Bineng Zhong.<br />
@@ -338,16 +357,6 @@
 - **PDAT:** Qiao Li, Kanlun Tan, Qiao Liu, Di Yuan, Xin Li, Yunpeng Liu.<br />
   "Progressive Domain Adaptation for Thermal Infrared Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.19430)] 
-  [[code]( )]
-
-- **CKD:** Andong Lu, Jiacong Zhao, Chenglong Li, Yun Xiao, Bin Luo.<br />
-  "Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation." ACM MM (2024).
-  [[paper]( )] 
-  [[code]( )]
-
-- **DenseTrack:** Yi Lei, Huilin Zhu, Jingling Yuan, Guangli Xiang, Xian Zhong, Shengfeng He.<br />
-  "DenseTrack: Drone-based Crowd Tracking via Density-aware Motion-appearance Synergy." ACM MM (2024).
-  [[paper](https://arxiv.org/abs/2407.17272)] 
   [[code]( )]
   
 - **ETIT:** Weisheng Li, Shunping Chen, Yuhao Fang, Yidong Peng.<br />
