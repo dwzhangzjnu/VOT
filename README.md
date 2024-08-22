@@ -319,6 +319,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10616144)] 
   [[code]( )]
 
+- **LLOT:** Pengzhi Zhong, Xiaoyu Guo, Defeng Huang, Xiaojun Peng, Yian Li, Qijun Zhao, Shuiwang Li.<br />
+  "Low-Light Object Tracking: A Benchmark." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.11463)] 
+  [[code](https://github.com/OpenCodeGithub/H-DCPT)]
+
 - **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
   "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.08827)] 
