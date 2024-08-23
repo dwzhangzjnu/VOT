@@ -324,6 +324,11 @@
   [[paper](https://arxiv.org/abs/2408.11463)] 
   [[code](https://github.com/OpenCodeGithub/H-DCPT)]
 
+- **BihoT:** Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du.<br />
+  "BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.12232)] 
+  [[code]( )]
+
 - **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
   "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.08827)] 
