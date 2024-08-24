@@ -334,6 +334,11 @@
   [[paper](https://arxiv.org/abs/2408.08827)] 
   [[code]( )]
 
+- **MambaEVT:** Xiao Wang, Chao wang, Shiao Wang, Xixi Wang, Zhicheng Zhao, Lin Zhu, Bo Jiang.<br />
+  "MambaEVT: Event Stream based Visual Object Tracking using State Space Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.10487)] 
+  [[code](https://github.com/Event-AHU/MambaEVT)]
+
 - **MambaVT:** Simiao Lai, Chang Liu, Jiawen Zhu, Ben Kang, Yang Liu, Dong Wang, Huchuan Lu.<br />
   "MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.07889)] 
