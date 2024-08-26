@@ -1529,11 +1529,6 @@
   [[paper](https://arxiv.org/abs/2207.01768)] 
   [[code](https://github.com/visionml/pytracking)]
   
-- **RGBDT:** Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao.<br />
-  "RGBD Object Tracking: An In-depth Review." ArXiv (2022).
-  [[paper](https://arxiv.org/abs/2203.14134)] 
-  [[code](https://github.com/memoryunreal/RGBD-tracking-review)]
-  
 - **SkeleVision:** Nilaksh Das, Sheng-Yun Peng, Duen Horng Chau.<br />
   "SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2204.00734)] 
