@@ -319,6 +319,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10616144)] 
   [[code]( )]
 
+- **COTD:** Xiaoyu Guo, Pengzhi Zhong, Hao Zhang, Ling Huang, Defeng Huang, Shuiwang Li.<br />
+  "Camouflaged Object Tracking: A Benchmark." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.13877)] 
+  [[code](https://github.com/openat25/HIPTrack-MLS)]
+
 - **LLOT:** Pengzhi Zhong, Xiaoyu Guo, Defeng Huang, Xiaojun Peng, Yian Li, Qijun Zhao, Shuiwang Li.<br />
   "Low-Light Object Tracking: A Benchmark." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.11463)] 
