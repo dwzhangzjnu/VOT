@@ -384,6 +384,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10630644)] 
   [[code]( )]
 
+- **MATrack:** Guotian Zeng, Bi Zeng, Qingmao Wei, Huiting Hu, Hong Zhang.<br />
+  "Visual Object Tracking with Mutual Affinity Aligned to Human Intuition." TMM (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10539277)] 
+  [[code]( )]
+
 - **OTETrack:** Li Shen, Xuyi Fan, Hongguang Li.<br />
   "Overlapped Trajectory-Enhanced Visual Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10630872)] 
