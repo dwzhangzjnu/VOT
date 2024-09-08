@@ -349,6 +349,26 @@
   [[paper](https://arxiv.org/abs/2408.07889)] 
   [[code]( )]
 
+- **UniRTL:** Lian Zhang, Lingxue Wang, Yuzhen Wu, Mingkun Chen, Dezhi Zheng, Liangcai Cao, Bangze Zeng, Yi Cai.<br />
+  "UniRTL: A Universal RGBT and Low-light Benchmark for Object Tracking." PR (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324007350)] 
+  [[code](https://github.com/Liamzh0331/Unismot)]
+
+- **CVT-Track:** Jianan Li, Xiaoying Yuan, Haolin Qin, Ying Wang, Xincong Liu, Tingfa Xu.<br />
+  "CVT-Track: Concentrating on Valid Tokens for One-Stream Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10659749)] 
+  [[code]( )]
+
+- **LDLC:** Jun Yu, Zhongpeng Cai, Yihao Li, Lei Wang, Fang Gao, Ye Yu.<br />
+  "Language-guided Dual-modal Local Correspondence for Single Object Tracking." TMM (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10659157)] 
+  [[code]( )]
+  
+- **MGTrack:** Jiabing Xiong, Qiang Ling.<br />
+  "Mask-Guided Siamese Tracking with a Frequency-Spatial Hybrid Network." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10662977)] 
+  [[code](https://github.com/jiabingxiing/MGTrack)]
+  
 - **KSTrack:** Yuhang He, Zhiheng Ma, Xing Wei, Yihong Gong.<br />
   "Knowledge Synergy Learning for Multi-Modal Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10388341)] 
