@@ -319,6 +319,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10616144)] 
   [[code]( )]
 
+- **UAVReview:** Nianyi Sun, Jin Zhao, Qing Shi, Chang Liu, Peng Liu.<br />
+  "Moving Target Tracking by Unmanned Aerial Vehicle: A Survey and Taxonomy." TII (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10445025)] 
+  [[code]( )]
+
 - **COTD:** Xiaoyu Guo, Pengzhi Zhong, Hao Zhang, Ling Huang, Defeng Huang, Shuiwang Li.<br />
   "Camouflaged Object Tracking: A Benchmark." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.13877)] 
