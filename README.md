@@ -364,6 +364,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10659749)] 
   [[code]( )]
 
+- **AMATrack:** Ping Ye, Gang Xiao, Jun Liu.<br />
+  "AMATrack: A Unified Network With Asymmetric Multimodal Mixed Attention for RGBD Tracking." TIM (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10623547)] 
+  [[code]( )]
+
 - **LDLC:** Jun Yu, Zhongpeng Cai, Yihao Li, Lei Wang, Fang Gao, Ye Yu.<br />
   "Language-guided Dual-modal Local Correspondence for Single Object Tracking." TMM (2024).
   [[paper](https://ieeexplore.ieee.org/document/10659157)] 
