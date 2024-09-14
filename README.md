@@ -439,6 +439,11 @@
   [[paper](https://dl.acm.org/doi/abs/10.1145/3678176)] 
   [[code](https://github.com/Zhangyong-Tang/MELT)]
 
+- **MCTrack:** Shilei Wang, Zhenhua Wang, Qianqian Sun, Gong Cheng, Jifeng Ning.<br />
+  "Modelling of Multiple Spatial-Temporal Relations for Robust Visual Object Tracking." TIP (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10670064)] 
+  [[code]( )]
+
 - **MMSTC:** Tianlu Zhang, Qiang Jiao, Qiang Zhang, Jungong Han.<br />
   "Exploring Multi-modal Spatial-Temporal Contexts for High-performance RGB-T Tracking." TIP (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10605602)] 
