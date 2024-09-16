@@ -329,6 +329,11 @@
   [[paper](https://arxiv.org/abs/2408.13877)] 
   [[code](https://github.com/openat25/HIPTrack-MLS)]
 
+- **VLT:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
+  "Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.08887)] 
+  [[code]( )]
+
 - **LLOT:** Pengzhi Zhong, Xiaoyu Guo, Defeng Huang, Xiaojun Peng, Yian Li, Qijun Zhao, Shuiwang Li.<br />
   "Low-Light Object Tracking: A Benchmark." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.11463)] 
