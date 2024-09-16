@@ -359,6 +359,11 @@
   [[paper](https://arxiv.org/abs/2408.07889)] 
   [[code]( )]
 
+- **TrackingMamba:** Qingwang Wang, Liyao Zhou, Pengcheng Jin, Xin Qu, Hangwei Zhong, Haochen Song, Tao Shen.<br />
+  "TrackingMamba: Visual State Space Model for Object Tracking." JSTAR (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10678881)] 
+  [[code](https://github.com/KustTeamWQW/TrackingMamba)]
+  
 - **UniRTL:** Lian Zhang, Lingxue Wang, Yuzhen Wu, Mingkun Chen, Dezhi Zheng, Liangcai Cao, Bangze Zeng, Yi Cai.<br />
   "UniRTL: A Universal RGBT and Low-light Benchmark for Object Tracking." PR (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324007350)] 
@@ -707,17 +712,17 @@
 - **MAPNet:** Xinglong Sun, Haijiang Sun, Shan Jiang, Jiacheng Wang, Xilai Wei, Zhonghe Hu.<br />
   "Multi-attention Associate Prediction Network for Visual Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.16395)] 
-  [[code](https://github.com/)]
+  [[code]( )]
   
 - **ACTrack:** Yushan Han, Kaer Huang.<br />
   "ACTrack: Adding Spatio-Temporal Condition for Visual Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.07914)] 
-  [[code](https://github.com/)]
+  [[code]( )]
   
 - **MT-Track :** Xiaoying Yuan, Tingfa Xu, Xincong Liu, Ying Wang, Haolin Qin, Yuqiang Fang, Jianan Li.<br />
-  "Multi-step Temporal Modeling for UAV Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2403.04363)] 
-  [[code](https://github.com/)]
+  "Multi-step Temporal Modeling for UAV Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10464358/)] 
+  [[code]( )]
 
 - **CUTrack:** Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, Fei Xie.<br />
   "Towards Category Unification of 3D Single Object Tracking on Point Clouds." ICLR (2024).
