@@ -314,11 +314,16 @@
   
 ### ArXiv 2024
 
-- **RGBTReview:** Haiping Zhang, Di Yuan, Xiu Shu, Zhihui Li, Qiao Liu, Xiaojun Chang, Zhenyu He, Guming Shi.<br />
-  "A Comprehensive Review of RGBT Tracking." TIM (2024).
-  [[paper](https://ieeexplore.ieee.org/document/10616144)] 
+- **TIRReview:** Di Yuan, Haiping Zhang, Xiu Shu, Qiao Liu, Xiaojun Chang, Zhenyu He, Guming Shi.<br />
+  "Thermal Infrared Target Tracking: A Comprehensive Review." TIM (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10339340)] 
   [[code]( )]
 
+- **RGBTReview:** Haiping Zhang, Di Yuan, Xiu Shu, Zhihui Li, Qiao Liu, Xiaojun Chang, Zhenyu He, Guming Shi.<br />
+  "." TIM (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10616144)] 
+  [[code]( )]
+  
 - **UAVReview:** Nianyi Sun, Jin Zhao, Qing Shi, Chang Liu, Peng Liu.<br />
   "Moving Target Tracking by Unmanned Aerial Vehicle: A Survey and Taxonomy." TII (2024).
   [[paper](https://ieeexplore.ieee.org/document/10445025)] 
