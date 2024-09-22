@@ -398,6 +398,11 @@
   "Knowledge Synergy Learning for Multi-Modal Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10388341)] 
   [[code]( )]
+
+- **PHTrack:** Yuzeng Chen, Yuqi Tang, Xin Su, Jie Li, Yi Xiao, Jiang He, Qiangqiang Yuan.<br />
+  "PHTrack: Prompting for Hyperspectral Video Tracking." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10680554)] 
+  [[code](https://github.com/YZCU/PHTrack)]
   
 - **CAFormer:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Yin Lin, Bing Yin, Cong Liu.<br />
   "Cross-modulated Attention Transformer for RGBT Tracking." ArXiv (2024).
