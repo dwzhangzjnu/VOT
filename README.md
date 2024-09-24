@@ -344,6 +344,11 @@
   [[paper](https://arxiv.org/abs/2408.11463)] 
   [[code](https://github.com/OpenCodeGithub/H-DCPT)]
 
+- **TrackNetV4:** Arjun Raj, Lei Wang, Tom Gedeon.<br />
+  "TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.14543v1)] 
+  [[code]( )]
+
 - **BihoT:** Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du.<br />
   "BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.12232)] 
