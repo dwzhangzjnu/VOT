@@ -334,6 +334,11 @@
   [[paper](https://arxiv.org/abs/2408.13877)] 
   [[code](https://github.com/openat25/HIPTrack-MLS)]
 
+- **UW-COT:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.16902)] 
+  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+
 - **VLT:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
   "Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.08887)] 
@@ -348,6 +353,16 @@
   "TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.14543v1)] 
   [[code]( )]
+
+- **PRL-Track:** Changhong Fu, Xiang Lei, Haobo Zuo, Liangliang Yao, Guangze Zheng, Jia Pan.<br />
+  "Progressive Representation Learning for Real-Time UAV Tracking." IROS (2024).
+  [[paper](https://arxiv.org/abs/2409.16652)] 
+  [[code](https://github.com/vision4robotics/PRL-Track)]
+
+- **LDEnhancer:** Liangliang Yao, Changhong Fu, Yiheng Wang, Haobo Zuo, Kunhan Lu.<br />
+  "Enhancing Nighttime UAV Tracking with Light Distribution Suppression." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.16631)] 
+  [[code](https://github.com/vision4robotics/LDEnhancer)]
 
 - **BihoT:** Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du.<br />
   "BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking." ArXiv (2024).
