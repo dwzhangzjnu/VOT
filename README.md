@@ -320,7 +320,7 @@
   [[code]( )]
 
 - **RGBTReview:** Haiping Zhang, Di Yuan, Xiu Shu, Zhihui Li, Qiao Liu, Xiaojun Chang, Zhenyu He, Guming Shi.<br />
-  "." TIM (2024).
+  "A Comprehensive Review of RGBT Tracking." TIM (2024).
   [[paper](https://ieeexplore.ieee.org/document/10616144)] 
   [[code]( )]
   
@@ -354,6 +354,16 @@
   [[paper](https://arxiv.org/abs/2409.14543v1)] 
   [[code]( )]
 
+- **CompressTracker:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Shilin Yan, Pinxue Guo, Kaixun Jiang, Zhaoyu Chen, Shuyong Gao, Wei Zhang, Hong Lu, Wenqiang Zhang.<br />
+  "General Compression Framework for Efficient Transformer Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.17564)] 
+  [[code](https://github.com/LingyiHongfd/CompressTracker)]
+  
+- **BlinkTrack:** Yichen Shen, Yijin Li, Shuo Chen, Guanglin Li, Zhaoyang Huang, Hujun Bao, Zhaopeng Cui, Guofeng Zhang.<br />
+  "BlinkTrack: Feature Tracking over 100 FPS via Events and Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.17981)] 
+  [[code]( )]
+  
 - **PRL-Track:** Changhong Fu, Xiang Lei, Haobo Zuo, Liangliang Yao, Guangze Zheng, Jia Pan.<br />
   "Progressive Representation Learning for Real-Time UAV Tracking." IROS (2024).
   [[paper](https://arxiv.org/abs/2409.16652)] 
@@ -372,6 +382,11 @@
 - **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
   "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.08827)] 
+  [[code]( )]
+
+- **DS-MESA:** Pengcheng Shao, Tianyang Xu, Xuefeng Zhu, Xiaojun Wu, Josef Kittler.<br />
+  "Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.17560)] 
   [[code]( )]
 
 - **MambaEVT:** Xiao Wang, Chao wang, Shiao Wang, Xixi Wang, Zhicheng Zhao, Lin Zhu, Bo Jiang.<br />
