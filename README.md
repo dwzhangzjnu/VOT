@@ -367,7 +367,7 @@
 - **PiVOT:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin.<br />
   "Improving Visual Object Tracking through Visual Prompting." TMM (2024).
   [[paper](https://arxiv.org/abs/2409.18901)] 
-  [[code]( )]
+  [[code](https://github.com/chenshihfang/GOT)]
   
 - **PRL-Track:** Changhong Fu, Xiang Lei, Haobo Zuo, Liangliang Yao, Guangze Zheng, Jia Pan.<br />
   "Progressive Representation Learning for Real-Time UAV Tracking." IROS (2024).
