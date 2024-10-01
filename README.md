@@ -374,12 +374,12 @@
   [[paper](https://arxiv.org/abs/2409.18901)] 
   [[code](https://github.com/chenshihfang/GOT)]
 
-  - **DANet:** Yingkai Fu, Meng Li, Wenxi Liu, Yuanchen Wang, Jiqing Zhang, Baocai Yin, Xiaopeng Wei, Xin Yang.<br />
+- **DANet:** Yingkai Fu, Meng Li, Wenxi Liu, Yuanchen Wang, Jiqing Zhang, Baocai Yin, Xiaopeng Wei, Xin Yang.<br />
   "Distractor-Aware Event-Based Tracking." TIP (2024).
   [[paper](https://ieeexplore.ieee.org/document/10299598)] 
   [[code]( )]
 
-  - **SiamGAT:** Yanyan Shao, Dongyan Guo, Ying Cui, Zhenhua Wang, Liyan Zhang, Jianhua Zhang<br />
+- **SiamGAT:** Yanyan Shao, Dongyan Guo, Ying Cui, Zhenhua Wang, Liyan Zhang, Jianhua Zhang<br />
   "Graph Attention Network for Context-Aware Visual Tracking." TNNLS (2024).
   [[paper](https://ieeexplore.ieee.org/document/10693651)] 
   [[code](https://git.io/SiamGAT)]
