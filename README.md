@@ -210,6 +210,11 @@
   [[paper](https://arxiv.org/abs/2403.20225)] 
   [[code](https://sites.google.com/view/mtmmc)]
 
+- **ResampleTrack:** Xuhong Ren, Jianlang Chen, Yue Cao, Wanli Xue, Qing Guo, Lei Ma, Jianjun Zhao, Shenyong Chen.<br />
+  "ResampleTrack: Online Resampling for Adversarially Robust Visual Tracking." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024W/AdvML/html/Ren_ResampleTrack_Online_Resampling_for_Adversarially_Robust_Visual_Tracking_CVPRW_2024_paper.html)] 
+  [[code]( )]
+  
 
 ### WACV 2024
 
@@ -368,7 +373,17 @@
   "Improving Visual Object Tracking through Visual Prompting." TMM (2024).
   [[paper](https://arxiv.org/abs/2409.18901)] 
   [[code](https://github.com/chenshihfang/GOT)]
-  
+
+  - **DANet:** Yingkai Fu, Meng Li, Wenxi Liu, Yuanchen Wang, Jiqing Zhang, Baocai Yin, Xiaopeng Wei, Xin Yang.<br />
+  "Distractor-Aware Event-Based Tracking." TIP (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10299598)] 
+  [[code]( )]
+
+  - **SiamGAT:** Yanyan Shao, Dongyan Guo, Ying Cui, Zhenhua Wang, Liyan Zhang, Jianhua Zhang<br />
+  "Graph Attention Network for Context-Aware Visual Tracking." TNNLS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10693651)] 
+  [[code](https://git.io/SiamGAT)]
+
 - **PRL-Track:** Changhong Fu, Xiang Lei, Haobo Zuo, Liangliang Yao, Guangze Zheng, Jia Pan.<br />
   "Progressive Representation Learning for Real-Time UAV Tracking." IROS (2024).
   [[paper](https://arxiv.org/abs/2409.16652)] 
