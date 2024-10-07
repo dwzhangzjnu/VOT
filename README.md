@@ -334,6 +334,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10445025)] 
   [[code]( )]
 
+- **DTVLT:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
+  "DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.02492)] 
+  [[code](http://videocube.aitestunion.com/)]
+
 - **COTD:** Xiaoyu Guo, Pengzhi Zhong, Hao Zhang, Ling Huang, Defeng Huang, Shuiwang Li.<br />
   "Camouflaged Object Tracking: A Benchmark." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.13877)] 
