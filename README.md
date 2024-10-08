@@ -303,6 +303,11 @@
   [[paper](https://arxiv.org/abs/2407.17272)] 
   [[code]( )]
 
+- **X-Prompt:** Pinxue Guo, Wanyun Li, Hao Huang, Lingyi Hong, Xinyu Zhou, Zhaoyu Chen, Jinglun Li, Kaixun Jiang, Wei Zhang, Wenqiang Zhang.<br />
+  "X-Prompt: Multi-modal Visual Prompt for Video Object Segmentation." ACM MM (2024).
+  [[paper](https://arxiv.org/abs/2409.19342)] 
+  [[code](https://github.com/PinxueGuo/X-Prompt.git)]
+  
   
 ### ICASSP 2024
 
@@ -389,11 +394,16 @@
   [[paper](https://ieeexplore.ieee.org/document/10693651)] 
   [[code](https://git.io/SiamGAT)]
 
+- **TDA-Track:** Changhong Fu, Yiheng Wang, Liangliang Yao, Guangze Zheng, Haobo Zuo, Jia Pan.<br />
+  "Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking." IROS (2024).
+  [[paper](https://arxiv.org/abs/2409.18533)] 
+  [[code](https://github.com/vision4robotics/TDA-Track)]
+
 - **PRL-Track:** Changhong Fu, Xiang Lei, Haobo Zuo, Liangliang Yao, Guangze Zheng, Jia Pan.<br />
   "Progressive Representation Learning for Real-Time UAV Tracking." IROS (2024).
   [[paper](https://arxiv.org/abs/2409.16652)] 
   [[code](https://github.com/vision4robotics/PRL-Track)]
-
+  
 - **LDEnhancer:** Liangliang Yao, Changhong Fu, Yiheng Wang, Haobo Zuo, Kunhan Lu.<br />
   "Enhancing Nighttime UAV Tracking with Light Distribution Suppression." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.16631)] 
