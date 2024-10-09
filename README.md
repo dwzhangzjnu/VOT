@@ -70,6 +70,24 @@
   [[code](https://github.com/baaivision/Painter)]
 
 
+### NeurIPS 2024
+
+- **WebUOT-1M:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2405.19818)] 
+  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+
+- **MemVLT:** Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaotang Chen, Kaiqi Huang.<br />
+  "MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts." NeurIPS (2024).
+  [[paper]( )] 
+  [[code]( )]
+
+- **CPDTrack:** Dailing Zhang, Shiyu Hu, Xiaokun Feng, Xuchen Li, Meiqi Wu, Kaiqi Huang.<br />
+  "Beyond Accuracy: Tracking more like Human via Visual Search." NeurIPS (2024).
+  [[paper]( )] 
+  [[code]( )]
+
+
 ### ECCV 2024
 
 - **Diff-Tracker:** Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, Jun Liu.<br />
@@ -205,6 +223,11 @@
   [[paper](https://arxiv.org/abs/2403.19975)] 
   [[code](https://github.com/twotwo2/QueryNLT)]
 
+- **DTLLM-VLT:** Xuchen Li, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang.<br />
+  "DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM." CVPRW (2024).
+  [[paper](https://arxiv.org/abs/2405.12139)] 
+  [[code]( )]
+  
 - **MTMMC:** Sanghyun Woo, Kwanyong Park, Inkyu Shin, Myungchul Kim, In So Kweon.<br />
   "MTMMC: A Large-Scale Real-World Multi-Modal Camera Tracking Benchmark." CVPR (2024).
   [[paper](https://arxiv.org/abs/2403.20225)] 
@@ -678,11 +701,6 @@
   "RGBT tracking: A comprehensive review." Information Fusion (2024).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002707)] 
   [[code]( )]
-
-- **WebUOT-1M:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
-  "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark." arxiv (2024).
-  [[paper](https://arxiv.org/abs/2405.19818)] 
-  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
 - **MMOT:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "Awesome Multi-modal Object Tracking." arxiv (2024).
