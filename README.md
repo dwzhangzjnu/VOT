@@ -552,6 +552,11 @@
   [[paper](https://dl.acm.org/doi/abs/10.1145/3678176)] 
   [[code](https://github.com/Zhangyong-Tang/MELT)]
 
+- **S2OTFormer:** Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao, Abdulmotaleb El Saddik.<br />
+  "Motion-aware Self-supervised RGBT Tracking with Multi-modality Hierarchical Transformers." TOMM (2024).
+  [[paper](https://dl.acm.org/doi/10.1145/3698399)] 
+  [[code](https://github.com/LiShenglana/S2OTFormer)]
+
 - **MCTrack:** Shilei Wang, Zhenhua Wang, Qianqian Sun, Gong Cheng, Jifeng Ning.<br />
   "Modelling of Multiple Spatial-Temporal Relations for Robust Visual Object Tracking." TIP (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10670064)] 
