@@ -527,6 +527,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10630644)] 
   [[code]( )]
 
+- **STNet:** Yidi Li, Hong Liu, Bing Yang.<br />
+  "STNet: Deep Audio-Visual Fusion Network for Robust Speaker Tracking." TMM (2024).
+  [[paper](https://arxiv.org/abs/2410.05964)] 
+  [[code](https://github.com/liyidi/STNet)]
+
 - **MATrack:** Guotian Zeng, Bi Zeng, Qingmao Wei, Huiting Hu, Hong Zhang.<br />
   "Visual Object Tracking with Mutual Affinity Aligned to Human Intuition." TMM (2024).
   [[paper](https://ieeexplore.ieee.org/document/10539277)] 
