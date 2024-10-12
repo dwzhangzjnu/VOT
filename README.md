@@ -347,6 +347,11 @@
   
 ### ArXiv 2024
 
+- **TBSI:** Bo Li, Fengguang Peng, Tianrui Hui, Xiaoming Wei, Xiaolin Wei, Lijun Zhang, Hang Shi, Si Liu.<br />
+  "RGB-T Tracking with Template-Bridged Search Interaction and Target-Preserved Template Updating." TPAMI (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10706882)] 
+  [[code](https://github.com/RyanHTR/TBSI)]
+
 - **TIRReview:** Di Yuan, Haiping Zhang, Xiu Shu, Qiao Liu, Xiaojun Chang, Zhenyu He, Guming Shi.<br />
   "Thermal Infrared Target Tracking: A Comprehensive Review." TIM (2024).
   [[paper](https://ieeexplore.ieee.org/document/10339340)] 
