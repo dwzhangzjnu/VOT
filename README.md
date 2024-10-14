@@ -395,7 +395,7 @@
 - **VOVTrack:** Zekun Qian, Ruize Han, Junhui Hou, Linqi Song, Wei Feng.<br />
   "VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.08529)] 
-  [[code]( ]
+  [[code]( )]
 
 - **TrackNetV4:** Arjun Raj, Lei Wang, Tom Gedeon.<br />
   "TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps." ArXiv (2024).
