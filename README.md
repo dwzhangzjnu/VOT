@@ -77,6 +77,11 @@
   [[paper](https://arxiv.org/abs/2405.19818)] 
   [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
+- **DINTR:** Pha Nguyen, Ngan Le, Jackson Cothren, Alper Yilmaz, Khoa Luu.<br />
+  "DINTR: Tracking via Diffusion-based Interpolation." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2410.10053)] 
+  [[code]( )]
+
 - **MemVLT:** Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaotang Chen, Kaiqi Huang.<br />
   "MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts." NeurIPS (2024).
   [[paper]( )] 
