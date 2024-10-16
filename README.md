@@ -82,6 +82,11 @@
   [[paper](https://arxiv.org/abs/2410.10053)] 
   [[code]( )]
 
+- **UAV3D:** Hui Ye, Rajshekhar Sunderraman, Shihao Ji.<br />
+  "UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial  Vehicles." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2410.11125)] 
+  [[code](https://huiyegit.github.io/UAV3D_Benchmark/)]
+  
 - **MemVLT:** Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaotang Chen, Kaiqi Huang.<br />
   "MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts." NeurIPS (2024).
   [[paper]( )] 
@@ -323,8 +328,8 @@
 
 - **CKD:** Andong Lu, Jiacong Zhao, Chenglong Li, Yun Xiao, Bin Luo.<br />
   "Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation." ACM MM (2024).
-  [[paper]( )] 
-  [[code]( )]
+  [[paper](https://arxiv.org/abs/2410.11586)] 
+  [[code](https://github.com/Multi-Modality-Tracking/CKD)]
 
 - **DenseTrack:** Yi Lei, Huilin Zhu, Jingling Yuan, Guangli Xiang, Xian Zhong, Shengfeng He.<br />
   "DenseTrack: Drone-based Crowd Tracking via Density-aware Motion-appearance Synergy." ACM MM (2024).
