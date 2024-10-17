@@ -447,6 +447,11 @@
   [[paper](https://arxiv.org/abs/2409.16652)] 
   [[code](https://github.com/vision4robotics/PRL-Track)]
   
+- **DaDiff:** Haobo Zuo, Changhong Fu, Guangze Zheng, Liangliang Yao, Kunhan Lu, Jia Pan.<br />
+  "DaDiff: Domain-aware Diffusion Model for Nighttime UAV Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.12270)] 
+  [[code](https://github.com/vision4robotics/DaDiff)]
+
 - **LDEnhancer:** Liangliang Yao, Changhong Fu, Yiheng Wang, Haobo Zuo, Kunhan Lu.<br />
   "Enhancing Nighttime UAV Tracking with Light Distribution Suppression." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.16631)] 
