@@ -547,6 +547,11 @@
   [[paper](https://arxiv.org/abs/2407.19430)] 
   [[code]( )]
   
+- **LMINet:** Jiatian Mei, Juxiang Zhou, Jun Wang, Jia Hao, Dongming Zhou, Jinde Cao.<br />
+  "Learning Multi-frequency Integration Network for RGBT Tracking." JSEN (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10458005)] 
+  [[code](https://github.com/mjt1312/Lminet)]
+
 - **ETIT:** Weisheng Li, Shunping Chen, Yuhao Fang, Yidong Peng.<br />
   "Efficient Thermal Infrared Tracking via Multi-enhancement and Spatial Shift Pyramid." JSEN (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10630644)] 
