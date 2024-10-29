@@ -354,6 +354,19 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10447555)] 
   [[code]( )]
 
+
+### ACCV 2024
+
+- **Depth-Attention:** Yu Liu, Arif Mahmood, Muhammad Haris Khan.<br />
+  "Depth Attention for Robust RGB Tracking." ACCV (2024).
+  [[paper](https://arxiv.org/abs/2410.20395)] 
+  [[code](https://github.com/LiuYuML/Depth-Attention)]
+
+- **NT-VOT211:** Yu Liu, Arif Mahmood, Muhammad Haris Khan.<br />
+  "NT-VOT211: A Large-Scale Benchmark for Night-time Visual Object Tracking." ACCV (2024).
+  [[paper](https://arxiv.org/abs/2410.20421)] 
+  [[code](https://github.com/LiuYuML/NV-VOT211)]
+
   
 ### ArXiv 2024
 
