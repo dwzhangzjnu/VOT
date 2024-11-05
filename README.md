@@ -72,6 +72,11 @@
 
 ### NeurIPS 2024
 
+- **ChatTracker:** Yiming Sun, Fan Yu, Shaoxiang Chen, Yu Zhang, Junwei Huang, Chenhui Li, Yang Li, Changbo Wang.<br />
+  "ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2411.01756)] 
+  [[code]( )]
+
 - **WebUOT-1M:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2405.19818)] 
