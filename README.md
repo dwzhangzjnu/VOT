@@ -515,6 +515,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10659749)] 
   [[code]( )]
 
+- **MFDSTrack:** Yamin Han, Mingyu Cai, Jie Wu, Zhixuan Bai, Tao Zhuo, Hongming Zhang.<br />
+  "Visual Object Tracking with Multi-Frame Distractor Suppression." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10741210)] 
+  [[code]( )]
+
 - **AMATrack:** Ping Ye, Gang Xiao, Jun Liu.<br />
   "AMATrack: A Unified Network With Asymmetric Multimodal Mixed Attention for RGBD Tracking." TIM (2024).
   [[paper](https://ieeexplore.ieee.org/document/10623547)] 
