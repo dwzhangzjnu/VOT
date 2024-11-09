@@ -318,6 +318,11 @@
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28115)] 
   [[code]( )]
 
+- **USTrack:** Jianqiang Xia, DianXi Shi, Ke Song, Linna Song, XiaoLei Wang, Songchang Jin, Li Zhou, Yu Cheng, Lei Jin, Zheng Zhu, Jianan Li, Gang Wang, Junliang Xing, Jian Zhao.<br />
+  "Unified Single-Stage Transformer Network for Efficient RGB-T Tracking." IJCAI (2024).
+  [[paper](https://arxiv.org/abs/2308.13764)] 
+  [[code]( )]
+
 - **DMTrack:** Guangtong Zhang, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shuxiang Song.<br />
   "Diffusion Mask-Driven Visual-language Tracking." IJCAI (2024).
   [[paper](https://www.ijcai.org/proceedings/2024/183)] 
