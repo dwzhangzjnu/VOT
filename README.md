@@ -540,6 +540,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10388341)] 
   [[code]( )]
 
+- **SATDark:** Jialei Pan, Yanfeng Gu, Guoming Gao, Qiang Wang, Shaochuan Wu.<br />
+  "SATDark: A Satellite Video Low-light Tracking Benchmark for Dark and Weak Vehicles." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10741334)] 
+  [[code]( )]
+
 - **PHTrack:** Yuzeng Chen, Yuqi Tang, Xin Su, Jie Li, Yi Xiao, Jiang He, Qiangqiang Yuan.<br />
   "PHTrack: Prompting for Hyperspectral Video Tracking." TGRS (2024).
   [[paper](https://ieeexplore.ieee.org/document/10680554)] 
