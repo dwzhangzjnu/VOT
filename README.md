@@ -850,6 +850,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10474210)] 
   [[code]( )]
 
+- **TSF-SiamMU:** Weijie Yan, Guohua Gu, Yunkai Xu, Xiaofang Kong, Ajun Shao, Qian Chen.<br />
+  "Twofold Structured Features-Based Siamese Network for Infrared Target Tracking." TCSS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10530921)] 
+  [[code]( )]
+
 - **GAA:** Mingyang Lei, Hong Song, Jingfan Fan, Deqiang Xiao, Danni Ai, Ying Gu, Jian Yang.<br />
   "GAA: Ghost Adversarial Attack for Object Tracking." TETCI (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10466775)] 
