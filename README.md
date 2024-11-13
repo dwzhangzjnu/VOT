@@ -139,6 +139,11 @@
   "3D Single-object Tracking in Point Clouds with High Temporal Variation." ECCV (2024).
   [[paper](https://arxiv.org/abs/2408.02049)] 
   [[code]( )]
+
+- **AADN:** Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, Shijie Zhou.<br />
+  "Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2402.17976)] 
+  [[code](https://github.com/)]
   
 
 ### CVPR 2024
@@ -874,11 +879,6 @@
   "GAA: Ghost Adversarial Attack for Object Tracking." TETCI (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10466775)] 
   [[code]( )]
-  
-- **DuaLossDef:** Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, Shijie Zhou.<br />
-  "Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2402.17976)] 
-  [[code](https://github.com/)]
 
 - **Sigma:** Zifu Wan, Yuhao Wang, Silong Yong, Pingping Zhang, Simon Stepputtis, Katia Sycara, Yaqi Xie.<br />
   "Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation." ArXiv (2024).
