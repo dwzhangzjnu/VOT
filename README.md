@@ -82,6 +82,11 @@
   [[paper](https://arxiv.org/abs/2405.19818)] 
   [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
+- **DeTrack:** Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, Wenqiang Zhang.<br />
+  "DeTrack: In-model Latent Denoising Learning for Visual Object Tracking." NeurIPS (2024).
+  [[paper](https://openreview.net/forum?id=ZJjuNF0olj)] 
+  [[code]( )]
+
 - **DINTR:** Pha Nguyen, Ngan Le, Jackson Cothren, Alper Yilmaz, Khoa Luu.<br />
   "DINTR: Tracking via Diffusion-based Interpolation." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2410.10053)] 
@@ -445,6 +450,11 @@
   [[paper](https://arxiv.org/abs/2409.17981)] 
   [[code]( )]
 
+- **EMTrack:** Chang Liu, Ziqi Guan, Simiao Lai, Yang Liu, Huchuan Lu, Dong Wang.<br />
+  "EMTrack: Efficient Multimodal Object Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10747517)] 
+  [[code]( )]
+
 - **PiVOT:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin.<br />
   "Improving Visual Object Tracking through Visual Prompting." TMM (2024).
   [[paper](https://arxiv.org/abs/2409.18901)] 
@@ -600,6 +610,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10539277)] 
   [[code]( )]
 
+- **CGBA:** Xingsen Huang, Deshui Miao, Hongpeng Wang, Yaowei Wang, Xin Li.<br />
+  "Context-Guided Black-Box Attack for Visual Tracking." TMM (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10489919)] 
+  [[code]( )]
+  
 - **OTETrack:** Li Shen, Xuyi Fan, Hongguang Li.<br />
   "Overlapped Trajectory-Enhanced Visual Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10630872)] 
@@ -938,6 +953,11 @@
   [[paper](https://arxiv.org/abs/2305.15896)] 
   [[code](https://github.com/MCG-NJU/MixFormerV2)]
   
+- **BadTrack:** Bin Huang, Jiaqian Yu, Yiwei Chen, Siyang Pan, Qiang Wang, Zhi Wang.<br />
+  "BadTrack: A Poison-Only Backdoor Attack on Visual Object Tracking." NeurIPS (2023).
+  [[paper](https://proceedings.neurips.cc//paper_files/paper/2023/hash/828bb8f42d4ab15322b9315151959c61-Abstract-Conference.html)] 
+  [[code]( )]
+
 - **ZoomTrack:** Yutong Kou, Jin Gao, Bing Li, Gang Wang, Weiming Hu, Yizheng Wang, Liang Li.<br />
   "ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2310.10071)] 
@@ -1156,6 +1176,16 @@
   [[paper](https://arxiv.org/abs/2311.17085)] 
   [[code](https://github.com/xxxx/xxxx)]
 
+- **PlugAtt:** Shaochuan Zhao, Tianyang Xu, Xiao-Jun Wu, Josef Kittler.<br />
+  "Pluggable Attack for Visual Object Tracking." TIFS (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10316262)] 
+  [[code]( )]
+
+- **FFTrack:** Xiantao Hu. Bineng Zhong. Qihua Liang. Shengping Zhang. Ning Li. Xianxian Li.<br />
+  "Transformer Tracking via Frequency Fusion." TCSVT (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10163861)] 
+  [[code]( )]
+
 - **MMTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Guorong Li, Rongrong Ji, Xianxian Li.<br />
   "Towards Unified Token Learning for Vision-Language Tracking." TCSVT (2023).
   [[paper](https://arxiv.org/abs/2308.14103)] 
@@ -1296,9 +1326,19 @@
   [[paper](https://ieeexplore.ieee.org/document/10004981)] 
   [[code]()]
   
+- **Diffusion Init:** Renjie Wang, Tianyang Xu, Shaochuan Zhao, Xiao-Jun Wu, Josef Kittler.<br />
+  "Diffusion Init: Stronger Initialisation of Decision-Based Black-Box Attacks for Visual Object Tracking." ACPR (2023).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-47637-2_28)] 
+  [[code]( )]
+
+- **TAT:** Ziyi Cheng, Baoyuan Wu, Zhenya Zhang, Jianjun Zhao.<br />
+  "TAT: Targeted Backdoor Attacks Against Visual Object Tracking." PR (2023).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323003308?via%3Dihub)] 
+  [[code](https://github.com/MisakaZipi/TAT)]
+
 - **SRNet:** Nana Fan, Qiao Liu, Xin Li, Zikun Zhou, Zhenyu He.<br />
   "Siamese Residual Network for Efficient Visual Tracking." Information Sciences (2023).
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522015778?via%3Dihub)] 
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0020025522015778?via%3Dihub)] 
   [[code]()]
 
 ### IJCAI 2023
@@ -1378,6 +1418,8 @@
   "RSPT: Reconstruct Surroundings and Predict Trajectories for Generalizable Active Object Tracking." AAAI (2023).
   [[paper](https://arxiv.org/abs/2304.03623)] 
   [[code](https://sites.google.com/view/aot-rspt)]
+
+
   
 ### NeurIPS 2022
 
@@ -1745,6 +1787,11 @@
   [[paper](https://arxiv.org/abs/2207.07629)] 
   [[code](https://github.com/xxxxxx)]
   
+- **SiamAttack:** Zhenbang Li, Yaya Shi, Jin Gao, Shaoru Wang, Bing Li, Pengpeng Liang.<br />
+  "A Simple and Strong Baseline for Universal Targeted Attacks on Siamese Visual Tracking" IEEE TCSVT (2022).
+  [[paper](https://ieeexplore.ieee.org/document/9576540)] 
+  [[code](https://github.com/lizhenbang56/SiamAttack)]
+
 - **SRRT:** Jiawen Zhu, Xin Chen, Dong Wang, Wenda Zhao, Huchuan Lu.<br />
   "SRRT: Exploring Search Region Regulation for Visual Object Tracking" IEEE TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10549949)] 
