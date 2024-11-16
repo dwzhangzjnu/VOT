@@ -115,6 +115,11 @@
   [[paper](https://arxiv.org/abs/2407.08394)] 
   [[code]( )]
 
+- **LoRAT:** Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, Haibin Ling.<br />
+  "Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2403.05231)] 
+  [[code](https://github.com/LitingLin/LoRAT)]
+
 - **VideoMamba:** Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao.<br />
   "VideoMamba: State Space Model for Efficient Video Understanding." ECCV (2024).
   [[paper](https://arxiv.org/abs/2403.06977)] 
@@ -838,11 +843,6 @@
 - **BenSMOT:** Yunhao Li, Hao Wang, Xue Ma, Jiali Yao, Shaohua Dong, Heng Fan, Libo Zhang.<br />
   "Beyond MOT: Semantic Multi-Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.05021)] 
-  [[code]()]
-
-- **LoRAT:** Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, Haibin Ling.<br />
-  "Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2403.05231)] 
   [[code]()]
 
 - **VastTrack:** Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang.<br />
