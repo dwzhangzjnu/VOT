@@ -87,6 +87,11 @@
   [[paper](https://openreview.net/forum?id=ZJjuNF0olj)] 
   [[code]( )]
 
+- **CSAM:** Tianlu Zhang, Kurt Debattista, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
+  "Revisiting Motion Information for RGB-Event Tracking with MOT Philosophy." NeurIPS (2024).
+  [[paper](https://openreview.net/forum?id=bzGAELYOyL)] 
+  [[code]( )]
+
 - **DINTR:** Pha Nguyen, Ngan Le, Jackson Cothren, Alper Yilmaz, Khoa Luu.<br />
   "DINTR: Tracking via Diffusion-based Interpolation." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2410.10053)] 
@@ -99,13 +104,13 @@
   
 - **MemVLT:** Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaotang Chen, Kaiqi Huang.<br />
   "MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts." NeurIPS (2024).
-  [[paper]( )] 
-  [[code]( )]
+  [[paper](https://openreview.net/forum?id=ZK1CZXKgG5)] 
+  [[code](https://github.com/XiaokunFeng/MemVLT)]
 
 - **CPDTrack:** Dailing Zhang, Shiyu Hu, Xiaokun Feng, Xuchen Li, Meiqi Wu, Kaiqi Huang.<br />
   "Beyond Accuracy: Tracking more like Human via Visual Search." NeurIPS (2024).
-  [[paper]( )] 
-  [[code]( )]
+  [[paper](https://openreview.net/forum?id=LezAEImfoc)] 
+  [[code](https://github.com/ZhangDailing8/CPDTrack)]
 
 
 ### ECCV 2024
