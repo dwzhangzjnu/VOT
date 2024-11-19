@@ -1067,6 +1067,11 @@
   "OmniTracker: Unifying Object Tracking by Tracking-with-Detection." CVPR (2023).
   [[paper](https://arxiv.org/abs/2303.12079)] 
   [[code](https://github.com/)]
+
+- **SUSHI:** Orcun Cetintas, Guillem Brasó, Laura Leal-Taixé.<br />
+  "Unifying Short and Long-Term Tracking with Graph Hierarchies." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2212.03038)] 
+  [[code](https://github.com/dvl-tum/SUSHI)]
   
 - **DropMAE:** Qiangqiang Wu, Tianyu Yang, Ziquan Liu, Baoyuan Wu, Ying Shan, Antoni B. Chan.<br />
   "DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks." CVPR (2023).
@@ -1703,11 +1708,6 @@
 - **NeighborTrack:** Yu-Hsi Chen, Chien-Yao Wang, Cheng-Yun Yang, Hung-Shuo Chang, Youn-Long Lin, Yung-Yu Chuang, Hong-Yuan Mark Liao.<br />
   "NeighborTrack: Improving Single Object Tracking by Bipartite Matching with Neighbor Tracklets." ArXiv (2022).
   [[paper](https://arxiv.org/pdf/2211.06663.pdf)] 
-  [[code](https   )]
-  
-- **SUSHI:** Orcun Cetintas, Guillem Brasó, Laura Leal-Taixé.<br />
-  "Unifying Short and Long-Term Tracking with Graph Hierarchies." ArXiv (2022).
-  [[paper](https://arxiv.org/abs/2212.03038)] 
   [[code](https   )]
   
 - **MTTSiam:** Ali Sekhavati, Won-Sook Lee.<br />
