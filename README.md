@@ -3192,31 +3192,10 @@
   
   ## ArXiv
 
-* **MLT:** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee.
-  "Deep Meta Learning for Real-Time Visual Tracking based on Target-Specific Feature Space." arXiv (2017). 
-  [[paper](https://arxiv.org/pdf/1712.09153v1.pdf)]
-
-* **PAWSS:** Xiaofei Du, Alessio Dore, Danail Stoyanov. 
-  "Patch-based adaptive weighting with segmentation and scale (PAWSS) for visual tracking." arXiv (2017). 
-  [[paper](https://arxiv.org/pdf/1708.01179v1.pdf)]
-
-* **SFT:** Zhen Cui, You yi Cai, Wen ming Zheng, Jian Yang. 
-  "Spectral Filter Tracking." arXiv (2017). 
-  [[paper](https://arxiv.org/pdf/1707.05553v1.pdf)]
-
-* **Re3:** Daniel Gordon, Ali Farhadi, Dieter Fox. 
-  "Re3 : Real-Time Recurrent Regression Networks for Object Tracking." arXiv (2017). 
-  [[paper](https://arxiv.org/pdf/1705.06368.pdf)]
-
 * **DCFNet:** Qiang Wang, Jin Gao, Junliang Xing, Mengdan Zhang, Weiming Hu. 
   "DCFNet: Discriminant Correlation Filters Network for Visual Tracking." arXiv (2017). 
   [[paper](https://arxiv.org/pdf/1704.04057.pdf)]
   [[code](https://github.com/foolwood/DCFNet#dcfnet-discriminant-correlation-filters-network-for-visual-tracking)]
-
-* **TCNN:** Hyeonseob Nam, Mooyeol Baek, Bohyung Han. 
-  "Modeling and Propagating CNNs in a Tree Structure for Visual Tracking." arXiv (2016). 
-  [[paper](http://arxiv.org/pdf/1608.07242v1.pdf)]
-  [[code](http://www.votchallenge.net/vot2016/download/44_TCNN.zip)]
 
 * **RDT:** Janghoon Choi, Junseok Kwon, Kyoung Mu Lee. 
   "Visual Tracking by Reinforced Decision Making." arXiv (2017). 
@@ -3265,7 +3244,7 @@
 ## Benchmark
 
 * **LaSOT:** Heng Fan, Liting Lin, Fan Yang, Peng Chu, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, Haibin Ling.
-  "Deep Meta Learning for Real-Time Visual Tracking based on Target-Specific Feature Space." arXiv (2018). 
+  "LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking." CVPR (2019). 
   [[paper](https://arxiv.org/pdf/1809.07845.pdf)]
   [[project](https://cis.temple.edu/lasot/)]
 
