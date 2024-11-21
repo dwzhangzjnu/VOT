@@ -421,7 +421,7 @@
   [[code]( )]
 
 - **GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
-  "Click; Single Object Tracking; Video Object Segmentation; Real-time Interaction." ArXiv (2024).
+  "ClickTrack: Towards Real-time Interactive Single Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2411.13183)] 
   [[code]( )]
 
