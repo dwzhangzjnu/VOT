@@ -470,6 +470,11 @@
   [[paper](https://arxiv.org/abs/2409.17981)] 
   [[code]( )]
 
+- **PGM:** Hengyou Li, Xinyan Liu, Guorong Li, Shuhui Wang, Laiyun Qing, Qingming Huang.<br />
+  "Boost Tracking by Natural Language With Prompt-Guided Grounding." TITS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10756281)] 
+  [[code]( )]
+
 - **EMTrack:** Chang Liu, Ziqi Guan, Simiao Lai, Yang Liu, Huchuan Lu, Dong Wang.<br />
   "EMTrack: Efficient Multimodal Object Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10747517)] 
@@ -490,6 +495,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10693651)] 
   [[code](https://git.io/SiamGAT)]
 
+- **SiamTADT:** Luming Li, Chenglizhao Chen, Xu Yu, Shanchen Pang; Hong Qin<br />
+  "SiamTADT: A Task-Aware Drone Tracker for Aerial Autonomous Vehicles." TVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10755105)] 
+  [[code](https://github.com/xl0312/SiamTADT)]
+  
 - **TDA-Track:** Changhong Fu, Yiheng Wang, Liangliang Yao, Guangze Zheng, Haobo Zuo, Jia Pan.<br />
   "Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking." IROS (2024).
   [[paper](https://arxiv.org/abs/2409.18533)] 
@@ -540,6 +550,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10678881)] 
   [[code](https://github.com/KustTeamWQW/TrackingMamba)]
   
+- **FocTrack:** Jian Tao, Sixian Chan, Zhenchao Shi, Cong Bai, Shengyong Chen.<br />
+  "FocTrack: Focus Attention for Visual Tracking." PR (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324008793)] 
+  [[code]( )]
+
 - **UniRTL:** Lian Zhang, Lingxue Wang, Yuzhen Wu, Mingkun Chen, Dezhi Zheng, Liangcai Cao, Bangze Zeng, Yi Cai.<br />
   "UniRTL: A Universal RGBT and Low-light Benchmark for Object Tracking." PR (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324007350)] 
