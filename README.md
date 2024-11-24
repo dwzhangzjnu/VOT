@@ -13,6 +13,11 @@
   [[paper](https://arxiv.org/pdf/1912.00535.pdf)] 
   [[code](https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey)]
    
+- **SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br />
+  "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2411.11922] 
+  [[code](https://github.com/yangchris11/samurai)]
+
 - **DAMv2:** Lihe Yang, Bingyi Kang, Zilong Huang, Zhen Zhao, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao.<br />
   "Depth Anything V2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.09414)] 
