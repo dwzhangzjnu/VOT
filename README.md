@@ -15,7 +15,7 @@
    
 - **SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br />
   "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2411.11922] 
+  [[paper](https://arxiv.org/abs/2411.11922)] 
   [[code](https://github.com/yangchris11/samurai)]
 
 - **DAMv2:** Lihe Yang, Bingyi Kang, Zilong Huang, Zhen Zhao, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao.<br />
