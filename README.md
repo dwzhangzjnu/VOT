@@ -1206,6 +1206,16 @@
   [[paper](https://arxiv.org/abs/2311.17085)] 
   [[code](https://github.com/xxxx/xxxx)]
 
+- **TransMDOT:** Guanlin Chen, Pengfei Zhu, Bing Cao, Xing Wang, Qinghua Hu.<br />
+  "Cross-Drone Transformer Network for Robust Single Object Tracking." TCSVT (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10144283)] 
+  [[code](https://github.com/cgjacklin/transmdot)]
+
+- **MIA-Net:** Zhihao Liu, Yuanyuan Shang, Timing Li, Guanlin Chen, Yu Wang, Qinghua Hu.<br />
+  "Robust Multi-Drone Multi-Target Tracking to Resolve Target Occlusion: A Benchmark." TMM (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10008047)] 
+  [[code](https://github.com/VisDrone/Multi-Drone-Multi-Object-Detection-and-Tracking)]
+
 - **PlugAtt:** Shaochuan Zhao, Tianyang Xu, Xiao-Jun Wu, Josef Kittler.<br />
   "Pluggable Attack for Visual Object Tracking." TIFS (2023).
   [[paper](https://ieeexplore.ieee.org/document/10316262)] 
