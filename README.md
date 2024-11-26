@@ -475,6 +475,16 @@
   [[paper](https://arxiv.org/abs/2409.17981)] 
   [[code]( )]
 
+- **MambaVLT:** Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He.<br />
+  "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2411.15459)] 
+  [[code]( )]
+
+- **VLTVerse:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
+  "How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2411.15600)] 
+  [[code](http://metaverse.aitestunion.com/)]
+
 - **PGM:** Hengyou Li, Xinyan Liu, Guorong Li, Shuhui Wang, Laiyun Qing, Qingming Huang.<br />
   "Boost Tracking by Natural Language With Prompt-Guided Grounding." TITS (2024).
   [[paper](https://ieeexplore.ieee.org/document/10756281)] 
@@ -538,6 +548,11 @@
 - **DS-MESA:** Pengcheng Shao, Tianyang Xu, Xuefeng Zhu, Xiaojun Wu, Josef Kittler.<br />
   "Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.17560)] 
+  [[code]( )]
+
+- **MambaTrack:** Chunhui Zhang, Li Liu, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2411.15761)] 
   [[code]( )]
 
 - **MambaEVT:** Xiao Wang, Chao wang, Shiao Wang, Xixi Wang, Zhicheng Zhao, Lin Zhu, Bo Jiang.<br />
