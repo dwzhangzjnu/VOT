@@ -291,6 +291,11 @@
   [[paper](https://arxiv.org/abs/2212.11920)] 
   [[code](https://github.com/visionml/pytracking)]
 
+- **SiamABC:** Ram Zaveri, Shivang Patel, Yu Gu, Gianfranco Doretto.<br />
+  "Improving Accuracy and Generalization for Efficient Visual Tracking." WACV (2025).
+  [[paper](https://arxiv.org/abs/2411.18855)] 
+  [[code]( )]
+
 - **SMAT:** Goutam Yelluru Gopal, Maria A. Amer.<br />
   "Separable Self and Mixed Attention Transformers for Efficient Object Tracking." WACV (2024).
   [[paper](https://arxiv.org/abs/2309.03979)] 
@@ -424,6 +429,11 @@
   "Moving Target Tracking by Unmanned Aerial Vehicle: A Survey and Taxonomy." TII (2024).
   [[paper](https://ieeexplore.ieee.org/document/10445025)] 
   [[code]( )]
+
+- **EfficientTAM:** Yunyang Xiong, Chong Zhou, Xiaoyu Xiang, Lemeng Wu, Chenchen Zhu, Zechun Liu, Saksham Suri, Balakrishnan Varadarajan, Ramya Akula, Forrest Iandola, Raghuraman Krishnamoorthi, Bilge Soran, Vikas Chandra.<br />
+  "Efficient Track Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2411.18933)] 
+  [[code](https://yformer.github.io/efficient-track-anything/)]
 
 - **GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
   "ClickTrack: Towards Real-time Interactive Single Object Tracking." ArXiv (2024).
