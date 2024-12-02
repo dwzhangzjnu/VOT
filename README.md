@@ -490,6 +490,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10756281)] 
   [[code]( )]
 
+- **UniMod1K:** Xue-Feng Zhu, Tianyang Xu, Zongtao Liu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
+  "UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning." IJCV (2024).
+  [[paper](https://link.springer.com/article/10.1007/s11263-024-01999-8)] 
+  [[code](https://github.com/xuefeng-zhu5/UniMod1K)]
+
 - **EMTrack:** Chang Liu, Ziqi Guan, Simiao Lai, Yang Liu, Huchuan Lu, Dong Wang.<br />
   "EMTrack: Efficient Multimodal Object Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10747517)] 
