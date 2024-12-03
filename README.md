@@ -530,6 +530,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10755105)] 
   [[code](https://github.com/xl0312/SiamTADT)]
   
+- **MambaNUT:** You Wu, Xiangyang Yang, Xucheng Wang, Hengzhou Ye, Dan Zeng, Shuiwang Li.<br />
+  "MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2412.00626)] 
+  [[code]( )]
+
 - **TDA-Track:** Changhong Fu, Yiheng Wang, Liangliang Yao, Guangze Zheng, Haobo Zuo, Jia Pan.<br />
   "Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking." IROS (2024).
   [[paper](https://arxiv.org/abs/2409.18533)] 
