@@ -430,6 +430,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10445025)] 
   [[code]( )]
 
+- **GLEE:** Junfeng Wu, Yi Jiang, Qihao Liu, Zehuan Yuan, Xiang Bai, Song Bai.<br />
+  "General Object Foundation Model for Images and Videos at Scale." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2312.09158)] 
+  [[code](https://glee-vision.github.io/)]
+
 - **EfficientTAM:** Yunyang Xiong, Chong Zhou, Xiaoyu Xiang, Lemeng Wu, Chenchen Zhu, Zechun Liu, Saksham Suri, Balakrishnan Varadarajan, Ramya Akula, Forrest Iandola, Raghuraman Krishnamoorthi, Bilge Soran, Vikas Chandra.<br />
   "Efficient Track Anything." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2411.18933)] 
@@ -654,6 +659,11 @@
   "Cross-modulated Attention Transformer for RGBT Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.02222)] 
   [[code]( )]
+
+- **GSOT3D:** Yifan Jiao, Yunhao Li, Junhua Ding, Qing Yang, Song Fu, Heng Fan, Libo Zhang.<br />
+  "GSOT3D: Towards Generic 3D Single Object Tracking in the Wild." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2412.02129)] 
+  [[code](https://github.com/ailovejinx/GSOT3D)]
 
 - **VoxelTrack:** Yuxuan Lu, Jiahao Nie, Zhiwei He, Hongjie Gu, Xudong Lv.<br />
   "VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking." ArXiv (2024).
