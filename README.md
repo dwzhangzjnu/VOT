@@ -530,6 +530,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10755105)] 
   [[code](https://github.com/xl0312/SiamTADT)]
   
+- **NiDR:** Xu Lei, Yan Zhang, Chang Xu, Wensheng Cheng, Wen Yang.<br />
+  "NiDR: Nighttime Aerial Tracking via Decoupled Representations." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10770249)] 
+  [[code]( )]
+
 - **MambaNUT:** You Wu, Xiangyang Yang, Xucheng Wang, Hengzhou Ye, Dan Zeng, Shuiwang Li.<br />
   "MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2412.00626)] 
@@ -639,6 +644,11 @@
   "PHTrack: Prompting for Hyperspectral Video Tracking." TGRS (2024).
   [[paper](https://ieeexplore.ieee.org/document/10680554)] 
   [[code](https://github.com/YZCU/PHTrack)]
+
+- **LGSAT:** Langkun Chen, Long Gao, Yan Jiang, Yunsong Li, Gang He, Jifeng Ning.<br />
+  "Local-Global Self-Attention for Transformer-based Object Tracking." TIP (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10613604)] 
+  [[code](https://github.com/lgao001/LGSAT)]
   
 - **CAFormer:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Yin Lin, Bing Yin, Cong Liu.<br />
   "Cross-modulated Attention Transformer for RGBT Tracking." ArXiv (2024).
