@@ -876,7 +876,7 @@
   [[code](https://github.com/VISION-SJTU/SPOT)]
   
 - **BTSOT:** Omar Abdelaziz, Mohamed Shehata, Mohamed Mohamed.<br />
-  "Beyond Traditional Single Object Tracking: A Survey." arxiv (2024).
+  "Beyond Traditional Single Object Tracking: A Survey." JMLC (2024).
   [[paper](https://arxiv.org/abs/2405.10439)] 
   [[code]( )]
 
