@@ -665,6 +665,11 @@
   [[paper](https://arxiv.org/abs/2412.02129)] 
   [[code](https://github.com/ailovejinx/GSOT3D)]
 
+- **MVCTrack:** Zhaofeng Hu, Sifan Zhou, Shibo Zhao, Zhihang Yuan.<br />
+  "MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2412.02734)] 
+  [[code](https://github.com/StiphyJay/MVCTrack)]
+  
 - **VoxelTrack:** Yuxuan Lu, Jiahao Nie, Zhiwei He, Hongjie Gu, Xudong Lv.<br />
   "VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.02263)] 
