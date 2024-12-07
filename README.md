@@ -397,6 +397,11 @@
 
 ### ACCV 2024
 
+- **3DPT:** Bocen Li, Yunzhi Zhuge, Shan Jiang, Lijun Wang, Yifan Wang, Huchuan Lu.<br />
+  "3D Prompt Learning for RGB-D Tracking." ACCV (2024).
+  [[paper](https://openaccess.thecvf.com/content/ACCV2024/html/Li_3D_Prompt_Learning_for_RGB-D_Tracking_ACCV_2024_paper.html)] 
+  [[code]( )]
+
 - **Depth-Attention:** Yu Liu, Arif Mahmood, Muhammad Haris Khan.<br />
   "Depth Attention for Robust RGB Tracking." ACCV (2024).
   [[paper](https://arxiv.org/abs/2410.20395)] 
@@ -539,6 +544,11 @@
   "NiDR: Nighttime Aerial Tracking via Decoupled Representations." TGRS (2024).
   [[paper](https://ieeexplore.ieee.org/document/10770249)] 
   [[code]( )]
+
+- **DAT:** Haowei Sun, Jinwu Hu, Zhirui Zhang, Haoyuan Tian, Xinze Xie, Yufeng Wang, Zhuliang Yu, Xiaohua Xie, Mingkui Tan.<br />
+  "A Cross-Scene Benchmark for Open-World Drone Active Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2412.00744)] 
+  [[code](https://dat-benchmark.framer.website/)]
 
 - **MambaNUT:** You Wu, Xiangyang Yang, Xucheng Wang, Hengzhou Ye, Dan Zeng, Shuiwang Li.<br />
   "MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning." ArXiv (2024).
