@@ -407,6 +407,11 @@
   [[paper](https://arxiv.org/abs/2410.20395)] 
   [[code](https://github.com/LiuYuML/Depth-Attention)]
 
+- **DTAT:** Yifan Pan, Tianyang Xu, Xue-Feng Zhu, Xiaoqing Luo, Xiao-Jun Wu, Josef Kittler.<br />
+  "Learning Explicit Modulation Vectors for Disentangled Transformer Attention-Based RGB-D Visual Tracking." ICPR (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78444-6_22)] 
+  [[code]( )]
+  
 - **NT-VOT211:** Yu Liu, Arif Mahmood, Muhammad Haris Khan.<br />
   "NT-VOT211: A Large-Scale Benchmark for Night-time Visual Object Tracking." ACCV (2024).
   [[paper](https://arxiv.org/abs/2410.20421)] 
