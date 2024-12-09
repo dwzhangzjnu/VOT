@@ -411,6 +411,11 @@
   "Learning Explicit Modulation Vectors for Disentangled Transformer Attention-Based RGB-D Visual Tracking." ICPR (2024).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78444-6_22)] 
   [[code]( )]
+
+- **VISTAC:** Asfak Ali, Arya Pandit, Shirshendu Mandal, Srinjan Bhattacharjee, Sauptik Maiti, Suvojit Acharjee, Ram Sarkar, Sos S. Agaian, Khalifa Djemal.<br />
+  "VISual Tracking in Adverse Conditions." ICPR (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-80139-6_7)] 
+  [[code](https://sites.google.com/view/ju-nvisot/home)]
   
 - **NT-VOT211:** Yu Liu, Arif Mahmood, Muhammad Haris Khan.<br />
   "NT-VOT211: A Large-Scale Benchmark for Night-time Visual Object Tracking." ACCV (2024).
@@ -500,6 +505,11 @@
   [[paper](https://arxiv.org/abs/2409.17981)] 
   [[code]( )]
 
+- **MugTracker:** Hong Zhu, Pingping Zhang, Lei Xue, Guanglin Yuan.<br />
+  "Multi-modal Understanding and Generation for Object Tracking." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10777574)] 
+  [[code]( )]
+  
 - **MambaVLT:** Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He.<br />
   "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2411.15459)] 
@@ -705,6 +715,11 @@
   [[paper](https://arxiv.org/abs/2407.19430)] 
   [[code]( )]
   
+- **FDTrack:** Zhao Gao, Dongming Zhou, Jinde Cao, Yisong Liu, Qingqing Shan.<br />
+  "FDTrack: A Dual-head Focus Tracking Network with Frequency Enhancement." JSEN (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10778233)] 
+  [[code]( )]
+
 - **LMINet:** Jiatian Mei, Juxiang Zhou, Jun Wang, Jia Hao, Dongming Zhou, Jinde Cao.<br />
   "Learning Multi-frequency Integration Network for RGBT Tracking." JSEN (2024).
   [[paper](https://ieeexplore.ieee.org/document/10458005)] 
@@ -935,6 +950,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10521630)] 
   [[code](https://github.com/YoungZnBIT/PySOT-trial)]
   
+- **CrossEI:** Zhiwen Chen, Jinjian Wu, Weisheng Dong, Leida Li, Guangming Shi.<br />
+  "CrossEI: Boosting Motion-oriented Object Tracking with An Event Camera." TIP (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10776574)] 
+  [[code]( )]
+
 - **Mamba-FETrack:** Ju Huang, Shiao Wang, Shuai Wang, Zhe Wu, Xiao Wang, Bo Jiang.<br />
   "Mamba-FETrack: Frame-Event Tracking via State Space Model." arxiv (2024).
   [[paper](https://arxiv.org/abs/2404.18174)] 
