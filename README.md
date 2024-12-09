@@ -87,6 +87,11 @@
   [[paper](https://arxiv.org/abs/2405.19818)] 
   [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
+- **VastTrack:** Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang.<br />
+  "VastTrack: Vast Category Visual Object Tracking." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2403.03493)] 
+  [[code](https://github.com/HengLan/VastTrack)]
+
 - **DeTrack:** Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, Wenqiang Zhang.<br />
   "DeTrack: In-model Latent Denoising Learning for Visual Object Tracking." NeurIPS (2024).
   [[paper](https://openreview.net/forum?id=ZJjuNF0olj)] 
@@ -129,6 +134,11 @@
   "Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance." ECCV (2024).
   [[paper](https://arxiv.org/abs/2403.05231)] 
   [[code](https://github.com/LitingLin/LoRAT)]
+
+- **BenSMOT:** Yunhao Li, Hao Wang, Xue Ma, Jiali Yao, Shaohua Dong, Heng Fan, Libo Zhang.<br />
+  "Beyond MOT: Semantic Multi-Object Tracking." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2403.05021)] 
+  [[code](https://github.com/HengLan/SMOT)]
 
 - **VideoMamba:** Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao.<br />
   "VideoMamba: State Space Model for Efficient Video Understanding." ECCV (2024).
@@ -964,16 +974,6 @@
   "AttMOT: Improving Multiple-Object Tracking by Introducing Auxiliary Pedestrian Attributes." TNNLS (2024).
   [[paper](https://arxiv.org/abs/2308.07537)] 
   [[code]()]
-
-- **BenSMOT:** Yunhao Li, Hao Wang, Xue Ma, Jiali Yao, Shaohua Dong, Heng Fan, Libo Zhang.<br />
-  "Beyond MOT: Semantic Multi-Object Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2403.05021)] 
-  [[code]()]
-
-- **VastTrack:** Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang.<br />
-  "VastTrack: Vast Category Visual Object Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2403.03493)] 
-  [[code](https://github.com/HengLan/VastTrack)]
 
 - **PillarTrack:** Weisheng Xu, Sifan Zhou, Zhihang Yuan.<br />
   "PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds." arxiv (2024).
