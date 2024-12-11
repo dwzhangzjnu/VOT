@@ -540,6 +540,11 @@
   [[paper](https://link.springer.com/article/10.1007/s11263-024-01999-8)] 
   [[code](https://github.com/xuefeng-zhu5/UniMod1K)]
 
+- **IPL:** Andong Lu, Chenglong Li, Jiacong Zhao, Jin Tang, Bin Luo.<br />
+  "Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks ." IJCV (2024).
+  [[paper](https://link.springer.com/article/10.1007/s11263-024-02311-4)] 
+  [[code](https://github.com/mmic-lcl)]
+  
 - **EMTrack:** Chang Liu, Ziqi Guan, Simiao Lai, Yang Liu, Huchuan Lu, Dong Wang.<br />
   "EMTrack: Efficient Multimodal Object Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10747517)] 
