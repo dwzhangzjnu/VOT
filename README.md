@@ -75,6 +75,24 @@
   [[code](https://github.com/baaivision/Painter)]
 
 
+### AAAI 2025
+
+- **SUTrack:** Xin Chen, Ben Kang, Wanting Geng, Jiawen Zhu, Yi Liu, Dong Wang, Huchuan Lu.<br />
+  "SUTrack: Towards Simple and Unified Single Object Tracking." AAAI (2025).
+  [[paper]( )] 
+  [[code](https://github.com/chenxin-dlut/SUTrack)]
+
+- **MCITrack:** Ben Kang, Xin Chen, Simiao Lai, Yang Liu, Yi Liu, Dong Wang.<br />
+  "Exploring Enhanced Contextual Information for Video-Level Object Tracking." AAAI (2025).
+  [[paper]( )] 
+  [[code](https://github.com/kangben258/MCITrack/)]
+  
+- **AsymTrack:** Jiawen Zhu, Huayi Tang, Xin Chen, Xinying Wang, Dong Wang, Huchuan Lu.<br />
+  "Two-stream Beats One-stream: Asymmetric Siamese Network for Efficient Visual Tracking." AAAI (2025).
+  [[paper]( )] 
+  [[code](https://github.com/jiawen-zhu/AsymTrack)]
+
+
 ### NeurIPS 2024
 
 - **ChatTracker:** Yiming Sun, Fan Yu, Shaoxiang Chen, Yu Zhang, Junwei Huang, Chenhui Li, Yang Li, Changbo Wang.<br />
