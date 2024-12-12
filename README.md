@@ -610,6 +610,11 @@
   [[paper](https://arxiv.org/abs/2408.12232)] 
   [[code]( )]
 
+- **DDFNet:** Chenglong Li, Tao Wang, Zhaodong Ding, Yun Xiao, Jin Tang.<br />
+  "Dynamic Disentangled Fusion Network for RGBT Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2412.08441)] 
+  [[code]( )]
+
 - **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
   "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.08827)] 
