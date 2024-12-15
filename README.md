@@ -87,9 +87,9 @@
   [[paper](https://arxiv.org/abs/2408.08827)] 
   [[code]( )]
 
-- **CAT:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Bing Yin, Yin Lin, and Cong Liu.<br />
-  "Cross-modulated Attention Transformer for RGBT Tracking." AAAI (2025).
-  [[paper]( )] 
+- **CAFormer:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Yin Lin, Bing Yin, Cong Liu.<br />
+  "Cross-modulated Attention Transformer for RGBT Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.02222)] 
   [[code]( )]
   
 - **MCITrack:** Ben Kang, Xin Chen, Simiao Lai, Yang Liu, Yi Liu, Dong Wang.<br />
@@ -722,11 +722,6 @@
   "Local-Global Self-Attention for Transformer-based Object Tracking." TIP (2024).
   [[paper](https://ieeexplore.ieee.org/document/10613604)] 
   [[code](https://github.com/lgao001/LGSAT)]
-  
-- **CAFormer:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Yin Lin, Bing Yin, Cong Liu.<br />
-  "Cross-modulated Attention Transformer for RGBT Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2408.02222)] 
-  [[code]( )]
 
 - **GSOT3D:** Yifan Jiao, Yunhao Li, Junhua Ding, Qing Yang, Song Fu, Heng Fan, Libo Zhang.<br />
   "GSOT3D: Towards Generic 3D Single Object Tracking in the Wild." ArXiv (2024).
