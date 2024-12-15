@@ -88,7 +88,7 @@
   [[code]( )]
 
 - **CAFormer:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Yin Lin, Bing Yin, Cong Liu.<br />
-  "Cross-modulated Attention Transformer for RGBT Tracking." ArXiv (2024).
+  "Cross-modulated Attention Transformer for RGBT Tracking." AAAI (2025).
   [[paper](https://arxiv.org/abs/2408.02222)] 
   [[code]( )]
   
