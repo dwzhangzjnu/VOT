@@ -82,6 +82,16 @@
   [[paper]( )] 
   [[code](https://github.com/chenxin-dlut/SUTrack)]
 
+- **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2408.08827)] 
+  [[code]( )]
+
+- **CAT:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Bing Yin, Yin Lin, and Cong Liu.<br />
+  "Cross-modulated Attention Transformer for RGBT Tracking." AAAI (2025).
+  [[paper]( )] 
+  [[code]( )]
+  
 - **MCITrack:** Ben Kang, Xin Chen, Simiao Lai, Yang Liu, Yi Liu, Dong Wang.<br />
   "Exploring Enhanced Contextual Information for Video-Level Object Tracking." AAAI (2025).
   [[paper]( )] 
@@ -631,11 +641,6 @@
 - **DDFNet:** Chenglong Li, Tao Wang, Zhaodong Ding, Yun Xiao, Jin Tang.<br />
   "Dynamic Disentangled Fusion Network for RGBT Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2412.08441)] 
-  [[code]( )]
-
-- **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
-  "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2408.08827)] 
   [[code]( )]
 
 - **DS-MESA:** Pengcheng Shao, Tianyang Xu, Xuefeng Zhu, Xiaojun Wu, Josef Kittler.<br />
