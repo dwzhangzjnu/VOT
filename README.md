@@ -468,6 +468,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10706882)] 
   [[code](https://github.com/RyanHTR/TBSI)]
 
+- **VOTReview:** Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, Jiazheng Xing, Guang Dai, Jingdong Wang, Yong Liu.<br />
+  "Visual Object Tracking across Diverse Data Modalities: A Review." arXiv (2024).
+  [[paper](https://arxiv.org/abs/2412.09991)] 
+  [[code]( )]
+
 - **TIRReview:** Di Yuan, Haiping Zhang, Xiu Shu, Qiao Liu, Xiaojun Chang, Zhenyu He, Guming Shi.<br />
   "Thermal Infrared Target Tracking: A Comprehensive Review." TIM (2024).
   [[paper](https://ieeexplore.ieee.org/document/10339340)] 
