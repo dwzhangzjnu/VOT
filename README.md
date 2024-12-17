@@ -94,7 +94,7 @@
   
 - **MCITrack:** Ben Kang, Xin Chen, Simiao Lai, Yang Liu, Yi Liu, Dong Wang.<br />
   "Exploring Enhanced Contextual Information for Video-Level Object Tracking." AAAI (2025).
-  [[paper]( )] 
+  [[paper](https://arxiv.org/abs/2412.11023)] 
   [[code](https://github.com/kangben258/MCITrack/)]
   
 - **AsymTrack:** Jiawen Zhu, Huayi Tang, Xin Chen, Xinying Wang, Dong Wang, Huchuan Lu.<br />
@@ -102,6 +102,11 @@
   [[paper]( )] 
   [[code](https://github.com/jiawen-zhu/AsymTrack)]
 
+- **PSOT:** Zhangbin Li, Jinxing Zhou, Jing Zhang, Shengeng Tang, Kun Li, Dan Guo.<br />
+  "Patch-level Sounding Object Tracking for Audio-Visual Question Answering." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.10749)] 
+  [[code](https://github.com/jiawen-zhu/AsymTrack)]
+  
 
 ### NeurIPS 2024
 
@@ -807,6 +812,11 @@
   "Visual and Language Collaborative Learning for RGBT Object Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10620225)] 
   [[code]( )]
+
+- **STMT:** Dengdi Sun, Yajie Pan, Andong Lu, Chenglong Li, Bin Luo.<br />
+  "Transformer RGBT Tracking With Spatio-Temporal Multimodal Tokens." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10589660)] 
+  [[code](https://github.com/yinghaidada/STMT)]
 
 - **TGTrack:** Liang Chen, Bineng Zhong, Qihua Liang, Yaozong Zheng, Zhiyi Mo, Shuxiang Song.<br />
   "Top-down Cross-modal Guidance for Robust RGB-T Tracking." TCSVT (2024).
