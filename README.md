@@ -409,6 +409,11 @@
   [[paper](https://arxiv.org/abs/2410.11586)] 
   [[code](https://github.com/Multi-Modality-Tracking/CKD)]
 
+- **VoxelTrack:** Yuxuan Lu, Jiahao Nie, Zhiwei He, Hongjie Gu, Xudong Lv.<br />
+  "VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking." ACM MM (2024).
+  [[paper](https://arxiv.org/abs/2408.02263)] 
+  [[code]( )]
+
 - **DenseTrack:** Yi Lei, Huilin Zhu, Jingling Yuan, Guangli Xiang, Xian Zhong, Shengfeng He.<br />
   "DenseTrack: Drone-based Crowd Tracking via Density-aware Motion-appearance Synergy." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2407.17272)] 
@@ -737,11 +742,6 @@
   "MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2412.02734)] 
   [[code](https://github.com/StiphyJay/MVCTrack)]
-  
-- **VoxelTrack:** Yuxuan Lu, Jiahao Nie, Zhiwei He, Hongjie Gu, Xudong Lv.<br />
-  "VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2408.02263)] 
-  [[code]( )]
   
 - **SiamMo:** Yuxiang Yang, Yingqi Deng, Jing Zhang, Hongjie Gu, Zhekang Don.<br />
   "SiamMo: Siamese Motion-Centric 3D Object Tracking." ArXiv (2024).
