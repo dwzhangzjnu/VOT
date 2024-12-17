@@ -409,6 +409,11 @@
   [[paper](https://arxiv.org/abs/2410.11586)] 
   [[code](https://github.com/Multi-Modality-Tracking/CKD)]
 
+- **IIMF:** Liqiu Chen, Yuqing Huang, Hengyu Li, Zikun Zhou, Zhenyu He.<br />
+  "Simplifying Cross-modal Interaction via Modality-Shared Features for RGBT Tracking." ACM MM (2024).
+  [[paper](https://dl.acm.org/doi/10.1145/3664647.3681564)] 
+  [[code](https://github.com/Liqiu-Chen/IIMF)]
+  
 - **VoxelTrack:** Yuxuan Lu, Jiahao Nie, Zhiwei He, Hongjie Gu, Xudong Lv.<br />
   "VoxelTrack: Exploring Voxel Representation for 3D Point Cloud Object Tracking." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2408.02263)] 
@@ -419,6 +424,11 @@
   [[paper](https://arxiv.org/abs/2407.17272)] 
   [[code]( )]
 
+- **GLATrack:** Guangyao Li, Yajun Jian, Yajun Jian, Yan Yan, Yan Yan, Hanzi Wang, Hanzi Wang.<br />
+  "GLATrack: Global and Local Awareness for Open-Vocabulary Multiple Object Tracking." ACM MM (2024).
+  [[paper](https://dl.acm.org/doi/10.1145/3664647.3681530)] 
+  [[code]( )]
+  
 - **X-Prompt:** Pinxue Guo, Wanyun Li, Hao Huang, Lingyi Hong, Xinyu Zhou, Zhaoyu Chen, Jinglun Li, Kaixun Jiang, Wei Zhang, Wenqiang Zhang.<br />
   "X-Prompt: Multi-modal Visual Prompt for Video Object Segmentation." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2409.19342)] 
@@ -1302,17 +1312,35 @@
   [[code](https://tcow.cs.columbia.edu/)]
   
 
+### ACM MM 2023
+
+- **SimOWT:** Bingyang Wang, Tanlin Li, Jiannan Wu, Yi Jiang, Huchuan Lu, You He.<br />
+  "A Simple Baseline for Open-World Tracking via Self-training." ACM MM (2023).
+  [[paper](https://dl.acm.org/doi/10.1145/3581783.3611695)] 
+  [[code](https://github.com/22109095/SimOWT)]
+
+- **UTrack:** Jie Gao, Bineng Zhong, Yan Chen.<br />
+  "Unambiguous Object Tracking by Exploiting Target Cues." ACM MM (2023).
+  [[paper](https://dl.acm.org/doi/10.1145/3581783.3612240)] 
+  [[code]()]
+
+- **PDST:** Jinpu Zhang, Ziwen Li, Ruonan Wei, Yuehuan Wang.<br />
+  "Progressive Domain-style Translation for Nighttime Tracking." ACM MM (2023).
+  [[paper](https://dl.acm.org/doi/10.1145/3581783.3612305)] 
+  [[code]()]
+  
+- **All-in-One:** Chunhui Zhang, Xin Sun, Li Liu, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang.<br />
+  "All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment." ACM MM (2023).
+  [[paper](https://arxiv.org/abs/2307.03373)] 
+  [[code]( )]
+  
+
 ### ArXiV 2023
 
 - **LaTOT/MKDNet:** Yabin Zhu, Chenglong Li, Yao Liu, Xiao Wang, Jin Tang, Bin Luo, Zhixiang Huang.<br />
   "Tiny Object Tracking: A Large-scale Dataset and A Baseline." TNNLS (2023).
   [[paper](https://ieeexplore.ieee.org/document/10035907)] 
   [[code](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
-  
-- **UTrack:** Jie Gao, Bineng Zhong, Yan Chen.<br />
-  "Unambiguous Object Tracking by Exploiting Target Cues." ACM MM (2023).
-  [[paper](https://dl.acm.org/doi/10.1145/3581783.3612240)] 
-  [[code]()]
 
 - **UPVPT:** Guangtong Zhang, Qihua Liang, Ning Li, Zhiyi Mo, Bineng Zhong.<br />
   "Robust Tracking via Unifying Pretrain-Finetuning and Visual Prompt Tuning." ACM MMAsia (2023).
@@ -1362,11 +1390,6 @@
 - **OVLM:** Huanlong Zhang, Jingchao Wang, Jianwei Zhang, Tianzhu Zhang, Bineng Zhong.<br />
   "One-stream Vision-Language Memory Network for Object Tracking." TMM (2023).
   [[paper](https://ieeexplore.ieee.org/document/10149530)] 
-  [[code]( )]
-
-- **All-in-One:** Chunhui Zhang, Xin Sun, Li Liu, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang.<br />
-  "All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment." ACM MM (2023).
-  [[paper](https://arxiv.org/abs/2307.03373)] 
   [[code]( )]
   
 - **MPLT:** Yang Luo, Xiqing Guo, Hui Feng, Lei Ao.<br />
@@ -1825,7 +1848,12 @@
 - **ProTrack:** Jinyu Yang, Zhe Li, Feng Zheng, Aleš Leonardis, Jingkuan Song.<br />
   "Prompting for Multi-Modal Tracking." ACM MM (2022).
   [[paper](https://arxiv.org/abs/2207.14571)] 
-  [[code](https://)]
+  [[code]( )]
+
+- **QuadTreeCapsule:** Ding Ma, Xiangqian Wu.<br />
+  "QuadTreeCapsule: QuadTree Capsules for Deep Regression Tracking." ACM MM (2022).
+  [[paper](https://dl.acm.org/doi/10.1145/3503161.3548236)] 
+  [[code]( )]
   
 - **GATransT:** Libo Wang, Si Chen, Zhen Wang, Da-Han Wang, Shunzhi Zhu.<br />
   "Graph Attention Transformer Network for Robust Visual Tracking." ICONIP (2022).
