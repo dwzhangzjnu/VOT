@@ -738,6 +738,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10741334)] 
   [[code]( )]
 
+- **HDSP:** Rui Yao, Lu Zhang, Yong Zhou, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao.<br />
+  "Hyperspectral Object Tracking with Dual-Stream Prompt." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10798510)] 
+  [[code](https://github.com/rayyao/HDSP)]
+
 - **PHTrack:** Yuzeng Chen, Yuqi Tang, Xin Su, Jie Li, Yi Xiao, Jiang He, Qiangqiang Yuan.<br />
   "PHTrack: Prompting for Hyperspectral Video Tracking." TGRS (2024).
   [[paper](https://ieeexplore.ieee.org/document/10680554)] 
