@@ -92,6 +92,16 @@
   [[paper](https://arxiv.org/abs/2408.02222)] 
   [[code]( )]
   
+- **TemTrack:** Jinxia Xie, Bineng Zhong, Qihua Liang, Ning Li, Zhiyi Mo, Shuxiang Song.<br />
+  "Robust Tracking via Mamba-based Context-aware Token Learning." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.13611)] 
+  [[code](https://github.com/GXNU-ZhongLab/TemTrack)]
+
+- **MambaLCT:** Xiaohai Li, Bineng Zhong, Qihua Liang, Guorong Li, Zhiyi Mo, Shuxiang Song.<br />
+  "MambaLCT: Boosting Tracking via Long-term Context State Space Model." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.13615)] 
+  [[code](https://github.com/GXNU-ZhongLab/MambaLCT)]
+  
 - **MCITrack:** Ben Kang, Xin Chen, Simiao Lai, Yang Liu, Yi Liu, Dong Wang.<br />
   "Exploring Enhanced Contextual Information for Video-Level Object Tracking." AAAI (2025).
   [[paper](https://arxiv.org/abs/2412.11023)] 
@@ -474,6 +484,11 @@
   "VISual Tracking in Adverse Conditions." ICPR (2024).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-031-80139-6_7)] 
   [[code](https://sites.google.com/view/ju-nvisot/home)]
+  
+- **RADA:** Avinash Chouhan, Mayank Chandak, Arijit Sur, Dibyajyoti Chutia, Shiv Prasad Aggarwal .<br />
+  "RADA: Reconstruction Assisted Domain Adaptation for Nighttime Aerial Tracking." ICPR (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78192-6_21)] 
+  [[code](https://github.com/chouhan-avinash/RADA)]
   
 - **NT-VOT211:** Yu Liu, Arif Mahmood, Muhammad Haris Khan.<br />
   "NT-VOT211: A Large-Scale Benchmark for Night-time Visual Object Tracking." ACCV (2024).
