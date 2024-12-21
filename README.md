@@ -452,6 +452,16 @@
   
 ### Others 2024
 
+- **CUTrack:** Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, Fei Xie.<br />
+  "Towards Category Unification of 3D Single Object Tracking on Point Clouds." ICLR (2024).
+  [[paper](https://arxiv.org/abs/2401.11204)] 
+  [[code](https://github.com/Haooozi/CUTrack)]
+
+- **SeqTrack3D:** Yu Lin, Zhiheng Li, Yubo Cui, Zheng Fang.<br />
+  "SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking." ICRA (2024).
+  [[paper](https://arxiv.org/abs/2402.16249)] 
+  [[code](https://github.com/aron-lin/seqtrack3d)]
+
 - **VADT:** Guangtong Zhang, Qihua Liang, Zhiyi Mo, Ning Li, Bineng Zhong.<br />
   "Visual Adapt for RGBD Tracking." ICASSP (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10447728)] 
@@ -462,6 +472,16 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10447555)] 
   [[code]( )]
 
+- **TDA-Track:** Changhong Fu, Yiheng Wang, Liangliang Yao, Guangze Zheng, Haobo Zuo, Jia Pan.<br />
+  "Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking." IROS (2024).
+  [[paper](https://arxiv.org/abs/2409.18533)] 
+  [[code](https://github.com/vision4robotics/TDA-Track)]
+
+- **PRL-Track:** Changhong Fu, Xiang Lei, Haobo Zuo, Liangliang Yao, Guangze Zheng, Jia Pan.<br />
+  "Progressive Representation Learning for Real-Time UAV Tracking." IROS (2024).
+  [[paper](https://arxiv.org/abs/2409.16652)] 
+  [[code](https://github.com/vision4robotics/PRL-Track)]
+  
 - **TMTB:** Yimin Du, Bi Zeng, Qingmao Wei, Boquan Zhang, Huiting Hu.<br />
   "Transformer-Mamba-Based Trident-Branch RGB-T Tracker." PRICAI (2024).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-96-0122-6_4)] 
@@ -664,16 +684,6 @@
   "MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2412.00626)] 
   [[code]( )]
-
-- **TDA-Track:** Changhong Fu, Yiheng Wang, Liangliang Yao, Guangze Zheng, Haobo Zuo, Jia Pan.<br />
-  "Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking." IROS (2024).
-  [[paper](https://arxiv.org/abs/2409.18533)] 
-  [[code](https://github.com/vision4robotics/TDA-Track)]
-
-- **PRL-Track:** Changhong Fu, Xiang Lei, Haobo Zuo, Liangliang Yao, Guangze Zheng, Jia Pan.<br />
-  "Progressive Representation Learning for Real-Time UAV Tracking." IROS (2024).
-  [[paper](https://arxiv.org/abs/2409.16652)] 
-  [[code](https://github.com/vision4robotics/PRL-Track)]
   
 - **DaDiff:** Haobo Zuo, Changhong Fu, Guangze Zheng, Liangliang Yao, Kunhan Lu, Jia Pan.<br />
   "DaDiff: Domain-aware Diffusion Model for Nighttime UAV Tracking." ArXiv (2024).
@@ -1124,16 +1134,6 @@
   "Multi-step Temporal Modeling for UAV Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10464358/)] 
   [[code]( )]
-
-- **CUTrack:** Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, Fei Xie.<br />
-  "Towards Category Unification of 3D Single Object Tracking on Point Clouds." ICLR (2024).
-  [[paper](https://arxiv.org/abs/2401.11204)] 
-  [[code](https://github.com/Haooozi/CUTrack)]
-
-- **SeqTrack3D:** Yu Lin, Zhiheng Li, Yubo Cui, Zheng Fang.<br />
-  "SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking." ICRA (2024).
-  [[paper](https://arxiv.org/abs/2402.16249)] 
-  [[code](https://github.com/aron-lin/seqtrack3d)]
 
 - **OIFTrack:** Janani Kugarajeevan, Thanikasalam Kokul, Amirthalingam Ramanan, Subha Fernando.<br />
   "Optimized Information Flow for Transformer Tracking." ArXiv (2024).
