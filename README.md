@@ -463,7 +463,17 @@
   [[code]( )]
 
 
-### ACCV 2024
+### Other Conferences 2024
+
+- **TMTB:** Yimin Du, Bi Zeng, Qingmao Wei, Boquan Zhang, Huiting Hu.<br />
+  "Transformer-Mamba-Based Trident-Branch RGB-T Tracker." PRICAI (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-96-0122-6_4)] 
+  [[code]( )]
+
+- **DepthRefiner:** Simiao Lai; Dong Wang; Huchuan Lu.<br />
+  "DepthRefiner: Adapting RGB Trackers to RGBD Scenes via Depth-Fused Refinement." ICME (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10687717)] 
+  [[code]( )]
 
 - **3DPT:** Bocen Li, Yunzhi Zhuge, Shan Jiang, Lijun Wang, Yifan Wang, Huchuan Lu.<br />
   "3D Prompt Learning for RGB-D Tracking." ACCV (2024).
