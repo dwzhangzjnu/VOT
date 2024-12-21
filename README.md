@@ -450,7 +450,7 @@
   [[code](https://github.com/PinxueGuo/X-Prompt.git)]
   
   
-### ICASSP 2024
+### Others 2024
 
 - **VADT:** Guangtong Zhang, Qihua Liang, Zhiyi Mo, Ning Li, Bineng Zhong.<br />
   "Visual Adapt for RGBD Tracking." ICASSP (2024).
@@ -461,9 +461,6 @@
   "Gradually Spatio-Temporal Feature Activation for Target Tracking." ICASSP (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10447555)] 
   [[code]( )]
-
-
-### Other Conferences 2024
 
 - **TMTB:** Yimin Du, Bi Zeng, Qingmao Wei, Boquan Zhang, Huiting Hu.<br />
   "Transformer-Mamba-Based Trident-Branch RGB-T Tracker." PRICAI (2024).
