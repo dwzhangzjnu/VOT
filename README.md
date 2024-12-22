@@ -645,6 +645,11 @@
   [[paper](https://link.springer.com/article/10.1007/s11263-024-02311-4)] 
   [[code](https://github.com/mmic-lcl)]
   
+- **SATrack:** Yinchao Ma, Qianjin Yu, Wenfei Yang, Tianzhu Zhang, Jinpeng Zhang.<br />
+  "Learning Discriminative Features for Visual Tracking via Scenario Decoupling ." IJCV (2024).
+  [[paper](https://link.springer.com/article/10.1007/s11263-024-02307-0)] 
+  [[code]( )]
+    
 - **EMTrack:** Chang Liu, Ziqi Guan, Simiao Lai, Yang Liu, Huchuan Lu, Dong Wang.<br />
   "EMTrack: Efficient Multimodal Object Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10747517)] 
