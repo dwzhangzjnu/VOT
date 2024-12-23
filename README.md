@@ -77,6 +77,11 @@
 
 ### AAAI 2025
 
+- **STTrack:** Xiantao Hu, Ying Tai, Xu Zhao, Chen Zhao, Zhenyu Zhang, Jun Li, Bineng Zhong, Jian Yang.<br />
+  "Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.15691)] 
+  [[code](https://github.com/NJU-PCALab/STTrack)]
+
 - **SUTrack:** Xin Chen, Ben Kang, Wanting Geng, Jiawen Zhu, Yi Liu, Dong Wang, Huchuan Lu.<br />
   "SUTrack: Towards Simple and Unified Single Object Tracking." AAAI (2025).
   [[paper]( )] 
