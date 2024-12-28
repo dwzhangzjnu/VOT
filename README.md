@@ -665,6 +665,11 @@
   [[paper](https://arxiv.org/abs/2409.18901)] 
   [[code](https://github.com/chenshihfang/GOT)]
 
+- **SIMix:** Jinpu Zhang, Ziwen Li, Ruonan Wei, Yuehuan Wang.<br />
+  "Augment One with Others: Generalizing to Unforeseen Variations for Visual Tracking." TMM (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10814671)] 
+  [[code]( )]
+  
 - **DANet:** Yingkai Fu, Meng Li, Wenxi Liu, Yuanchen Wang, Jiqing Zhang, Baocai Yin, Xiaopeng Wei, Xin Yang.<br />
   "Distractor-Aware Event-Based Tracking." TIP (2024).
   [[paper](https://ieeexplore.ieee.org/document/10299598)] 
