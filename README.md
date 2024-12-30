@@ -84,7 +84,7 @@
 
 - **SUTrack:** Xin Chen, Ben Kang, Wanting Geng, Jiawen Zhu, Yi Liu, Dong Wang, Huchuan Lu.<br />
   "SUTrack: Towards Simple and Unified Single Object Tracking." AAAI (2025).
-  [[paper]( )] 
+  [[paper](https://arxiv.org/abs/2412.19138)] 
   [[code](https://github.com/chenxin-dlut/SUTrack)]
 
 - **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
@@ -535,6 +535,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10706882)] 
   [[code](https://github.com/RyanHTR/TBSI)]
 
+- **CTVLT:** Xiaokun Feng, Dailing Zhang, Shiyu Hu, Xuchen Li, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang.<br />
+  "Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues." ICASSP (2024).
+  [[paper](https://arxiv.org/abs/2412.19648)] 
+  [[code](https://github.com/XiaokunFeng/CTVLT)]
+  
 - **VOTReview:** Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, Jiazheng Xing, Guang Dai, Jingdong Wang, Yong Liu.<br />
   "Visual Object Tracking across Diverse Data Modalities: A Review." arXiv (2024).
   [[paper](https://arxiv.org/abs/2412.09991)] 
