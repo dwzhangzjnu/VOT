@@ -630,6 +630,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10777574)] 
   [[code]( )]
   
+- **TrackMamba:** Jiaming Zhang, Cheng Liang, Yutao Cui, Xiangbo Shu, Gangshan Wu, Limin Wang .<br />
+  "TrackMamba: Mamba-Transformer Tracking." ArXiv (2024).
+  [[paper](https://openreview.net/forum?id=V7QRVEZ0le)] 
+  [[code]( )]
+
 - **MambaVLT:** Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He.<br />
   "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2411.15459)] 
@@ -699,6 +704,12 @@
   "A Cross-Scene Benchmark for Open-World Drone Active Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2412.00744)] 
   [[code](https://dat-benchmark.framer.website/)]
+
+- **AVTrack:** You Wu, Yongxin Li, Mengyuan Liu, Xucheng Wang, Xiangyang Yang, Hengzhou Ye, Dan Zeng, Qijun Zhao, Shuiwang Li.<br />
+  "Learning Adaptive and View-Invariant Vision Transformer with Multi-Teacher Knowledge Distillation for Real-Time UAV Tracking." ArXiv (2024).
+  [[icml](https://openreview.net/pdf?id=eaNLvrP8n1)] 
+  [[paper](https://arxiv.org/abs/2412.20002)] 
+  [[code](https://github.com/wuyou3474/AVTrack)]
 
 - **MambaNUT:** You Wu, Xiangyang Yang, Xucheng Wang, Hengzhou Ye, Dan Zeng, Shuiwang Li.<br />
   "MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning." ArXiv (2024).
