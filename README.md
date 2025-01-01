@@ -486,6 +486,11 @@
   "Progressive Representation Learning for Real-Time UAV Tracking." IROS (2024).
   [[paper](https://arxiv.org/abs/2409.16652)] 
   [[code](https://github.com/vision4robotics/PRL-Track)]
+
+- **MMG:** Baojie Fan, Zhiquan Wang, Jiajun Ai, Caiyu Zhang.<br />
+  "Masked Mutual Guidance Transformer Tracking." IROS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10801735)] 
+  [[code]( )]
   
 - **TMTB:** Yimin Du, Bi Zeng, Qingmao Wei, Boquan Zhang, Huiting Hu.<br />
   "Transformer-Mamba-Based Trident-Branch RGB-T Tracker." PRICAI (2024).
@@ -496,7 +501,12 @@
   "DepthRefiner: Adapting RGB Trackers to RGBD Scenes via Depth-Fused Refinement." ICME (2024).
   [[paper](https://ieeexplore.ieee.org/document/10687717)] 
   [[code]( )]
-
+  
+- **DMITrack:** Zhiyi Mo, Guangtong Zhang, Jian Nong, Bineng Zhong, Zhi Li.<br />
+  "Dual-stream Multi-modal Interactive Vision-language Tracking." MM Asia (2024).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3696409.3700220)] 
+  [[code]( )]
+  
 - **3DPT:** Bocen Li, Yunzhi Zhuge, Shan Jiang, Lijun Wang, Yifan Wang, Huchuan Lu.<br />
   "3D Prompt Learning for RGB-D Tracking." ACCV (2024).
   [[paper](https://openaccess.thecvf.com/content/ACCV2024/html/Li_3D_Prompt_Learning_for_RGB-D_Tracking_ACCV_2024_paper.html)] 
@@ -644,6 +654,11 @@
   "How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2411.15600)] 
   [[code](http://metaverse.aitestunion.com/)]
+
+- **CPIPTrack:** Hong Zhu, Qingyang Lu, Lei Xue, Pingping Zhang, Guanglin Yuan.<br />
+  "Vision-Language Tracking With CLIP and Interactive Prompt Learning." TITS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10817474)] 
+  [[code]( )]
 
 - **PGM:** Hengyou Li, Xinyan Liu, Guorong Li, Shuhui Wang, Laiyun Qing, Qingming Huang.<br />
   "Boost Tracking by Natural Language With Prompt-Guided Grounding." TITS (2024).
