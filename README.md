@@ -502,6 +502,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10687717)] 
   [[code]( )]
   
+- **HCV:** Liang-Chia Chen, Wei-Ta Chu.<br />
+  "HCV: Lightweight Hybrid CNN-Vision Transformer for Visual Object Tracking." MMM (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-96-2061-6_4)] 
+  [[code]( )]
+
 - **DMITrack:** Zhiyi Mo, Guangtong Zhang, Jian Nong, Bineng Zhong, Zhi Li.<br />
   "Dual-stream Multi-modal Interactive Vision-language Tracking." MM Asia (2024).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3696409.3700220)] 
