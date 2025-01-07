@@ -128,6 +128,15 @@
   [[code](https://github.com/jiawen-zhu/AsymTrack)]
   
 
+### ArXiv 2025
+
+- **ProTracker:** Tingyang Zhang, Chen Wang, Zhiyang Dou, Qingzhe Gao, Jiahui Lei, Baoquan Chen, Lingjie Liu.<br />
+  "ProTracker: Probabilistic Integration for Robust and Accurate Point Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2501.03220)] 
+  [[code](https://michaelszj.github.io/protracker)]
+
+
+  
 ### NeurIPS 2024
 
 - **ChatTracker:** Yiming Sun, Fan Yu, Shaoxiang Chen, Yu Zhang, Junwei Huang, Chenhui Li, Yang Li, Changbo Wang.<br />
@@ -147,7 +156,7 @@
 
 - **DeTrack:** Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, Wenqiang Zhang.<br />
   "DeTrack: In-model Latent Denoising Learning for Visual Object Tracking." NeurIPS (2024).
-  [[paper](https://openreview.net/forum?id=ZJjuNF0olj)] 
+  [[paper](https://arxiv.org/abs/2501.02467)] 
   [[code]( )]
 
 - **CSAM:** Tianlu Zhang, Kurt Debattista, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
