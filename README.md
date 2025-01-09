@@ -131,11 +131,20 @@
 ### ArXiv 2025
 
 - **ProTracker:** Tingyang Zhang, Chen Wang, Zhiyang Dou, Qingzhe Gao, Jiahui Lei, Baoquan Chen, Lingjie Liu.<br />
-  "ProTracker: Probabilistic Integration for Robust and Accurate Point Tracking." ArXiv (2024).
+  "ProTracker: Probabilistic Integration for Robust and Accurate Point Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2501.03220)] 
   [[code](https://michaelszj.github.io/protracker)]
 
+- **BTMTrack:** Zhongxuan Zhang, Bi Zeng, Xinyu Ni, Yimin Du.<br />
+  "BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2501.03616)] 
+  [[code]( )]
 
+- **TGTrack:** Junze Shi, Yang Yu, Bin Hui, Jian Shi, Haibo Luo.<br />
+  "Historical States Modeling for Visual Tracking." NCAA (2025).
+  [[paper](https://arxiv.org/abs/2501.03616)] 
+  [[code]( )]
+  
   
 ### NeurIPS 2024
 
