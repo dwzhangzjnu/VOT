@@ -140,6 +140,11 @@
   [[paper](https://arxiv.org/abs/2501.03616)] 
   [[code]( )]
 
+- **RSTrack:** Juntao Liang, Jiaqi Zhou, Wei Li, Yong Wang, Tianjiang Hu, Qi Wu.<br />
+  "Reconstructed and Simulated Dataset for Aerial RGBD Tracking." RAL (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10829654)] 
+  [[code](https://github.com/TonikLeung/RSTrack)]
+
 - **TGTrack:** Junze Shi, Yang Yu, Bin Hui, Jian Shi, Haibo Luo.<br />
   "Historical States Modeling for Visual Tracking." NCAA (2025).
   [[paper](https://arxiv.org/abs/2501.03616)] 
