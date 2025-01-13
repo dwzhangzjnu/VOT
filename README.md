@@ -145,6 +145,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10829654)] 
   [[code](https://github.com/TonikLeung/RSTrack)]
 
+- **MAT:** He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
+  "Multi-modal adapter for RGB-T tracking." INFFUS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
+  [[code](https://github.com/ouha1998/MAT)]
+
 - **TGTrack:** Junze Shi, Yang Yu, Bin Hui, Jian Shi, Haibo Luo.<br />
   "Historical States Modeling for Visual Tracking." NCAA (2025).
   [[paper](https://arxiv.org/abs/2501.03616)] 
