@@ -140,6 +140,11 @@
   [[paper](https://arxiv.org/abs/2501.03616)] 
   [[code]( )]
 
+- **DRCT:** Xiantong Zhao, Xiuping Liu, Shengjing Tian, Yinan Han.<br />
+  "Robust Single Object Tracking in LiDAR Point Clouds under Adverse Weather Conditions." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2501.07133)] 
+  [[code]( )]
+  
 - **RSTrack:** Juntao Liang, Jiaqi Zhou, Wei Li, Yong Wang, Tianjiang Hu, Qi Wu.<br />
   "Reconstructed and Simulated Dataset for Aerial RGBD Tracking." RAL (2025).
   [[paper](https://ieeexplore.ieee.org/document/10829654)] 
@@ -149,7 +154,12 @@
   "Multi-modal adapter for RGB-T tracking." INFFUS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
   [[code](https://github.com/ouha1998/MAT)]
-
+  
+- **TUFNet:** Yisong Liu, Zhao Gao, Yang Cao, Dongming Zhou.<br />
+  "Two-stage Unidirectional Fusion Network for RGBT tracking." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125000310)] 
+  [[code]( )]
+  
 - **TGTrack:** Junze Shi, Yang Yu, Bin Hui, Jian Shi, Haibo Luo.<br />
   "Historical States Modeling for Visual Tracking." NCAA (2025).
   [[paper](https://arxiv.org/abs/2501.03616)] 
