@@ -145,6 +145,11 @@
   [[paper](https://arxiv.org/abs/2501.07133)] 
   [[code]( )]
   
+- **HotMoE:** Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao.<br />
+  "HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10855488)] 
+  [[code](https://github.com/supertyd/hotmoe)]
+
 - **RSTrack:** Juntao Liang, Jiaqi Zhou, Wei Li, Yong Wang, Tianjiang Hu, Qi Wu.<br />
   "Reconstructed and Simulated Dataset for Aerial RGBD Tracking." RAL (2025).
   [[paper](https://ieeexplore.ieee.org/document/10829654)] 
