@@ -145,6 +145,11 @@
   [[paper](https://arxiv.org/abs/2501.07133)] 
   [[code]( )]
   
+- **SNNTrack:** Jiqing Zhang, Malu Zhang, Yuanchen Wang, Qianhui Liu, Baocai Yin, Haizhou Li.<br />
+  "Spiking Neural Networks with Adaptive Membrane Time Constant for Event-Based Tracking." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10857949)] 
+  [[code]( )]
+
 - **HotMoE:** Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao.<br />
   "HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/10855488)] 
