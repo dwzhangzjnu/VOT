@@ -160,6 +160,16 @@
   [[paper](https://ieeexplore.ieee.org/document/10855488)] 
   [[code](https://github.com/supertyd/hotmoe)]
 
+- **PUTrack:** Qiuyang Zhang, Wei Song, Cong Liu, Minghua Zhang.<br />
+  "PUTrack: Improved Underwater Object Tracking via Progressive Prompting." TII (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10892342)] 
+  [[code](https://github.com/faicaiwawa/PUTrack)]
+
+- **CorPN:** Qun Li, Haijun Zhang, Kai Yang, Wei Dai, Jianghong Ma,Yuping Liu.<br />
+  "CorPN: Corner Prediction Network for Visual Tracking." TCE (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10891175)] 
+  [[code]( )]
+  
 - **RSTrack:** Juntao Liang, Jiaqi Zhou, Wei Li, Yong Wang, Tianjiang Hu, Qi Wu.<br />
   "Reconstructed and Simulated Dataset for Aerial RGBD Tracking." RAL (2025).
   [[paper](https://ieeexplore.ieee.org/document/10829654)] 
@@ -174,6 +184,11 @@
   "Two-stage Unidirectional Fusion Network for RGBT tracking." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125000310)] 
   [[code]( )]
+
+- **HFFTrack:** Sugang Ma, Zhen Wan, Licheng Zhang, Bin Hu, Jinyu Zhang, Xiangmo Zhao.<br />
+  "HFFTrack: Transformer Tracking via Hybrid Frequency Features." NUENET (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
+  [[code](https://github.com/ElliottZhen/HFFTrack)]
   
 - **TGTrack:** Junze Shi, Yang Yu, Bin Hui, Jian Shi, Haibo Luo.<br />
   "Historical States Modeling for Visual Tracking." NCAA (2025).
