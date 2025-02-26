@@ -135,6 +135,16 @@
   [[paper](https://arxiv.org/abs/2502.06583)] 
   [[code]( )]
 
+- **LightFC-X:** Yunfeng Li, Bo Wang, Ye Li.<br />
+  "LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2502.18143)] 
+  [[code](https://github.com/LiYunfengLYF/LightFC-X)]
+
+- **UASTrack:** He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
+  "UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2502.18220)] 
+  [[code](https://github.com/wanghe/UASTrack)]
+
 - **ProTracker:** Tingyang Zhang, Chen Wang, Zhiyang Dou, Qingzhe Gao, Jiahui Lei, Baoquan Chen, Lingjie Liu.<br />
   "ProTracker: Probabilistic Integration for Robust and Accurate Point Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2501.03220)] 
