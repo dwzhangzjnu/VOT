@@ -75,6 +75,16 @@
   [[code](https://github.com/baaivision/Painter)]
 
 
+
+### CVPR 2025
+
+- **MITracker:** Mengjie Xu, Yitao Zhu, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Qing Yang, Han Zhang, Qian Wang.<br />
+  "MITracker: Multi-View Integration for Visual Object Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2502.20111)] 
+  [[code](https://mii-laboratory.github.io/MITracker/)]
+
+
+
 ### AAAI 2025
 
 - **STTrack:** Xiantao Hu, Ying Tai, Xu Zhao, Chen Zhao, Zhenyu Zhang, Jun Li, Bineng Zhong, Jian Yang.<br />
@@ -175,6 +185,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10892342)] 
   [[code](https://github.com/faicaiwawa/PUTrack)]
 
+- **ATCTrack:** Xudong Luo, Di Yuan, Xiu Shu, Qiao Liu, Xiaojun Chang, Zhenyu He.<br />
+  "Adaptive Trajectory Correction for Underwater Object Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10900462)] 
+  [[code]( )]
+  
 - **CorPN:** Qun Li, Haijun Zhang, Kai Yang, Wei Dai, Jianghong Ma,Yuping Liu.<br />
   "CorPN: Corner Prediction Network for Visual Tracking." TCE (2025).
   [[paper](https://ieeexplore.ieee.org/document/10891175)] 
@@ -204,6 +219,12 @@
   "Historical States Modeling for Visual Tracking." NCAA (2025).
   [[paper](https://arxiv.org/abs/2501.03616)] 
   [[code]( )]
+
+- **CFTrack:** Juntao Liang, Jun Hou, Weijun Zhang, Yong Wang.<br />
+  "CFTrack: Enhancing Lightweight Visual Tracking through Contrastive Learning and Feature Matching." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2502.19705)] 
+  [[code]( )]
+  
   
   
 ### NeurIPS 2024
