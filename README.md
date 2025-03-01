@@ -220,6 +220,11 @@
   [[paper](https://arxiv.org/abs/2501.03616)] 
   [[code]( )]
 
+- **FCSurvey:** Wenqi Zhang, Xinqiang Li, Xingyu Liu, Shiteng Lu, Huanling Tang.<br />
+  "Facing Challenges: A Survey of Object Tracking." DSP (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1051200425001046)] 
+  [[code]( )]
+  
 - **CFTrack:** Juntao Liang, Jun Hou, Weijun Zhang, Yong Wang.<br />
   "CFTrack: Enhancing Lightweight Visual Tracking through Contrastive Learning and Feature Matching." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2502.19705)] 
