@@ -83,7 +83,11 @@
   [[paper](https://arxiv.org/abs/2502.20111)] 
   [[code](https://mii-laboratory.github.io/MITracker/)]
 
-
+- **OmniTrack:** Kai Luo, Hao Shi, Sheng Wu, Fei Teng, Mengfei Duan, Chang Huang, Yuhang Wang, Kaiwei Wang, Kailun Yang.<br />
+  "Omnidirectional Multi-Object Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2503.04565)] 
+  [[code](https://github.com/xifen523/OmniTrack)]
+  
 
 ### AAAI 2025
 
