@@ -214,7 +214,12 @@
   "HFFTrack: Transformer Tracking via Hybrid Frequency Features." NUENET (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
   [[code](https://github.com/ElliottZhen/HFFTrack)]
-  
+
+- **ASTrack:** Zhi Chen, Lijun Liu, Yu Zhen.<br />
+  "Transformer Tracking with Auxiliary Search Token." ESWA (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425005329)] 
+  [[code]( )]
+
 - **TGTrack:** Junze Shi, Yang Yu, Bin Hui, Jian Shi, Haibo Luo.<br />
   "Historical States Modeling for Visual Tracking." NCAA (2025).
   [[paper](https://arxiv.org/abs/2501.03616)] 
@@ -729,6 +734,11 @@
   [[paper](https://arxiv.org/abs/2408.11463)] 
   [[code](https://github.com/OpenCodeGithub/H-DCPT)]
 
+- **RGBEMOT:** Zhiyu Zhu, Junhui Hou, Jinjian Wu, Dapeng Wu.<br />
+  "RGB-Event MOT: A Cross-Modal Benchmark for Multi-Object Tracking." ArXiv (2024).
+  [[paper](https://openreview.net/forum?id=Z1Em654CSE)] 
+  [[code](https://github.com/ZHU-Zhiyu/RGBEvt-MOT)]
+  
 - **VOVTrack:** Zekun Qian, Ruize Han, Junhui Hou, Linqi Song, Wei Feng.<br />
   "VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.08529)] 
@@ -1401,6 +1411,11 @@
   [[paper](https://arxiv.org/abs/2211.11629)] 
   [[code](https://github.com/Jaraxxus-Me/PVT_pp)]
 
+- **COHA:** Zhiyu Zhu, Junhui Hou, Dapeng Oliver Wu.<br />
+  "Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2307.04129)] 
+  [[code](https://github.com/ZHU-Zhiyu/High-Rank_RGB-Event_Tracker)]
+
 - **SyncTrack:** Teli Ma, Mengmeng Wang, Jimin Xiao, Huifeng Wu, Yong Liu.<br />
   "Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking." ICCV (2023).
   [[paper](https://arxiv.org/abs/2308.12549)] 
@@ -1658,11 +1673,6 @@
   "Towards Efficient Training with Negative Samples in Visual Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.02903)] 
   [[code](hxx)]
-
-- **COHA:** Zhiyu Zhu, Junhui Hou, Dapeng Oliver Wu.<br />
-  "Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2307.04129)] 
-  [[code](https:/xx)]
   
 - **P3DTrack:** Jiawei He, Lue Fan, Yuqi Wang, Yuntao Chen, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang.<br />
   "Tracking Objects with 3D Representation from Videos." ArXiv (2023).
@@ -1843,7 +1853,7 @@
 - **GKB:** Zhiyu Zhu, Junhui Hou, Xianqiang Lyu.<br />
   "Leaning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds." NeurIPS (2022).
   [[paper](https://nips.cc/Conferences/2022/Schedule?showEvent=54651)] 
-  [[code](https://github.com/xxxx)]
+  [[code](https://github.com/ZHU-Zhiyu/Event-tracking)]
   
 - **TAP-Vid:** Carl Doersch, Ankush Gupta, Larisa Markeeva, Lucas Smaira, Yusuf Aytar, Andrew Zisserman, Yi Yang.<br />
   "TAP-Vid: A Benchmark for Tracking Any Point in a Video." NeurIPS (2022).
