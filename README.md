@@ -219,6 +219,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
   [[code](https://github.com/ElliottZhen/HFFTrack)]
 
+- **TBIM:** Huanlong Zhang, Weiqiang Fu, Rui Qi, Bineng Zhong, Xin Wang, Yanfeng Wang.<br />
+  "Target-background Interaction Modeling Transformer for Object Tracking." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125002771)] 
+  [[code]( )]
+
 - **ASTrack:** Zhi Chen, Lijun Liu, Yu Zhen.<br />
   "Transformer Tracking with Auxiliary Search Token." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425005329)] 
