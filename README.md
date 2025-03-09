@@ -194,9 +194,14 @@
   [[paper](https://ieeexplore.ieee.org/document/10900462)] 
   [[code]( )]
   
-- **CorPN:** Qun Li, Haijun Zhang, Kai Yang, Wei Dai, Jianghong Ma,Yuping Liu.<br />
+- **CorPN:** Qun Li, Haijun Zhang, Kai Yang, Wei Dai, Jianghong Ma, Yuping Liu.<br />
   "CorPN: Corner Prediction Network for Visual Tracking." TCE (2025).
   [[paper](https://ieeexplore.ieee.org/document/10891175)] 
+  [[code]( )]
+
+- **CasCenter:** Qun Li, Haijun Zhang, Kai Yang, Yong-Guo Shi, Deqiang Zeng, Wun-She Yap.<br />
+  "CasCenter: A Cascaded Center Network for Visual Tracking." TCE (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10909718)] 
   [[code]( )]
   
 - **RSTrack:** Juntao Liang, Jiaqi Zhou, Wei Li, Yong Wang, Tianjiang Hu, Qi Wu.<br />
