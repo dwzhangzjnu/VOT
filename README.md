@@ -83,6 +83,11 @@
   [[paper](https://arxiv.org/abs/2502.20111)] 
   [[code](https://mii-laboratory.github.io/MITracker/)]
 
+- **DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
+  "A Distractor-Aware Memory for Visual Object Tracking with SAM2." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2411.17576)] 
+  [[code](https://github.com/jovanavidenovic/DAM4SAM)]
+
 - **OmniTrack:** Kai Luo, Hao Shi, Sheng Wu, Fei Teng, Mengfei Duan, Chang Huang, Yuhang Wang, Kaiwei Wang, Kailun Yang.<br />
   "Omnidirectional Multi-Object Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.04565)] 
