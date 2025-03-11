@@ -83,6 +83,16 @@
   [[paper](https://arxiv.org/abs/2502.20111)] 
   [[code](https://mii-laboratory.github.io/MITracker/)]
 
+- **SGLATrack:** Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, Shuxiang Song.<br />
+  "Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2503.06625)] 
+  [[code](https://github.com/GXNU-ZhongLab/SGLATrack)]
+
+- **DUTrack:** Xiaohai Li, Bineng Zhong, Qihua Liang, Zhiyi Mo, Jian Nong, Shuxiang Song.<br />
+  "Dynamic Updates for Language Adaptation in Visual-Language Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2503.06621)] 
+  [[code](https://github.com/GXNU-ZhongLab/DUTrack)]
+  
 - **DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
   "A Distractor-Aware Memory for Visual Object Tracking with SAM2." CVPR (2025).
   [[paper](https://arxiv.org/abs/2411.17576)] 
