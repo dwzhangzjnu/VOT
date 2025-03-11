@@ -218,6 +218,11 @@
   "CasCenter: A Cascaded Center Network for Visual Tracking." TCE (2025).
   [[paper](https://ieeexplore.ieee.org/document/10909718)] 
   [[code]( )]
+
+- **TA-Track:** Betselot Yewulu Reta, Wei Xia.<br />
+  "3D Single Object Tracking with Temporal-Aware and Attention Mechanism." TIM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10912766)] 
+  [[code](https://github.com/betselot/TATrack)]
   
 - **RSTrack:** Juntao Liang, Jiaqi Zhou, Wei Li, Yong Wang, Tianjiang Hu, Qi Wu.<br />
   "Reconstructed and Simulated Dataset for Aerial RGBD Tracking." RAL (2025).
