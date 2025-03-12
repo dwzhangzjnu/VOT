@@ -157,6 +157,35 @@
   [[code](https://github.com/jiawen-zhu/AsymTrack)]
   
 
+### ICASSP 2025
+
+- **CLTrack:** Bin Chen, Shenglong Hu, Gang Dong, Lingyan Liang, Dongchao Wen, Kaihua Zhang.<br />
+  "Continuously Learning Video-level Object Tokens for Robust UAV tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10887950)] 
+  [[code]( )]
+
+- **LunarTracking:** Mohammed Leo, Ding Zhang, Hai-Tao Zheng, Haiye Lin.<br />
+  "Lunar Tracking: A New Benchmark For Nighttime Tiny Object Tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10890681)] 
+  [[code](https://github.com/kk123321x/LunarTracking)]
+
+- **EHDA:** Qiao Li, Kanlun Tan, Qiao Liu, Di Yuan, Xin Li, Yunpeng Liu.<br />
+  "Efficient Hierarchical Domain Adaptive Thermal Infrared Tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10890354)] 
+  [[code]( )]
+
+- **PDTrack:** Yeqiang Liu, Weiran Li, Yanhao Ding, Zhenbo Li.<br />
+  "PDTrack: Progressive Distance Association for Multiple Object Tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10888323)] 
+  [[code]( )]
+  
+- **RSM:** Riran Cheng, Xupeng Wang, Ferdous Sohel, Hang Lei.<br />
+  "RSM: Refined Saliency Map For Explainable 3D Object Tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10887798)] 
+  [[code]( )]
+
+
+
 ### ArXiv 2025
 
 - **APTrack:** Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang.<br />
