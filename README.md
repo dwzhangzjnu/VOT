@@ -213,6 +213,11 @@
   [[paper](https://arxiv.org/abs/2501.03616)] 
   [[code]( )]
 
+- **SDTrack** Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, Dehao Zhang, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Jiqing Zhang, Malu Zhang, Yang Yang.<br />
+  "SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.08703)] 
+  [[code]( )]
+
 - **DRCT:** Xiantong Zhao, Xiuping Liu, Shengjing Tian, Yinan Han.<br />
   "Robust Single Object Tracking in LiDAR Point Clouds under Adverse Weather Conditions." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2501.07133)] 
