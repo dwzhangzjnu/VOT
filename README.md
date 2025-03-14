@@ -92,6 +92,11 @@
   "Dynamic Updates for Language Adaptation in Visual-Language Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.06621)] 
   [[code](https://github.com/GXNU-ZhongLab/DUTrack)]
+
+- **MambaVLT:** Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He.<br />
+  "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2411.15459)] 
+  [[code]( )]
   
 - **DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
   "A Distractor-Aware Memory for Visual Object Tracking with SAM2." CVPR (2025).
@@ -835,11 +840,6 @@
 - **TrackMamba:** Jiaming Zhang, Cheng Liang, Yutao Cui, Xiangbo Shu, Gangshan Wu, Limin Wang .<br />
   "TrackMamba: Mamba-Transformer Tracking." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=V7QRVEZ0le)] 
-  [[code]( )]
-
-- **MambaVLT:** Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He.<br />
-  "MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2411.15459)] 
   [[code]( )]
 
 - **VLTVerse:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
