@@ -303,6 +303,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S1051200425001046)] 
   [[code]( )]
   
+- **BFTrans:** Xinglong Sun, Haijiang Sun, Shan Jiang, Jiacheng Wang, Jiasong Wang.<br />
+  "Target-aware Bidirectional Fusion Transformer for Aerial Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.09951)] 
+  [[code]( )]
+
 - **CFTrack:** Juntao Liang, Jun Hou, Weijun Zhang, Yong Wang.<br />
   "CFTrack: Enhancing Lightweight Visual Tracking through Contrastive Learning and Feature Matching." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2502.19705)] 
