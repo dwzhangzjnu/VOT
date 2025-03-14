@@ -164,11 +164,16 @@
 
 ### ICASSP 2025
 
+- **MFDA:** Zhiheng Li, Weng Zhimin, Yuehuan Wang.<br />
+  "Multi-view Feature Discrepancy Attack for Single Object Tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10889698)] 
+  [[code]( )]
+
 - **CLTrack:** Bin Chen, Shenglong Hu, Gang Dong, Lingyan Liang, Dongchao Wen, Kaihua Zhang.<br />
   "Continuously Learning Video-level Object Tokens for Robust UAV tracking." ICASSP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10887950)] 
   [[code]( )]
-
+  
 - **LunarTracking:** Mohammed Leo, Ding Zhang, Hai-Tao Zheng, Haiye Lin.<br />
   "Lunar Tracking: A New Benchmark For Nighttime Tiny Object Tracking." ICASSP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10890681)] 
