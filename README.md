@@ -203,6 +203,16 @@
   [[paper](https://arxiv.org/abs/2502.06583)] 
   [[code]( )]
 
+- **QuadFusion:** Andong Lu, Mai Wen, Jinhu Wang, Yuanzhi Guo, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "Towards General Multimodal Visual Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.11218)] 
+  [[code]( )]
+
+- **PFA:** Andong Lu, Yuanzhi Guo, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "Breaking Shallow Limits: Task-Driven Pixel Fusion for Gap-free RGBT Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.11247)] 
+  [[code]( )]
+
 - **LightFC-X:** Yunfeng Li, Bo Wang, Ye Li.<br />
   "LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2502.18143)] 
@@ -248,6 +258,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10892342)] 
   [[code](https://github.com/faicaiwawa/PUTrack)]
 
+- **AVLTrack:** Yuanliang Xue, Bineng Zhong, Guodong Jin, Tao Shen, Lining Tan, Ning Li.<br />
+  "AVLTrack: Dynamic Sparse Learning for Aerial Vision-Language Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10922151)] 
+  [[code](https://github.com/xyl-507/AVLTrack)]
+
 - **ATCTrack:** Xudong Luo, Di Yuan, Xiu Shu, Qiao Liu, Xiaojun Chang, Zhenyu He.<br />
   "Adaptive Trajectory Correction for Underwater Object Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/10900462)] 
@@ -285,7 +300,7 @@
 
 - **HFFTrack:** Sugang Ma, Zhen Wan, Licheng Zhang, Bin Hu, Jinyu Zhang, Xiangmo Zhao.<br />
   "HFFTrack: Transformer Tracking via Hybrid Frequency Features." NUENET (2025).
-  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025001480)] 
   [[code](https://github.com/ElliottZhen/HFFTrack)]
 
 - **TBIM:** Huanlong Zhang, Weiqiang Fu, Rui Qi, Bineng Zhong, Xin Wang, Yanfeng Wang.<br />
