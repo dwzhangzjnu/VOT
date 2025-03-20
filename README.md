@@ -318,6 +318,11 @@
   [[paper](https://arxiv.org/abs/2501.03616)] 
   [[code]( )]
 
+- **TADMT:** Guocai Du, Peiyong Zhou, Nurbiya Yadikar, Alimjan Aysa, Kurban Ubul.<br />
+  "Mamba Meets Tracker: Exploiting Token Aggregation and Diffusion for Robust Unmanned Aerial Vehicles Tracking." CAIS (2025).
+  [[paper](https://link.springer.com/article/10.1007/s40747-025-01821-z)] 
+  [[code]( )]
+
 - **FCSurvey:** Wenqi Zhang, Xinqiang Li, Xingyu Liu, Shiteng Lu, Huanling Tang.<br />
   "Facing Challenges: A Survey of Object Tracking." DSP (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1051200425001046)] 
@@ -1031,6 +1036,11 @@
 - **KSTrack:** Yuhang He, Zhiheng Ma, Xing Wei, Yihong Gong.<br />
   "Knowledge Synergy Learning for Multi-Modal Tracking." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10388341)] 
+  [[code]( )]
+
+- **SiamSRT:** Bo Huang, Zeyang Dou, Junjie Chen, Jianan Li, Ning Shen, Ying Wang.<br />
+  "Searching Region-Free and Template-Free Siamese Network for Tracking Drones in TIR Videos." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10352116)] 
   [[code]( )]
 
 - **SATDark:** Jialei Pan, Yanfeng Gu, Guoming Gao, Qiang Wang, Shaochuan Wu.<br />
