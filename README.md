@@ -83,6 +83,11 @@
   [[paper](https://arxiv.org/abs/2502.20111)] 
   [[code](https://mii-laboratory.github.io/MITracker/)]
 
+- **SPMTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang.<br />
+  "SPMTrack: Spatio-Temporal Parameter-Efficient Fine-Tuning with Mixture of Experts for Scalable Visual Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2503.18338)] 
+  [[code](https://github.com/WenRuiCai/SPMTrack)]
+  
 - **SGLATrack:** Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, Shuxiang Song.<br />
   "Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.06625)] 
@@ -103,6 +108,11 @@
   [[paper](https://arxiv.org/abs/2411.17576)] 
   [[code](https://github.com/jovanavidenovic/DAM4SAM)]
 
+- **MUST:** Haolin Qin, Tingfa Xu, Tianhao Li, Zhenxiang Chen, Tao Feng, Jianan Li.<br />
+  "MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2503.17699)] 
+  [[code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking)]
+  
 - **OmniTrack:** Kai Luo, Hao Shi, Sheng Wu, Fei Teng, Mengfei Duan, Chang Huang, Yuhang Wang, Kaiwei Wang, Kailun Yang.<br />
   "Omnidirectional Multi-Object Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.04565)] 
