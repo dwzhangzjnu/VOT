@@ -1229,7 +1229,7 @@
   [[code](https://github.com/jhl-Det/RGBD_Video_SOD)]
 
 - **RGBT-Tiny:** Xinyi Ying, Chao Xiao, Ruojing Li, Xu He, Boyang Li, Zhaoxu Li, Yingqian Wang, Mingyuan Hu, Qingyu Xu, Zaiping Lin, Miao Li, Shilin Zhou, Wei An, Weidong Sheng, Li Liu.<br />
-  "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines." arxiv (2024).
+  "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines." TPAMI (2025).
   [[paper](https://arxiv.org/abs/2406.14482)] 
   [[code](https://github.com/XinyiYing24/RGBT-Tiny)]
 
