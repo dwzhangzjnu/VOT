@@ -88,6 +88,11 @@
   [[paper](https://arxiv.org/abs/2503.18338)] 
   [[code](https://github.com/WenRuiCai/SPMTrack)]
   
+- **ORTrack :** You Wu, Xucheng Wang, Xiangyang Yang, Mengyuan Liu, Dan Zeng, Hengzhou Ye, Shuiwang Li.<br />
+  "Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking." CVPR (2025).
+  [[paper](https://cvpr.thecvf.com/virtual/2025/poster/33552)] 
+  [[code](https://github.com/wuyou3474/ORTrack)]
+
 - **SGLATrack:** Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, Shuxiang Song.<br />
   "Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.06625)] 
@@ -267,6 +272,11 @@
   "PUTrack: Improved Underwater Object Tracking via Progressive Prompting." TII (2025).
   [[paper](https://ieeexplore.ieee.org/document/10892342)] 
   [[code](https://github.com/faicaiwawa/PUTrack)]
+
+- **COST:** Chunhui Zhang, Li Liu, Jialin Gao, Xin Sun, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
+  "COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.01321)] 
+  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)]
 
 - **AVLTrack:** Yuanliang Xue, Bineng Zhong, Guodong Jin, Tao Shen, Lining Tan, Ning Li.<br />
   "AVLTrack: Dynamic Sparse Learning for Aerial Vision-Language Tracking." TCSVT (2025).
