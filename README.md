@@ -842,8 +842,8 @@
   [[paper](https://arxiv.org/abs/2408.13877)] 
   [[code](https://github.com/openat25/HIPTrack-MLS)]
 
-- **UW-COT:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
-  "Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2." ArXiv (2024).
+- **UW-COT:** Chunhui Zhang, Li Liu, Guanjie Huang, Zhipeng Zhang, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
+  "Underwater Camouflaged Object Tracking Meets Vision-Language SAM2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.16902)] 
   [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
