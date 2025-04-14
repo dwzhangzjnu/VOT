@@ -258,6 +258,16 @@
   [[paper](https://arxiv.org/abs/2501.07133)] 
   [[code]( )]
   
+- **CMDTrack:** Tianlu Zhang, Qiang Zhang, Kurt Debattista, Jungong Han.<br />
+  "Cross-Modality Distillation for Multi-modal Tracking." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10943265)] 
+  [[code](https://github.com/Tianlu-Zhang/TransCMD)]
+
+- **UncTrack:** Siyuan Yao, Yang Guo, Yanyang Yan, Wenqi Ren, Xiaochun Cao.<br />
+  "UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network." TIP (2025).
+  [[paper](https://arxiv.org/abs/2503.12888)] 
+  [[code](https://github.com/ManOfStory/UncTrack)]
+
 - **SNNTrack:** Jiqing Zhang, Malu Zhang, Yuanchen Wang, Qianhui Liu, Baocai Yin, Haizhou Li.<br />
   "Spiking Neural Networks with Adaptive Membrane Time Constant for Event-Based Tracking." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/10857949)] 
@@ -273,15 +283,45 @@
   [[paper](https://ieeexplore.ieee.org/document/10892342)] 
   [[code](https://github.com/faicaiwawa/PUTrack)]
 
+- **NOT-156:** Chen Sun, Xinyu Wang, Shenghua Fan, Xiaobing Dai, Yuting Wan, Xiao Jiang.<br />
+  "NOT-156: Night Object Tracking using Low-light and Thermal Infrared: From Multi-modal Common-aperture Camera to Benchmark Datasets." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10938642)] 
+  [[code](http://rsidea.whu.edu.cn/NOT156_dataset.htm)]
+
+- **CCTrack:** Ye Wang, Shaohui Mei, Mingyang Ma, Yuheng Liu, Tao Gao, Huiyang Han.<br />
+  "Hyperspectral Object Tracking With Context-Aware Learning and Category Consistency." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10928989)] 
+  [[code]( )]
+  
+- **HyA-T:** Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.<br />
+  "Hyperspectral Adapter for Object Tracking based on Hyperspectral Video." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.22199)] 
+  [[code](https://github.com/lgao001/HyA-T)]
+
 - **COST:** Chunhui Zhang, Li Liu, Jialin Gao, Xin Sun, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
   "COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.01321)] 
   [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)]
 
+- **ProVLT:** Chengao Zong, Jie Zhao; Xin Chen; Huchuan Lu; Dong Wang.<br />
+  "Learning Language Prompt for Vision-Language Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10947500)] 
+  [[code]( )]
+
+- **MAVLT:** Liangtao Shi, Bineng Zhong, Qihua Liang, Xiantao Hu, Zhiyi Mo, Shuxiang Song.<br />
+  "Mamba Adapter: Efficient Multi-Modal Fusion for Vision-Language Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10948517)] 
+  [[code](https://github.com/GXNU-ZhongLab/MAVLT)]
+
 - **AVLTrack:** Yuanliang Xue, Bineng Zhong, Guodong Jin, Tao Shen, Lining Tan, Ning Li.<br />
   "AVLTrack: Dynamic Sparse Learning for Aerial Vision-Language Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/10922151)] 
   [[code](https://github.com/xyl-507/AVLTrack)]
+
+- **FFTR:** Donghai Liao, Xiu Shu, Zhihui Li, Qiao Liu, Di Yuan, Xiaojun Chang.<br />
+  "Fine-grained Feature and Template Reconstruction for TIR Object Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10946152)] 
+  [[code]( )]
 
 - **ATCTrack:** Xudong Luo, Di Yuan, Xiu Shu, Qiao Liu, Xiaojun Chang, Zhenyu He.<br />
   "Adaptive Trajectory Correction for Underwater Object Tracking." TCSVT (2025).
@@ -298,10 +338,20 @@
   [[paper](https://ieeexplore.ieee.org/document/10909718)] 
   [[code]( )]
 
+- **AGA:** Rui Yao, Anqi Zhang, Yong Zhou, Jiaqi Zhao, Bing Liu, Abdulmotaleb El Saddik.<br />
+  "Adversarial Geometric Attacks for 3D Point Cloud Object Tracking." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10948328)] 
+  [[code](https://github.com/betselot/TATrack)]
+
 - **TA-Track:** Betselot Yewulu Reta, Wei Xia.<br />
   "3D Single Object Tracking with Temporal-Aware and Attention Mechanism." TIM (2025).
   [[paper](https://ieeexplore.ieee.org/document/10912766)] 
   [[code](https://github.com/betselot/TATrack)]
+
+- **CCETrack:** Yushi Yang, Wei Li, Ying Yao, Bo Zhou, Baojie Fan.<br />
+  "3D Single Object Tracking With Cross-Modal Fusion Conflict Elimination." RAL (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10930556)] 
+  [[code]( )]
   
 - **RSTrack:** Juntao Liang, Jiaqi Zhou, Wei Li, Yong Wang, Tianjiang Hu, Qi Wu.<br />
   "Reconstructed and Simulated Dataset for Aerial RGBD Tracking." RAL (2025).
@@ -318,6 +368,16 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125000310)] 
   [[code]( )]
 
+- **TVTracker:** Fang Gao, Wenjie Wu, Yan Jin, Jingfeng Tang, Hanbo Zheng, Shengheng Ma.<br />
+  "TVTracker: Target-Adaptive Text-Guided Visual Fusion for Multi-Modal RGB-T Tracking." IOTJ (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10948521)] 
+  [[code]( )]
+
+- **IAMTrack:** Huiwei Shi, Xiaodong Mu, Hao He, Chengliang Zhong, Bo Zhang, Peng Zhao.<br />
+  "IAMTrack: Interframe Appearance and Mdality Tokens Propagation with Temporal Modeling for RGBT Tracking." APIN (2025).
+  [[paper](https://link.springer.com/article/10.1007/s10489-025-06438-w)] 
+  [[code]( )]
+  
 - **HFFTrack:** Sugang Ma, Zhen Wan, Licheng Zhang, Bin Hu, Jinyu Zhang, Xiangmo Zhao.<br />
   "HFFTrack: Transformer Tracking via Hybrid Frequency Features." NUENET (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025001480)] 
@@ -331,6 +391,11 @@
 - **ASTrack:** Zhi Chen, Lijun Liu, Yu Zhen.<br />
   "Transformer Tracking with Auxiliary Search Token." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425005329)] 
+  [[code]( )]
+
+- **AdaMoT:** Yongjun Wang, Xiaohui Hao.<br />
+  "AdaMoT: Adaptive Motion-Aware Transformer for Efficient Visual Tracking." SPL (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10935672)] 
   [[code]( )]
 
 - **TGTrack:** Junze Shi, Yang Yu, Bin Hui, Jian Shi, Haibo Luo.<br />
