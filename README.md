@@ -90,7 +90,7 @@
   
 - **ORTrack :** You Wu, Xucheng Wang, Xiangyang Yang, Mengyuan Liu, Dan Zeng, Hengzhou Ye, Shuiwang Li.<br />
   "Learning Occlusion-Robust Vision Transformers for Real-Time UAV Tracking." CVPR (2025).
-  [[paper](https://cvpr.thecvf.com/virtual/2025/poster/33552)] 
+  [[paper](https://arxiv.org/abs/2504.09228)] 
   [[code](https://github.com/wuyou3474/ORTrack)]
 
 - **SGLATrack:** Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, Shuxiang Song.<br />
@@ -392,6 +392,11 @@
   "Transformer Tracking with Auxiliary Search Token." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425005329)] 
   [[code]( )]
+
+- **M3Track:** Zhangyong Tang, Tianyang Xu, Xiao-jun Wu, Josef Kittler.<br />
+  "M3Track: Meta-Prompt for Multi-Modal Tracking." SPL (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10949728)] 
+  [[code](https://github.com/Zhangyong-Tang/M3Track)]
 
 - **AdaMoT:** Yongjun Wang, Xiaohui Hao.<br />
   "AdaMoT: Adaptive Motion-Aware Transformer for Efficient Visual Tracking." SPL (2025).
