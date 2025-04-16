@@ -136,11 +136,21 @@
   [[paper](https://arxiv.org/abs/2412.19138)] 
   [[code](https://github.com/chenxin-dlut/SUTrack)]
 
+- **MIMTrack:** Xingmei Wang, Guohao Nie, Jiaxiang Meng, Zining Yan.<br />
+  "MIMTrack: In-Context Tracking via Masked Image Modeling." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32860)] 
+  [[code](https://github.com/chenxin-dlut/SUTrack)]
+  
 - **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
   "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." AAAI (2025).
   [[paper](https://arxiv.org/abs/2408.08827)] 
   [[code]( )]
 
+- **CMS:** Xinyu Xiang, Qinglong Yan, Hao Zhang, Jianfeng Ding, Han Xu, Zhongyuan Wang, Jiayi Ma.<br />
+  "Cross-Modal Stealth: A Coarse-to-Fine Attack Framework for RGB-T Tracker ." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32931)] 
+  [[code](https://github.com/Xinyu-Xiang/CMS)]
+  
 - **CAFormer:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Yin Lin, Bing Yin, Cong Liu.<br />
   "Cross-modulated Attention Transformer for RGBT Tracking." AAAI (2025).
   [[paper](https://arxiv.org/abs/2408.02222)] 
@@ -160,6 +170,11 @@
   "MambaLCT: Boosting Tracking via Long-term Context State Space Model." AAAI (2025).
   [[paper](https://arxiv.org/abs/2412.13615)] 
   [[code](https://github.com/GXNU-ZhongLab/MambaLCT)]
+
+- **SSTrack:** Yaozong Zheng , Bineng Zhong, Qihua Liang, Ning Li, Shuxiang Song.<br />
+  "Decoupled Spatio-Temporal Consistency Learning for Self-Supervised Tracking." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33155)] 
+  [[code](https://github.com/GXNU-ZhongLab/SSTrack)]
   
 - **MCITrack:** Ben Kang, Xin Chen, Simiao Lai, Yang Liu, Yi Liu, Dong Wang.<br />
   "Exploring Enhanced Contextual Information for Video-Level Object Tracking." AAAI (2025).
@@ -171,6 +186,16 @@
   [[paper](https://arxiv.org/abs/2503.00516)] 
   [[code](https://github.com/jiawen-zhu/AsymTrack)]
 
+- **LVPTrack:** Hongjing Wu, Siyuan Yao, Feng Huang, Shu Wang, Linchao Zhang, Zhuoran Zheng, Wenqi Ren.<br />
+  "LVPTrack: High Performance Domain Adaptive UAV Tracking with Label Aligned Visual Prompt Tuning." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32906)] 
+  [[code]( )]
+
+- **MM-Tracker:** Mufeng Yao, Jinlong Peng, Qingdong He, Bo Peng, Hao Chen, Mingmin Chi, Chao Liu.<br />
+  "MM-Tracker: Motion Mamba for UAV-platform Multiple Object Tracking." AAAI (2025).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33019)] 
+  [[code](https://github.com/YaoMufeng/MMTracker)]
+  
 - **PSOT:** Zhangbin Li, Jinxing Zhou, Jing Zhang, Shengeng Tang, Kun Li, Dan Guo.<br />
   "Patch-level Sounding Object Tracking for Audio-Visual Question Answering." AAAI (2025).
   [[paper](https://arxiv.org/abs/2412.10749)] 
@@ -271,6 +296,16 @@
 - **SNNTrack:** Jiqing Zhang, Malu Zhang, Yuanchen Wang, Qianhui Liu, Baocai Yin, Haizhou Li.<br />
   "Spiking Neural Networks with Adaptive Membrane Time Constant for Event-Based Tracking." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/10857949)] 
+  [[code]( )]
+
+- **HPL:** Mianzhao Wang, Fan Shi, Xu Cheng, Shengyong Chen.<br />
+  "Prior Knowledge-Driven Hybrid Prompter Learning for RGB-Event Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10962221)] 
+  [[code]( )]
+  
+- **DyTrack:** Jiawen Zhu, Xin Chen, Haiwen Diao, Shuai Li, Jun-Yan He, Chenyang Li, Bin Luo, Dong Wang, Huchuan Lu.<br />
+  "Exploring Dynamic Transformer for Efficient Object Tracking." TNNLS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10947615)] 
   [[code]( )]
 
 - **HotMoE:** Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao.<br />
@@ -393,6 +428,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425005329)] 
   [[code]( )]
 
+- **A-CLIP:** Hong Zhu, Qingyang Lu, Lei Xue, Guanglin Yuan, Kaihua Zhang.<br />
+  "Joint Feature Extraction and Alignment in Object Tracking with Vision-Language Model." EAAI (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625007870)] 
+  [[code]( )]
+  
 - **M3Track:** Zhangyong Tang, Tianyang Xu, Xiao-jun Wu, Josef Kittler.<br />
   "M3Track: Meta-Prompt for Multi-Modal Tracking." SPL (2025).
   [[paper](https://ieeexplore.ieee.org/document/10949728)] 
@@ -1467,11 +1507,6 @@
   "Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.04256)] 
   [[code](https://github.com/zifuwan/Sigma)]
-
-- **DyTrack:** Jiawen Zhu, Xin Chen, Haiwen Diao, Shuai Li, Jun-Yan He, Chenyang Li, Bin Luo, Dong Wang, Huchuan Lu.<br />
-  "Exploring Dynamic Transformer for Efficient Object Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2403.17651)] 
-  [[code](https://github.com/)]
 
 - **CaDeX++:** Yunzhou Song, Jiahui Lei, Ziyun Wang, Lingjie Liu, Kostas Daniilidis.<br />
   "Track Everything Everywhere Fast and Robustly." ArXiv (2024).
