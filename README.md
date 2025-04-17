@@ -122,6 +122,11 @@
   "Omnidirectional Multi-Object Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.04565)] 
   [[code](https://github.com/xifen523/OmniTrack)]
+
+- **Anti-UAV:** Yifei Dong, Fengyi Wu, Sanjian Zhang, Guangyu Chen, Yuzhi Hu, Masumi Yano, Jingdong Sun, Siyu Huang, Feng Liu, Qi Dai, Zhi-Qi Cheng.<br />
+  "Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions." CVPRW (2025).
+  [[paper](https://arxiv.org/abs/2504.11967)] 
+  [[code]( )]
   
 
 ### AAAI 2025
