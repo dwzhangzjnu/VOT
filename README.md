@@ -244,7 +244,7 @@
 ### ArXiv 2025
 
 - **APTrack:** Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang.<br />
-  "Adaptive Perception for Unified Visual Multi-modal Object Tracking." ArXiv (2025).
+  "Adaptive Perception for Unified Visual Multi-modal Object Tracking." TAI (2025).
   [[paper](https://arxiv.org/abs/2502.06583)] 
   [[code]( )]
 
@@ -258,6 +258,11 @@
   [[paper](https://arxiv.org/abs/2503.11247)] 
   [[code]( )]
 
+- **CM3AE:** Wentao Wu, Xiao Wang, Chenglong Li, Bo Jiang, Jin Tang, Bin Luo, Qi Liu.<br />
+  "CM3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.12576)] 
+  [[code](https://github.com/Event-AHU/CM3AE)]
+  
 - **LightFC-X:** Yunfeng Li, Bo Wang, Ye Li.<br />
   "LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2502.18143)] 
