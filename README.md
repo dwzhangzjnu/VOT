@@ -258,6 +258,11 @@
   [[paper](https://arxiv.org/abs/2503.11247)] 
   [[code]( )]
 
+- **FocusTrack:** Ying Wang, Tingfa Xu, Jianan Li.<br />
+  "FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.13604)] 
+  [[code](https://github.com/vero1925/FocusTrack)]
+
 - **CM3AE:** Wentao Wu, Xiao Wang, Chenglong Li, Bo Jiang, Jin Tang, Bin Luo, Qi Liu.<br />
   "CM3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.12576)] 
