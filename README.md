@@ -293,6 +293,11 @@
   [[paper](https://arxiv.org/abs/2503.08703)] 
   [[code]( )]
 
+- **Attack4RGBE** Qiang Chen, Xiao Wang, Haowen Wang, Bo Jiang, Lin Zhu, Dawei Zhang, Yonghong Tian, Jin Tang.<br />
+  "Adversarial Attack for RGB-Event based Visual Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.08703)] 
+  [[code](https://github.com/Event-AHU/Adversarial_Attack_Defense)]
+
 - **DRCT:** Xiantong Zhao, Xiuping Liu, Shengjing Tian, Yinan Han.<br />
   "Robust Single Object Tracking in LiDAR Point Clouds under Adverse Weather Conditions." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2501.07133)] 
@@ -352,6 +357,11 @@
   "COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.01321)] 
   [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)]
+
+- **SIEVL-Track:** Ning Li, Bineng Zhong, Qihua Liang, Zhiyi Mo, Jian Nong, Shuxiang Song.<br />
+  "SIEVL-Track: Exploring Semantic Information Enhancement for Visual-Language Object Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10845881)] 
+  [[code]( )]
 
 - **ProVLT:** Chengao Zong, Jie Zhao; Xin Chen; Huchuan Lu; Dong Wang.<br />
   "Learning Language Prompt for Vision-Language Tracking." TCSVT (2025).
