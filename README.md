@@ -268,6 +268,11 @@
   [[paper](https://arxiv.org/abs/2504.12576)] 
   [[code](https://github.com/Event-AHU/CM3AE)]
   
+- **SonarT165:** Yunfeng Li, Bo Wang, Jiahao Wan, Xueyi Wu, Ye Li.<br />
+  "SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.15609)] 
+  [[code](https://github.com/LiYunfengLYF/SonarT165)]
+
 - **LightFC-X:** Yunfeng Li, Bo Wang, Ye Li.<br />
   "LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2502.18143)] 
@@ -453,6 +458,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425005329)] 
   [[code]( )]
 
+- **Anti-MUAV15 :** Shihan Liu, Tianyang Xu, Xue-Feng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
+  "Learning Adaptive Detection and Tracking Collaborations with Augmented UAV Synthesis for Accurate Anti-UAV System." ESWA (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425013016)] 
+  [[code](https://github.com/Shihan0325/Anti-MUAV15)]
+  
 - **A-CLIP:** Hong Zhu, Qingyang Lu, Lei Xue, Guanglin Yuan, Kaihua Zhang.<br />
   "Joint Feature Extraction and Alignment in Object Tracking with Vision-Language Model." EAAI (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625007870)] 
