@@ -288,6 +288,11 @@
   [[paper](https://arxiv.org/abs/2501.03220)] 
   [[code](https://michaelszj.github.io/protracker)]
 
+- **HMAD:** Boyue Xu, Yi Xu, Ruichao Hou, Jia Bei, Tongwei Ren, Gangshan Wu.<br />
+  "RGB-D Tracking via Hierarchical Modality Aggregation and Distribution Network." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.17595)] 
+  [[code]( )]
+
 - **BTMTrack:** Zhongxuan Zhang, Bi Zeng, Xinyu Ni, Yimin Du.<br />
   "BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2501.03616)] 
