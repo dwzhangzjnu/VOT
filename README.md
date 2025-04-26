@@ -333,6 +333,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10962221)] 
   [[code]( )]
   
+- **AETrack:** Zhiruo Zhu, Bineng Zhong, Qihua Liang, Hongtao Yang, Yaozong Zheng, Ning Li.<br />
+  "Adaptive Expert Decision for RGB-T Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10973112)] 
+  [[code]( )]
+  
 - **DyTrack:** Jiawen Zhu, Xin Chen, Haiwen Diao, Shuai Li, Jun-Yan He, Chenyang Li, Bin Luo, Dong Wang, Huchuan Lu.<br />
   "Exploring Dynamic Transformer for Efficient Object Tracking." TNNLS (2025).
   [[paper](https://ieeexplore.ieee.org/document/10947615)] 
