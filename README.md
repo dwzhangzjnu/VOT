@@ -478,6 +478,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625007870)] 
   [[code]( )]
   
+- **MFNet:** Fanghua Hong, Wanyu Wang, Andong Lu, Lei Liu, Qunjing Wang.<br />
+  "Efficient RGBT Tracking via Multi-Path Mamba Fusion Network." SPL (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10971948)] 
+  [[code]( )]
+
 - **M3Track:** Zhangyong Tang, Tianyang Xu, Xiao-jun Wu, Josef Kittler.<br />
   "M3Track: Meta-Prompt for Multi-Modal Tracking." SPL (2025).
   [[paper](https://ieeexplore.ieee.org/document/10949728)] 
