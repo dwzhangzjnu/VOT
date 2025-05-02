@@ -313,6 +313,11 @@
   [[paper](https://arxiv.org/abs/2503.08703)] 
   [[code](https://github.com/Event-AHU/Adversarial_Attack_Defense)]
 
+- **DMP:** Zihan Zhou, Changrui Dai, Aibo Song, Xiaolin Fang.<br />
+  "Enhancing Self-Supervised Fine-Grained Video Object Tracking with Dynamic Memory Prediction." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2504.21692)] 
+  [[code]( )]
+
 - **DRCT:** Xiantong Zhao, Xiuping Liu, Shengjing Tian, Yinan Han.<br />
   "Robust Single Object Tracking in LiDAR Point Clouds under Adverse Weather Conditions." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2501.07133)] 
@@ -522,6 +527,11 @@
   "Historical States Modeling for Visual Tracking." NCAA (2025).
   [[paper](https://arxiv.org/abs/2501.03616)] 
   [[code]( )]
+
+- **TAAT:** Zhangyong Tang, Tianyang Xu, Xiao-Jun Wu, Josef Kittler.<br />
+  "Temporal Aggregation for Real-time RGBT Tracking via Fast Decision-level Fusion." PRL (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0167865525001229)] 
+  [[code](https://github.com/Zhangyong-Tang/TAAT-PRL)]
 
 - **TADMT:** Guocai Du, Peiyong Zhou, Nurbiya Yadikar, Alimjan Aysa, Kurban Ubul.<br />
   "Mamba Meets Tracker: Exploiting Token Aggregation and Diffusion for Robust Unmanned Aerial Vehicles Tracking." CAIS (2025).
