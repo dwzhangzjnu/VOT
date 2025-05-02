@@ -123,6 +123,11 @@
   [[paper](https://arxiv.org/abs/2503.04565)] 
   [[code](https://github.com/xifen523/OmniTrack)]
 
+- **DFormerv2:** Bo-Wen Yin, Jiao-Long Cao, Ming-Ming Cheng, Qibin Hou.<br />
+  "DFormerv2: Geometry Self-Attention for RGBD Semantic Segmentation." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2504.04701)] 
+  [[code](https://github.com/VCIP-RGBD/DFormer)]
+  
 - **Anti-UAV:** Yifei Dong, Fengyi Wu, Sanjian Zhang, Guangyu Chen, Yuzhi Hu, Masumi Yano, Jingdong Sun, Siyu Huang, Feng Liu, Qi Dai, Zhi-Qi Cheng.<br />
   "Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions." CVPRW (2025).
   [[paper](https://arxiv.org/abs/2504.11967)] 
@@ -318,6 +323,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10943265)] 
   [[code](https://github.com/Tianlu-Zhang/TransCMD)]
 
+- **DMD:** Yufan Hu, Zekai Shao, Bin Fan, Hongmin Liu.<br />
+  "Dual-level Modality De-biasing for RGB-T Tracking." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10975100)] 
+  [[code]( )]
+
 - **UncTrack:** Siyuan Yao, Yang Guo, Yanyang Yan, Wenqi Ren, Xiaochun Cao.<br />
   "UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network." TIP (2025).
   [[paper](https://arxiv.org/abs/2503.12888)] 
@@ -378,6 +388,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10845881)] 
   [[code]( )]
 
+- **SATrack:** Yuyang Tang, Yinchao Ma, Tianzhu Zhang.<br />
+  "Semantic-aware Network for Natural Language Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10973162)] 
+  [[code]( )]
+  
 - **ProVLT:** Chengao Zong, Jie Zhao; Xin Chen; Huchuan Lu; Dong Wang.<br />
   "Learning Language Prompt for Vision-Language Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/10947500)] 
@@ -413,10 +428,20 @@
   [[paper](https://ieeexplore.ieee.org/document/10909718)] 
   [[code]( )]
 
+- **AMLAA:** Sihang Ma, Yuanfang Chen, Xing Fang, Xiaohan Chen, Muhammad Alam.<br />
+  "Metaverse Target-Tracking Security: A Study on Adaptive Metalearning Adversarial Attack Methods." MSMC (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10970385)] 
+  [[code]( )]
+
 - **AGA:** Rui Yao, Anqi Zhang, Yong Zhou, Jiaqi Zhao, Bing Liu, Abdulmotaleb El Saddik.<br />
   "Adversarial Geometric Attacks for 3D Point Cloud Object Tracking." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/10948328)] 
   [[code](https://github.com/betselot/TATrack)]
+
+- **MSTIC:** Xiaoyu Ni, Liang Yuan, Yongming Han.<br />
+  "Multiscale Spatio-Temporal Information Cascade Single-Object Visual Tracker." TIM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10972015)] 
+  [[code]( )]
 
 - **TA-Track:** Betselot Yewulu Reta, Wei Xia.<br />
   "3D Single Object Tracking with Temporal-Aware and Attention Mechanism." TIM (2025).
