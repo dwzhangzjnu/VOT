@@ -463,6 +463,21 @@
   [[paper](https://ieeexplore.ieee.org/document/10829654)] 
   [[code](https://github.com/TonikLeung/RSTrack)]
 
+- **DSTrack:** Zhixing Wang, Kai Wang, Chuanming Tang, Xiang Li, Jianlin Zhang, Lianli Gao.<br />
+  "DSTrack: Diffusion-based Sequence Learning for Visual Object Tracking." PR (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325003541)] 
+  [[code]( )]
+
+- **GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
+  "ClickTrack: Towards Real-time Interactive Single Object Tracking." PR (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009622)] 
+  [[code]( )]
+
+- **ATOTrack:** Sixian Chan, Xianpeng Zeng, Zhoujian Wu, Yu Wang, Xiaolong Zhou, Tinglong Tang, Jie Hu.<br />
+  "Adaptive Target Oriented Tracking." TIST (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3732785)] 
+  [[code]( )]
+  
 - **MAT:** He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
   "Multi-modal adapter for RGB-T tracking." INFFUS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
@@ -1021,11 +1036,6 @@
   "Efficient Track Anything." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2411.18933)] 
   [[code](https://yformer.github.io/efficient-track-anything/)]
-
-- **GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
-  "ClickTrack: Towards Real-time Interactive Single Object Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2411.13183)] 
-  [[code]( )]
 
 - **DTVLT:** Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang.<br />
   "DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM." ArXiv (2024).
