@@ -244,6 +244,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10887798)] 
   [[code]( )]
 
+- **DARTer:** Xuzhao Li, Xuchen Li, Shiyu Hu.<br />
+  "DARTer: Dynamic Adaptive Representation Tracker for Nighttime UAV Tracking." ICMR (2025).
+  [[paper](https://arxiv.org/abs/2505.00752)] 
+  [[code]( )]
+  
 
 
 ### ArXiv 2025
@@ -356,6 +361,11 @@
 - **DyTrack:** Jiawen Zhu, Xin Chen, Haiwen Diao, Shuai Li, Jun-Yan He, Chenyang Li, Bin Luo, Dong Wang, Huchuan Lu.<br />
   "Exploring Dynamic Transformer for Efficient Object Tracking." TNNLS (2025).
   [[paper](https://ieeexplore.ieee.org/document/10947615)] 
+  [[code]( )]
+
+- **MHITrack:** Lei Lei, Xianxian Li.<br />
+  "Multi-modal Hybrid Interaction Vision-language Tracking." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10980446)] 
   [[code]( )]
 
 - **HotMoE:** Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao.<br />
