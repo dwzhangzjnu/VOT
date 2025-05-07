@@ -134,6 +134,14 @@
   [[code]( )]
   
 
+### IJCAI 2025
+
+- **GDSTrack:** Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Kunyang Sun, Bing Liu, Zhiwen Shao, Jiaqi Zhao.<br />
+  "Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking." IJCAI (2025).
+  [[paper](https://arxiv.org/abs/2505.03507)] 
+  [[code](https://github.com/LiShenglana/GDSTrack)]
+
+
 ### AAAI 2025
 
 - **STTrack:** Xiantao Hu, Ying Tai, Xu Zhao, Chen Zhao, Zhenyu Zhang, Jun Li, Bineng Zhong, Jian Yang.<br />
@@ -532,7 +540,12 @@
   "Joint Feature Extraction and Alignment in Object Tracking with Vision-Language Model." EAAI (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625007870)] 
   [[code]( )]
-  
+
+  - **ECTTrack:** Liang Xu, Zhiqing Guo, Liejun Wang.<br />
+  "Efficient hybrid linear self-attention based visual object tracking with LoRA." NUECOM (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225010070)] 
+  [[code](https://github.com/mrlonely426/ECTTrack)]
+
 - **MFNet:** Fanghua Hong, Wanyu Wang, Andong Lu, Lei Liu, Qunjing Wang.<br />
   "Efficient RGBT Tracking via Multi-Path Mamba Fusion Network." SPL (2025).
   [[paper](https://ieeexplore.ieee.org/document/10971948)] 
