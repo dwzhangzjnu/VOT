@@ -276,6 +276,11 @@
   [[paper](https://arxiv.org/abs/2503.11247)] 
   [[code]( )]
 
+- **SMMT:** Shang Zhang, Huanbin Zhang, Dali Feng, Yujie Cui, Ruoyan Xiong, Cen He.<br />
+  "SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.04088)] 
+  [[code]( )]
+  
 - **FocusTrack:** Ying Wang, Tingfa Xu, Jianan Li.<br />
   "FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.13604)] 
