@@ -132,6 +132,11 @@
   "Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions." CVPRW (2025).
   [[paper](https://arxiv.org/abs/2504.11967)] 
   [[code]( )]
+
+- **FDTrack:** Chenxu Peng, Chenxu Wang, Minrui Zou, Danyang Li, Zhengpeng Yang, Yimian Dai, Ming-Ming Cheng, Xiang Li.<br />
+  "A Simple Detector with Frame Dynamics is a Strong Tracker." CVPRW (2025).
+  [[paper](https://arxiv.org/abs/2505.04917)] 
+  [[code](https://github.com/facias914/A-Simple-Detector-is-a-Strong-Tracker)]
   
 
 ### IJCAI 2025
@@ -536,10 +541,15 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425005329)] 
   [[code]( )]
 
-- **Anti-MUAV15 :** Shihan Liu, Tianyang Xu, Xue-Feng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
+- **Anti-MUAV15:** Shihan Liu, Tianyang Xu, Xue-Feng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
   "Learning Adaptive Detection and Tracking Collaborations with Augmented UAV Synthesis for Accurate Anti-UAV System." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425013016)] 
   [[code](https://github.com/Shihan0325/Anti-MUAV15)]
+
+- **VOTReview:** Zeshi Chen, Caiping Peng, Shuai Liu, Weiping Ding.<br />
+  "Visual Object Tracking: Review and Challenges." ASOC (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S156849462500451X)] 
+  [[code]( )]
   
 - **A-CLIP:** Hong Zhu, Qingyang Lu, Lei Xue, Guanglin Yuan, Kaihua Zhang.<br />
   "Joint Feature Extraction and Alignment in Object Tracking with Vision-Language Model." EAAI (2025).
