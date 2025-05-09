@@ -556,7 +556,7 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625007870)] 
   [[code]( )]
 
-  - **ECTTrack:** Liang Xu, Zhiqing Guo, Liejun Wang.<br />
+- **ECTTrack:** Liang Xu, Zhiqing Guo, Liejun Wang.<br />
   "Efficient hybrid linear self-attention based visual object tracking with LoRA." NUECOM (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225010070)] 
   [[code](https://github.com/mrlonely426/ECTTrack)]
