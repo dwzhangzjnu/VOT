@@ -232,6 +232,11 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10889698)] 
   [[code]( )]
 
+- **CGTrack:** Weihong Li, Xiaoqiong Liu, Heng Fan, Libo Zhang.<br />
+  "CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking." ICRA (2025).
+  [[paper](https://arxiv.org/abs/2505.05936)] 
+  [[code](https://github.com/Nightwatch-Fox11/CGTrack)]
+
 - **CLTrack:** Bin Chen, Shenglong Hu, Gang Dong, Lingyan Liang, Dongchao Wen, Kaihua Zhang.<br />
   "Continuously Learning Video-level Object Tokens for Robust UAV tracking." ICASSP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10887950)] 
