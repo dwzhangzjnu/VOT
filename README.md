@@ -356,6 +356,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10943265)] 
   [[code](https://github.com/Tianlu-Zhang/TransCMD)]
 
+- **DIFTracker:** Pha Nguyen, Rishi Madhok, Bhiksha Raj, Khoa Luu.<br />
+  "Autoregressive Temporal Modeling for Advanced Tracking-by-Diffusion." IJCV (2025).
+  [[paper](https://link.springer.com/article/10.1007/s11263-025-02439-x)] 
+  [[code]( )]
+
 - **DMD:** Yufan Hu, Zekai Shao, Bin Fan, Hongmin Liu.<br />
   "Dual-level Modality De-biasing for RGB-T Tracking." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/10975100)] 
