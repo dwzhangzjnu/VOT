@@ -586,6 +586,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10935672)] 
   [[code]( )]
 
+- **FAEFTrack:** Xilong Shang, Zhaoyuan Zeng, Xiaopeng Li, Cien Fan, Weizheng Jin.<br />
+  "Improving Object Tracking Performances with Frequency Learning for Event Cameras." JSEN (2025).
+  [[paper](https://ieeexplore.ieee.org/document/10994255)] 
+  [[code]( )]
+  
 - **TGTrack:** Junze Shi, Yang Yu, Bin Hui, Jian Shi, Haibo Luo.<br />
   "Historical States Modeling for Visual Tracking." NCAA (2025).
   [[paper](https://arxiv.org/abs/2501.03616)] 
