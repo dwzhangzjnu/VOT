@@ -401,6 +401,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10855488)] 
   [[code](https://github.com/supertyd/hotmoe)]
 
+- **TLH:** Xiaoyan Yang, Licheng Jiao, Yangyang Li, Xu Liu, Lingling Li, Puhua Chen.<br />
+  "Tracking Like Human: Dynamic Scene Learning Reasoning Tracker in Satellite Videos." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11000100)] 
+  [[code]( )]
+  
 - **PUTrack:** Qiuyang Zhang, Wei Song, Cong Liu, Minghua Zhang.<br />
   "PUTrack: Improved Underwater Object Tracking via Progressive Prompting." TII (2025).
   [[paper](https://ieeexplore.ieee.org/document/10892342)] 
