@@ -336,6 +336,11 @@
   [[paper](https://arxiv.org/abs/2503.08703)] 
   [[code]( )]
 
+- **AMGA** Wei-Long Tian, Peng Gao, Xiao Liu, Long Xu, Hamido Fujita, Hanan Aljuai, Mao-Li Wang.<br />
+  "Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.08999)] 
+  [[code](https://github.com/pgao-lab/AMGA)]
+
 - **Attack4RGBE** Qiang Chen, Xiao Wang, Haowen Wang, Bo Jiang, Lin Zhu, Dawei Zhang, Yonghong Tian, Jin Tang.<br />
   "Adversarial Attack for RGB-Event based Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.08703)] 
@@ -386,6 +391,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10973112)] 
   [[code]( )]
   
+- **MPIT:** Wuwei Wang, Meibo Lv, Lin Zhu, Tuo Han, Yi Zhang, Yuanqing Li.<br />
+  "Siamese Visual Tracking with Multi-Parallel Interactive Transformers." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11003183)] 
+  [[code](https://github.com/wangwuwei/MPIT)]
+
 - **DyTrack:** Jiawen Zhu, Xin Chen, Haiwen Diao, Shuai Li, Jun-Yan He, Chenyang Li, Bin Luo, Dong Wang, Huchuan Lu.<br />
   "Exploring Dynamic Transformer for Efficient Object Tracking." TNNLS (2025).
   [[paper](https://ieeexplore.ieee.org/document/10947615)] 
@@ -522,13 +532,18 @@
   [[code]( )]
   
 - **MAT:** He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
-  "Multi-modal adapter for RGB-T tracking." INFFUS (2025).
+  "Multi-modal Adapter for RGB-T Tracking." INFFUS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
   [[code](https://github.com/ouha1998/MAT)]
   
 - **TUFNet:** Yisong Liu, Zhao Gao, Yang Cao, Dongming Zhou.<br />
   "Two-stage Unidirectional Fusion Network for RGBT tracking." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125000310)] 
+  [[code]( )]
+
+- **RDT-TEF:** Long Gao, Yuze Ke, Wanlin Zhao, Yang Zhang, Yan Jiang, Gang He, Yunsong Li.<br />
+  "RGB-D Visual Object Tracking with Transformer-based Multi-modal Feature Fusion." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125005775)] 
   [[code]( )]
 
 - **TVTracker:** Fang Gao, Wenjie Wu, Yan Jin, Jingfeng Tang, Hanbo Zheng, Shengheng Ma.<br />
