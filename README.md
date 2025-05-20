@@ -271,6 +271,11 @@
 
 ### ArXiv 2025
 
+- **Diff-MM:** Shiyu Xuan, Zechao Li, Jinhui Tang.<br />
+  "Diff-MM: Exploring Pre-trained Text-to-Image Generation Model for Unified Multi-modal Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.12606)] 
+  [[code]( )]
+
 - **APTrack:** Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang.<br />
   "Adaptive Perception for Unified Visual Multi-modal Object Tracking." TAI (2025).
   [[paper](https://arxiv.org/abs/2502.06583)] 
@@ -340,6 +345,11 @@
   "Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.08999)] 
   [[code](https://github.com/pgao-lab/AMGA)]
+
+- **SFTrack** Shiao Wang, Xiao Wang, Liye Jin, Bo Jiang, Lin Zhu, Lan Chen, Yonghong Tian, Bin Luo.<br />
+  "Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.12903)] 
+  [[code](https://github.com/Event-AHU/SlowFast_Event_Track)]
 
 - **Attack4RGBE** Qiang Chen, Xiao Wang, Haowen Wang, Bo Jiang, Lin Zhu, Dawei Zhang, Yonghong Tian, Jin Tang.<br />
   "Adversarial Attack for RGB-Event based Visual Object Tracking." ArXiv (2025).
