@@ -431,6 +431,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10892342)] 
   [[code](https://github.com/faicaiwawa/PUTrack)]
 
+- **MGTrack:** Shaoyang Ma, Yao Yang, Kai Zhang, Gang Chen.<br />
+  "Transformer-Based Memory Guided Thermal Infrared Target Tracking Framework for Traffic Assistance." TITS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11005508)] 
+  [[code]( )]
+  
 - **NOT-156:** Chen Sun, Xinyu Wang, Shenghua Fan, Xiaobing Dai, Yuting Wan, Xiao Jiang.<br />
   "NOT-156: Night Object Tracking using Low-light and Thermal Infrared: From Multi-modal Common-aperture Camera to Benchmark Datasets." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/10938642)] 
