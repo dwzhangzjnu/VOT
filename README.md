@@ -139,6 +139,14 @@
   [[code](https://github.com/facias914/A-Simple-Detector-is-a-Strong-Tracker)]
   
 
+### ICML 2025
+
+- **MPT:** Jie Zhao, Xin Chen, Yongsheng Yuan, Michael Felsberg, Dong Wang, Huchuan Lu.<br />
+  "Efficient Motion Prompt Learning for Robust Visual Tracking." ICML (2025).
+  [[paper](https://arxiv.org/abs/2505.16321)] 
+  [[code](https://github.com/zj5559/Motion-Prompt-Tracking)]
+
+
 ### IJCAI 2025
 
 - **GDSTrack:** Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Kunyang Sun, Bing Liu, Zhiwen Shao, Jiaqi Zhao.<br />
