@@ -453,6 +453,16 @@
   "Hyperspectral Object Tracking With Context-Aware Learning and Category Consistency." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/10928989)] 
   [[code]( )]
+
+- **UBSTrack:** Mohammad Aminul Islam, Jun Zhou, Wangzhi Xing, Yongsheng Gao, Kuldip K. Paliwal.<br />
+  "UBSTrack: Unified Band Selection and Multi-Model Ensemble for Hyperspectral Object Tracking." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11007116)] 
+  [[code](https://github.com/aamin0102/UBSTrack)]
+
+- **SpectralTrack:** Yuzeng Chen, Qiangqiang Yuan, Hong Xie, Yuqi Tang, Yi Xiao, Jiang He.<br />
+  "Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11007172)] 
+  [[code](https://github.com/YZCU/SpectralTrack)]
   
 - **HyA-T:** Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.<br />
   "Hyperspectral Adapter for Object Tracking based on Hyperspectral Video." ArXiv (2025).
