@@ -463,6 +463,11 @@
   "Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/11007172)] 
   [[code](https://github.com/YZCU/SpectralTrack)]
+
+- **HOPL:** Lu Zhang, Rui Yao, Yuhong Zhang, Yong Zhou, Fuyuan Hu, Jiaqi Zhao, Zhiwen Shao.<br />
+  "Historical Object-Aware Prompt Learning for Universal Hyperspectral Object Tracking." TOMM (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3736581)] 
+  [[code](https://github.com/rayyao/HOPL)]
   
 - **HyA-T:** Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.<br />
   "Hyperspectral Adapter for Object Tracking based on Hyperspectral Video." ArXiv (2025).
@@ -569,6 +574,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
   [[code](https://github.com/ouha1998/MAT)]
   
+- **TMTR:** Guocai Du, Peiyong Zhou, Nurbiya Yadikar, Alimjan Aysa, Kurban Ubul.<br />
+  "Toward a Dynamic Tree-Mamba Encoder for UAV Tracking with Vision-Language." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125007774)] 
+  [[code]( )]
+
 - **TUFNet:** Yisong Liu, Zhao Gao, Yang Cao, Dongming Zhou.<br />
   "Two-stage Unidirectional Fusion Network for RGBT tracking." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125000310)] 
@@ -1074,6 +1084,11 @@
   "Depth Attention for Robust RGB Tracking." ACCV (2024).
   [[paper](https://arxiv.org/abs/2410.20395)] 
   [[code](https://github.com/LiuYuML/Depth-Attention)]
+
+- **SAM2VOT, :** Cheng-Yen Yang, Hsiang-Wei Huang, Pyong-Kun Kim, Chien-Kai Kuo, Jui-Wei Chang, Kwang-Ju Kim, Chung-I Huang, Jenq-Neng Hwang.<br />
+  "Adapting SAM 2 for Visual Object Tracking: 1st Place Solution for MMVPR Challenge Multi-Modal Tracking." ICPRW (2024).
+  [[paper](https://arxiv.org/abs/2505.18111)] 
+  [[code]( )]
 
 - **DTAT:** Yifan Pan, Tianyang Xu, Xue-Feng Zhu, Xiaoqing Luo, Xiao-Jun Wu, Josef Kittler.<br />
   "Learning Explicit Modulation Vectors for Disentangled Transformer Attention-Based RGB-D Visual Tracking." ICPR (2024).
