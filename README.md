@@ -146,6 +146,12 @@
   [[paper](https://arxiv.org/abs/2505.16321)] 
   [[code](https://github.com/zj5559/Motion-Prompt-Tracking)]
 
+- **CSTrack:** Xiaokun Feng, Dailing Zhang, Shiyu Hu, Xuchen Li, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang.<br />
+  "CSTrack: Enhancing RGB-X Tracking via Compact Spatiotemporal Features." ICML (2025).
+  [[paper](https://arxiv.org/abs/2505.19434)] 
+  [[code](https://github.com/XiaokunFeng/CSTrack)]
+  
+
 
 ### IJCAI 2025
 
@@ -297,6 +303,11 @@
 - **PFA:** Andong Lu, Yuanzhi Guo, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
   "Breaking Shallow Limits: Task-Driven Pixel Fusion for Gap-free RGBT Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.11247)] 
+  [[code]( )]
+
+- **DT-Training:** Jack Hong, Shilin Yan, Zehao Xiao, Jiayin Cai, Xiaolong Jiang, Yao Hu, Henghui Ding.<br />
+  "Progressive Scaling Visual Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.19990)] 
   [[code]( )]
 
 - **SMMT:** Shang Zhang, Huanbin Zhang, Dali Feng, Yujie Cui, Ruoyan Xiong, Cen He.<br />
@@ -459,6 +470,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11007116)] 
   [[code](https://github.com/aamin0102/UBSTrack)]
 
+- **ProFiT:** Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Xin Wang, Yi Xiao, Jiang He, Ziyang Lihe, Xianyu Jin.<br />
+  "ProFiT: A Prompt-guided Frequency-aware Filtering and Template-enhanced Interaction Framework for Hyperspectral Video Tracking." ISPRS, (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0924271625001893)] 
+  [[code](https://github.com/YZCU/ProFiT)]
+  
 - **SpectralTrack:** Yuzeng Chen, Qiangqiang Yuan, Hong Xie, Yuqi Tang, Yi Xiao, Jiang He.<br />
   "Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement." TIP (2025).
   [[paper](https://ieeexplore.ieee.org/document/11007172)] 
@@ -604,6 +620,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025001480)] 
   [[code](https://github.com/ElliottZhen/HFFTrack)]
 
+- **DSC:** Yuanming Zhang, Hao Sun.<br />
+  "Decoding Split-frequency Representation for Cross-scale Tracking." NUENET (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025004678)] 
+  [[code](https://github.com/pellab/DSC)]
+  
 - **TBIM:** Huanlong Zhang, Weiqiang Fu, Rui Qi, Bineng Zhong, Xin Wang, Yanfeng Wang.<br />
   "Target-background Interaction Modeling Transformer for Object Tracking." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125002771)] 
