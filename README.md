@@ -285,6 +285,11 @@
 
 ### ArXiv 2025
 
+- **HIEVT:** Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangwei Zhong.<br />
+  "Hierarchical Instruction-aware Embodied Visual Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.12606)] 
+  [[code](https://sites.google.com/view/hievt)]
+
 - **Diff-MM:** Shiyu Xuan, Zechao Li, Jinhui Tang.<br />
   "Diff-MM: Exploring Pre-trained Text-to-Image Generation Model for Unified Multi-modal Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.12606)] 
@@ -353,6 +358,11 @@
 - **BTMTrack:** Zhongxuan Zhang, Bi Zeng, Xinyu Ni, Yimin Du.<br />
   "BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2501.03616)] 
+  [[code]( )]
+
+- **SpikeFET** Jingjun Yang, Liangwei Fan, Jinpu Zhang, Xiangkai Lian, Hui Shen, Dewen Hu.<br />
+  "Fully Spiking Neural Networks for Unified Frame-Event Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.20834)] 
   [[code]( )]
 
 - **SDTrack** Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, Dehao Zhang, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Jiqing Zhang, Malu Zhang, Yang Yang.<br />
