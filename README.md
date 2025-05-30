@@ -290,6 +290,11 @@
   [[paper](https://arxiv.org/abs/2505.12606)] 
   [[code](https://sites.google.com/view/hievt)]
 
+- **TrackVLA:** Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang.<br />
+  "TrackVLA: Embodied Visual Tracking in the Wild." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.23189)] 
+  [[code](https://pku-epic.github.io/TrackVLA-web)]
+  
 - **Diff-MM:** Shiyu Xuan, Zechao Li, Jinhui Tang.<br />
   "Diff-MM: Exploring Pre-trained Text-to-Image Generation Model for Unified Multi-modal Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.12606)] 
@@ -595,6 +600,11 @@
   [[paper](https://dl.acm.org/doi/abs/10.1145/3732785)] 
   [[code]( )]
   
+- **CLDTracker:** Mohamad Alansari, Sajid Javed, Iyyakutti Iyappan Ganapathi, Sara Alansari, Muzammal Naseer.<br />
+  "CLDTracker: A Comprehensive Language Description for Visual Tracking." INFFUS (2025).
+  [[paper](https://arxiv.org/abs/2505.23704)] 
+  [[code](https://github.com/HamadYA/CLDTracker)]
+
 - **MAT:** He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
   "Multi-modal Adapter for RGB-T Tracking." INFFUS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
