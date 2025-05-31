@@ -290,6 +290,11 @@
   [[paper](https://arxiv.org/abs/2505.12606)] 
   [[code](https://sites.google.com/view/hievt)]
 
+- **EVTRA:** Kui Wu, Shuhang Xu, Hao Chen, Churan Wang, Zhoujun Li, Yizhou Wang, Fangwei Zhong.<br />
+  "VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2505.20718)] 
+  [[code](https://sites.google.com/view/evt-recovery-assistant)]
+
 - **TrackVLA:** Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang.<br />
   "TrackVLA: Embodied Visual Tracking in the Wild." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.23189)] 
