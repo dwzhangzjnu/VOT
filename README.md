@@ -299,7 +299,12 @@
   "TrackVLA: Embodied Visual Tracking in the Wild." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.23189)] 
   [[code](https://pku-epic.github.io/TrackVLA-web)]
-  
+
+- **MVTD:** Ahsan Baidar Bakht, Muhayy Ud Din, Sajid Javed, Irfan Hussain.<br />
+  "MVTD: A Benchmark Dataset for Maritime Visual Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2506.02866)] 
+  [[code](https://github.com/AhsanBaidar/MVTD)]
+
 - **Diff-MM:** Shiyu Xuan, Zechao Li, Jinhui Tang.<br />
   "Diff-MM: Exploring Pre-trained Text-to-Image Generation Model for Unified Multi-modal Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.12606)] 
@@ -595,6 +600,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325003541)] 
   [[code]( )]
 
+- **VCGDD:** Shaochuan Zhao, Tianyang Xu, Hui Li, Xiao-Jun Wu, Josef Kittler.<br />
+  "Visual Complexity Guided Diffusion Defender for Video Object Tracking and Recognition." PR (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325005278)] 
+  [[code](https://github.com/DjangoChaogh/VCGDD)]
+  
 - **GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
   "ClickTrack: Towards Real-time Interactive Single Object Tracking." PR (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009622)] 
