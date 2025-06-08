@@ -138,6 +138,11 @@
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_Mono3DVLT_Monocular-Video-Based_3D_Visual_Language_Tracking_CVPR_2025_paper.html)] 
   [[code](https://github.com/hongkai-wei/Mono3DVLT)]
   
+- **EdgeTAM:** Chong Zhou, Chenchen Zhu, Yunyang Xiong, Saksham Suri, Fanyi Xiao, Lemeng Wu, Raghuraman Krishnamoorthi, Bo Dai, Chen Change Loy, Vikas Chandra, Bilge Soran.<br />
+  "EdgeTAM: On-Device Track Anything Model." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2501.07256)] 
+  [[code](https://github.com/facebookresearch/EdgeTAM)]
+
 - **DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
   "A Distractor-Aware Memory for Visual Object Tracking with SAM2." CVPR (2025).
   [[paper](https://arxiv.org/abs/2411.17576)] 
@@ -168,6 +173,11 @@
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_TimeTracker_Event-based_Continuous_Point_Tracking_for_Video_Frame_Interpolation_with_CVPR_2025_paper.html)] 
   [[code]( )]
   
+- **ADMCMT:** Huijie Fan, Yu Qiao, Yihao Zhen, Tinghui Zhao, Baojie Fan, Qiang Wang.<br />
+  "All-Day Multi-Camera Multi-Target Tracking." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Fan_All-Day_Multi-Camera_Multi-Target_Tracking_CVPR_2025_paper.html)] 
+  [[code](https://github.com/QTRACKY/ADMCMT)]
+
 - **OmniTrack:** Kai Luo, Hao Shi, Sheng Wu, Fei Teng, Mengfei Duan, Chang Huang, Yuhang Wang, Kaiwei Wang, Kailun Yang.<br />
   "Omnidirectional Multi-Object Tracking." CVPR (2025).
   [[paper](https://arxiv.org/abs/2503.04565)] 
