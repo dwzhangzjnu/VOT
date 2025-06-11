@@ -1070,6 +1070,11 @@
   [[paper](https://arxiv.org/abs/2401.03142)] 
   [[code](https://github.com/GXNU-ZhongLab/EVPTrack)] 
 
+- **UVLTrack:** Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Jinpeng Zhang, Mengxue Kang.<br />
+  "Unifying Visual and Vision-Language Tracking via Contrastive Learning." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2401.11228)] 
+  [[code](https://github.com/OpenSpaceAI/UVLTrack)]
+  
  - **STCFormer:** Kun Hu, Wenjing Yang, Wanrong Huang, Xianchen Zhou, Mingyu Cao, Jing Ren, Huibin Tan.<br />
   "Sequential Fusion Based Multi-Granularity Consistency for Space-Time Transformer Tracking." AAAI (2024).
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29145)] 
@@ -1879,11 +1884,6 @@
   "Optimized Information Flow for Transformer Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.08195)] 
   [[code](https://github.com/JananiKugaa/OIFTrack)]
-
-- **UVLTrack:** Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Jinpeng Zhang, Mengxue Kang.<br />
-  "Unifying Visual and Vision-Language Tracking via Contrastive Learning." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2401.11228)] 
-  [[code](https://github.com/OpenSpaceAI/UVLTrack)]
 
 - **SuperSBT:** Fei Xie, Wankou Yang, Chunyu Wang, Lei Chu, Yue Cao, Chao Ma, Wenjun Zeng.<br />
   "Correlation-Embedded Transformer Tracking: A Single-Branch Framework." ArXiv (2024).
