@@ -520,6 +520,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11003183)] 
   [[code](https://github.com/wangwuwei/MPIT)]
 
+- **PTrMA:** Binxin Luo, Dongxu Liu, Xianrong Peng, Haorui Zuo, Jianlin Zhang, Meihui Li.<br />
+  "Progressive Transformer with Multi-modality Adaptation for RGB-T Tracking." TIM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11023155)] 
+  [[code]( )]
+  
 - **DyTrack:** Jiawen Zhu, Xin Chen, Haiwen Diao, Shuai Li, Jun-Yan He, Chenyang Li, Bin Luo, Dong Wang, Huchuan Lu.<br />
   "Exploring Dynamic Transformer for Efficient Object Tracking." TNNLS (2025).
   [[paper](https://ieeexplore.ieee.org/document/10947615)] 
@@ -625,6 +630,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10900462)] 
   [[code]( )]
   
+- **HarNet:** Si Chen, Rui Xu, Yan Yan, Yang Hua, Da-Han Wang, Shunzhi Zhu.<br />
+  "Hierarchical Attention-Enhanced Correlation Refinement for Robust Visual Tracking." TITS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11023144)] 
+  [[code]( )]
+
 - **CorPN:** Qun Li, Haijun Zhang, Kai Yang, Wei Dai, Jianghong Ma, Yuping Liu.<br />
   "CorPN: Corner Prediction Network for Visual Tracking." TCE (2025).
   [[paper](https://ieeexplore.ieee.org/document/10891175)] 
@@ -730,11 +740,16 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025004678)] 
   [[code](https://github.com/pellab/DSC)]
   
+- **AIFTrack:** Junze Shi, Jian Shi, Haibo Luo.<br />
+  "Adaptive Information Flow Propagation for Visual Tracking." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125008743)] 
+  [[code]( )]
+
 - **TBIM:** Huanlong Zhang, Weiqiang Fu, Rui Qi, Bineng Zhong, Xin Wang, Yanfeng Wang.<br />
   "Target-background Interaction Modeling Transformer for Object Tracking." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125002771)] 
   [[code]( )]
-
+  
 - **ASTrack:** Zhi Chen, Lijun Liu, Yu Zhen.<br />
   "Transformer Tracking with Auxiliary Search Token." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425005329)] 
@@ -774,6 +789,11 @@
   "AdaMoT: Adaptive Motion-Aware Transformer for Efficient Visual Tracking." SPL (2025).
   [[paper](https://ieeexplore.ieee.org/document/10935672)] 
   [[code]( )]
+
+- **EMTrack:** Xianda Xu, Shilong Jing, Zeshu Zhang, Chao Chen, Guangsha Guo, Hengyi Lv.<br />
+  "EMTrack: Event-guide Multimodal Transformer for Challenging Single Object Tracking." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11026009)] 
+  [[code](https://github.com/lpsg555/EMTrack)]
 
 - **FAEFTrack:** Xilong Shang, Zhaoyuan Zeng, Xiaopeng Li, Cien Fan, Weizheng Jin.<br />
   "Improving Object Tracking Performances with Frequency Learning for Event Cameras." JSEN (2025).
