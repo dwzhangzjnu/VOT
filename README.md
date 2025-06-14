@@ -198,6 +198,16 @@
   [[paper](https://arxiv.org/abs/2504.11967)] 
   [[code]( )]
 
+- **StrongSiamTracker:** Xiaolong Cui, Liu Wan, Lingqi Kong, Jimin Li, Chaojie Zhang, Ruohan Zhao, Panlong Wu, Shan He.<br />
+  "StrongSiamTracker: A Siamese Tracker with Dynamic Global Detection for Robust Anti-UAV Tracking." CVPRW (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/html/Cui_StrongSiamTracker_A_Siamese_Tracker_with_Dynamic_Global_Detection_for_Robust_CVPRW_2025_paper.html)] 
+  [[code]( )]
+
+- **DLST:** Jiahao Zhang, Yixin Wei, Jinli Zhang, Zongli Jiang, Peiwen Yu, Yufei Ma, Runan Jin.<br />
+  "DLST: Dual-Template Co-Evolution Learning for Robust Long-Term Drone Tracking in Dynamic Environments." CVPRW (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2025W/Anti-UAV/html/Zhang_DLST_Dual-Template_Co-Evolution_Learning_for_Robust_Long-Term_Drone_Tracking_in_CVPRW_2025_paper.html)] 
+  [[code]( )]
+  
 - **FDTrack:** Chenxu Peng, Chenxu Wang, Minrui Zou, Danyang Li, Zhengpeng Yang, Yimian Dai, Ming-Ming Cheng, Xiang Li.<br />
   "A Simple Detector with Frame Dynamics is a Strong Tracker." CVPRW (2025).
   [[paper](https://arxiv.org/abs/2505.04917)] 
@@ -559,6 +569,11 @@
   "NOT-156: Night Object Tracking using Low-light and Thermal Infrared: From Multi-modal Common-aperture Camera to Benchmark Datasets." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/10938642)] 
   [[code](http://rsidea.whu.edu.cn/NOT156_dataset.htm)]
+
+- **SP-HST:** Gang He, Long Gao, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.<br />
+  "Hyperspectral Object Tracking with Spectral Information Prompt." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11029092)] 
+  [[code](https://github.com/lgao001/SP-HST)]
 
 - **CCTrack:** Ye Wang, Shaohui Mei, Mingyang Ma, Yuheng Liu, Tao Gao, Huiyang Han.<br />
   "Hyperspectral Object Tracking With Context-Aware Learning and Category Consistency." TGRS (2025).
