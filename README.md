@@ -525,6 +525,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10973112)] 
   [[code]( )]
   
+- **LINR:** Yao Chen, Guancheng Jia, Yufei Zha, Peng Zhang, Yanning Zhang.<br />
+  "LINR: A Plug-and-Play Local Implicit Neural Representation Module for Visual Object Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11030729)] 
+  [[code](https://github.com/Xiaochen918/LINR)]
+
 - **MPIT:** Wuwei Wang, Meibo Lv, Lin Zhu, Tuo Han, Yi Zhang, Yuanqing Li.<br />
   "Siamese Visual Tracking with Multi-Parallel Interactive Transformers." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/11003183)] 
