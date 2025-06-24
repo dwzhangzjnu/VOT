@@ -385,6 +385,11 @@
   [[paper](https://arxiv.org/abs/2505.12606)] 
   [[code]( )]
 
+- **VPTT:** Jiaming Liu, Yue Wu, Qiguang Miao, Maoguo Gong, Linghe Kong.<br />
+  "Revisiting Siamese-based 3D Single Object Tracking with a Versatile Transformer." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11045222)] 
+  [[code]( )]
+
 - **APTrack:** Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang.<br />
   "Adaptive Perception for Unified Visual Multi-modal Object Tracking." TAI (2025).
   [[paper](https://arxiv.org/abs/2502.06583)] 
