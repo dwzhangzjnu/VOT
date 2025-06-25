@@ -375,6 +375,11 @@
   [[paper](https://arxiv.org/abs/2505.23189)] 
   [[code](https://pku-epic.github.io/TrackVLA-web)]
 
+- **TPDOT:** Zhongping Dong, Liming Chen, Mohand Tahar Kechadi.<br />
+  "Trajectory Prediction in Dynamic Object Tracking: A Critical Study." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2506.19341)] 
+  [[code]( )]
+
 - **MVTD:** Ahsan Baidar Bakht, Muhayy Ud Din, Sajid Javed, Irfan Hussain.<br />
   "MVTD: A Benchmark Dataset for Maritime Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2506.02866)] 
