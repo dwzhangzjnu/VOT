@@ -395,6 +395,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11045222)] 
   [[code]( )]
 
+- **DyHiT:** Ben Kang, Xin Chen, Jie Zhao, Chunjuan Bo, Dong Wang, Huchuan Lu.<br />
+  "Exploiting Lightweight Hierarchical ViT and Dynamic Framework for Efficient Visual Tracking." IJCV (2025).
+  [[paper](https://arxiv.org/abs/2506.20381)] 
+  [[code](https://github.com/kangben258/HiT)]
+
 - **APTrack:** Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang.<br />
   "Adaptive Perception for Unified Visual Multi-modal Object Tracking." TAI (2025).
   [[paper](https://arxiv.org/abs/2502.06583)] 
