@@ -380,6 +380,11 @@
   [[paper](https://arxiv.org/abs/2506.19341)] 
   [[code]( )]
 
+- **R1-Track:** Biao Wang, Wenwen Li.<br />
+  "R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2506.21980)] 
+  [[code](https://github.com/Wangbiao2/R1-Track)]
+  
 - **MVTD:** Ahsan Baidar Bakht, Muhayy Ud Din, Sajid Javed, Irfan Hussain.<br />
   "MVTD: A Benchmark Dataset for Maritime Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2506.02866)] 
