@@ -405,6 +405,11 @@
   [[paper](https://arxiv.org/abs/2506.20381)] 
   [[code](https://github.com/kangben258/HiT)]
 
+- **VMDA:** Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang.<br />
+  "Visual and Memory Dual Adapter for Multi-Modal Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2506.23972)] 
+  [[code](https://github.com/xuboyue1999/mmtrack)]
+
 - **APTrack:** Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang.<br />
   "Adaptive Perception for Unified Visual Multi-modal Object Tracking." TAI (2025).
   [[paper](https://arxiv.org/abs/2502.06583)] 
@@ -470,32 +475,37 @@
   [[paper](https://arxiv.org/abs/2501.03616)] 
   [[code]( )]
 
-- **SpikeFET** Jingjun Yang, Liangwei Fan, Jinpu Zhang, Xiangkai Lian, Hui Shen, Dewen Hu.<br />
+- **Mamba-FETrack V2:** Shiao Wang, Ju Huang, Qingchuan Ma, Jinfeng Gao, Chunyi Xu, Xiao Wang, Lan Chen, Bo Jiang.<br />
+  "Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2506.23783)] 
+  [[code](https://github.com/Event-AHU/Mamba_FETrack)]
+
+- **SpikeFET:** Jingjun Yang, Liangwei Fan, Jinpu Zhang, Xiangkai Lian, Hui Shen, Dewen Hu.<br />
   "Fully Spiking Neural Networks for Unified Frame-Event Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.20834)] 
   [[code]( )]
 
-- **SDTrack** Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, Dehao Zhang, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Jiqing Zhang, Malu Zhang, Yang Yang.<br />
+- **SDTrack:** Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, Dehao Zhang, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Jiqing Zhang, Malu Zhang, Yang Yang.<br />
   "SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.08703)] 
   [[code]( )]
 
-- **DiffDf** Long Xu, Peng Gao, Wen-Jia Tang, Fei Wang, Ru-Yue Yuan.<br />
+- **DiffDf:** Long Xu, Peng Gao, Wen-Jia Tang, Fei Wang, Ru-Yue Yuan.<br />
   "Towards Effective and Efficient Adversarial Defense with Diffusion Models for Robust Visual Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2506.00325)] 
   [[code](https://github.com/pgao-lab/DiffDf)]
 
-- **AMGA** Wei-Long Tian, Peng Gao, Xiao Liu, Long Xu, Hamido Fujita, Hanan Aljuai, Mao-Li Wang.<br />
+- **AMGA:** Wei-Long Tian, Peng Gao, Xiao Liu, Long Xu, Hamido Fujita, Hanan Aljuai, Mao-Li Wang.<br />
   "Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.08999)] 
   [[code](https://github.com/pgao-lab/AMGA)]
 
-- **SFTrack** Shiao Wang, Xiao Wang, Liye Jin, Bo Jiang, Lin Zhu, Lan Chen, Yonghong Tian, Bin Luo.<br />
+- **SFTrack:** Shiao Wang, Xiao Wang, Liye Jin, Bo Jiang, Lin Zhu, Lan Chen, Yonghong Tian, Bin Luo.<br />
   "Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.12903)] 
   [[code](https://github.com/Event-AHU/SlowFast_Event_Track)]
 
-- **Attack4RGBE** Qiang Chen, Xiao Wang, Haowen Wang, Bo Jiang, Lin Zhu, Dawei Zhang, Yonghong Tian, Jin Tang.<br />
+- **Attack4RGBE:** Qiang Chen, Xiao Wang, Haowen Wang, Bo Jiang, Lin Zhu, Dawei Zhang, Yonghong Tian, Jin Tang.<br />
   "Adversarial Attack for RGB-Event based Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.08703)] 
   [[code](https://github.com/Event-AHU/Adversarial_Attack_Defense)]
