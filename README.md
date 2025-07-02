@@ -76,6 +76,15 @@
 
 
 
+### ICCV 2025
+
+- **UMDATrack:** Siyuan Yao, Rui Zhu, Ziqi Wang, Wenqi Ren, Yanyang Yan, Xiaochun Cao.<br />
+  "UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.00648)] 
+  [[code](https://github.com/Z-Z188/UMDATrack)]
+
+
+  
 ### CVPR 2025
 
 - **ARPTrack:** Shiyi Liang, Yifan Bai, Yihong Gong, Xing Wei.<br />
@@ -351,6 +360,16 @@
   [[paper](https://ieeexplore.ieee.org/abstract/document/10887798)] 
   [[code]( )]
 
+- **LRPD:** Qingkuo Hu, Yichen Li, Wenbin Yu.<br />
+  "Exploiting Multimodal Prompt Learning and Distillation for RGB-T Tracking." ICMR (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733332)] 
+  [[code]( )]
+
+- **VSS:** Pengfei Wei, Liu Qiao, Zhenyu He, Di Yuan.<br />
+  "A Multi-Stream Visual-Spectral-Spatial Adaptive Hyperspectral Object Tracking." ICMR (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733262)] 
+  [[code]( )]
+  
 - **DARTer:** Xuzhao Li, Xuchen Li, Shiyu Hu.<br />
   "DARTer: Dynamic Adaptive Representation Tracker for Nighttime UAV Tracking." ICMR (2025).
   [[paper](https://arxiv.org/abs/2505.00752)] 
@@ -589,6 +608,11 @@
   "Tracking Like Human: Dynamic Scene Learning Reasoning Tracker in Satellite Videos." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/11000100)] 
   [[code]( )]
+
+- **SiamTITP:** Jiawei Zhou, Yanni Dong, Bo Du.<br />
+  "SiamTITP: Incorporating Temporal Information and Trajectory Prediction Siamese Network for Satellite Video Object Tracking." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11051136)] 
+  [[code](https://github.com/jiawei-zhou/SiamTITP)]
   
 - **PUTrack:** Qiuyang Zhang, Wei Song, Cong Liu, Minghua Zhang.<br />
   "PUTrack: Improved Underwater Object Tracking via Progressive Prompting." TII (2025).
@@ -645,6 +669,11 @@
   [[paper](https://arxiv.org/abs/2504.01321)] 
   [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)]
 
+- **ATSTrack:** Yihao Zhen, Qiang Wang, Yu Qiao, Liangqiong Qu, Huijie Fan.<br />
+  "ATSTrack: Enhancing Visual-Language Tracking by Aligning Temporal and Spatial Scales." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.00454)] 
+  [[code]( )]
+  
 - **SIEVL-Track:** Ning Li, Bineng Zhong, Qihua Liang, Zhiyi Mo, Jian Nong, Shuxiang Song.<br />
   "SIEVL-Track: Exploring Semantic Information Enhancement for Visual-Language Object Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/10845881)] 
@@ -745,6 +774,11 @@
   [[paper](https://dl.acm.org/doi/abs/10.1145/3732785)] 
   [[code]( )]
   
+- **DFDT:** Zhengjun Xu, Detian Huang, Hang Liu, Huihui Wang, Mingxin Lin, Miaohua Ruan.<br />
+  "Dual-Frequency Domain Transformer for Thermal Infrared Object Tracking." INFPHY (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S135044952500266X)] 
+  [[code](https://github.com/faith1689/DFDT)]
+
 - **CLDTracker:** Mohamad Alansari, Sajid Javed, Iyyakutti Iyappan Ganapathi, Sara Alansari, Muzammal Naseer.<br />
   "CLDTracker: A Comprehensive Language Description for Visual Tracking." INFFUS (2025).
   [[paper](https://arxiv.org/abs/2505.23704)] 
