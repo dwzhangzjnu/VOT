@@ -454,6 +454,11 @@
   [[paper](https://arxiv.org/abs/2505.04088)] 
   [[code]( )]
   
+- **TrackingMiM:** Bingxi Liu, Calvin Chen, Junhao Li, Guyang Yu, Haoqian Song, Xuchen Liu, Jinqiang Cui, Hong Zhang.<br />
+  "TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.01535)] 
+  [[code]( )]
+
 - **FocusTrack:** Ying Wang, Tingfa Xu, Jianan Li.<br />
   "FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.13604)] 
