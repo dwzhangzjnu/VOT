@@ -444,6 +444,11 @@
   [[paper](https://arxiv.org/abs/2503.11247)] 
   [[code]( )]
 
+- **mmMobileViT:** Mahdi Falaki, Maria A. Amer.<br />
+  "Lightweight RGB-T Tracking with Mobile Vision Transformers." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2506.19154)] 
+  [[code]( )]
+
 - **DT-Training:** Jack Hong, Shilin Yan, Zehao Xiao, Jiayin Cai, Xiaolong Jiang, Yao Hu, Henghui Ding.<br />
   "Progressive Scaling Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.19990)] 
