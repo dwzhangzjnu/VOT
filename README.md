@@ -604,6 +604,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10947615)] 
   [[code]( )]
 
+- **TDAT:** Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao.<br />
+  "Target-Distractor Aware UAV Tracking via Global Agent." TITS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11054299)] 
+  [[code](https://github.com/xyl-507/TDAT)]
+
 - **MHITrack:** Lei Lei, Xianxian Li.<br />
   "Multi-modal Hybrid Interaction Vision-language Tracking." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/10980446)] 
