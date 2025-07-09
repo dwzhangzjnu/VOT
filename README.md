@@ -628,6 +628,11 @@
   "SiamTITP: Incorporating Temporal Information and Trajectory Prediction Siamese Network for Satellite Video Object Tracking." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/11051136)] 
   [[code](https://github.com/jiawei-zhou/SiamTITP)]
+
+- **STAR:** Yuzeng Chen, Qiangqiang Yuan, Yi Xiao, Yuqi Tang, Jiang He, Te Han.<br />
+  "STAR: A Unified Spatiotemporal Fusion Framework for Satellite Video Object Tracking." TITS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11063306)] 
+  [[code](https://github.com/YZCU/STAR)]
   
 - **PUTrack:** Qiuyang Zhang, Wei Song, Cong Liu, Minghua Zhang.<br />
   "PUTrack: Improved Underwater Object Tracking via Progressive Prompting." TII (2025).
@@ -794,11 +799,16 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S135044952500266X)] 
   [[code](https://github.com/faith1689/DFDT)]
 
+- **Stable-SAM2:** Mohamad Alansari, Iyyakutti Iyappan Ganapathi, Sara Alansari, Hasan Al Marzouqi, Sajid Javed.<br />
+  "Visual Tracking by Matching Points Using Diffusion Model." INFFUS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1110016825007914)] 
+  [[code](https://github.com/HamadYA/Stable-SAM2)]
+
 - **CLDTracker:** Mohamad Alansari, Sajid Javed, Iyyakutti Iyappan Ganapathi, Sara Alansari, Muzammal Naseer.<br />
   "CLDTracker: A Comprehensive Language Description for Visual Tracking." INFFUS (2025).
   [[paper](https://arxiv.org/abs/2505.23704)] 
   [[code](https://github.com/HamadYA/CLDTracker)]
-
+  
 - **MAT:** He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
   "Multi-modal Adapter for RGB-T Tracking." INFFUS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
@@ -1523,6 +1533,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10693651)] 
   [[code](https://git.io/SiamGAT)]
 
+- **MAFNet:** Lei Liu, Mengya Zhang, Cheng Li, Chenglong Li, Jin Tang<br />
+  "Cross-Modal Object Tracking via Modality-Aware Fusion Network and a Large-Scale Dataset." TNNLS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10545535)] 
+  [[code](https://github.com/liulei970507/MAFNet)]
+  
 - **SiamTADT:** Luming Li, Chenglizhao Chen, Xu Yu, Shanchen Pang; Hong Qin<br />
   "SiamTADT: A Task-Aware Drone Tracker for Aerial Autonomous Vehicles." TVT (2024).
   [[paper](https://ieeexplore.ieee.org/document/10755105)] 
