@@ -93,6 +93,11 @@
   [[paper](https://arxiv.org/abs/2507.05899)] 
   [[code](https://github.com/supertyd/FlexTrack)]
 
+- **SMSTracker:** Sixian Chan, Zedong Li, Xiaoqin Zhang, Wenhao Li, Shijian Lyu, Chunhua Shen.<br />
+  "SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking." ICCV (2025).
+  [[paper]( )] 
+  [[code]( )]
+  
 - **VOVTrack:** Zekun Qian, Ruize Han, Junhui Hou, Linqi Song, Wei Feng.<br />
   "VOVTrack: Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.08529)] 
