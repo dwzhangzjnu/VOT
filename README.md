@@ -83,6 +83,26 @@
   [[paper](https://arxiv.org/abs/2507.00648)] 
   [[code](https://github.com/Z-Z188/UMDATrack)]
 
+- **XTrack:** Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Eduard Zamfi, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
+  "XTrack: Multimodal Training Boosts RGB-X Video Object Trackers." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2405.17773)] 
+  [[code](https://github.com/supertyd/XTrack)]
+
+- **FlexTrack:** Yuedong Tan, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu.<br />
+  "What You Have is What You Track: Adaptive and Robust Multimodal Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.05899)] 
+  [[code](https://github.com/supertyd/FlexTrack)]
+
+- **VOVTrack:** Zekun Qian, Ruize Han, Junhui Hou, Linqi Song, Wei Feng.<br />
+  "VOVTrack: Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.08529)] 
+  [[code]( )]
+
+- **COVTrack:** Zekun Qian, Ruize Han, Zhixiang Wang, Junhui Hou, Wei Feng.<br />
+  "COVTrack: Continuous Open-Vocabulary Multi-Object Tracking via Adaptive Multi-Cue Fusion." ArXiv (2024).
+  [[paper]( )] 
+  [[code]( )]
+  
 
   
 ### CVPR 2025
@@ -236,7 +256,19 @@
   [[code](https://github.com/XiaokunFeng/CSTrack)]
   
 
+### ACM MM 2025
 
+- **FA3T:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Lingling Li, Puhua Chen, Xu Liu, Xinyi Wang.<br />
+  "FA3T: Feature-Aware Adversarial Attacks for Multi-modal Tracking." ACM MM (2025).
+  [[paper]( )] 
+  [[code]( )]
+
+- **MST:**  .<br />
+  "Multi-State Tracker: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction ." ACM MM (2025).
+  [[paper]( )] 
+  [[code]( )]
+
+  
 ### IJCAI 2025
 
 - **GDSTrack:** Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Kunyang Sun, Bing Liu, Zhiwen Shao, Jiaqi Zhao.<br />
@@ -335,6 +367,11 @@
   [[paper](https://arxiv.org/abs/2505.05936)] 
   [[code](https://github.com/Nightwatch-Fox11/CGTrack)]
 
+- **BTTrack:** Biao Wang, Wenling Li.<br />
+  "BTTrack: Bridge Token Learning for Efficient Visual Object Tracking." IROS (2025).
+  [[paper]( )] 
+  [[code](https://github.com/Wangbiao2/BTTrack)]
+  
 - **CLTrack:** Bin Chen, Shenglong Hu, Gang Dong, Lingyan Liang, Dongchao Wen, Kaihua Zhang.<br />
   "Continuously Learning Video-level Object Tokens for Robust UAV tracking." ICASSP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10887950)] 
@@ -1447,11 +1484,6 @@
   "RGB-Event MOT: A Cross-Modal Benchmark for Multi-Object Tracking." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=Z1Em654CSE)] 
   [[code](https://github.com/ZHU-Zhiyu/RGBEvt-MOT)]
-  
-- **VOVTrack:** Zekun Qian, Ruize Han, Junhui Hou, Linqi Song, Wei Feng.<br />
-  "VOVTrack: Exploring the Potentiality in Videos for Open-Vocabulary Object Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2410.08529)] 
-  [[code]( )]
 
 - **TrackNetV4:** Arjun Raj, Lei Wang, Tom Gedeon.<br />
   "TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps." ArXiv (2024).
@@ -1868,11 +1900,6 @@
   "Adaptively Bypassing Vision Transformer Blocks for Efficient Visual Tracking." arxiv (2024).
   [[paper](https://arxiv.org/abs/2406.08037)] 
   [[code](https://github.com/1HykhqV3rU/ABTrack)]
-
-- **XTrack:** Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
-  "Towards a Generalist and Blind RGB-X Tracker." arxiv (2024).
-  [[paper](https://arxiv.org/abs/2405.17773)] 
-  [[code](https://github.com/supertyd/XTrack)]
 
 - **PuTR:** Chongwei Liu, Haojie Li, Zhihui Wang, Rui Xu.<br />
   "PuTR: A Pure Transformer for Decoupled and Online Multi-Object Tracking." arxiv (2024).
