@@ -93,6 +93,11 @@
   [[paper](https://arxiv.org/abs/2507.05899)] 
   [[code](https://github.com/supertyd/FlexTrack)]
 
+- **TUEs:** Qiangqiang Wu, Yi Yu, Chenqi Kong, Ziquan Liu, Jia Wan, Haoliang Li, Alex C. Kot, Antoni B. Chan.<br />
+  "Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.07483)] 
+  [[code]( )]
+
 - **SMSTracker:** Sixian Chan, Zedong Li, Xiaoqin Zhang, Wenhao Li, Shijian Lyu, Chunhua Shen.<br />
   "SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking." ICCV (2025).
   [[paper]( )] 
@@ -435,6 +440,11 @@
   "TrackVLA: Embodied Visual Tracking in the Wild." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.23189)] 
   [[code](https://pku-epic.github.io/TrackVLA-web)]
+
+- **HiM2SAM:** Ruixiang Chen, Guolei Sun, Yawei Li, Jie Qin, Luca Benini.<br />
+  "HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.07603)] 
+  [[code](https://github.com/LouisFinner/HiM2SAM)]
 
 - **TPDOT:** Zhongping Dong, Liming Chen, Mohand Tahar Kechadi.<br />
   "Trajectory Prediction in Dynamic Object Tracking: A Critical Study." ArXiv (2025).
