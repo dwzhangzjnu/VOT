@@ -102,14 +102,24 @@
   "SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking." ICCV (2025).
   [[paper]( )] 
   [[code]( )]
-  
+
+- **GSOT3D:** Yifan Jiao, Yunhao Li, Junhua Ding, Qing Yang, Song Fu, Heng Fan, Libo Zhang.<br />
+  "GSOT3D: Towards Generic 3D Single Object Tracking in the Wild." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2412.02129)] 
+  [[code](https://github.com/ailovejinx/GSOT3D)]
+
+ - **TRACT:** Yunhao Li, Yifan Jiao, Dan Meng, Heng Fan, Libo Zhang.<br />
+  "Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2503.08145)] 
+  [[code]( )]
+
 - **VOVTrack:** Zekun Qian, Ruize Han, Junhui Hou, Linqi Song, Wei Feng.<br />
-  "VOVTrack: Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking." ArXiv (2024).
+  "VOVTrack: Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking." ICCV (2025).
   [[paper](https://arxiv.org/abs/2410.08529)] 
   [[code]( )]
 
 - **COVTrack:** Zekun Qian, Ruize Han, Zhixiang Wang, Junhui Hou, Wei Feng.<br />
-  "COVTrack: Continuous Open-Vocabulary Multi-Object Tracking via Adaptive Multi-Cue Fusion." ArXiv (2024).
+  "COVTrack: Continuous Open-Vocabulary Multi-Object Tracking via Adaptive Multi-Cue Fusion." ICCV (2025).
   [[paper]( )] 
   [[code]( )]
   
@@ -1725,11 +1735,6 @@
   "Local-Global Self-Attention for Transformer-based Object Tracking." TIP (2024).
   [[paper](https://ieeexplore.ieee.org/document/10613604)] 
   [[code](https://github.com/lgao001/LGSAT)]
-
-- **GSOT3D:** Yifan Jiao, Yunhao Li, Junhua Ding, Qing Yang, Song Fu, Heng Fan, Libo Zhang.<br />
-  "GSOT3D: Towards Generic 3D Single Object Tracking in the Wild." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2412.02129)] 
-  [[code](https://github.com/ailovejinx/GSOT3D)]
 
 - **MVCTrack:** Zhaofeng Hu, Sifan Zhou, Shibo Zhao, Zhihang Yuan.<br />
   "MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues." ArXiv (2024).
