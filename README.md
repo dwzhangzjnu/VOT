@@ -516,6 +516,11 @@
   [[paper](https://arxiv.org/abs/2507.01535)] 
   [[code]( )]
 
+- **VAUAT:** Guanghai Ding, Yihua Ren, Yuting Liu, Qijun Zhao, Shuiwang Li.<br />
+  "Vision-Based Anti Unmanned Aerial Technology: Opportunities and Challenges." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.10006)] 
+  [[code]( )]
+
 - **FocusTrack:** Ying Wang, Tingfa Xu, Jianan Li.<br />
   "FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.13604)] 
