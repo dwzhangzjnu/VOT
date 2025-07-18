@@ -422,6 +422,11 @@
   [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733332)] 
   [[code]( )]
 
+- **UMMSOD:** Chaojun Cen, Fei Li, Zhenbo Li.<br />
+  "Unified Multi-modal Salient Object Detection via Frequency Prompt and Adapter Tuning." ICMR (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733459)] 
+  [[code]( )]
+  
 - **VSS:** Pengfei Wei, Liu Qiao, Zhenyu He, Di Yuan.<br />
   "A Multi-Stream Visual-Spectral-Spatial Adaptive Hyperspectral Object Tracking." ICMR (2025).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733262)] 
@@ -494,6 +499,11 @@
 - **APTrack:** Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang.<br />
   "Adaptive Perception for Unified Visual Multi-modal Object Tracking." TAI (2025).
   [[paper](https://arxiv.org/abs/2502.06583)] 
+  [[code]( )]
+
+- **BR-MoE:** Qingguo Meng, Andong Lu, Zhe Jin.<br />
+  "BR-MoE: Blind Multi-Modal Tracking with Route-Dynamic Mixture of Experts." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11077417)] 
   [[code]( )]
 
 - **QuadFusion:** Andong Lu, Mai Wen, Jinhu Wang, Yuanzhi Guo, Chenglong Li, Jin Tang, Bin Luo.<br />
@@ -856,6 +866,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009622)] 
   [[code]( )]
 
+- **AUDI-T:** Bin Kang, Zongyu Wang, Dong Liang, Tianyu Ding, Songlin Du.<br />
+  "Robust Unsupervised Visual Tracking Via Image-to-Video Identity Knowledge Transferring." PR (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325007691)] 
+  [[code]( )]
+  
 - **ATOTrack:** Sixian Chan, Xianpeng Zeng, Zhoujian Wu, Yu Wang, Xiaolong Zhou, Tinglong Tang, Jie Hu.<br />
   "Adaptive Target Oriented Tracking." TIST (2025).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3732785)] 
