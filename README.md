@@ -103,6 +103,11 @@
   [[paper]( )] 
   [[code]( )]
 
+- **VISTA:** Matteo Dunnhofer, Zaira Manigrasso, Christian Micheloni.<br />
+  "Is Tracking really more challenging in First Person Egocentric Vision?" ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.16015)] 
+  [[code](https://machinelearning.uniud.it/datasets/vista)]
+  
 - **GSOT3D:** Yifan Jiao, Yunhao Li, Junhua Ding, Qing Yang, Song Fu, Heng Fan, Libo Zhang.<br />
   "GSOT3D: Towards Generic 3D Single Object Tracking in the Wild." ICCV (2025).
   [[paper](https://arxiv.org/abs/2412.02129)] 
@@ -277,6 +282,11 @@
   
 
 ### ACM MM 2025
+
+- **RSTrack:** Fansheng Zeng, Bineng Zhong, Haiying Xia, Yufei Tan, Xiantao Hu, Liangtao Shi, Shuxiang Song.<br />
+  "Explicit Context Reasoning with Supervision for Visual Tracking." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2507.16191)] 
+  [[code](https://github.com/GXNU-ZhongLab/RSTrack)]
 
 - **FA3T:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Lingling Li, Puhua Chen, Xu Liu, Xinyi Wang.<br />
   "FA3T: Feature-Aware Adversarial Attacks for Multi-modal Tracking." ACM MM (2025).
