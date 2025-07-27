@@ -691,6 +691,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10947615)] 
   [[code]( )]
 
+- **FWTrack:** Xuyi Fan, Hongguang Li, Yangzhu Wang, Minghao Zhao, Li Shen.<br />
+  "Hierarchical Spatial–Temporal UAV Tracking With Three-Dimensional Wavelets for Road Traffic Surveillance." TITS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11087725)] 
+  [[code](https://github.com/OrigamiSL/FWTrack)]
+
 - **TDAT:** Yuanliang Xue, Guodong Jin, Tao Shen, Lining Tan, Nian Wang, Jing Gao.<br />
   "Target-Distractor Aware UAV Tracking via Global Agent." TITS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11054299)] 
@@ -860,6 +865,11 @@
   "Reconstructed and Simulated Dataset for Aerial RGBD Tracking." RAL (2025).
   [[paper](https://ieeexplore.ieee.org/document/10829654)] 
   [[code](https://github.com/TonikLeung/RSTrack)]
+
+- **MRTTrack:** Pujian Lai, Dong Gao, Shilei Wang, Gong Cheng.<br />
+  "Mining Representative Tokens via Transformer-based Multi-modal Interaction for RGB-T Tracking." PR (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325008234)] 
+  [[code](https://github.com/gao5yy/MRTTrack)]
 
 - **DSTrack:** Zhixing Wang, Kai Wang, Chuanming Tang, Xiang Li, Jianlin Zhang, Lianli Gao.<br />
   "DSTrack: Diffusion-based Sequence Learning for Visual Object Tracking." PR (2025).
