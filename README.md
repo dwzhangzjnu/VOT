@@ -98,6 +98,11 @@
   [[paper](https://arxiv.org/abs/2507.07483)] 
   [[code]( )]
 
+- **ATCTrack:** Xiaokun Feng, Shiyu Hu, Xuchen Li, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang.<br />
+  "ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.19875)] 
+  [[code](https://github.com/XiaokunFeng/ATCTrack)]
+
 - **SMSTracker:** Sixian Chan, Zedong Li, Xiaoqin Zhang, Wenhao Li, Shijian Lyu, Chunhua Shen.<br />
   "SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking." ICCV (2025).
   [[paper]( )] 
@@ -491,6 +496,11 @@
   [[paper](https://arxiv.org/abs/2505.12606)] 
   [[code]( )]
 
+- **UM-ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Shengping Zhang, Guorong Li, Xianxian Li, Rongrong Ji.<br />
+  "Towards Universal Modal Tracking with Online Dense Temporal Token Learning." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.20177)] 
+  [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
+  
 - **VPTT:** Jiaming Liu, Yue Wu, Qiguang Miao, Maoguo Gong, Linghe Kong.<br />
   "Revisiting Siamese-based 3D Single Object Tracking with a Versatile Transformer." TPAMI (2025).
   [[paper](https://ieeexplore.ieee.org/document/11045222)] 
@@ -604,6 +614,11 @@
 - **SDTrack:** Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, Dehao Zhang, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Jiqing Zhang, Malu Zhang, Yang Yang.<br />
   "SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.08703)] 
+  [[code]( )]
+
+- **TrackSSD-FENet:** Keqi Liu, Rong Xiao, Deng Xiong, Yongsheng Sang, Jiancheng Lv.<br />
+  "Joint Frame and Event Object Tracking via Non-causal State Space Duality." ICIC (2025).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-96-9964-3_32)] 
   [[code]( )]
 
 - **DiffDf:** Long Xu, Peng Gao, Wen-Jia Tang, Fei Wang, Ru-Yue Yuan.<br />
@@ -966,6 +981,16 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425005329)] 
   [[code]( )]
 
+- **TIPTrack:** Kaixiang Yan, Wenhua Qian.<br />
+  "TIPTrack: Time-series Information Prompt Network for RGBT Tracking." ESWA (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425027721)] 
+  [[code]( )]
+
+- **RecheckTrack:** Huiwei Shi, Xiaodong Mu, Hao He, Chengliang Zhong, Peng Zhao.<br />
+  "A Robust RGBT Tracking Framework with Temporal Information Enhancement and Backward Trajectory Verification." ESWA (2025).
+  [[paper](https://link.springer.com/article/10.1007/s44443-025-00144-w)] 
+  [[code]( )]
+  
 - **Anti-MUAV15:** Shihan Liu, Tianyang Xu, Xue-Feng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
   "Learning Adaptive Detection and Tracking Collaborations with Augmented UAV Synthesis for Accurate Anti-UAV System." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425013016)] 
