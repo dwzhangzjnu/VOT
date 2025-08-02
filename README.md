@@ -133,7 +133,12 @@
   [[paper]( )] 
   [[code]( )]
   
+- **CST Anti-UAV:** Bin Xie, Congxuan Zhang, Fagan Wang, Peng Liu, Feng Lu, Zhen Chen, Weiming Hu.<br />
+  "CST Anti-UAV: A Thermal Infrared Benchmark for Tiny UAV Tracking in Complex Scenes." ICCVW (2025).
+  [[paper](https://arxiv.org/abs/2507.23473)] 
+  [[code]( )]
 
+  
   
 ### CVPR 2025
 
@@ -456,6 +461,10 @@
 
 ### ArXiv 2025
 
+- **GOTSurvey:** Fereshteh Aghaee Meibodi, Shadi Alijani, Homayoun Najjaran.<br />
+  "A Deep Dive into Generic Object Tracking: A Survey." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.23251)]
+
 - **HIEVT:** Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangwei Zhong.<br />
   "Hierarchical Instruction-aware Embodied Visual Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.12606)] 
@@ -470,6 +479,11 @@
   "TrackVLA: Embodied Visual Tracking in the Wild." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.23189)] 
   [[code](https://pku-epic.github.io/TrackVLA-web)]
+
+- **SAMITE:** Qianxiong Xu, Lanyun Zhu, Chenxi Liu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao.<br />
+  "SAMITE: Position Prompted SAM2 with Calibrated Memory for Visual Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.21732)] 
+  [[code](https://github.com/Sam1224/SAMITE)]
 
 - **HiM2SAM:** Ruixiang Chen, Guolei Sun, Yawei Li, Jie Qin, Luca Benini.<br />
   "HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking." ArXiv (2025).
@@ -497,7 +511,7 @@
   [[code]( )]
 
 - **UM-ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Shengping Zhang, Guorong Li, Xianxian Li, Rongrong Ji.<br />
-  "Towards Universal Modal Tracking with Online Dense Temporal Token Learning." ArXiv (2025).
+  "Towards Universal Modal Tracking with Online Dense Temporal Token Learning." TPAMI (2025).
   [[paper](https://arxiv.org/abs/2507.20177)] 
   [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
   
@@ -641,6 +655,11 @@
   [[paper](https://arxiv.org/abs/2503.08703)] 
   [[code](https://github.com/Event-AHU/Adversarial_Attack_Defense)]
 
+- **ATINet:** Mianzhao Wang, Fan Shi, Xu Cheng, Feifei Zhang, Shengyong Chen.<br />
+  "An Angular-Temporal Interaction Network for Light Field Object Tracking in Low-Light Scenes." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.21460)] 
+  [[code]( )]
+  
 - **DMP:** Zihan Zhou, Changrui Dai, Aibo Song, Xiaolin Fang.<br />
   "Enhancing Self-Supervised Fine-Grained Video Object Tracking with Dynamic Memory Prediction." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.21692)] 
