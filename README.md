@@ -530,6 +530,11 @@
   [[paper](https://arxiv.org/abs/2506.23972)] 
   [[code](https://github.com/xuboyue1999/mmtrack)]
 
+- **DMTrack:** Weihong Li, Shaohua Dong, Haonan Lu, Yanhao Zhang, Heng Fan, Libo Zhang.<br />
+  "DMTrack: Spatio-Temporal Multimodal Tracking via Dual-Adapter." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2508.01592)] 
+  [[code]( )]
+  
 - **APTrack:** Xiantao Hu, Bineng Zhong, Qihua Liang, Zhiyi Mo, Liangtao Shi, Ying Tai, Jian Yang.<br />
   "Adaptive Perception for Unified Visual Multi-modal Object Tracking." TAI (2025).
   [[paper](https://arxiv.org/abs/2502.06583)] 
