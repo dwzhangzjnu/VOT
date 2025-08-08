@@ -620,6 +620,16 @@
   [[paper](https://arxiv.org/abs/2501.03616)] 
   [[code]( )]
 
+- **ReasoningTrack:** Xiao Wang, Liye Jin, Xufeng Lou, Shiao Wang, Lan Chen, Bo Jiang, Zhipeng Zhang.<br />
+  "ReasoningTrack: Chain-of-Thought Reasoning for Long-term Vision-Language Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2508.05221)] 
+  [[code](https://github.com/Event-AHU/Open_VLTrack)]
+
+- **FELT:** Xiao Wang, Xufeng Lou, Shiao Wang, Ju Huang, Lan Chen, Bo Jiang.<br />
+  "Long-Term Visual Object Tracking with Event Cameras: An Associative Memory Augmented Tracker and A Benchmark Dataset." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2403.05839)] 
+  [[code](https://github.com/Event-AHU/FELT_SOT_Benchmark)]
+
 - **Mamba-FETrack V2:** Shiao Wang, Ju Huang, Qingchuan Ma, Jinfeng Gao, Chunyi Xu, Xiao Wang, Lan Chen, Bo Jiang.<br />
   "Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2506.23783)] 
