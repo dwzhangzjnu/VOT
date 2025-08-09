@@ -1506,11 +1506,16 @@
   [[paper](https://arxiv.org/abs/2410.20395)] 
   [[code](https://github.com/LiuYuML/Depth-Attention)]
 
-- **SAM2VOT, :** Cheng-Yen Yang, Hsiang-Wei Huang, Pyong-Kun Kim, Chien-Kai Kuo, Jui-Wei Chang, Kwang-Ju Kim, Chung-I Huang, Jenq-Neng Hwang.<br />
+- **SAM2VOT :** Cheng-Yen Yang, Hsiang-Wei Huang, Pyong-Kun Kim, Chien-Kai Kuo, Jui-Wei Chang, Kwang-Ju Kim, Chung-I Huang, Jenq-Neng Hwang.<br />
   "Adapting SAM 2 for Visual Object Tracking: 1st Place Solution for MMVPR Challenge Multi-Modal Tracking." ICPRW (2024).
   [[paper](https://arxiv.org/abs/2505.18111)] 
   [[code]( )]
 
+- **VPLMMT:** Simiao Lai, Yuntao Wei, Dong Wang, Huchuan Lu.<br />
+  "Visual Prompt with Larger Model for Multi-modal Tracking." ICPRW (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-88217-3_20)] 
+  [[code]( )]
+  
 - **DTAT:** Yifan Pan, Tianyang Xu, Xue-Feng Zhu, Xiaoqing Luo, Xiao-Jun Wu, Josef Kittler.<br />
   "Learning Explicit Modulation Vectors for Disentangled Transformer Attention-Based RGB-D Visual Tracking." ICPR (2024).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78444-6_22)] 
