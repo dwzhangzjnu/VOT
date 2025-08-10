@@ -719,6 +719,11 @@
   "Adaptive Expert Decision for RGB-T Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/10973112)] 
   [[code]( )]
+
+- **MFJA:** Hu Xue, Hao Zhu, Zhidan Ran, Xianlun Tang, Guanqiu Qi, Zhiqin Zhu.<br />
+  "Feature Fusion and Enhancement for Lightweight Visible-Thermal Infrared Tracking via Multiple Adapters." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11112670)] 
+  [[code](https://github.com/huxue/MFJA)]
   
 - **LINR:** Yao Chen, Guancheng Jia, Yufei Zha, Peng Zhang, Yanning Zhang.<br />
   "LINR: A Plug-and-Play Local Implicit Neural Representation Module for Visual Object Tracking." TCSVT (2025).
@@ -755,6 +760,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10980446)] 
   [[code]( )]
 
+- **LGTrack:** Jianbo Song, Hong Zhang, Yachun Feng, Hanyang Liu, Yifan Yang.<br />
+  "Language-guided Visual Tracking: Comprehensive and Effective Multimodal Information Fusion." TOMM (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3757322)] 
+  [[code]( )]
+  
 - **HotMoE:** Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao.<br />
   "HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/10855488)] 
@@ -764,6 +774,11 @@
   "Tracking Like Human: Dynamic Scene Learning Reasoning Tracker in Satellite Videos." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/11000100)] 
   [[code]( )]
+
+- **MemTrack:** Jiawei Zhou, Yanni Dong, Yuxiang Zhang, Bo Du.<br /> 
+  "Incorporating Prior Knowledge and Temporal Memory Transformer Network for Satellite Video Object Tracking." ISPRS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0924271625003028)] 
+  [[code](https://github.com/jiawei-zhou/MemTrack)]
 
 - **SiamTITP:** Jiawei Zhou, Yanni Dong, Bo Du.<br />
   "SiamTITP: Incorporating Temporal Information and Trajectory Prediction Siamese Network for Satellite Video Object Tracking." TMM (2025).
