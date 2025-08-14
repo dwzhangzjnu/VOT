@@ -490,6 +490,11 @@
   [[paper](https://arxiv.org/abs/2507.07603)] 
   [[code](https://github.com/LouisFinner/HiM2SAM)]
 
+- **SOIBench:** Yipei Wang, Shiyu Hu, Shukun Jia, Panxi Xu, Hongfei Ma, Yiping Ma, Jing Zhang, Xiaobo Lu, Xin Zhao.<br />
+  "SOI is the Root of All Evil: Quantifying and Breaking Similar Object Interference in Single Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2508.09524)] 
+  [[code]( )]
+  
 - **TPDOT:** Zhongping Dong, Liming Chen, Mohand Tahar Kechadi.<br />
   "Trajectory Prediction in Dynamic Object Tracking: A Critical Study." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2506.19341)] 
