@@ -298,6 +298,11 @@
   [[paper](https://arxiv.org/abs/2507.16191)] 
   [[code](https://github.com/GXNU-ZhongLab/RSTrack)]
 
+- **UniBench300:** Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Chunyang Cheng, Tao Zhou, Xiaojun Wu, Josef Kittler.<br />
+  "Serial Over Parallel: Learning Continual Unification for Multi-Modal Visual Object Tracking and Benchmarking." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2508.10655)] 
+  [[code](https://github.com/Zhangyong-Tang/UniBench300)]
+
 - **FA3T:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Lingling Li, Puhua Chen, Xu Liu, Xinyi Wang.<br />
   "FA3T: Feature-Aware Adversarial Attacks for Multi-modal Tracking." ACM MM (2025).
   [[paper]( )] 
