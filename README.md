@@ -103,6 +103,11 @@
   [[paper](https://arxiv.org/abs/2507.19875)] 
   [[code](https://github.com/XiaokunFeng/ATCTrack)]
 
+- **CompressTracker:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Shilin Yan, Pinxue Guo, Kaixun Jiang, Zhaoyu Chen, Shuyong Gao, Wei Zhang, Hong Lu, Wenqiang Zhang.<br />
+  "General Compression Framework for Efficient Transformer Object Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2409.17564)] 
+  [[code](https://github.com/LingyiHongfd/CompressTracker)]
+
 - **SMSTracker:** Sixian Chan, Zedong Li, Xiaoqin Zhang, Wenhao Li, Shijian Lyu, Chunhua Shen.<br />
   "SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking." ICCV (2025).
   [[paper]( )] 
@@ -411,6 +416,11 @@
   "CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking." ICRA (2025).
   [[paper](https://arxiv.org/abs/2505.05936)] 
   [[code](https://github.com/Nightwatch-Fox11/CGTrack)]
+
+- **LoReTrack:** Shaohua Dong, Yunhe Feng, Qing Yang, Yuewei Lin, Heng Fan.<br />
+  "LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking." IROS (2025).
+  [[paper](https://arxiv.org/abs/2405.17660)] 
+  [[code](https://github.com/ShaohuaDong2021/LoReTrack)]
 
 - **BTTrack:** Biao Wang, Wenling Li.<br />
   "BTTrack: Bridge Token Learning for Efficient Visual Object Tracking." IROS (2025).
@@ -1643,11 +1653,6 @@
   "TrackNetV4: Enhancing Fast Sports Object Tracking with Motion Attention Maps." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.14543v1)] 
   [[code]( )]
-
-- **CompressTracker:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Shilin Yan, Pinxue Guo, Kaixun Jiang, Zhaoyu Chen, Shuyong Gao, Wei Zhang, Hong Lu, Wenqiang Zhang.<br />
-  "General Compression Framework for Efficient Transformer Object Tracking." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2409.17564)] 
-  [[code](https://github.com/LingyiHongfd/CompressTracker)]
   
 - **BlinkTrack:** Yichen Shen, Yijin Li, Shuo Chen, Guanglin Li, Zhaoyang Huang, Hujun Bao, Zhaopeng Cui, Guofeng Zhang.<br />
   "BlinkTrack: Feature Tracking over 100 FPS via Events and Images." ArXiv (2024).
@@ -2054,11 +2059,6 @@
   "PuTR: A Pure Transformer for Decoupled and Online Multi-Object Tracking." arxiv (2024).
   [[paper](https://arxiv.org/abs/2405.14119)] 
   [[code](https://github.com/chongweiliu/PuTR)]
-  
-- **LoReTrack:** Shaohua Dong, Yunhe Feng, Qing Yang, Yuewei Lin, Heng Fan.<br />
-  "LoReTrack: Efficient and Accurate Low-Resolution Transformer Tracking." arxiv (2024).
-  [[paper](https://arxiv.org/abs/2405.17660)] 
-  [[code](https://github.com/ShaohuaDong2021/LoReTrack)]
 
 - **TATrack:** Shuiwang Li, Xiangyang Yang, Xucheng Wang, Dan Zeng, Hengzhou Ye, Qijun Zhao.<br />
   "Learning Target-Aware Vision Transformers for Real-Time UAV Tracking." TGRS (2024).
@@ -2773,6 +2773,11 @@
   [[paper](https://arxiv.org/abs/2207.09603)] 
   [[code](https://github.com/Little-Podi/AiATrack)]
 
+- **HCAT:** Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu.<br />
+  "Efficient Visual Tracking via Hierarchical Cross-Attention Transformer." ECCV (2022).
+  [[paper](https://arxiv.org/abs/2203.13537)] 
+  [[code](https://github.com/chenxin-dlut/HCAT)]
+
 - **SLTtrack:** Minji Kim, Seungkwan Lee, Jungseul Ok, Bohyung Han, Minsu Cho.<br />
   "Towards Sequence-Level Training for Visual Tracking." ECCV (2022).
   [[paper](https://arxiv.org/abs/2208.05810)] 
@@ -3063,11 +3068,6 @@
 - **VOTSurvey:** Fei Chen, Xiaodong Wang, Yunxiang Zhao, Shaohe Lv, Xin Niu.<br />
   "Visual object tracking: A survey." CVIU (2022).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1077314222001011?dgcid=author)] 
-    
-- **HCAT:** Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu.<br />
-  "Efficient Visual Tracking via Hierarchical Cross-Attention Transformer." ArXiv (2022).
-  [[paper](https://arxiv.org/abs/2203.13537)] 
-  [[code](https://github.com/chenxin-dlut/HCAT)]
   
 - **TransT-M:** Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Huchuan Lu.<br />
   "High-Performance Transformer Tracking." ArXiv (2022).
