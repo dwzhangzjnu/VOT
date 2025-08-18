@@ -313,10 +313,10 @@
   [[paper]( )] 
   [[code]( )]
 
-- **MST:**  .<br />
-  "Multi-State Tracker: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction ." ACM MM (2025).
-  [[paper]( )] 
-  [[code]( )]
+- **MST:** Shilei Wang, Gong Cheng, Pujian Lai, Dong Gao, Junwei Han.<br />
+  "Multi-State Tracker: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2508.11531)] 
+  [[code](https://github.com/wsumel/MST)]
 
   
 ### IJCAI 2025
