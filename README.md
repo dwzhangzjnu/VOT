@@ -476,6 +476,11 @@
 
 ### ArXiv 2025
 
+- **MMVOTSurvey:** Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Hui Li, Shaochuan Zhao, Tao Zhou, Chunyang Cheng, Xiaojun Wu, Josef Kittler.<br />
+  "Omni Survey for Multimodality Analysis in Visual Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2508.13000)]
+  [[code](https://github.com/Zhangyong-Tang/Awesome-MultiModal-Visual-Object-Tracking)]
+
 - **GOTSurvey:** Fereshteh Aghaee Meibodi, Shadi Alijani, Homayoun Najjaran.<br />
   "A Deep Dive into Generic Object Tracking: A Survey." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2507.23251)]
