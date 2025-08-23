@@ -321,6 +321,21 @@
   
 ### IJCAI 2025
 
+- **FastSeqTrack:** Dongdong Li, Zhinan Gao, Yangliu Kuai, Rui Chen.<br />
+  "Exploring Effcient and Effective Sequence Learning for Visual Object Tracking." IJCAI (2025).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/3672.pdf)] 
+  [[code](https://github.com/vision4drones/FastSeqTrack)]
+
+- **SSTrack:** Yutong Kou, Shubo Lin, Liang Li, Bing Li, Weiming Hu, Jin Gao.<br />
+  "SSTrack: Sample-interval Scheduling for Lightweight Visual Object Tracking." IJCAI (2025).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/3314.pdf)] 
+  [[code](https://github.com/Kou-99/SSTrack)]
+
+- **TUMFNet:** Zhaodong Ding, Chenglong Li, Shengqing Miao, Jin Tang.<br />
+  "Template-based Uncertainty Multimodal Fusion Network for RGBT Tracking." IJCAI (2025).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2815.pdf)] 
+  [[code](https://github.com/dongdong2061/IJCAI25-TUMFNet)]
+  
 - **GDSTrack:** Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Kunyang Sun, Bing Liu, Zhiwen Shao, Jiaqi Zhao.<br />
   "Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking." IJCAI (2025).
   [[paper](https://arxiv.org/abs/2505.03507)] 
