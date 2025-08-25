@@ -780,6 +780,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11023155)] 
   [[code]( )]
   
+- **ToS:** Chengao Zong, Xin Chen, Jie Zhao, Yang Liu, Huchuan Lu, Dong Wang.<br />
+  "Enhancing the Two-Stream Framework for Efficient Visual Tracking." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11131531)] 
+  [[code]( )]
+
 - **DyTrack:** Jiawen Zhu, Xin Chen, Haiwen Diao, Shuai Li, Jun-Yan He, Chenyang Li, Bin Luo, Dong Wang, Huchuan Lu.<br />
   "Exploring Dynamic Transformer for Efficient Object Tracking." TNNLS (2025).
   [[paper](https://ieeexplore.ieee.org/document/10947615)] 
@@ -805,6 +810,11 @@
   [[paper](https://dl.acm.org/doi/abs/10.1145/3757322)] 
   [[code]( )]
   
+- **HyperTrack:** Yuedong Tan, Wenfang Sun, Jingyuan Li, Shuwei Hou, Xiaobo Li, Zhe Wang.<br />
+  "HyperTrack: A Unified Network for Hyperspectral Video Object Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11131287)] 
+  [[code](https://github.com/supertyd/HyperTrack)]
+
 - **HotMoE:** Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao.<br />
   "HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/10855488)] 
