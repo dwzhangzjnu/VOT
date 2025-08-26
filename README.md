@@ -585,6 +585,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11077417)] 
   [[code]( )]
 
+- **SRTrack:** Zhiwen Chen, Jinjian Wu, Zhiyu Zhu, Yifan Zhang, Guangming Shi, Junhui Hou.<br />
+  "Optimizing Multi-Modal Trackers via Sensitivity-aware Regularized Tuning." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2508.17488)] 
+  [[code](https://github.com/zhiwen-xdu/SRTrack)]
+
 - **QuadFusion:** Andong Lu, Mai Wen, Jinhu Wang, Yuanzhi Guo, Chenglong Li, Jin Tang, Bin Luo.<br />
   "Towards General Multimodal Visual Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.11218)] 
@@ -755,6 +760,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10962221)] 
   [[code]( )]
   
+- **FMTrack:** Yuanliang Xue, Guodong Jin, Bineng Zhong, Tao Shen, Lining Tan, Chaocan Xue.<br />
+  "FMTrack: Frequency-aware Interaction and Multi-Expert Fusion for RGB-T Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11134499)] 
+  [[code](https://github.com/xyl-507/FMTrack)]
+
 - **AETrack:** Zhiruo Zhu, Bineng Zhong, Qihua Liang, Hongtao Yang, Yaozong Zheng, Ning Li.<br />
   "Adaptive Expert Decision for RGB-T Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/10973112)] 
