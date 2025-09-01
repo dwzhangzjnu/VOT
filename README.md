@@ -896,8 +896,8 @@
   [[code](https://github.com/rayyao/HOPL)]
   
 - **HyA-T:** Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.<br />
-  "Hyperspectral Adapter for Object Tracking based on Hyperspectral Video." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2503.22199)] 
+  "Domain Adapter for Visual Object Tracking based on Hyperspectral Video." PR (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325009574)] 
   [[code](https://github.com/lgao001/HyA-T)]
 
 - **COST:** Chunhui Zhang, Li Liu, Jialin Gao, Xin Sun, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
@@ -1046,9 +1046,14 @@
   [[code]( )]
 
 - **TUFNet:** Yisong Liu, Zhao Gao, Yang Cao, Dongming Zhou.<br />
-  "Two-stage Unidirectional Fusion Network for RGBT tracking." KBS (2025).
+  "Two-stage Unidirectional Fusion Network for RGBT Tracking." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125000310)] 
   [[code]( )]
+
+- **MCINet:** Zhao Gao, Dongming Zhou, Zhiyong Wu, Yisong Liu, Qingqing Shan.<br />
+  "MCINet: Multimodal Context-Aware Network for RGBT Tracking." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125013826)] 
+  [[code](https://github.com/ysqidong-dotcon/MCINet)]
 
 - **RDT-TEF:** Long Gao, Yuze Ke, Wanlin Zhao, Yang Zhang, Yan Jiang, Gang He, Yunsong Li.<br />
   "RGB-D Visual Object Tracking with Transformer-based Multi-modal Feature Fusion." KBS (2025).
@@ -1060,6 +1065,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10948521)] 
   [[code]( )]
 
+- **ASTrack:** Tao Lv, Pai Peng, Jiang Long, Yinghao Ye, Xiaohuan Lu.<br />
+  "Adaptive Spatio-Temporal Feature Fusion for Visual Object tracking." IOTJ (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11142310)] 
+  [[code]( )]
+  
 - **IAMTrack:** Huiwei Shi, Xiaodong Mu, Hao He, Chengliang Zhong, Bo Zhang, Peng Zhao.<br />
   "IAMTrack: Interframe Appearance and Mdality Tokens Propagation with Temporal Modeling for RGBT Tracking." APIN (2025).
   [[paper](https://link.springer.com/article/10.1007/s10489-025-06438-w)] 
