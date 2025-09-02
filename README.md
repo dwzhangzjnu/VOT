@@ -1040,6 +1040,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
   [[code](https://github.com/ouha1998/MAT)]
   
+- **FPDT:** Lihua Qi, Haijun Wang, Haoyu Qu, Zihao Su.<br />
+  "Learning Adaptive Frequency-Prompt Denoising Transformer for UAV Nighttime Tracking." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125013802)] 
+  [[code]( )]
+
 - **TMTR:** Guocai Du, Peiyong Zhou, Nurbiya Yadikar, Alimjan Aysa, Kurban Ubul.<br />
   "Toward a Dynamic Tree-Mamba Encoder for UAV Tracking with Vision-Language." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125007774)] 
