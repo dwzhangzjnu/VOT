@@ -118,6 +118,11 @@
   [[paper](https://arxiv.org/abs/2507.16015)] 
   [[code](https://machinelearning.uniud.it/datasets/vista)]
   
+- **TrackAny3D:** Mengmeng Wang, Haonan Wang, Yulong Li, Xiangjie Kong, Jiaxin Du, Guojiang Shen, Feng Xia.<br />
+  "TrackAny3D: Transferring Pretrained 3D Models for Category-unified 3D Point Cloud Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.19908)] 
+  [[code](https://github.com/sallymmx/TrackAny3D)]
+
 - **GSOT3D:** Yifan Jiao, Yunhao Li, Junhua Ding, Qing Yang, Song Fu, Heng Fan, Libo Zhang.<br />
   "GSOT3D: Towards Generic 3D Single Object Tracking in the Wild." ICCV (2025).
   [[paper](https://arxiv.org/abs/2412.02129)] 
