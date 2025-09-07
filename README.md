@@ -1075,6 +1075,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10948521)] 
   [[code]( )]
 
+- **SCFT:** Shaoyang Ma, Kai Zhang, Yao Yang, Qiyan Liu, Gang Chen.<br />
+  "Vision-Inspired Transformer-Based Thermal Infrared Target Tracking Framework for Internet of Things." IOTJ (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11142785)] 
+  [[code]( )]
+
 - **ASTrack:** Tao Lv, Pai Peng, Jiang Long, Yinghao Ye, Xiaohuan Lu.<br />
   "Adaptive Spatio-Temporal Feature Fusion for Visual Object tracking." IOTJ (2025).
   [[paper](https://ieeexplore.ieee.org/document/11142310)] 
@@ -1085,6 +1090,11 @@
   [[paper](https://link.springer.com/article/10.1007/s10489-025-06438-w)] 
   [[code]( )]
   
+- **TATrack:** Wenkang Zhang, Tianyang Xu, Fei Xie, Jinhui Wu, Wankou Yang.<br />
+  "TATrack: Target-Oriented Adaptive Vision Transformer for UAV Tracking." NUENET (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025009475)] 
+  [[code]( )]
+
 - **HFFTrack:** Sugang Ma, Zhen Wan, Licheng Zhang, Bin Hu, Jinyu Zhang, Xiangmo Zhao.<br />
   "HFFTrack: Transformer Tracking via Hybrid Frequency Features." NUENET (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025001480)] 
