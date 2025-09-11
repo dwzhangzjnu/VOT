@@ -615,6 +615,11 @@
   [[paper](https://arxiv.org/abs/2505.19990)] 
   [[code]( )]
 
+- **HyMamba:** Long Gao, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.<br />
+  "Hyperspectral Mamba for Hyperspectral Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2509.08265)] 
+  [[code](https://github.com/lgao001/HyMamba)]
+
 - **SMMT:** Shang Zhang, Huanbin Zhang, Dali Feng, Yujie Cui, Ruoyan Xiong, Cen He.<br />
   "SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.04088)] 
