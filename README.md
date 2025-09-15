@@ -680,6 +680,11 @@
   [[paper](https://arxiv.org/abs/2508.05221)] 
   [[code](https://github.com/Event-AHU/Open_VLTrack)]
 
+- **CRSOT:** Yabin Zhu, Xiao Wang, Chenglong Li, Bo Jiang, Lin Zhu, Zhixiang Huang.<br />
+  "CRSOT: Cross-Resolution Object Tracking Using Unaligned Frame and Event Cameras." ArXiv (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11119086)] 
+  [[code](https://github.com/Event-AHU/Cross_Resolution_SOT)]
+
 - **FELT:** Xiao Wang, Xufeng Lou, Shiao Wang, Ju Huang, Lan Chen, Bo Jiang.<br />
   "Long-Term Visual Object Tracking with Event Cameras: An Associative Memory Augmented Tracker and A Benchmark Dataset." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2403.05839)] 
