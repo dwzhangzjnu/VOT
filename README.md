@@ -690,6 +690,11 @@
   [[paper](https://arxiv.org/abs/2506.23783)] 
   [[code](https://github.com/Event-AHU/Mamba_FETrack)]
 
+- **ISTASTrack:** Siying Liu, Zikai Wang, Hanle Zheng, Yifan Hu, Xilin Wang, Qingkai Yang, Jibin Wu, Hao Guo, Lei Deng.<br />
+  "ISTASTrack: Bridging ANN and SNN via ISTA Adapter for RGB-Event Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2509.09977)] 
+  [[code](https://github.com/lsying009/ISTASTrack)]
+
 - **SpikeFET:** Jingjun Yang, Liangwei Fan, Jinpu Zhang, Xiangkai Lian, Hui Shen, Dewen Hu.<br />
   "Fully Spiking Neural Networks for Unified Frame-Event Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.20834)] 
