@@ -630,6 +630,11 @@
   [[paper](https://arxiv.org/abs/2507.01535)] 
   [[code]( )]
 
+- **T-SiamTPN:** Hojat Ardi, Amir Jahanshahi, Ali Diba.<br />
+  "T-SiamTPN: Temporal Siamese Transformer Pyramid Networks for Robust and Efficient UAV Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2507.01535)] 
+  [[code]( )]
+
 - **VAUAT:** Guanghai Ding, Yihua Ren, Yuting Liu, Qijun Zhao, Shuiwang Li.<br />
   "Vision-Based Anti Unmanned Aerial Technology: Opportunities and Challenges." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2507.10006)] 
