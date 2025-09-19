@@ -76,6 +76,20 @@
 
 
 
+### NeurIPS 2025
+
+- **LoRATv2:** .<br />
+  "LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers." NeurIPS (2025).
+  [[paper]( )] 
+  [[code]( )]
+
+- **DSATrack:** .<br />
+  "Dynamic Semantic-Aware Correlation Modeling for UAV Tracking." NeurIPS (2025).
+  [[paper]( )] 
+  [[code]( )]
+
+
+
 ### ICCV 2025
 
 - **UMDATrack:** Siyuan Yao, Rui Zhu, Ziqi Wang, Wenqi Ren, Yanyang Yan, Xiaochun Cao.<br />
