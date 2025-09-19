@@ -820,6 +820,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11131531)] 
   [[code]( )]
 
+- **HKDT:** Yidong Song, Shilei Wang, Zhaochuan Zeng, Jikai Zheng, Zhenhua Wang, Jifeng Ning.<br />
+  "Exploring Pruning-based Efficient Object Tracking via Hybrid Knowledge Distillation." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11162677)] 
+  [[code]( )]
+  
 - **DyTrack:** Jiawen Zhu, Xin Chen, Haiwen Diao, Shuai Li, Jun-Yan He, Chenyang Li, Bin Luo, Dong Wang, Huchuan Lu.<br />
   "Exploring Dynamic Transformer for Efficient Object Tracking." TNNLS (2025).
   [[paper](https://ieeexplore.ieee.org/document/10947615)] 
