@@ -1179,6 +1179,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S156849462500451X)] 
   [[code]( )]
   
+- **STPTrack:** Meng Sun, Xiaotao Liu, Yifan Li, Hongyu Wang, Dian Yuan, Jing Liu.<br />
+  "Continuous Spatio Temporal Prompts for Visual Tracking." EAAI (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625021918)] 
+  [[code]( )]
+
 - **A-CLIP:** Hong Zhu, Qingyang Lu, Lei Xue, Guanglin Yuan, Kaihua Zhang.<br />
   "Joint Feature Extraction and Alignment in Object Tracking with Vision-Language Model." EAAI (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625007870)] 
