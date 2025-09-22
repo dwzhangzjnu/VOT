@@ -1179,6 +1179,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S156849462500451X)] 
   [[code]( )]
   
+- **TransSTC:** Hong Zhang, Wanli Xing, Yifan Yang, Hanyang Liu, Ding Yuan.<br />
+  "TransSTC: Transformer Tracker Meets Efficient Spatial-Temporal Cues." PR (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325009641)] 
+  [[code](https://github.com/WLCarlos/TransSTC)]
+
 - **STPTrack:** Meng Sun, Xiaotao Liu, Yifan Li, Hongyu Wang, Dian Yuan, Jing Liu.<br />
   "Continuous Spatio Temporal Prompts for Visual Tracking." EAAI (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625021918)] 
