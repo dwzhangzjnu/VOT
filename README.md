@@ -4,6 +4,10 @@
 
 ### :star2: Recommendations :star2:
 
+- **VOTBook:**  Xin Zhao, Shiyu Hu, Xu-Cheng Yin.<br />
+  "Visual Object Tracking: An Evaluation Perspective." Springer (2025).
+  [[paper](https://link.springer.com/book/10.1007/978-981-96-4558-9)]
+
 - **VOTSurvey:** Sajid Javed, Martin Danelljan, Fahad Shahbaz Khan, Muhammad Haris Khan, Michael Felsberg, Jiri Matas.<br />
   "Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook." TAPMI (2023).
   [[paper](https://arxiv.org/abs/2112.02838)] 
@@ -1802,6 +1806,11 @@
   "Boost Tracking by Natural Language With Prompt-Guided Grounding." TITS (2024).
   [[paper](https://ieeexplore.ieee.org/document/10756281)] 
   [[code]( )]
+
+- **BioDrone:** Xin Zhao, Shiyu Hu, Yipei Wang, Jing Zhang, Yimin Hu, Rongshuai Liu, Haibin Ling, Yin Li, Renshu Li, Kun Liu, Jiadong Li.<br />
+  "BioDrone: A Bionic Drone-Based Single Object Tracking Benchmark for Robust Vision." IJCV (2024).
+  [[paper](https://link.springer.com/article/10.1007/s11263-023-01937-0)] 
+  [[code](http://biodrone.aitestunion.com/)]
 
 - **UniMod1K:** Xue-Feng Zhu, Tianyang Xu, Zongtao Liu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
   "UniMod1K: Towards a More Universal Large-Scale Dataset and Benchmark for Multi-modal Learning." IJCV (2024).
