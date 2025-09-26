@@ -828,6 +828,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11003183)] 
   [[code](https://github.com/wangwuwei/MPIT)]
 
+- **VFPTrack:** Hongtao Yang, Bineng Zhong, Qihua Liang, Zhiruo Zhu, Yaozong Zheng, Ning Li.<br />
+  "Robust RGB-T Tracking via Learnable Visual Fourier Prompt Fine-tuning and Modality Fusion Prompt Generation." TMM (2025).
+  [[paper](https://arxiv.org/abs/2509.19733)] 
+  [[code]( )]
+
 - **PTrMA:** Binxin Luo, Dongxu Liu, Xianrong Peng, Haorui Zuo, Jianlin Zhang, Meihui Li.<br />
   "Progressive Transformer with Multi-modality Adaptation for RGB-T Tracking." TIM (2025).
   [[paper](https://ieeexplore.ieee.org/document/11023155)] 
