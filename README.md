@@ -997,6 +997,11 @@
   "Adaptive Trajectory Correction for Underwater Object Tracking." TCSVT (2025).
   [[paper](https://ieeexplore.ieee.org/document/10900462)] 
   [[code]( )]
+
+- **IDSTT:** Kunlong Zhao, Dawei Zhao, Liang Xiao, Yiming Nie, Yulong Huang, Yonggang Zhang.<br />
+  "IDSTT: Iterative Dual-Sample-Teacher for Semi-Supervised Visual Object Tracking." TCSVT (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11180070)] 
+  [[code]( )]
   
 - **HarNet:** Si Chen, Rui Xu, Yan Yan, Yang Hua, Da-Han Wang, Shunzhi Zhu.<br />
   "Hierarchical Attention-Enhanced Correlation Refinement for Robust Visual Tracking." TITS (2025).
@@ -1203,8 +1208,13 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625007870)] 
   [[code]( )]
 
+- **MSTGT:** Fei Pan, Lianyu Zhao, Chenglin Wang, Chunlei Du, Xiaolei Zhao.<br />
+  "MSTGT: Multi-scale Spatio-temporal Guidance for Visual Tracking." NEUCOM (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225022556)] 
+  [[code](https://github.com/capf-2011/MSTGT)]
+
 - **ECTTrack:** Liang Xu, Zhiqing Guo, Liejun Wang.<br />
-  "Efficient hybrid linear self-attention based visual object tracking with LoRA." NUECOM (2025).
+  "Efficient hybrid linear self-attention based visual object tracking with LoRA." NEUCOM (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225010070)] 
   [[code](https://github.com/mrlonely426/ECTTrack)]
 
