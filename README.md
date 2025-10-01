@@ -853,6 +853,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10947615)] 
   [[code]( )]
 
+- **TSTrack:** Jiafeng Li, Shengyao Sun, Yang Wang, Jing Zhang, Li Zhuo.<br />
+  "TSTrack: A Light-weight Transformer-based Spatiotemporal Feature Refinement Tracking Algorithm." TGRS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11181116)] 
+  [[code](https://github.com/BJUTsipl/TSTrack)]
+  
 - **FWTrack:** Xuyi Fan, Hongguang Li, Yangzhu Wang, Minghao Zhao, Li Shen.<br />
   "Hierarchical Spatial–Temporal UAV Tracking With Three-Dimensional Wavelets for Road Traffic Surveillance." TITS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11087725)] 
