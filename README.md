@@ -82,6 +82,11 @@
 
 ### NeurIPS 2025
 
+- **RGBDT500:** Xue-Feng Zhu, Tianyang Xu, Yifan Pan, Jinjie Gu, Xi Li, Jiwen Lu, Xiao-Jun Wu, Josef Kittler.<br />
+  "Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking." NeurIPS (2025).
+  [[paper]( )] 
+  [[code](https://xuefeng-zhu5.github.io/RGBDT500/)]
+
 - **LoRATv2:** .<br />
   "LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers." NeurIPS (2025).
   [[paper]( )] 
