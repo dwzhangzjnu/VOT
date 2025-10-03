@@ -84,7 +84,7 @@
 
 - **RGBDT500:** Xue-Feng Zhu, Tianyang Xu, Yifan Pan, Jinjie Gu, Xi Li, Jiwen Lu, Xiao-Jun Wu, Josef Kittler.<br />
   "Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking." NeurIPS (2025).
-  [[paper]( )] 
+  [[paper](https://arxiv.org/abs/2509.24741)] 
   [[code](https://xuefeng-zhu5.github.io/RGBDT500/)]
 
 - **LoRATv2:** .<br />
