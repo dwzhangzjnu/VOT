@@ -918,6 +918,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10892342)] 
   [[code](https://github.com/faicaiwawa/PUTrack)]
 
+- **ASMTrack:** Shaoyang Ma, Gang Chen, Jiale Quan.<br />
+  "ASMTrack: Thermal Infrared Target Tracking Network Based on Atkinson-Shiffrin Memory Model." TITS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11184691)] 
+  [[code]( )]
+
 - **MGTrack:** Shaoyang Ma, Yao Yang, Kai Zhang, Gang Chen.<br />
   "Transformer-Based Memory Guided Thermal Infrared Target Tracking Framework for Traffic Assistance." TITS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11005508)] 
@@ -1178,11 +1183,16 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125002771)] 
   [[code]( )]
   
+- **FSTrack:** Jian Shi, Yang Yu, Bin Hui, Junze Shi, Haibo Luo.<br />
+  "FSTrack: Visual Tracking with Feature Fusion and Adaptive Selection." ESWA (2025).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425035109)] 
+  [[code]( )]
+
 - **ASTrack:** Zhi Chen, Lijun Liu, Yu Zhen.<br />
   "Transformer Tracking with Auxiliary Search Token." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425005329)] 
   [[code]( )]
-
+  
 - **TIPTrack:** Kaixiang Yan, Wenhua Qian.<br />
   "TIPTrack: Time-series Information Prompt Network for RGBT Tracking." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425027721)] 
