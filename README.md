@@ -1123,6 +1123,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125007774)] 
   [[code]( )]
 
+- **HCSMP:** Wenhao Jiang, Dong Zhao, Chen Wang, Xin Yu, Pattathal V. Arun, Yuta Asano, Pei Xiang, Huixin Zhou.<br />
+  "Hyperspectral Video Object Tracking with Cross-Modal Spectral Complementary and Memory Prompt Network." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S095070512501634X)] 
+  [[code]( )]
+
 - **TUFNet:** Yisong Liu, Zhao Gao, Yang Cao, Dongming Zhou.<br />
   "Two-stage Unidirectional Fusion Network for RGBT Tracking." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125000310)] 
