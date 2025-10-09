@@ -538,6 +538,11 @@
   [[paper](https://arxiv.org/abs/2505.20718)] 
   [[code](https://sites.google.com/view/evt-recovery-assistant)]
 
+- **TrackVLA++:** Jiahang Liu, Yunpeng Qi, Jiazhao Zhang, Minghan Li, Shaoan Wang, Kui Wu, Hanjing Ye, Hong Zhang, Zhibo Chen, Fangwei Zhong, Zhizheng Zhang, He Wang.<br />
+  "TrackVLA++: Unleashing Reasoning and Memory Capabilities in VLA Models for Embodied Visual Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.07134)] 
+  [[code](https://pku-epic.github.io/TrackVLA-plus-plus-Web/)]
+
 - **TrackVLA:** Shaoan Wang, Jiazhao Zhang, Minghan Li, Jiahang Liu, Anqi Li, Kui Wu, Fangwei Zhong, Junzhi Yu, Zhizheng Zhang, He Wang.<br />
   "TrackVLA: Embodied Visual Tracking in the Wild." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.23189)] 
@@ -617,6 +622,11 @@
   "Optimizing Multi-Modal Trackers via Sensitivity-aware Regularized Tuning." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2508.17488)] 
   [[code](https://github.com/zhiwen-xdu/SRTrack)]
+
+- **MSITrack:** Tao Feng, Tingfa Xu, Haolin Qin, Tianhao Li, Shuaihao Han, Xuyang Zou, Zhan Lv, Jianan Li.<br />
+  "MSITrack: A Challenging Benchmark for Multispectral Single Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.06619)] 
+  [[code](https://github.com/Fengtao191/MSITrack)]
 
 - **QuadFusion:** Andong Lu, Mai Wen, Jinhu Wang, Yuanzhi Guo, Chenglong Li, Jin Tang, Bin Luo.<br />
   "Towards General Multimodal Visual Tracking." ArXiv (2025).
