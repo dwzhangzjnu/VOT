@@ -1048,6 +1048,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10970385)] 
   [[code]( )]
 
+- **ILA:** Ziyi Liu, Caiyun Xie, Wenbing Ding, Dengpan Ye, Long Tang, Qian Wang.<br />
+  "Towards Invisible Decision-Based Adversarial Attacks against Visual Object Tracking." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11194202)] 
+  [[code]( )]
+
 - **AGA:** Rui Yao, Anqi Zhang, Yong Zhou, Jiaqi Zhao, Bing Liu, Abdulmotaleb El Saddik.<br />
   "Adversarial Geometric Attacks for 3D Point Cloud Object Tracking." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/10948328)] 
@@ -1222,6 +1227,11 @@
   "Learning Adaptive Detection and Tracking Collaborations with Augmented UAV Synthesis for Accurate Anti-UAV System." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425013016)] 
   [[code](https://github.com/Shihan0325/Anti-MUAV15)]
+
+- **LightAMAT:** Mingshu Zhang, Fangmei Chen, Fasheng Wang, Binbin Wang, Hanwei Li, Fuming Sun.<br />
+  "Lightweight Adaptive Multi-scale Asymmetric Tracker." ASOC (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1568494625013353)] 
+  [[code](https://github.com/zmingshu/LightAMAT)]
 
 - **VOTReview:** Zeshi Chen, Caiping Peng, Shuai Liu, Weiping Ding.<br />
   "Visual Object Tracking: Review and Challenges." ASOC (2025).
