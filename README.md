@@ -17,6 +17,11 @@
   [[paper](https://arxiv.org/pdf/1912.00535.pdf)] 
   [[code](https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey)]
    
+- **SAM3:** Anonymous authors.<br />
+  "SAM 3: Segment Anything with Concepts." ArXiv (2025).
+  [[paper](https://openreview.net/forum?id=r35clVtGzw)] 
+  [[code](https://ai.meta.com/sam3/)]
+
 - **SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br />
   "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2411.11922)] 
@@ -52,11 +57,6 @@
   "Segment Everything Everywhere All at Once." ArXiv (2023).
   [[paper](https://arxiv.org/pdf/2304.06718v1.pdf)] 
   [[code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
-
-- **SAM-PT:** Frano Rajič, Lei Ke, Yu-Wing Tai, Chi-Keung Tang, Martin Danelljan, Fisher Yu.<br />
-  "Segment Anything Meets Point Tracking." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2307.01197)] 
-  [[code](https:/github.com/syscv/sam-pt)]
   
 - **ReviewLLM:** Jiaqi Wang, Zhengliang Liu, Lin Zhao, Zihao Wu, Chong Ma, Sigang Yu, Haixing Dai.<br />
   "Review of Large Vision Models and Visual Prompt Engineering." ArXiv (2023).
@@ -552,7 +552,7 @@
   "SAMITE: Position Prompted SAM2 with Calibrated Memory for Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2507.21732)] 
   [[code](https://github.com/Sam1224/SAMITE)]
-
+  
 - **HiM2SAM:** Ruixiang Chen, Guolei Sun, Yawei Li, Jie Qin, Luca Benini.<br />
   "HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2507.07603)] 
@@ -587,6 +587,26 @@
   "Towards Universal Modal Tracking with Online Dense Temporal Token Learning." TPAMI (2025).
   [[paper](https://arxiv.org/abs/2507.20177)] 
   [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
+  
+- **MAGTrack:** Anonymous authors.<br />
+  "MAGTrack: MLLM-Augmented Grounding and Text Refinement for Language-Guided Tracking." ArXiv (2025).
+  [[paper](https://openreview.net/forum?id=IW8S0qIjTG)] 
+  [[code]( )]
+
+- **OneTrackerV2:** Anonymous authors.<br />
+  "OneTrackerV2: Unified Multimodal Visual Object Tracking with Mixture of Experts." ArXiv (2025).
+  [[paper](https://openreview.net/forum?id=sTXCoxide9)] 
+  [[code]( )]
+
+- **Uni-MDTrack:** Anonymous authors.<br />
+  "Uni-MDTrack: Prompt Unified Single Object Tracking with Deep Fusion of Memory and Dynamic State." ArXiv (2025).
+  [[paper](https://openreview.net/forum?id=FMOn4cjJKG)] 
+  [[code]( )]
+
+- **VCoT:** Anonymous authors.<br />
+  "VCoT: Visual Chain-of-Thought for Continual Learning in Day-Night Object Tracking." ArXiv (2025).
+  [[paper](https://openreview.net/forum?id=9T9cxAK7ac)] 
+  [[code]( )]
   
 - **VPTT:** Jiaming Liu, Yue Wu, Qiguang Miao, Maoguo Gong, Linghe Kong.<br />
   "Revisiting Siamese-based 3D Single Object Tracking with a Versatile Transformer." TPAMI (2025).
