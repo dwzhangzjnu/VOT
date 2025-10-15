@@ -87,6 +87,11 @@
   [[paper](https://arxiv.org/abs/2509.24741)] 
   [[code](https://xuefeng-zhu5.github.io/RGBDT500/)]
 
+- **MMOT:** Tianhao Li, Tingfa Xu, Ying Wang, Haolin Qin, Xu Lin, Jianan Li.<br />
+  "MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2510.12565)] 
+  [[code](https://github.com/Annzstbl/MMOT)]
+  
 - **LoRATv2:** .<br />
   "LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers." NeurIPS (2025).
   [[paper]( )] 
@@ -1198,6 +1203,11 @@
   [[paper](https://link.springer.com/article/10.1007/s10489-025-06438-w)] 
   [[code]( )]
   
+- **RMATrack:** Xiaomei Gong, Yi Zhang, Yanli Liu.<br />
+  "Visual Tracking with Unified Relation Modeling and Masked Appearance Learning." NUENET (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025010780)] 
+  [[code]( )]
+
 - **TATrack:** Wenkang Zhang, Tianyang Xu, Fei Xie, Jinhui Wu, Wankou Yang.<br />
   "TATrack: Target-Oriented Adaptive Vision Transformer for UAV Tracking." NUENET (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025009475)] 
@@ -1223,6 +1233,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125002771)] 
   [[code]( )]
   
+- **MCTrack:** Jianbo Song, Hong Zhang, Hanyang Liu, Yachun Feng, Yang Han, Yifan Yang.<br />
+  "MCTrack: Multi-Cue Spatio-Temporal Object Tracking." ESWA (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425035997)] 
+  [[code]( )]
+
 - **FSTrack:** Jian Shi, Yang Yu, Bin Hui, Junze Shi, Haibo Luo.<br />
   "FSTrack: Visual Tracking with Feature Fusion and Adaptive Selection." ESWA (2025).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425035109)] 
