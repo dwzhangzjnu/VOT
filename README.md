@@ -588,6 +588,11 @@
   [[paper](https://arxiv.org/abs/2505.12606)] 
   [[code]( )]
 
+- **UniSOT:** Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Xu Zhou, Feng Wu.<br />
+  "UniSOT: a Unified Framework for Multi-Modality Single Object Tracking." TPAMI (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11202681)] 
+  [[code]( )]
+
 - **UM-ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Shengping Zhang, Guorong Li, Xianxian Li, Rongrong Ji.<br />
   "Towards Universal Modal Tracking with Online Dense Temporal Token Learning." TPAMI (2025).
   [[paper](https://arxiv.org/abs/2507.20177)] 
@@ -1277,6 +1282,11 @@
   "TransSTC: Transformer Tracker Meets Efficient Spatial-Temporal Cues." PR (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320325009641)] 
   [[code](https://github.com/WLCarlos/TransSTC)]
+
+- **DDCTrack:** Guocai Du, Peiyong Zhou, Nurbiya Yadikar, Alimjan Aysa, Kurban Ubul.<br />
+  "Dynamic Token Sampling for Efficient Unmanned Aerial Vehicles Transformer Tracking." EAAI (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625026417)] 
+  [[code]( )]
 
 - **STPTrack:** Meng Sun, Xiaotao Liu, Yifan Li, Hongyu Wang, Dian Yuan, Jing Liu.<br />
   "Continuous Spatio Temporal Prompts for Visual Tracking." EAAI (2025).
