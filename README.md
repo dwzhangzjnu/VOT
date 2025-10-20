@@ -688,6 +688,11 @@
   [[paper](https://arxiv.org/abs/2505.04088)] 
   [[code]( )]
   
+- **DPTrack:** Zhiqiang Zhu, Xinbo Gao, Wen Lu, Jie Li, Zhaoyang Wang, Mingqian Ge.<br />
+  "DPTrack: Directional Kernel-Guided Prompt Learning for Robust Nighttime Aerial Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.15449)] 
+  [[code](https://github.com/zzq-vipsl/DPTrack)]
+
 - **TrackingMiM:** Bingxi Liu, Calvin Chen, Junhao Li, Guyang Yu, Haoqian Song, Xuchen Liu, Jinqiang Cui, Hong Zhang.<br />
   "TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2507.01535)] 
