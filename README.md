@@ -1273,6 +1273,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425013016)] 
   [[code](https://github.com/Shihan0325/Anti-MUAV15)]
 
+- **TransADT:** Feng Cheng, Gaoliang Peng, Hang Li, Benqi Zhao, Rui Li.<br />
+  "Lightweight Anti-UAV Object Tracking with Visual Sensing Based on Heterogeneous Model Knowledge Distillation." JSEN (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11203892)] 
+  [[code]( )]
+  
 - **LightAMAT:** Mingshu Zhang, Fangmei Chen, Fasheng Wang, Binbin Wang, Hanwei Li, Fuming Sun.<br />
   "Lightweight Adaptive Multi-scale Asymmetric Tracker." ASOC (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1568494625013353)] 
