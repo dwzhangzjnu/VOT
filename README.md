@@ -553,6 +553,11 @@
   [[paper](https://arxiv.org/abs/2505.23189)] 
   [[code](https://pku-epic.github.io/TrackVLA-web)]
 
+- **SAM2++:** Jiaming Zhang, Cheng Liang, Yichun Yang, Chenkai Zeng, Yutao Cui, Xinwen Zhang, Xin Zhou, Kai Ma, Gangshan Wu, Limin Wang.<br />
+  "SAM 2++: Tracking Anything at Any Granularity." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.18822)] 
+  [[code](https://tracking-any-granularity.github.io/)]
+
 - **SAMITE:** Qianxiong Xu, Lanyun Zhu, Chenxi Liu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao.<br />
   "SAMITE: Position Prompted SAM2 with Calibrated Memory for Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2507.21732)] 
