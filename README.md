@@ -788,6 +788,11 @@
   [[paper](https://arxiv.org/abs/2503.08703)] 
   [[code]( )]
 
+- **HAD:** Yao Deng, Xian Zhong, Wenxuan Liu, Zhaofei Yu, Jingling Yuan, Tiejun Huang.<br />
+  "HAD: Hierarchical Asymmetric Distillation to Bridge Spatio-Temporal Gaps in Event-Based Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2510.19560)] 
+  [[code]( )]
+
 - **TrackSSD-FENet:** Keqi Liu, Rong Xiao, Deng Xiong, Yongsheng Sang, Jiancheng Lv.<br />
   "Joint Frame and Event Object Tracking via Non-causal State Space Duality." ICIC (2025).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-96-9964-3_32)] 
