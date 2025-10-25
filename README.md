@@ -131,15 +131,20 @@
   [[paper](https://arxiv.org/abs/2507.19875)] 
   [[code](https://github.com/XiaokunFeng/ATCTrack)]
 
+- **CAT:** Yongsheng Yuan, Jie Zhao, Dong Wang, Huchuan Lu.<br />
+  "CAT: A Unified Click-and-Track Framework for Realistic Tracking." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yuan_CAT_A_Unified_Click-and-Track_Framework_for_Realistic_Tracking_ICCV_2025_paper.html)] 
+  [[code](https://github.com/ysyuann/CAT)]
+
 - **CompressTracker:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Shilin Yan, Pinxue Guo, Kaixun Jiang, Zhaoyu Chen, Shuyong Gao, Wei Zhang, Hong Lu, Wenqiang Zhang.<br />
   "General Compression Framework for Efficient Transformer Object Tracking." ICCV (2025).
   [[paper](https://arxiv.org/abs/2409.17564)] 
   [[code](https://github.com/LingyiHongfd/CompressTracker)]
 
-- **SMSTracker:** Sixian Chan, Zedong Li, Xiaoqin Zhang, Wenhao Li, Shijian Lyu, Chunhua Shen.<br />
+- **SMSTracker:** Sixian Chan, Zedong Li, Wenhao Li, Shijian Lyu, Chunhua Shen, Xiaoqin Zhang.<br />
   "SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking." ICCV (2025).
-  [[paper]( )] 
-  [[code]( )]
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chan_SMSTracker_Tri-path_Score_Mask_Sigma_Fusion_for_Multi-Modal_Tracking_ICCV_2025_paper.html)] 
+  [[code](https://github.com/Leezed525/SMSTracker)]
 
 - **VISTA:** Matteo Dunnhofer, Zaira Manigrasso, Christian Micheloni.<br />
   "Is Tracking really more challenging in First Person Egocentric Vision?" ICCV (2025).
@@ -159,23 +164,32 @@
  - **TRACT:** Yunhao Li, Yifan Jiao, Dan Meng, Heng Fan, Libo Zhang.<br />
   "Attention to Trajectory: Trajectory-Aware Open-Vocabulary Tracking." ICCV (2025).
   [[paper](https://arxiv.org/abs/2503.08145)] 
-  [[code]( )]
+  [[code](https://github.com/Nathan-Li123/TRACT)]
 
 - **VOVTrack:** Zekun Qian, Ruize Han, Junhui Hou, Linqi Song, Wei Feng.<br />
   "VOVTrack: Exploring the Potentiality in Raw Videos for Open-Vocabulary Multi-Object Tracking." ICCV (2025).
-  [[paper](https://arxiv.org/abs/2410.08529)] 
-  [[code]( )]
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Qian_VOVTrack_Exploring_the_Potentiality_in_Raw_Videos_for_Open-Vocabulary_Multi-Object_ICCV_2025_paper.html)] 
+  [[code](https://github.com/zekunqian/VOVTrack)]
 
 - **COVTrack:** Zekun Qian, Ruize Han, Zhixiang Wang, Junhui Hou, Wei Feng.<br />
   "COVTrack: Continuous Open-Vocabulary Multi-Object Tracking via Adaptive Multi-Cue Fusion." ICCV (2025).
-  [[paper]( )] 
-  [[code]( )]
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Qian_COVTrack_Continuous_Open-Vocabulary_Tracking_via_Adaptive_Multi-Cue_Fusion_ICCV_2025_paper.html)] 
+  [[code](https://github.com/zekunqian/COVTrack)]
   
+- **MCATrack:** Jiahao Zhang, Zongli Jiang, Jinli Zhang, Yixin Wei, Liang Li, Yizheng Wang, Gang Wang.<br />
+  "Tracking Tiny Drones against Clutter: Large-Scale Infrared Benchmark with Motion-Centric Adaptive Algorithm." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_Tracking_Tiny_Drones_against_Clutter_Large-Scale_Infrared_Benchmark_with_Motion-Centric_ICCV_2025_paper.html)] 
+  [[code](https://github.com/zhangjiahao02/MCATrack)]
+
 - **CST Anti-UAV:** Bin Xie, Congxuan Zhang, Fagan Wang, Peng Liu, Feng Lu, Zhen Chen, Weiming Hu.<br />
   "CST Anti-UAV: A Thermal Infrared Benchmark for Tiny UAV Tracking in Complex Scenes." ICCVW (2025).
   [[paper](https://arxiv.org/abs/2507.23473)] 
   [[code]( )]
 
+- **GUSEM:** Oussama Abdul Hay, Sara Alansari, Mohamad Alansari, Yahya Zweiri.<br />
+  "Comparing Representations for Event Camera-based Visual Object Tracking." ICCVW (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025W/NeVi/html/Hay_Comparing_Representations_for_Event_Camera-based_Visual_Object_Tracking_ICCVW_2025_paper.html)] 
+  [[code]( )]
   
   
 ### CVPR 2025
