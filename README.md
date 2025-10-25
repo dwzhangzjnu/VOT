@@ -1976,6 +1976,11 @@
   [[paper](https://arxiv.org/abs/2409.18901)] 
   [[code](https://github.com/chenshihfang/GOT)]
 
+- **Linker:** Zizheng Xun, Shangzhe Di, Yulu Gao, Zongheng Tang, Gang Wang, Si Liu, Bo Li.<br />
+  "Linker: Learning Long Short-term Associations for Robust Visual Tracking." TMM (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10416989)] 
+  [[code]( )]
+  
 - **SIMix:** Jinpu Zhang, Ziwen Li, Ruonan Wei, Yuehuan Wang.<br />
   "Augment One with Others: Generalizing to Unforeseen Variations for Visual Tracking." TMM (2024).
   [[paper](https://ieeexplore.ieee.org/document/10814671)] 
