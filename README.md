@@ -912,6 +912,11 @@
   [[paper](https://arxiv.org/abs/2509.19733)] 
   [[code]( )]
 
+- **MPANet:** Xiang Liu, Haiyan Li, Victor Sheng, Yujun Ma, Xiaoguo Liang, Guanbo Wang.<br />
+  "Scale-Aware Attention and Multi-Modal Prompt Learning with Fusion Adapter for RGBT Tracking." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11207526)] 
+  [[code]( )]
+  
 - **PTrMA:** Binxin Luo, Dongxu Liu, Xianrong Peng, Haorui Zuo, Jianlin Zhang, Meihui Li.<br />
   "Progressive Transformer with Multi-modality Adaptation for RGB-T Tracking." TIM (2025).
   [[paper](https://ieeexplore.ieee.org/document/11023155)] 
