@@ -355,9 +355,14 @@
   [[paper](https://arxiv.org/abs/2508.10655)] 
   [[code](https://github.com/Zhangyong-Tang/UniBench300)]
 
+- **Gen4Track:** Jiawei Ge, Xinyu Zhang, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Qingqing Gao, Biwei Cao, Kun Wang, Chang Liu, Bo Liu, Chen Feng, Ioannis Patras.<br />
+  "Gen4Track: A Tuning-free Data Augmentation Framework via Self-correcting Diffusion Model for Vision-Language Tracking." ACM MM (2025).
+  [[paper](https://dl.acm.org/doi/10.1145/3746027.3754956)] 
+  [[code]( )]
+
 - **FA3T:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Lingling Li, Puhua Chen, Xu Liu, Xinyi Wang.<br />
   "FA3T: Feature-Aware Adversarial Attacks for Multi-modal Tracking." ACM MM (2025).
-  [[paper]( )] 
+  [[paper](https://dl.acm.org/doi/10.1145/3746027.3755155)] 
   [[code]( )]
 
 - **MST:** Shilei Wang, Gong Cheng, Pujian Lai, Dong Gao, Junwei Han.<br />
@@ -365,6 +370,12 @@
   [[paper](https://arxiv.org/abs/2508.11531)] 
   [[code](https://github.com/wsumel/MST)]
 
+- **CM3AE:** Wentao Wu, Xiao Wang, Chenglong Li, Bo Jiang, Jin Tang, Bin Luo, Qi Liu.<br />
+  "CM3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2504.12576)] 
+  [[code](https://github.com/Event-AHU/CM3AE)]
+
+  
   
 ### IJCAI 2025
 
@@ -736,11 +747,6 @@
   "FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.13604)] 
   [[code](https://github.com/vero1925/FocusTrack)]
-
-- **CM3AE:** Wentao Wu, Xiao Wang, Chenglong Li, Bo Jiang, Jin Tang, Bin Luo, Qi Liu.<br />
-  "CM3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2504.12576)] 
-  [[code](https://github.com/Event-AHU/CM3AE)]
   
 - **SonarT165:** Yunfeng Li, Bo Wang, Jiahao Wan, Xueyi Wu, Ye Li.<br />
   "SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking." ArXiv (2025).
