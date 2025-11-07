@@ -97,10 +97,10 @@
   [[paper](https://arxiv.org/abs/2511.04678)] 
   [[code](https://tubelet-graph.github.io/)]
 
-- **LoRATv2:** .<br />
+- **LoRATv2:** Liting Lin, Heng Fan, Zhipeng Zhang, Yuqing Huang, Yaowei Wang, Yong Xu, Haibin Ling.<br />
   "LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers." NeurIPS (2025).
-  [[paper]( )] 
-  [[code]( )]
+  [[paper](https://openreview.net/forum?id=q06YjUj0FB)] 
+  [[code](https://github.com/LitingLin/LoRATv2)]
 
 - **DSATrack:** Xinyu Zhou, Tongxin Pan, Lingyi Hong, Pinxue Guo, Haijing Guo, Zhaoyu Chen, Kaixun Jiang, Wenqiang Zhang.<br />
   "Dynamic Semantic-Aware Correlation Modeling for UAV Tracking." NeurIPS (2025).
