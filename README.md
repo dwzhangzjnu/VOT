@@ -92,6 +92,11 @@
   [[paper](https://arxiv.org/abs/2510.12565)] 
   [[code](https://github.com/Annzstbl/MMOT)]
   
+- **TubeletGraph:** Yihong Sun, Xinyu Yang, Jennifer J. Sun, Bharath Hariharan.<br />
+  "Tracking and Understanding Object Transformations." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2511.04678)] 
+  [[code](https://tubelet-graph.github.io/)]
+
 - **LoRATv2:** .<br />
   "LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers." NeurIPS (2025).
   [[paper]( )] 
@@ -1273,6 +1278,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608025004678)] 
   [[code](https://github.com/pellab/DSC)]
   
+- **ICSPTrack:** Xianxin Jia, Zhiqiang Hou, Yunlong Wang, Hao Yue, Shuai Hu, Sugang Ma, Xiaobao Yang, Lei Pu.<br />
+  "Integrating Multi-scale Appearance and Motion Cues for Visual Tracking via Spatio-temporal Prompt." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125008743)] 
+  [[code](https://github.com/jiaxianxin/ICSPTrack)]
+
 - **AIFTrack:** Junze Shi, Jian Shi, Haibo Luo.<br />
   "Adaptive Information Flow Propagation for Visual Tracking." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125008743)] 
