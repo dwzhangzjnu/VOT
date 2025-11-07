@@ -92,10 +92,25 @@
   [[paper](https://arxiv.org/abs/2510.12565)] 
   [[code](https://github.com/Annzstbl/MMOT)]
   
+- **SpikeFET:** Jingjun Yang, Liangwei Fan, Jinpu Zhang, Xiangkai Lian, Hui Shen, Dewen Hu.<br />
+  "Fully Spiking Neural Networks for Unified Frame-Event Object Tracking." NeurIPS (2025).
+  [[paper](https://openreview.net/forum?id=FooiwsnEH9)] 
+  [[code](https://github.com/Noctis-A/SpikeFET)]
+
+- **DOVTrack:** Zekun Qian, Ruize Han, Zhixiang Wang, Junhui Hou, Wei Feng.<br />
+  "DOVTrack: Data-Efficient Open-Vocabulary Tracking." NeurIPS (2025).
+  [[paper](https://openreview.net/forum?id=DIVHwy7wfh)] 
+  [[code](https://github.com/zekunqian/DOVTrack)]
+
 - **TubeletGraph:** Yihong Sun, Xinyu Yang, Jennifer J. Sun, Bharath Hariharan.<br />
   "Tracking and Understanding Object Transformations." NeurIPS (2025).
   [[paper](https://arxiv.org/abs/2511.04678)] 
   [[code](https://tubelet-graph.github.io/)]
+
+- **DAT:** Haowei Sun, Jinwu Hu, Zhirui Zhang, Haoyuan Tian, Xinze Xie, Yufeng Wang, Xiaohua Xie, Yun Lin, Zhuliang Yu, Mingkui Tan.<br />
+  "Open-World Drone Active Tracking with Goal-Centered Rewards." NeurIPS (2025).
+  [[paper](https://openreview.net/forum?id=Ly2wXKIByI)] 
+  [[code](https://github.com/SHWplus/DAT_Benchmark)]
 
 - **LoRATv2:** Liting Lin, Heng Fan, Zhipeng Zhang, Yuqing Huang, Yaowei Wang, Yong Xu, Haibin Ling.<br />
   "LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers." NeurIPS (2025).
@@ -807,11 +822,6 @@
   "ISTASTrack: Bridging ANN and SNN via ISTA Adapter for RGB-Event Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2509.09977)] 
   [[code](https://github.com/lsying009/ISTASTrack)]
-
-- **SpikeFET:** Jingjun Yang, Liangwei Fan, Jinpu Zhang, Xiangkai Lian, Hui Shen, Dewen Hu.<br />
-  "Fully Spiking Neural Networks for Unified Frame-Event Object Tracking." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2505.20834)] 
-  [[code]( )]
 
 - **SDTrack:** Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, Dehao Zhang, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Jiqing Zhang, Malu Zhang, Yang Yang.<br />
   "SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks." ArXiv (2025).
