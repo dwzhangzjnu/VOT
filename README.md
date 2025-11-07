@@ -1280,7 +1280,7 @@
   
 - **ICSPTrack:** Xianxin Jia, Zhiqiang Hou, Yunlong Wang, Hao Yue, Shuai Hu, Sugang Ma, Xiaobao Yang, Lei Pu.<br />
   "Integrating Multi-scale Appearance and Motion Cues for Visual Tracking via Spatio-temporal Prompt." KBS (2025).
-  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125008743)] 
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125017988)] 
   [[code](https://github.com/jiaxianxin/ICSPTrack)]
 
 - **AIFTrack:** Junze Shi, Jian Shi, Haibo Luo.<br />
