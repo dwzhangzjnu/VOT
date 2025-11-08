@@ -97,10 +97,15 @@
   [[paper](https://openreview.net/forum?id=FooiwsnEH9)] 
   [[code](https://github.com/Noctis-A/SpikeFET)]
 
-- **DOVTrack:** Zekun Qian, Ruize Han, Zhixiang Wang, Junhui Hou, Wei Feng.<br />
-  "DOVTrack: Data-Efficient Open-Vocabulary Tracking." NeurIPS (2025).
-  [[paper](https://openreview.net/forum?id=DIVHwy7wfh)] 
-  [[code](https://github.com/zekunqian/DOVTrack)]
+- **BSA:** Shuai Wang, Malu Zhang, Jingya Wang, Dehao Zhang, Yimeng Shan, Jieyuan Zhang, Yichen Xiao, Honglin Cao, Haonan Zhang, Zeyu Ma, Yang Yang, Haizhou Li.<br />
+  "Bipolar Self-attention for Spiking Transformers." NeurIPS (2025).
+  [[paper](https://openreview.net/forum?id=nG45z7lJ7D)] 
+  [[code]( )]
+
+- **OmniSegmentor:** Bo-Wen Yin, Jiao-Long Cao, Xuying Zhang, Yuming Chen, Ming-Ming Cheng, Qibin Hou .<br />
+  "OmniSegmentor: A Flexible Multi-Modal Learning Framework for Semantic Segmentation." NeurIPS (2025).
+  [[paper](https://openreview.net/forum?id=Kdqzbx8YGU)] 
+  [[code](https://github.com/VCIP-RGBD/DFormer)]
 
 - **TubeletGraph:** Yihong Sun, Xinyu Yang, Jennifer J. Sun, Bharath Hariharan.<br />
   "Tracking and Understanding Object Transformations." NeurIPS (2025).
@@ -121,7 +126,12 @@
   "Dynamic Semantic-Aware Correlation Modeling for UAV Tracking." NeurIPS (2025).
   [[paper](https://arxiv.org/abs/2510.21351)] 
   [[code](https://github.com/zxyyxzz/DSATrack)]
-
+  
+- **DOVTrack:** Zekun Qian, Ruize Han, Zhixiang Wang, Junhui Hou, Wei Feng.<br />
+  "DOVTrack: Data-Efficient Open-Vocabulary Tracking." NeurIPS (2025).
+  [[paper](https://openreview.net/forum?id=DIVHwy7wfh)] 
+  [[code](https://github.com/zekunqian/DOVTrack)]
+  
 
 
 ### ICCV 2025
