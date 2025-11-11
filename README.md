@@ -79,6 +79,19 @@
   [[code](https://github.com/baaivision/Painter)]
 
 
+### AAAI 2025
+
+- **SFPT:** Jiahao Wang, Fang Liu, Hao Wang, Shuo Li, Xiyi Wang, Puhua Chen.<br />
+  "Semantic Feature Purification for Adversarially-Aware RGB-T Tracking." AAAI (2025).
+  [[paper]( )] 
+  [[code]( )]
+
+- **HTTrack:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Xiyi Wang, Lingling Li, Puhua Chen, Xu Liu.<br />
+  "HTTrack: Learning to Perceive Targets via Historical Trajectories in Satellite Video Tracking." AAAI (2025).
+  [[paper]( )] 
+  [[code]( )]
+  
+
 
 ### NeurIPS 2025
 
