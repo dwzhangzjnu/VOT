@@ -90,6 +90,11 @@
   "HTTrack: Learning to Perceive Targets via Historical Trajectories in Satellite Video Tracking." AAAI (2026).
   [[paper]( )] 
   [[code]( )]
+
+- **SM3Det:** Yuxuan Li, Xiang Li, Yunheng Li, Yicheng Zhang, Yimian Dai, Qibin Hou, Ming-Ming Cheng, Jian Yang.<br />
+  "SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2412.20665)] 
+  [[code](https://github.com/zcablii/SM3Det)]
   
 
 
