@@ -81,6 +81,16 @@
 
 ### AAAI 2026
 
+- **LUART:** Yun Xiao, Yuhang Wang, Jiandong Jin, Wangkang Zhang, Chenglong Li.<br />
+  "Unaligned UAV RGBT Tracking: A Largescale Benchmark and A Novel Approach." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+
+- **AMTrack:** Ge Ying, Dawei Zhang, Chengzhuan Yang, Wei Liu, Sang-Woon Jeon, Hua Wang, Changqin Huang, Zhonglong Zheng.<br />
+  "Exploiting All Mamba Fusion for Efficient RGB-D Tracking." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+
 - **SFPT:** Jiahao Wang, Fang Liu, Hao Wang, Shuo Li, Xiyi Wang, Puhua Chen.<br />
   "Semantic Feature Purification for Adversarially-Aware RGB-T Tracking." AAAI (2026).
   [[paper]( )] 
