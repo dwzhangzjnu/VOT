@@ -101,6 +101,11 @@
   [[paper]( )] 
   [[code]( )]
 
+- **SAM-DAQ:** Jia Lin, Xiaofei Zhou, Jiyuan Liu, Runmin Cong, Guodao Zhang, Zhi Liu, Jiyong Zhang.<br />
+  "SAM-DAQ: Segment Anything Model with Depth-guided Adaptive Queries for RGB-D Video Salient Object Detection." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2511.09870)] 
+  [[code](https://github.com/LinJ0866/SAM-DAQ)]
+
 - **SM3Det:** Yuxuan Li, Xiang Li, Yunheng Li, Yicheng Zhang, Yimian Dai, Qibin Hou, Ming-Ming Cheng, Jian Yang.<br />
   "SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection." AAAI (2026).
   [[paper](https://arxiv.org/abs/2412.20665)] 
