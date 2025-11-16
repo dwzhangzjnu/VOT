@@ -1281,10 +1281,10 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125000310)] 
   [[code]( )]
 
-- **MCINet:** Zhao Gao, Dongming Zhou, Zhiyong Wu, Yisong Liu, Qingqing Shan.<br />
-  "MCINet: Multimodal Context-Aware Network for RGBT Tracking." KBS (2025).
-  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125013826)] 
-  [[code](https://github.com/ysqidong-dotcon/MCINet)]
+- **VT2V:** Kaixiang Yan, Wenhua Qian, Cong Bi, Xue Wang.<br />
+  "VT2V: A Benchmark of Object Tracking with Aerial & Ground Cooperation and Multi-modal Images." KBS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125019033)] 
+  [[code](https://github.com/MrShardfish94/VT2V)]
 
 - **RDT-TEF:** Long Gao, Yuze Ke, Wanlin Zhao, Yang Zhang, Yan Jiang, Gang He, Yunsong Li.<br />
   "RGB-D Visual Object Tracking with Transformer-based Multi-modal Feature Fusion." KBS (2025).
