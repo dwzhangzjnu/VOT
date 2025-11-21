@@ -606,7 +606,7 @@
   [[code](https://github.com/jiawen-zhu/AsymTrack)]
   
 
-### ICASSP 2025
+### Others 2025
 
 - **MFDA:** Zhiheng Li, Weng Zhimin, Yuehuan Wang.<br />
   "Multi-view Feature Discrepancy Attack for Single Object Tracking." ICASSP (2025).
