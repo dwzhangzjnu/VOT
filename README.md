@@ -880,6 +880,11 @@
   "FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2504.13604)] 
   [[code](https://github.com/vero1925/FocusTrack)]
+
+- **SwiTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
+  "SwiTrack: Tri-State Switch for Cross-Modal Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2511.16227)] 
+  [[code](https://github.com/xuboyue1999/SwiTrack)]
   
 - **SonarT165:** Yunfeng Li, Bo Wang, Jiahao Wan, Xueyi Wu, Ye Li.<br />
   "SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking." ArXiv (2025).
