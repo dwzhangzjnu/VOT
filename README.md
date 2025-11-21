@@ -111,6 +111,11 @@
   [[paper]( )] 
   [[code]( )]
 
+- **ADTrack:** Guangtong Zhang, Bineng Zhong, Shirui Yang, Yang Wang, Tian Bai.<br />
+  "Aware Distillation for Robust Vision-Language Tracking Under Linguistic Sparsity." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+  
 - **MFDP:** Shilei Wang, Pujian Lai, Dong Gao, Jifeng Ning, Gong Cheng.<br />
   "Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking." AAAI (2026).
   [[paper]( )] 
@@ -646,6 +651,11 @@
 - **RSM:** Riran Cheng, Xupeng Wang, Ferdous Sohel, Hang Lei.<br />
   "RSM: Refined Saliency Map For Explainable 3D Object Tracking." ICASSP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10887798)] 
+  [[code]( )]
+
+- **MPTrack:** Xueqi Li, Yongjun Zhang, Jianqiang Xia, Fang Dong, Yuanyuan Wang, Yushe Cao, Junze Zhang, Dianxi Shi.<br />
+  "Memory Prompt for Multi-Modal Visual Object Tracking." ECAI (2025).
+  [[paper](https://ebooks.iospress.nl/doi/10.3233/FAIA250829)] 
   [[code]( )]
 
 - **LRPD:** Qingkuo Hu, Yichen Li, Wenbin Yu.<br />
