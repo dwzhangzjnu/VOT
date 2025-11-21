@@ -136,11 +136,6 @@
   [[paper]( )] 
   [[code]( )]
 
-- **AerialMind:** Chenglizhao Chen, Shaofeng Liang, Runwei Guan, Xiaolou Sun, Haocheng Zhao, Haiyun Jiang, Tao Huang, Henghui Ding, Qing-Long Han.<br />
-  "AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios." AAAI (2026).
-  [[paper]( )] 
-  [[code]( )]
-
 - **HTTrack:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Xiyi Wang, Lingling Li, Puhua Chen, Xu Liu.<br />
   "HTTrack: Learning to Perceive Targets via Historical Trajectories in Satellite Video Tracking." AAAI (2026).
   [[paper]( )] 
@@ -150,6 +145,21 @@
   "CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking." AAAI (2026).
   [[paper](https://arxiv.org/abs/2511.15580)] 
   [[code]( )]
+
+- **AerialMind:** Chenglizhao Chen, Shaofeng Liang, Runwei Guan, Xiaolou Sun, Haocheng Zhao, Haiyun Jiang, Tao Huang, Henghui Ding, Qing-Long Han.<br />
+  "AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+
+- **SAM2-OV:** Yangkai Chen, Qiangqiang Wu, Guangyao Li, Junlong Gao, Guanglin Niu, Hanzi Wang.<br />
+  "SAM2-OV: A Novel Detection-Only Tuning Paradigm for Open-Vocabulary Multi-Object Tracking." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+
+- **SAM2MOT:** Junjie Jiang, Zelin Wang, Manqi Zhao, Yin Li, DongSheng Jiang.<br />
+  "SAM2MOT: A Novel Paradigm of Multi-Object Tracking by Segmentation." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2504.04519)] 
+  [[code](https://github.com/TripleJoy/SAM2MOT)]
   
 - **SAM-DAQ:** Jia Lin, Xiaofei Zhou, Jiyuan Liu, Runmin Cong, Guodao Zhang, Zhi Liu, Jiyong Zhang.<br />
   "SAM-DAQ: Segment Anything Model with Depth-guided Adaptive Queries for RGB-D Video Salient Object Detection." AAAI (2026).
