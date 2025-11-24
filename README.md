@@ -17,10 +17,10 @@
   [[paper](https://arxiv.org/pdf/1912.00535.pdf)] 
   [[code](https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey)]
    
-- **SAM3:** Anonymous authors.<br />
+- **SAM3:** Nicolas Carion, Laura Gustafson, Yuan-Ting Hu, Shoubhik Debnath, Ronghang Hu, Didac Suris, Chaitanya Ryali, Kalyan Vasudev Alwala, Haitham Khedr, Andrew Huang, Jie Lei, Tengyu Ma, Baishan Guo, Arpit Kalla, Markus Marks, Joseph Greer, Meng Wang, Peize Sun, Roman Rädle, Triantafyllos Afouras, Effrosyni Mavroudi, Katherine Xu, Tsung-Han Wu, Yu Zhou, Liliane Momeni, Rishi Hazra, Shuangrui Ding, Sagar Vaze, Francois Porcher, Feng Li, Siyuan Li, Aishwarya Kamath, Ho Kei Cheng, Piotr Dollár, Nikhila Ravi, Kate Saenko, Pengchuan Zhang, Christoph Feichtenhofer.<br />
   "SAM 3: Segment Anything with Concepts." ArXiv (2025).
-  [[paper](https://openreview.net/forum?id=r35clVtGzw)] 
-  [[code](https://ai.meta.com/sam3/)]
+  [[paper](https://arxiv.org/abs/2511.16719)] 
+  [[code](https://github.com/facebookresearch/sam3)]
 
 - **SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br />
   "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory." ArXiv (2024).
