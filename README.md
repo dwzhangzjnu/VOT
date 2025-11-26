@@ -81,9 +81,9 @@
 
 ### AAAI 2026
 
-- **TSAny:** Tianlu Zhang, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
+- **SATA:** Tianlu Zhang, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
   "Tracking and Segmenting Anything in Any Modality." AAAI (2026).
-  [[paper]( )]
+  [[paper](https://arxiv.org/abs/2511.19475)]
   [[code]( )]
 
 - **LUART:** Yun Xiao, Yuhang Wang, Jiandong Jin, Wangkang Zhang, Chenglong Li.<br />
@@ -93,8 +93,8 @@
 
 - **CADTrack:** Hao Li, Yuhao Wang, Xiantao Hu, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
   "CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking." AAAI (2026).
-  [[paper]( )] 
-  [[code]( )]
+  [[paper](https://arxiv.org/abs/2511.17967)] 
+  [[code](https://github.com/IdolLab/CADTrack)]
 
 - **AlignTrack:** Chuanyu Sun, Jiqing Zhang, Yang Wang, Yuanchen Wang, Yutong Jiang, Baocai Yin, Xin Yang.<br />
   "AlignTrack: Top-Down Spatiotemporal Resolution Alignment for RGB-Event Visual Tracking." AAAI (2026).
@@ -871,6 +871,11 @@
   [[paper](https://arxiv.org/abs/2507.01535)] 
   [[code]( )]
 
+- **MM-UAV:** Tianyang Xu, Jinjie Gu, Xuefeng Zhu, XiaoJun Wu, Josef Kittler.<br />
+  "A Tri-Modal Dataset and a Baseline System for Tracking Unmanned Aerial Vehicles." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2511.18344)] 
+  [[code](https://xuefeng-zhu5.github.io/MM-UAV/)]
+
 - **VAUAT:** Guanghai Ding, Yihua Ren, Yuting Liu, Qijun Zhao, Shuiwang Li.<br />
   "Vision-Based Anti Unmanned Aerial Technology: Opportunities and Challenges." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2507.10006)] 
@@ -1110,6 +1115,11 @@
   "HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/10855488)] 
   [[code](https://github.com/supertyd/hotmoe)]
+
+- **SatSAM2:** Ruijie Fan, Junyan Ye, Huan Chen, Zilong Huang, Xiaolei Wang, Weijia Li.<br />
+  "SatSAM2: Motion-Constrained Video Object Tracking in Satellite Imagery using Promptable SAM2 and Kalman Priors." arXiv (2025).
+  [[paper](https://arxiv.org/abs/2511.18264)] 
+  [[code]( )]
 
 - **TLH:** Xiaoyan Yang, Licheng Jiao, Yangyang Li, Xu Liu, Lingling Li, Puhua Chen.<br />
   "Tracking Like Human: Dynamic Scene Learning Reasoning Tracker in Satellite Videos." TMM (2025).
