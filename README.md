@@ -153,8 +153,8 @@
 
 - **AerialMind:** Chenglizhao Chen, Shaofeng Liang, Runwei Guan, Xiaolou Sun, Haocheng Zhao, Haiyun Jiang, Tao Huang, Henghui Ding, Qing-Long Han.<br />
   "AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios." AAAI (2026).
-  [[paper]( )] 
-  [[code]( )]
+  [[paper](https://arxiv.org/abs/2511.21053)] 
+  [[code](https://github.com/shawnliang420/AerialMind)]
 
 - **SAM2-OV:** Yangkai Chen, Qiangqiang Wu, Guangyao Li, Junlong Gao, Guanglin Niu, Hanzi Wang.<br />
   "SAM2-OV: A Novel Detection-Only Tuning Paradigm for Open-Vocabulary Multi-Object Tracking." AAAI (2026).
