@@ -1451,9 +1451,9 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425027721)] 
   [[code]( )]
 
-- **RecheckTrack:** Huiwei Shi, Xiaodong Mu, Hao He, Chengliang Zhong, Peng Zhao.<br />
-  "A Robust RGBT Tracking Framework with Temporal Information Enhancement and Backward Trajectory Verification." ESWA (2025).
-  [[paper](https://link.springer.com/article/10.1007/s44443-025-00144-w)] 
+- **OTKD:** Yongqi Pan, Cheng Zhu, Lailong Luo, Hanlin Tan, Mingrui Lao, Yuxuan Liang.<br />
+  "OTKD: A General Knowledge Distillation Pipeline for Object Tracking." ESWA (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425041624)] 
   [[code]( )]
   
 - **Anti-MUAV15:** Shihan Liu, Tianyang Xu, Xue-Feng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
