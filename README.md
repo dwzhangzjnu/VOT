@@ -608,6 +608,11 @@
 
 ### Others 2025
 
+- **HFTrack:** Yuheng Jiang, Hebei Li, Dachun Kai, Yansong Peng, Jiahui Yuan, Peilin Xiao, Yueyi Zhang, Xiaoyan Sun.<br />
+  "Enhancing Visual Tracking by Leveraging High-frequency Information within Event Signals." BMVC (2025).
+  [[paper](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_265/paper.pdf)] 
+  [[code]( )]
+
 - **MFDA:** Zhiheng Li, Weng Zhimin, Yuehuan Wang.<br />
   "Multi-view Feature Discrepancy Attack for Single Object Tracking." ICASSP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10889698)] 
@@ -1197,9 +1202,9 @@
   [[code](https://github.com/lgao001/HyA-T)]
 
 - **COST:** Chunhui Zhang, Li Liu, Jialin Gao, Xin Sun, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
-  "COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking." ArXiv (2025).
+  "COST: Contrastive One-Stage Transformer for Vision-Language Small Object Tracking." INFFUS (2025).
   [[paper](https://arxiv.org/abs/2504.01321)] 
-  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)]
+  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/VL-SOT500)] 
 
 - **ATSTrack:** Yihao Zhen, Qiang Wang, Yu Qiao, Liangqiong Qu, Huijie Fan.<br />
   "ATSTrack: Enhancing Visual-Language Tracking by Aligning Temporal and Spatial Scales." ArXiv (2025).
