@@ -967,12 +967,12 @@
   [[code]( )]
 
 - **DiffDf:** Long Xu, Peng Gao, Wen-Jia Tang, Fei Wang, Ru-Yue Yuan.<br />
-  "Towards Effective and Efficient Adversarial Defense with Diffusion Models for Robust Visual Tracking." ArXiv (2025).
+  "Towards Effective and Efficient Adversarial Defense with Diffusion Models for Robust Visual Tracking." INFFUS (2025).
   [[paper](https://arxiv.org/abs/2506.00325)] 
   [[code](https://github.com/pgao-lab/DiffDf)]
 
 - **AMGA:** Wei-Long Tian, Peng Gao, Xiao Liu, Long Xu, Hamido Fujita, Hanan Aljuai, Mao-Li Wang.<br />
-  "Towards Adaptive Meta-Gradient Adversarial Examples for Visual Tracking." ArXiv (2025).
+  "Toward Adaptive Meta-Gradient Adversarial Examples for Visual Tracking." TR (2025).
   [[paper](https://arxiv.org/abs/2505.08999)] 
   [[code](https://github.com/pgao-lab/AMGA)]
 
