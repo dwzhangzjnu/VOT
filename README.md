@@ -1101,6 +1101,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11054299)] 
   [[code](https://github.com/xyl-507/TDAT)]
 
+- **SiamDFF:** Houzhang Fang, Chenxing Wu, Kun Bai, Tianqi Chen, Xiaolin Wang, Xiyang Liu, Yi Chang, Luxin Yan.<br />
+  "Infrared UAV Target Tracking with Dynamic Feature Refinement and Global Contextual Attention Knowledge Distillation." TMM (2025).
+  [[paper](https://arxiv.org/abs/2512.04581)] 
+  [[code]( )]
+
 - **MHITrack:** Lei Lei, Xianxian Li.<br />
   "Multi-modal Hybrid Interaction Vision-language Tracking." TMM (2025).
   [[paper](https://ieeexplore.ieee.org/document/10980446)] 
