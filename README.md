@@ -131,10 +131,10 @@
   [[paper]( )] 
   [[code]( )]
 
-- **GOT:** Zekai Shao, Yufan Hu, Jingyuan Liu, Bin Fan, Hongmin Liu.<br />
+- **GOLA:** Zekai Shao, Yufan Hu, Jingyuan Liu, Bin Fan, Hongmin Liu.<br />
   "Group Orthogonal Low-Rank Adaptation for RGB-T Tracking." AAAI (2026).
-  [[paper]( )] 
-  [[code]( )]
+  [[paper](https://arxiv.org/abs/2512.05359)] 
+  [[code](https://github.com/MelanTech/GOLA)]
 
 - **SFPT:** Jiahao Wang, Fang Liu, Hao Wang, Shuo Li, Xiyi Wang, Puhua Chen.<br />
   "Semantic Feature Purification for Adversarially-Aware RGB-T Tracking." AAAI (2026).
