@@ -696,6 +696,11 @@
   "A Deep Dive into Generic Object Tracking: A Survey." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2507.23251)]
 
+- **UAV-Anti-UAV:** Chunhui Zhang, Li Liu, Zhipeng Zhang, Yong Wang, Hao Wen, Xi Zhou, Shiming Ge, Yanfeng Wang.<br />
+  "How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.07385)] 
+  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+
 - **HIEVT:** Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, Fangwei Zhong.<br />
   "Hierarchical Instruction-aware Embodied Visual Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.12606)] 
