@@ -736,6 +736,11 @@
   [[paper](https://arxiv.org/abs/2507.07603)] 
   [[code](https://github.com/LouisFinner/HiM2SAM)]
 
+- **SAM3Tracking:** Mohamad Alansari, Muzammal Naseer, Hasan Al Marzouqi, Naoufel Werghi, Sajid Javed.<br />
+  "Rethinking Memory Design in SAM-Based Visual Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.22624)] 
+  [[code](https://github.com/HamadYA/SAM3_Tracking_Zoo)]
+  
 - **SOIBench:** Yipei Wang, Shiyu Hu, Shukun Jia, Panxi Xu, Hongfei Ma, Yiping Ma, Jing Zhang, Xiaobo Lu, Xin Zhao.<br />
   "SOI is the Root of All Evil: Quantifying and Breaking Similar Object Interference in Single Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2508.09524)] 
@@ -771,6 +776,11 @@
   [[paper](https://arxiv.org/abs/2507.20177)] 
   [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
   
+- **VPTracker:** Jingchao Wang, Kaiwen Zhou, Zhijian Wu, Kunhua Ji, Dingjiang Huang, Yefeng Zheng.<br />
+  "VPTracker: Global Vision-Language Tracking via Visual Prompt and MLLM." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.22799)] 
+  [[code](https://github.com/jcwang0602/VPTracker)]
+
 - **MAGTrack:** Anonymous authors.<br />
   "MAGTrack: MLLM-Augmented Grounding and Text Refinement for Language-Guided Tracking." ArXiv (2025).
   [[paper](https://openreview.net/forum?id=IW8S0qIjTG)] 
@@ -2009,7 +2019,8 @@
   
 - **NT-VOT211:** Yu Liu, Arif Mahmood, Muhammad Haris Khan.<br />
   "NT-VOT211: A Large-Scale Benchmark for Night-time Visual Object Tracking." ACCV (2024).
-  [[paper](https://arxiv.org/abs/2410.20421)] 
+  [[paper](https://arxiv.org/abs/2410.20421)]
+  [[extended journal paper](https://link.springer.com/article/10.1007/s11263-025-02661-7)] 
   [[code](https://github.com/LiuYuML/NV-VOT211)]
 
   
