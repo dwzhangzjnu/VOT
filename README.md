@@ -682,7 +682,11 @@
   "DARTer: Dynamic Adaptive Representation Tracker for Nighttime UAV Tracking." ICMR (2025).
   [[paper](https://arxiv.org/abs/2505.00752)] 
   [[code]( )]
-  
+    
+- **TGSR:** Xuhong Ren, Jianlang Chen, Wanli Xue, Lei Ma, Qing Guo, Jianjun Zhao, Shengyong Chen.<br />
+  "TGSR: Template-Guided Semantic Resampling against Adversarial Tracking Attacks." ICME (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11209965)] 
+  [[code]( )]
 
 
 ### ArXiv 2025
@@ -1290,6 +1294,11 @@
   "Metaverse Target-Tracking Security: A Study on Adaptive Metalearning Adversarial Attack Methods." MSMC (2025).
   [[paper](https://ieeexplore.ieee.org/document/10970385)] 
   [[code]( )]
+
+- **PANC:** Peng Gao, Long Xu, Wen-Jia Tang, Fei Wang, Hamido Fujita, Hanan Aljuaid, Hanan Aljuaid, Ru-Yue Yuan.<br />
+  "Towards Patch-based Noise Compression for Adversarial Attack against Transformer-based Visual Tracking." TIFS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11316104)] 
+  [[code](https://github.com/pgao-lab/PANC)]
 
 - **ILA:** Ziyi Liu, Caiyun Xie, Wenbing Ding, Dengpan Ye, Long Tang, Qian Wang.<br />
   "Towards Invisible Decision-Based Adversarial Attacks against Visual Object Tracking." TMM (2025).
