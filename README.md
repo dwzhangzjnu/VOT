@@ -760,6 +760,11 @@
   [[paper](https://arxiv.org/abs/2506.21980)] 
   [[code](https://github.com/Wangbiao2/R1-Track)]
   
+- **RGBT-VGNet:** Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei.<br />
+  "RGBT-Ground Benchmark: Visual Grounding Beyond RGB in Complex Real-World Scenarios." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.24561)] 
+  [[code]( )]
+
 - **MVTD:** Ahsan Baidar Bakht, Muhayy Ud Din, Sajid Javed, Irfan Hussain.<br />
   "MVTD: A Benchmark Dataset for Maritime Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2506.02866)] 
@@ -1000,6 +1005,11 @@
   [[paper](https://arxiv.org/abs/2505.12903)] 
   [[code](https://github.com/Event-AHU/SlowFast_Event_Track)]
 
+- **APMTrack:** Shiao Wang, Xiao Wang, Haonan Zhao, Jiarui Xu, Bo Jiang, Lin Zhu, Xin Zhao, Yonghong Tian, Jin Tang.<br />
+  "Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2601.01022)] 
+  [[code](https://github.com/Event-AHU/OpenEvTracking)]
+
 - **Attack4RGBE:** Qiang Chen, Xiao Wang, Haowen Wang, Bo Jiang, Lin Zhu, Dawei Zhang, Yonghong Tian, Jin Tang.<br />
   "Adversarial Attack for RGB-Event based Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2503.08703)] 
@@ -1110,6 +1120,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11181116)] 
   [[code](https://github.com/BJUTsipl/TSTrack)]
   
+- **AGVOT:** Kaixiang Yan, Wenhua Qian, Jinde Cao, Cong Bi.<br />
+  "AGVOT: Visual Object Tracking via Cooperation of Aerial and Ground Views." TITS (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11278543)] 
+  [[code]( )]
+
 - **FWTrack:** Xuyi Fan, Hongguang Li, Yangzhu Wang, Minghao Zhao, Li Shen.<br />
   "Hierarchical Spatial–Temporal UAV Tracking With Three-Dimensional Wavelets for Road Traffic Surveillance." TITS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11087725)] 
