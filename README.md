@@ -990,6 +990,11 @@
   [[paper](https://link.springer.com/chapter/10.1007/978-981-96-9964-3_32)] 
   [[code]( )]
 
+- **DualFormer:** Ruke Xiong, Guixi Liu, Hanlin Huang, Yinghao Li, Qian Lu, Yisong Xiao, Zhiyu Wu.<br />
+  "DualFormer: A dual-branch transformer framework for frame-event tracking with complementary fusion attention and sparse spatial channel attention." EAAI (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0952197626000023)] 
+  [[code]( )]
+  
 - **DiffDf:** Long Xu, Peng Gao, Wen-Jia Tang, Fei Wang, Ru-Yue Yuan.<br />
   "Towards Effective and Efficient Adversarial Defense with Diffusion Models for Robust Visual Tracking." INFFUS (2025).
   [[paper](https://arxiv.org/abs/2506.00325)] 
