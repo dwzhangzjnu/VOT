@@ -804,11 +804,6 @@
   "Uni-MDTrack: Prompt Unified Single Object Tracking with Deep Fusion of Memory and Dynamic State." ArXiv (2025).
   [[paper](https://openreview.net/forum?id=FMOn4cjJKG)] 
   [[code]( )]
-
-- **VCoT:** Anonymous authors.<br />
-  "VCoT: Visual Chain-of-Thought for Continual Learning in Day-Night Object Tracking." ArXiv (2025).
-  [[paper](https://openreview.net/forum?id=9T9cxAK7ac)] 
-  [[code]( )]
   
 - **VPTT:** Jiaming Liu, Yue Wu, Qiguang Miao, Maoguo Gong, Linghe Kong.<br />
   "Revisiting Siamese-based 3D Single Object Tracking with a Versatile Transformer." TPAMI (2025).
@@ -879,6 +874,16 @@
   "SMMT: Siamese Motion Mamba with Self-attention for Thermal Infrared Target Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.04088)] 
   [[code]( )]
+  
+- **VCoT:** Anonymous authors.<br />
+  "VCoT: Visual Chain-of-Thought for Continual Learning in Day-Night Object Tracking." ArXiv (2025).
+  [[paper](https://openreview.net/forum?id=9T9cxAK7ac)] 
+  [[code]( )]
+
+- **UniTrack:** Jiwei Mo, Feixiang He, Pengzhi Zhong, Qijun Zhao, Dan Zeng, Ling Huang, Shuiwang Li, Xianhao Shen.<br />
+  "UniTrack: Unifying day and night tracking with continual learning." INS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0020025526000125)] 
+  [[code](https://github.com/Gkk-Code/UniTrack)]
   
 - **MATrack:** Xuzhao Li, Xuchen Li, Shiyu Hu.<br />
   "MATrack: Efficient Multiscale Adaptive Tracker for Real-Time Nighttime UAV Operations." ArXiv (2025).
