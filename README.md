@@ -613,6 +613,11 @@
   [[paper](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_265/paper.pdf)] 
   [[code]( )]
 
+- **eSkiTB:** Krishna Vinod, Joseph Raj Vishal, Kaustav Chanda, Prithvi Jai Ramesh, Yezhou Yang, Bharatesh Chakravarthi.<br />
+  "eSkiTB: A Synthetic Event-based Dataset for Tracking Skiers." WACV (2026).
+  [[paper](https://arxiv.org/abs/2601.06647)] 
+  [[code](https://github.com/eventbasedvision/eSkiTB)]
+  
 - **MFDA:** Zhiheng Li, Weng Zhimin, Yuehuan Wang.<br />
   "Multi-view Feature Discrepancy Attack for Single Object Tracking." ICASSP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10889698)] 
