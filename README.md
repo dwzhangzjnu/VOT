@@ -121,9 +121,9 @@
   [[paper]( )] 
   [[code]( )]
 
-- **SDTrack:** Junze Shi, Yang Yu, Jian Shi, Haibo Luo.<br />
+- **STDTrack:** Junze Shi, Yang Yu, Jian Shi, Haibo Luo.<br />
   "Exploring Reliable Spatiotemporal Dependencies for Efficient Visual Tracking." AAAI (2026).
-  [[paper]( )] 
+  [[paper](https://arxiv.org/abs/2601.09078)] 
   [[code]( )]  
 
 - **AMTrack:** Ge Ying, Dawei Zhang, Chengzhuan Yang, Wei Liu, Sang-Woon Jeon, Hua Wang, Changqin Huang, Zhonglong Zheng.<br />
