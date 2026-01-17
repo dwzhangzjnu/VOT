@@ -4,6 +4,11 @@
 
 ### :star2: Recommendations :star2:
 
+- **VOTReview:** Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, Jiazheng Xing, Guang Dai, Jingdong Wang, Yong Liu.<br />
+  "Visual Object Tracking across Diverse Data Modalities: A Review." arXiv (2024).
+  [[book](https://link.springer.com/book/10.1007/978-981-95-3664-1)] 
+  [[paper](https://arxiv.org/abs/2412.09991)] 
+
 - **VOTBook:**  Xin Zhao, Shiyu Hu, Xu-Cheng Yin.<br />
   "Visual Object Tracking: An Evaluation Perspective." Springer (2025).
   [[paper](https://link.springer.com/book/10.1007/978-981-96-4558-9)]
@@ -22,9 +27,10 @@
   [[paper](https://arxiv.org/abs/2511.16719)] 
   [[code](https://github.com/facebookresearch/sam3)]
 
-- **SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br />
-  "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2411.11922)] 
+- **SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Zhongyu Jiang, Wenhao Chai, Jenq-Neng Hwang.<br />
+  "SAMURAI: Motion-Aware Memory for Training-Free Visual Object Tracking with SAM 2." TIP (2026).
+  [[arxiv](https://arxiv.org/abs/2411.11922)]
+  [[paper](https://ieeexplore.ieee.org/document/11351313)] 
   [[code](https://github.com/yangchris11/samurai)]
 
 - **DAMv2:** Lihe Yang, Bingyi Kang, Zilong Huang, Zhen Zhao, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao.<br />
@@ -2074,11 +2080,6 @@
   "Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues." ICASSP (2025).
   [[paper](https://arxiv.org/abs/2412.19648)] 
   [[code](https://github.com/XiaokunFeng/CTVLT)]
-  
-- **VOTReview:** Mengmeng Wang, Teli Ma, Shuo Xin, Xiaojun Hou, Jiazheng Xing, Guang Dai, Jingdong Wang, Yong Liu.<br />
-  "Visual Object Tracking across Diverse Data Modalities: A Review." arXiv (2024).
-  [[paper](https://arxiv.org/abs/2412.09991)] 
-  [[code]( )]
 
 - **TIRReview:** Di Yuan, Haiping Zhang, Xiu Shu, Qiao Liu, Xiaojun Chang, Zhenyu He, Guming Shi.<br />
   "Thermal Infrared Target Tracking: A Comprehensive Review." TIM (2024).
