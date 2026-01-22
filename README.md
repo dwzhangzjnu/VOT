@@ -183,7 +183,19 @@
   [[code](https://github.com/zcablii/SM3Det)]
   
 
+### ArXiv 2026
 
+- **UBATrack:** Qihua Liang, Liang Chen, Yaozong Zheng, Jian Nong, Zhiyi Mo, Bineng Zhong.<br />
+  "UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2601.14799)]
+  [[code]( )]
+
+- **APMTrack:** Shiao Wang, Xiao Wang, Haonan Zhao, Jiarui Xu, Bo Jiang, Lin Zhu, Xin Zhao, Yonghong Tian, Jin Tang.<br />
+  "Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2601.01022)] 
+  [[code](https://github.com/Event-AHU/OpenEvTracking)]
+  
+  
 ### NeurIPS 2025
 
 - **RGBDT500:** Xue-Feng Zhu, Tianyang Xu, Yifan Pan, Jinjie Gu, Xi Li, Jiwen Lu, Xiao-Jun Wu, Josef Kittler.<br />
@@ -1025,11 +1037,6 @@
   "Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2505.12903)] 
   [[code](https://github.com/Event-AHU/SlowFast_Event_Track)]
-
-- **APMTrack:** Shiao Wang, Xiao Wang, Haonan Zhao, Jiarui Xu, Bo Jiang, Lin Zhu, Xin Zhao, Yonghong Tian, Jin Tang.<br />
-  "Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2601.01022)] 
-  [[code](https://github.com/Event-AHU/OpenEvTracking)]
 
 - **Attack4RGBE:** Qiang Chen, Xiao Wang, Haowen Wang, Bo Jiang, Lin Zhu, Dawei Zhang, Yonghong Tian, Jin Tang.<br />
   "Adversarial Attack for RGB-Event based Visual Object Tracking." ArXiv (2025).
