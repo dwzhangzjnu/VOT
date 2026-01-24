@@ -194,7 +194,12 @@
   "Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2601.01022)] 
   [[code](https://github.com/Event-AHU/OpenEvTracking)]
-  
+ 
+- **SSTrack:** Sugang Ma, Zhen Wan, Bin Hu, Jinyu Zhang, Zhiqiang Hou, Xiangmo Zhao.<br />
+  "SSTrack: Joint Scale-aware Temporal Prompts and Spatio-temporal Prior Transformer for Visual Object Tracking." KBS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001139)] 
+  [[code](https://github.com/ElliottZhen/SSTrack)]
+   
   
 ### NeurIPS 2025
 
