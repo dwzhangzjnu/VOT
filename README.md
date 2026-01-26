@@ -195,6 +195,16 @@
   [[paper](https://arxiv.org/abs/2601.01022)] 
   [[code](https://github.com/Event-AHU/OpenEvTracking)]
  
+- **TrHelpTr:** Jiazheng Wen, Huanyu Liu, Junbao Li.<br />
+  "TrHelpTr: A Long-Term Single-Object Tracking Paradigm Based on Sequence Modeling Reinforcement Learning." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001068)] 
+  [[code]( )]
+
+- **Aba-ViTrack++:** Xiangyang Yang, Dan Zeng, Xucheng Wang, Hengzhou Ye, Xiaolan Xie, Qijun Zhao, Shuiwang Li.<br />
+  "Towards Real-Time UAV Tracking with Adaptive and Background-Aware Vision Transformers." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11343838)] 
+  [[code](https://github.com/xyyang317/Aba-ViTrack)]
+
 - **SSTrack:** Sugang Ma, Zhen Wan, Bin Hu, Jinyu Zhang, Zhiqiang Hou, Xiangmo Zhao.<br />
   "SSTrack: Joint Scale-aware Temporal Prompts and Spatio-temporal Prior Transformer for Visual Object Tracking." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001139)] 
