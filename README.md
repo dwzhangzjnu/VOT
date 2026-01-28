@@ -195,6 +195,16 @@
   [[paper](https://arxiv.org/abs/2601.01022)] 
   [[code](https://github.com/Event-AHU/OpenEvTracking)]
  
+- **GW-VLM:** Guiying Zhu, Bowen Yang, Yin Zhuang, Tong Zhang, Guanqun Wang, Zhihao Che, He Chen, Lianlin Li.<br />
+  "A Training-Free Guess What Vision Language Model from Snippets to Open-Vocabulary Object Detection." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2601.11910)]
+  [[code]( )]
+
+- **DA-SAMURAI:** Tamara R. Lenhard, Andreas Weinmann, Hichem Snoussi, Tobias Koch.<br />
+  "Detector-Augmented SAMURAI for Long-Duration Drone Tracking." WACVW (2026).
+  [[paper](https://arxiv.org/abs/2601.04798)]
+  [[code]( )]
+
 - **TrHelpTr:** Jiazheng Wen, Huanyu Liu, Junbao Li.<br />
   "TrHelpTr: A Long-Term Single-Object Tracking Paradigm Based on Sequence Modeling Reinforcement Learning." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001068)] 
@@ -205,6 +215,26 @@
   [[paper](https://ieeexplore.ieee.org/document/11343838)] 
   [[code](https://github.com/xyyang317/Aba-ViTrack)]
 
+- **Co-LLIETrack:** Vinayak Nageli, Arshad Jamal, Rama Krishna Sai S Gorthi.<br />
+  "Co-LLIETrack: Co-trained Low Light Image Enhancement Tracker for UAV Tracking." TAI (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11354534)] 
+  [[code]( )]
+
+- **M-STEP:** Yang Fang, Yujie Wang, Bingbing Jiang, Zongyi Xu, Jiaxu Leng, Yan Zhang, Weisheng Li, Xinbo Gao.<br />
+  "M-STEP: Multi-Scale Temporal Information Enhancement and Propagation for Hierarchical Visual Transformer Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11358797)] 
+  [[code]( )]
+
+- **TSTrans:** Yitong Li, Chen Wu, Jia Shao.<br />
+  "TSTrans: Temporal-Sequence-Driven Transformer for Single Object Tracking in Satellite Videos." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11333927)] 
+  [[code](https://github.com/yitongli123/TSTrans)]
+  
+- **ICAttack:** Xinyu Xiang, Xuying Wu, Shengxiang Li, Qinglong Yan, Tong Zou, Hao Zhang, Jiayi Ma.<br />
+  "Adversarial Perturbation for RGB-T Tracking via Intra-modal Excavation and Cross-modal Collusion." INFFUS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S156625352600062X)] 
+  [[code]( )]
+  
 - **SSTrack:** Sugang Ma, Zhen Wan, Bin Hu, Jinyu Zhang, Zhiqiang Hou, Xiangmo Zhao.<br />
   "SSTrack: Joint Scale-aware Temporal Prompts and Spatio-temporal Prior Transformer for Visual Object Tracking." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001139)] 
@@ -1617,6 +1647,11 @@
   "EMTrack: Event-guide Multimodal Transformer for Challenging Single Object Tracking." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11026009)] 
   [[code](https://github.com/lpsg555/EMTrack)]
+
+- **USBTrack:** Xue-Han Xu, Tao Jing, Qing-Hao Meng.<br />
+  "USBTrack: Efficient Underwater Single-Branch Tracker via Template Prompt Learning." JSEN (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11321051)] 
+  [[code](https://github.com/xxh1016/USBTrack)]
 
 - **FAEFTrack:** Xilong Shang, Zhaoyuan Zeng, Xiaopeng Li, Cien Fan, Weizheng Jin.<br />
   "Improving Object Tracking Performances with Frequency Learning for Event Cameras." JSEN (2025).
