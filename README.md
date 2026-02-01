@@ -210,11 +210,31 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001068)] 
   [[code]( )]
 
+- **TSETrack:** Jiqing Zhang, Xin Yang, Haoming Tang, Yuanchen Wang, Baocai Yin, Huibing Wang, Xianping Fu.<br />
+  "Efficient Vision Transformer with Token Sparsification for Event-Based Object Tracking." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-025-02666-2)] 
+  [[code]( )]
+  
+- **ProMoT:** Jia Chen, Rui Xu, Si Chen, Yuzhen Niu, Yan Yan, Da-Han Wang.<br />
+  "ProMoT: Progressive Prompting of Modality and Temporal Dynamics for RGB-T Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11363450)] 
+  [[code]( )]
+
+- **DGTrack:** Jinglin Zhou, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
+  "Adaptive Continual Learning for Online Visual Object Tracking via Dynamic Grassmannian Appearance Modelling." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11363582)] 
+  [[code](https://github.com/xiaoqing0825/DGTrack)]
+
 - **Aba-ViTrack++:** Xiangyang Yang, Dan Zeng, Xucheng Wang, Hengzhou Ye, Xiaolan Xie, Qijun Zhao, Shuiwang Li.<br />
   "Towards Real-Time UAV Tracking with Adaptive and Background-Aware Vision Transformers." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11343838)] 
   [[code](https://github.com/xyyang317/Aba-ViTrack)]
 
+- **LGTransT:** Yaohong Chen, Tianlei Ma, Donglin Xue, Xinhao Liu, Weining Chen.<br />
+  "Unified Local and Global Transformer for Infrared Small UAV Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11363611)] 
+  [[code]( )]
+  
 - **Co-LLIETrack:** Vinayak Nageli, Arshad Jamal, Rama Krishna Sai S Gorthi.<br />
   "Co-LLIETrack: Co-trained Low Light Image Enhancement Tracker for UAV Tracking." TAI (2026).
   [[paper](https://ieeexplore.ieee.org/document/11354534)] 
