@@ -185,6 +185,11 @@
 
 ### ArXiv 2026
 
+- **RGBX-R1:** Jiahe Wu, Bing Cao, Qilong Wang, Qinghua Hu, Dongdong Li, Pengfei Zhu.<br />
+  "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.00504)]
+  [[code]( )]
+
 - **UBATrack:** Qihua Liang, Liang Chen, Yaozong Zheng, Jian Nong, Zhiyi Mo, Bineng Zhong.<br />
   "UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2601.14799)]
@@ -194,7 +199,7 @@
   "Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2601.01022)] 
   [[code](https://github.com/Event-AHU/OpenEvTracking)]
- 
+
 - **GW-VLM:** Guiying Zhu, Bowen Yang, Yin Zhuang, Tong Zhang, Guanqun Wang, Zhihao Che, He Chen, Lianlin Li.<br />
   "A Training-Free Guess What Vision Language Model from Snippets to Open-Vocabulary Object Detection." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2601.11910)]
@@ -210,11 +215,21 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001068)] 
   [[code]( )]
 
+- **SMTrack:** Yinchao Ma, Dengqing Yang, Zhangyu He, Wenfei Yang, Tianzhu Zhang.<br />
+  "SMTrack: State-Aware Mamba for Efficient Temporal Modeling in Visual Tracking." TIP (2026).
+  [[paper](https://arxiv.org/abs/2602.01677)] 
+  [[code]( )]
+
+- **GLAD:** Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu, Limin Wang.<br />
+  "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates." IJCV (2026).
+  [[paper](https://arxiv.org/abs/2602.00570)]
+  [[code](https://github.com/Confetti-lxy/GLAD)]
+  
 - **TSETrack:** Jiqing Zhang, Xin Yang, Haoming Tang, Yuanchen Wang, Baocai Yin, Huibing Wang, Xianping Fu.<br />
   "Efficient Vision Transformer with Token Sparsification for Event-Based Object Tracking." IJCV (2026).
   [[paper](https://link.springer.com/article/10.1007/s11263-025-02666-2)] 
   [[code]( )]
-  
+
 - **ProMoT:** Jia Chen, Rui Xu, Si Chen, Yuzhen Niu, Yan Yan, Da-Han Wang.<br />
   "ProMoT: Progressive Prompting of Modality and Temporal Dynamics for RGB-T Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363450)] 
