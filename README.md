@@ -183,6 +183,14 @@
   [[code](https://github.com/zcablii/SM3Det)]
   
 
+### ICLR 2026
+
+- **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
+  "FARTrack: Fast Autoregressive Visual Tracking with High Performance." ICLR (2026).
+  [[paper](https://arxiv.org/abs/2602.03214)]
+  [[code](https://github.com/wangguijiepedeval/FARTrack)]
+
+  
 ### ArXiv 2026
 
 - **RGBX-R1:** Jiahe Wu, Bing Cao, Qilong Wang, Qinghua Hu, Dongdong Li, Pengfei Zhu.<br />
