@@ -198,6 +198,11 @@
   [[paper](https://arxiv.org/abs/2602.00504)]
   [[code]( )]
 
+- **DRMOT:** Sijia Chen, Lijuan Ma, Yanqiu Yu, En Yu, Liman Liu, Wenbing Tao.<br />
+  "DRMOT: A Dataset and Framework for RGBD Referring Multi-Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.04692)]
+  [[code](https://github.com/chen-si-jia/DRMOT)]
+  
 - **UBATrack:** Qihua Liang, Liang Chen, Yaozong Zheng, Jian Nong, Zhiyi Mo, Bineng Zhong.<br />
   "UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2601.14799)]
