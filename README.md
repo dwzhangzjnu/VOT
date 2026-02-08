@@ -223,6 +223,11 @@
   [[paper](https://arxiv.org/abs/2601.04798)]
   [[code]( )]
 
+- **SiamTrackCaps:** Abdullah M. Algamdi, Victor Sanchez, Chang-Tsun Li.<br />
+  "SiamTrackCaps: A Siamese-based Single Object Tracker Using Capsule Networks." WACVW (2026).
+  [[paper](https://wrap.warwick.ac.uk/id/eprint/196225/)]
+  [[code]( )]
+  
 - **TrHelpTr:** Jiazheng Wen, Huanyu Liu, Junbao Li.<br />
   "TrHelpTr: A Long-Term Single-Object Tracking Paradigm Based on Sequence Modeling Reinforcement Learning." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001068)] 
@@ -287,7 +292,13 @@
   "SSTrack: Joint Scale-aware Temporal Prompts and Spatio-temporal Prior Transformer for Visual Object Tracking." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001139)] 
   [[code](https://github.com/ElliottZhen/SSTrack)]
-   
+
+- **LKTrack:** Hong Zhang, Huakao Lin, Ding Yuan, Jianbo Song, Hanyang Liu, Yifan Yang.<br />
+  "LKTrack: A Novel Tracking Framework with Large Kernel Network." MMSJ (2026).
+  [[paper](https://link.springer.com/article/10.1007/s00530-025-02135-3)] 
+  [[code]( )]
+
+
   
 ### NeurIPS 2025
 
