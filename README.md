@@ -248,6 +248,11 @@
   [[paper](https://link.springer.com/article/10.1007/s11263-025-02666-2)] 
   [[code]( )]
 
+- **EHCT:** Yun Zhou, Hongfu Yin, Chunyu Tan, Qiaoyun Wu, Changyin Sun, Richang Hong.<br />
+  "An Efficient Hybrid Cascade Tracker with Spiking Neural Networks for Event Domain Tracking." TOMM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3795518)] 
+  [[code](https://github.com/masac11/EHCT)]
+  
 - **ProMoT:** Jia Chen, Rui Xu, Si Chen, Yuzhen Niu, Yan Yan, Da-Han Wang.<br />
   "ProMoT: Progressive Prompting of Modality and Temporal Dynamics for RGB-T Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363450)] 
