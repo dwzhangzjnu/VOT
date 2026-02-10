@@ -190,6 +190,11 @@
   [[paper](https://arxiv.org/abs/2602.03214)]
   [[code](https://github.com/wangguijiepedeval/FARTrack)]
 
+- **GOT-Edit:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin.<br />
+  "GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing." ICLR (2026).
+  [[paper](https://arxiv.org/abs/2602.08550)]
+  [[code](https://github.com/chenshihfang/GOT)]
+  
   
 ### ArXiv 2026
 
