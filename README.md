@@ -85,6 +85,21 @@
   [[code](https://github.com/baaivision/Painter)]
 
 
+
+### CVPR 2026
+
+- **SCDT:** Andong Lu, Ziyi Zha, Jiandong Jin, Shihao Li, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking." CVPR (2026).
+  [[paper]( )]
+  [[code]( )]
+
+- **PMATrack:** Jiandong Jin, Chenglong Li, Hao Feng, Andong Lu, Lili Huang, Jin Tang.<br />
+  "Progressive Multi-cue Alignment for Unaligned RGBT Tracking." CVPR (2026).
+  [[paper]( )]
+  [[code]( )]
+  
+
+
 ### AAAI 2026
 
 - **SATA:** Tianlu Zhang, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
@@ -207,6 +222,11 @@
   "DRMOT: A Dataset and Framework for RGBD Referring Multi-Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.04692)]
   [[code](https://github.com/chen-si-jia/DRMOT)]
+
+- **MoMo-3DVLT:** Hongkai Wei, Rong Wang, Haixiang Hu, Shijie Sun, Xiangyu Song, Mingtao Feng.<br />
+  "Monocular Multi-object 3D Visual Language Tracking." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11391514)] 
+  [[code](https://github.com/hongkai-wei)]
   
 - **UBATrack:** Qihua Liang, Liang Chen, Yaozong Zheng, Jian Nong, Zhiyi Mo, Bineng Zhong.<br />
   "UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking." ArXiv (2026).
@@ -223,6 +243,11 @@
   [[paper](https://arxiv.org/abs/2601.11910)]
   [[code]( )]
 
+- **GOT-JEPA:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin.<br />
+  "GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.14771)]
+  [[code]( )]
+  
 - **DA-SAMURAI:** Tamara R. Lenhard, Andreas Weinmann, Hichem Snoussi, Tobias Koch.<br />
   "Detector-Augmented SAMURAI for Long-Duration Drone Tracking." WACVW (2026).
   [[paper](https://arxiv.org/abs/2601.04798)]
@@ -263,6 +288,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11363450)] 
   [[code]( )]
 
+- **SELA-Track:** Sai Zhou, Meiqin Liu, Jing Zhou, Ronghao Zheng.<br />
+  "Enhancing Vision Transformer with Shift Expansion Linear Attention for Image Classification and Object Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11386976)] 
+  [[code](https://github.com/saizhou777/SELA-ViT)]
+
 - **DGTrack:** Jinglin Zhou, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
   "Adaptive Continual Learning for Online Visual Object Tracking via Dynamic Grassmannian Appearance Modelling." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363582)] 
@@ -273,6 +303,16 @@
   [[paper](https://ieeexplore.ieee.org/document/11343838)] 
   [[code](https://github.com/xyyang317/Aba-ViTrack)]
 
+- **WmLSTM:** Yao Chen, Guancheng Jia, Ding Ma, Yufei Zha, Peng Zhang.<br />
+  "WmLSTM: A Plug-and-Play Window-Level mLSTM-Based Temporal Encoder for Robust Visual Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11382000)] 
+  [[code](https://github.com/Xiaochen918/WmLSTM)]
+  
+- **S3T-FFS:** Hanzheng Wang, Wei Li, Xiang-Gen Xia, Bolun Cui, Zhicheng Shi, Hongyang Lin.<br />
+  "Bring KANs to Tracker: A Nonlinear Fusion Strategy Over Frequency Decoupling for Temporal Hyperspectral Object Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11367018)] 
+  [[code]( )]
+
 - **LGTransT:** Yaohong Chen, Tianlei Ma, Donglin Xue, Xinhao Liu, Weining Chen.<br />
   "Unified Local and Global Transformer for Infrared Small UAV Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363611)] 
@@ -281,6 +321,11 @@
 - **Co-LLIETrack:** Vinayak Nageli, Arshad Jamal, Rama Krishna Sai S Gorthi.<br />
   "Co-LLIETrack: Co-trained Low Light Image Enhancement Tracker for UAV Tracking." TAI (2026).
   [[paper](https://ieeexplore.ieee.org/document/11354534)] 
+  [[code]( )]
+
+- **MRTrack:** Yuanhui Wang, Ben Ye, Zhanchuan Cai, Hao Wu.<br />
+  "A Transformer-Based Tracker Integrating Motion and Representation Information." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11395545)] 
   [[code]( )]
 
 - **M-STEP:** Yang Fang, Yujie Wang, Bingbing Jiang, Zongyi Xu, Jiaxu Leng, Yan Zhang, Weisheng Li, Xinbo Gao.<br />
@@ -295,7 +340,12 @@
   
 - **ICAttack:** Xinyu Xiang, Xuying Wu, Shengxiang Li, Qinglong Yan, Tong Zou, Hao Zhang, Jiayi Ma.<br />
   "Adversarial Perturbation for RGB-T Tracking via Intra-modal Excavation and Cross-modal Collusion." INFFUS (2026).
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S156625352600062X)] 
+  [[paper](https://www.sciencedirect.com/science/article/pii/S156625352600062X)] 
+  [[code]( )]
+
+- **MACTrack:** Wanying Xu, Haijiang Sun, Shuai Wang, Xiaowen Zhang, Yong Ji.<br />
+  "MACTrack: Spatiotemporal Context Propagation with Motion Compensation for Anti-UAV Tracking." NEUNET (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026001875)] 
   [[code]( )]
   
 - **SSTrack:** Sugang Ma, Zhen Wan, Bin Hu, Jinyu Zhang, Zhiqiang Hou, Xiangmo Zhao.<br />
