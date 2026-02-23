@@ -223,6 +223,11 @@
   [[paper](https://arxiv.org/abs/2602.04692)]
   [[code](https://github.com/chen-si-jia/DRMOT)]
 
+- **MUOT-3M:** Sijia Chen, Lijuan Ma, Yanqiu Yu, En Yu, Liman Liu, Wenbing Tao.<br />
+  "MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.18006)]
+  [[code](https://github.com/AhsanBaidar/MUOT-3M_Dataset)]
+
 - **MoMo-3DVLT:** Hongkai Wei, Rong Wang, Haixiang Hu, Shijie Sun, Xiangyu Song, Mingtao Feng.<br />
   "Monocular Multi-object 3D Visual Language Tracking." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11391514)] 
@@ -303,6 +308,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11343838)] 
   [[code](https://github.com/xyyang317/Aba-ViTrack)]
 
+- **DSTII-MDOT:** Xiangqian Liu, Guangwei Zhang, Bin Wang, Lihong Zhong, Bing Zhou.<br />
+  "Dynamic Spatiotemporal Information Interaction for Multi-Drone Single Object Tracking." IOTJ (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11368861)] 
+  [[code](https://github.com/JerryBryant24/DSTII-MDOT)]
+  
 - **WmLSTM:** Yao Chen, Guancheng Jia, Ding Ma, Yufei Zha, Peng Zhang.<br />
   "WmLSTM: A Plug-and-Play Window-Level mLSTM-Based Temporal Encoder for Robust Visual Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11382000)] 
