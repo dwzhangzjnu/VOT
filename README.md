@@ -97,6 +97,11 @@
   "Progressive Multi-cue Alignment for Unaligned RGBT Tracking." CVPR (2026).
   [[paper]( )]
   [[code]( )]
+
+- **RAGTrack:** Hao Li, Yuhao Wang, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
+  "RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation." CVPR (2026).
+  [[paper]( )]
+  [[code](https://github.com/ldolLab/RAGTrack)]
   
 
 
@@ -228,7 +233,7 @@
   [[paper](https://arxiv.org/abs/2602.22033)]
   [[code]( )]
   
-- **MUOT-3M:** Sijia Chen, Lijuan Ma, Yanqiu Yu, En Yu, Liman Liu, Wenbing Tao.<br />
+- **MUOT-3M:** Ahsan Baidar Bakht, Mohamad Alansari, Muhayy Ud Din, Muzammal Naseer, Sajid Javed, Irfan Hussain, Jiri Matas, Arif Mahmood.<br />
   "MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.18006)]
   [[code](https://github.com/AhsanBaidar/MUOT-3M_Dataset)]
