@@ -223,6 +223,11 @@
   [[paper](https://arxiv.org/abs/2602.04692)]
   [[code](https://github.com/chen-si-jia/DRMOT)]
 
+- **RT-RMOT:** Yanqiu Yu, Zhifan Jin, Sijia Chen, Tongfei Chu, En Yu, Liman Liu, Wenbing Tao.<br />
+  "RT-RMOT: A Dataset and Framework for RGB-Thermal Referring Multi-Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2602.22033)]
+  [[code]( )]
+  
 - **MUOT-3M:** Sijia Chen, Lijuan Ma, Yanqiu Yu, En Yu, Liman Liu, Wenbing Tao.<br />
   "MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.18006)]
@@ -348,6 +353,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11333927)] 
   [[code](https://github.com/yitongli123/TSTrans)]
   
+- **SSFTrack:** Wei Wei, Haolie Wang, Yuduo Bian, Haijiao Xing, Chen Ding, Lei Zhang, Tao Zhou, Jiangbin Zheng, Yanning Zhang.<br />
+  "Category Text-Guided RGBT Tracking with Shared-Specific Feature Representation." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326002761)] 
+  [[code]( )]
+
 - **ICAttack:** Xinyu Xiang, Xuying Wu, Shengxiang Li, Qinglong Yan, Tong Zou, Hao Zhang, Jiayi Ma.<br />
   "Adversarial Perturbation for RGB-T Tracking via Intra-modal Excavation and Cross-modal Collusion." INFFUS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S156625352600062X)] 
