@@ -263,6 +263,11 @@
   [[paper](https://arxiv.org/abs/2602.14771)]
   [[code]( )]
   
+- **MSRTrack:** Tong Shen, Di Wang, José M. F. Moura.<br />
+  "MSRTrack: LLM-Powered Object Tracking with Motion and Semantic Reasoning." WACV (2026).
+  [[paper](https://openaccess.thecvf.com/content/WACV2026/html/Shen_MSRTrack_LLM-Powered_Object_Tracking_with_Motion_and_Semantic_Reasoning_WACV_2026_paper.html)]
+  [[code]( )]
+
 - **DA-SAMURAI:** Tamara R. Lenhard, Andreas Weinmann, Hichem Snoussi, Tobias Koch.<br />
   "Detector-Augmented SAMURAI for Long-Duration Drone Tracking." WACVW (2026).
   [[paper](https://arxiv.org/abs/2601.04798)]
@@ -297,7 +302,12 @@
   "An Efficient Hybrid Cascade Tracker with Spiking Neural Networks for Event Domain Tracking." TOMM (2026).
   [[paper](https://dl.acm.org/doi/10.1145/3795518)] 
   [[code](https://github.com/masac11/EHCT)]
-  
+
+- **PromptTrack:** Hangfei Li, Guangbin Liu, Xiao Guo, Yufei Zha, Peng Zhang.<br />
+  "PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11397188)] 
+  [[code]( )]
+
 - **ProMoT:** Jia Chen, Rui Xu, Si Chen, Yuzhen Niu, Yan Yan, Da-Han Wang.<br />
   "ProMoT: Progressive Prompting of Modality and Temporal Dynamics for RGB-T Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363450)] 
