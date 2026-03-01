@@ -332,6 +332,11 @@
   "Dynamic Spatiotemporal Information Interaction for Multi-Drone Single Object Tracking." IOTJ (2026).
   [[paper](https://ieeexplore.ieee.org/document/11368861)] 
   [[code](https://github.com/JerryBryant24/DSTII-MDOT)]
+
+- **SMMTrack:** Lifeng Wang, Binbin Wang, Fasheng Wang, Mengyin Wang, Fuming Sun, Haojie Li.<br />
+  "Modality Interaction Decoupling: Spatiotemporal Memory-Driven Unified Multimodal Tracking Framework." IOTJ (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11396679)] 
+  [[code](https://github.com/qfxb/SMMTrack)]
   
 - **WmLSTM:** Yao Chen, Guancheng Jia, Ding Ma, Yufei Zha, Peng Zhang.<br />
   "WmLSTM: A Plug-and-Play Window-Level mLSTM-Based Temporal Encoder for Robust Visual Tracking." TCSVT (2026).
