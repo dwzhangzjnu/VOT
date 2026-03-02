@@ -88,6 +88,16 @@
 
 ### CVPR 2026
 
+- **UTPTrack:** Hao Wu, Xudong Wang, Jialiang Zhang, Junlong Tong, Xinghao Chen, Junyan Lin, Yunpu Ma, Xiaoyu Shen.<br />
+  "UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2602.23734)]
+  [[code](https://github.com/EIT-NLP/UTPTrack)]
+
+- **SpikeTrack:** Qiuyang Zhang, Jiujun Cheng, Qichao Mao, Cong Liu, Yu Fang, Yuhong Li, Mengying Ge, Shangce Gao.<br />
+  "SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2602.23963)]
+  [[code](https://github.com/faicaiwawa/SpikeTrack)]
+
 - **SCDT:** Andong Lu, Ziyi Zha, Jiandong Jin, Shihao Li, Chenglong Li, Jin Tang, Bin Luo.<br />
   "Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking." CVPR (2026).
   [[paper]( )]
@@ -719,6 +729,11 @@
   "Multi-State Tracker: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction." ACM MM (2025).
   [[paper](https://arxiv.org/abs/2508.11531)] 
   [[code](https://github.com/wsumel/MST)]
+
+- **FocusTrack:** Sifan Zhou, Jiahao Nie, Ziyu Zhao, Yichao Cao, Xiaobo Lu.<br />
+  "FocusTrack: One-Stage Focus-and-Suppress Framework for 3D Point Cloud Object Tracking." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2602.24133)] 
+  [[code]( )]
 
 - **CM3AE:** Wentao Wu, Xiao Wang, Chenglong Li, Bo Jiang, Jin Tang, Bin Luo, Qi Liu.<br />
   "CM3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework." ACM MM (2025).
