@@ -224,6 +224,11 @@
   "GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing." ICLR (2026).
   [[paper](https://arxiv.org/abs/2602.08550)]
   [[code](https://github.com/chenshihfang/GOT)]
+
+- **TP-Spikformer:** Wenjie Wei, Xiaolong Zhou, Malu Zhang, Ammar Belatreche, Qian Sun, Yimeng Shan, Dehao Zhang, Zijian Zhou, Zeyu Ma, Yang Yang, Haizhou Li.<br />
+  "TP-Spikformer: Token Pruned Spiking Transformer." ICLR (2026).
+  [[paper](https://arxiv.org/abs/2603.00527)]
+  [[code]( )]
   
   
 ### ArXiv 2026
@@ -253,6 +258,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11391514)] 
   [[code](https://github.com/hongkai-wei)]
   
+- **UETrack:** Ben Kang, Jie Zhao, Xin Chen, Wanting Geng, Bin Zhang, Lu Zhang, Dong Wang, Huchuan Lu.<br />
+  "UETrack: A Unified and Efficient Framework for Single Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.01412)]
+  [[code](https://github.com/kangben258/UETrack)]
+
 - **UBATrack:** Qihua Liang, Liang Chen, Yaozong Zheng, Jian Nong, Zhiyi Mo, Bineng Zhong.<br />
   "UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2601.14799)]
@@ -313,6 +323,16 @@
   [[paper](https://dl.acm.org/doi/10.1145/3795518)] 
   [[code](https://github.com/masac11/EHCT)]
 
+- **RrmTrack:** Guangtong Zhang, Yang Wang, Bineng Zhong, Yuhao Mu, Tian Bai.<br />
+  "RWKV-Inspired Multi-modal Relation Modeling for Vision-Language Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11417442)] 
+  [[code]( )]
+
+- **DDAT:** Qiao Liu, Qiao Li, Xin Li, Jiatian Pi, Di Yuan, Yunpeng Liu.<br />
+  "Unsupervised Domain Adaptive Thermal Infrared Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11417270)] 
+  [[code](https://github.com/QiaoLiuHit/DDAT)]
+  
 - **PromptTrack:** Hangfei Li, Guangbin Liu, Xiao Guo, Yufei Zha, Peng Zhang.<br />
   "PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11397188)] 
@@ -338,6 +358,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11343838)] 
   [[code](https://github.com/xyyang317/Aba-ViTrack)]
 
+- **SEAT:** Tianqi Shen, Huakao Lin, Ning An.<br />
+  "Search Multilayer Perceptron-Based Fusion for Efficient and Accurate Siamese Tracking." TCDS (2026).
+  [[paper](https://arxiv.org/abs/2603.01706)] 
+  [[code](https://github.com/AmadeusSTQ/SEAT)]
+  
 - **DSTII-MDOT:** Xiangqian Liu, Guangwei Zhang, Bin Wang, Lihong Zhong, Bing Zhou.<br />
   "Dynamic Spatiotemporal Information Interaction for Multi-Drone Single Object Tracking." IOTJ (2026).
   [[paper](https://ieeexplore.ieee.org/document/11368861)] 
