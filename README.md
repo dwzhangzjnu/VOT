@@ -308,6 +308,11 @@
   [[paper](https://arxiv.org/abs/2602.01677)] 
   [[code]( )]
 
+- **MSD:** Mohamed Awad, Ahmed Elliethy, M. Omair Ahmad, M.N.S. Swamy.<br />
+  "A Multi-level Self-Distillation-Based Unified Tracker for Efficient RGB-T Tracking." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11415354)] 
+  [[code]( )]
+  
 - **GLAD:** Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu, Limin Wang.<br />
   "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates." IJCV (2026).
   [[paper](https://arxiv.org/abs/2602.00570)]
@@ -323,6 +328,11 @@
   [[paper](https://dl.acm.org/doi/10.1145/3795518)] 
   [[code](https://github.com/masac11/EHCT)]
 
+- **Refer-RGBT:** Xu Wang, Huanxin Zheng, Haohong Liao, Qiudan Zhang, Lin Ma, Jianmin Jiang.<br />
+  "A Visual-Linguistic Approach for Robust RGB-Thermal Tracking with Dynamic Template Adaptation." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11417308)] 
+  [[code]( )]
+
 - **RrmTrack:** Guangtong Zhang, Yang Wang, Bineng Zhong, Yuhao Mu, Tian Bai.<br />
   "RWKV-Inspired Multi-modal Relation Modeling for Vision-Language Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11417442)] 
@@ -333,6 +343,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11417270)] 
   [[code](https://github.com/QiaoLiuHit/DDAT)]
   
+- **VCT:** Jiaqi Deng, Si Chen, Da-Han Wang, Xu-Yao Zhang, Yan Yan.<br />
+  "Video-Level Cross-Modal Temporal-Navigation for RGBT Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11417207)] 
+  [[code]( )]
+
 - **PromptTrack:** Hangfei Li, Guangbin Liu, Xiao Guo, Yufei Zha, Peng Zhang.<br />
   "PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11397188)] 
@@ -348,6 +363,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11386976)] 
   [[code](https://github.com/saizhou777/SELA-ViT)]
 
+- **SPT:** Chenglizhao Chen, Shaofeng Liang, Luming Li, Mengke Song, Xu Yu, Shanchen Pang.<br />
+  "Adapting Visual Trackers to Dynamic View Transitions with Shift-view Prompt Tuning." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11417211)] 
+  [[code]( )]
+  
 - **DGTrack:** Jinglin Zhou, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
   "Adaptive Continual Learning for Online Visual Object Tracking via Dynamic Grassmannian Appearance Modelling." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363582)] 
