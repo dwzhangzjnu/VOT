@@ -110,7 +110,7 @@
 
 - **RAGTrack:** Hao Li, Yuhao Wang, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
   "RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation." CVPR (2026).
-  [[paper]( )]
+  [[paper](https://arxiv.org/abs/2603.03617)]
   [[code](https://github.com/ldolLab/RAGTrack)]
   
 
