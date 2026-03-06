@@ -112,6 +112,11 @@
   "RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.03617)]
   [[code](https://github.com/ldolLab/RAGTrack)]
+
+- **TAPFormer:** Jiaxiong Liu, Zhen Tan, Jinpu Zhang, Yi Zhou, Hui Shen, Xieyuanli Chen, Dewen Hu.<br />
+  "TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.04989)]
+  [[code](https://github.com/ljx1002/TAPFormer)]
   
 
 
@@ -263,6 +268,11 @@
   [[paper](https://arxiv.org/abs/2603.01412)]
   [[code](https://github.com/kangben258/UETrack)]
 
+- **EdgeDAM:** Syed Muhammad Raza, Syed Murtaza Hussain Abidi, Khawar Islam, Muhammad Ibrahim, Ajmal Saeed Mian.<br />
+  "EdgeDAM: Real-time Object Tracking for Mobile Devices." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.05463)]
+  [[code]( )]
+  
 - **UBATrack:** Qihua Liang, Liang Chen, Yaozong Zheng, Jian Nong, Zhiyi Mo, Bineng Zhong.<br />
   "UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2601.14799)]
