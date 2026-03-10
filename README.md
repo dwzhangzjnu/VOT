@@ -288,6 +288,11 @@
   [[paper](https://arxiv.org/abs/2601.11910)]
   [[code]( )]
 
+- **SiamGM:** Zixiao Wen, Zhen Yang, Jiawei Li, Xiantai Xiang, Guangyao Zhou, Yuxin Hu, Yuhan Liu.<br />
+  "SiamGM: Siamese Geometry-Aware and Motion-Guided Network for Real-Time Satellite Video Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.07564)]
+  [[code](https://github.com/wenzx18/SiamGM)]
+  
 - **GOT-JEPA:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin.<br />
   "GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.14771)]
