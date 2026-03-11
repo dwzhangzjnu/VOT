@@ -157,10 +157,10 @@
   [[paper]( )] 
   [[code]( )]
   
-- **MFDP:** Shilei Wang, Pujian Lai, Dong Gao, Jifeng Ning, Gong Cheng.<br />
+- **MDTrack:** Shilei Wang, Pujian Lai, Dong Gao, Jifeng Ning, Gong Cheng.<br />
   "Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking." AAAI (2026).
-  [[paper]( )] 
-  [[code]( )]
+  [[paper](https://arxiv.org/abs/2603.09287)] 
+  [[code](https://github.com/wsumel/MDTrack)]
 
 - **STDTrack:** Junze Shi, Yang Yu, Jian Shi, Haibo Luo.<br />
   "Exploring Reliable Spatiotemporal Dependencies for Efficient Visual Tracking." AAAI (2026).
@@ -458,6 +458,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S156625352600062X)] 
   [[code]( )]
 
+- **TSMamba:** Han Wu, Hao Sun, Kui Liu, Kefeng Ji, Gangyao Kuang.<br />
+  "TSMamba: Multi-drone Feature Interaction via Temporal-spatial Mamba Networks for Aerial Object Tracking." INFFUS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526001582)] 
+  [[code](https://github.com/HanJin0326/TSMamba)]
+  
 - **MACTrack:** Wanying Xu, Haijiang Sun, Shuai Wang, Xiaowen Zhang, Yong Ji.<br />
   "MACTrack: Spatiotemporal Context Propagation with Motion Compensation for Anti-UAV Tracking." NEUNET (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026001875)] 
