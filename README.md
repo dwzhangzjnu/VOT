@@ -98,6 +98,11 @@
   [[paper](https://arxiv.org/abs/2602.23963)]
   [[code](https://github.com/faicaiwawa/SpikeTrack)]
 
+- **SEATrack:** Junbin Su, Ziteng Xue, Shihui Zhang, Kun Chen, Weiming Hu, Zhipeng Zhang.<br />
+  "SEATrack: Simple, Efficient, and Adaptive MultimodalTracker." CVPR (2026).
+  [[paper]( )]
+  [[code]( )]
+  
 - **SCDT:** Andong Lu, Ziyi Zha, Jiandong Jin, Shihao Li, Chenglong Li, Jin Tang, Bin Luo.<br />
   "Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking." CVPR (2026).
   [[paper]( )]
