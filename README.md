@@ -248,6 +248,11 @@
   [[paper](https://arxiv.org/abs/2602.00504)]
   [[code]( )]
 
+- **QTrack:** Tajamul Ashraf, Tavaheed Tariq, Sonia Yadav, Abrar Ul Riyaz, Wasif Tak, Moloud Abdar, Janibul Bashir.<br />
+  "QTrack: Query-Driven Reasoning for Multi-modal MOT." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.13759)]
+  [[code](https://github.com/gaash-lab/QTrack)]
+
 - **DRMOT:** Sijia Chen, Lijuan Ma, Yanqiu Yu, En Yu, Liman Liu, Wenbing Tao.<br />
   "DRMOT: A Dataset and Framework for RGBD Referring Multi-Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.04692)]
@@ -263,6 +268,11 @@
   [[paper](https://arxiv.org/abs/2602.18006)]
   [[code](https://github.com/AhsanBaidar/MUOT-3M_Dataset)]
 
+- **UAVBench:** Yang Zhan, Yuan Yuan.<br />
+  "UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.14336)]
+  [[code](https://uavbench.github.io/)]
+  
 - **MoMo-3DVLT:** Hongkai Wei, Rong Wang, Haixiang Hu, Shijie Sun, Xiangyu Song, Mingtao Feng.<br />
   "Monocular Multi-object 3D Visual Language Tracking." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11391514)] 
@@ -276,6 +286,16 @@
 - **EdgeDAM:** Syed Muhammad Raza, Syed Murtaza Hussain Abidi, Khawar Islam, Muhammad Ibrahim, Ajmal Saeed Mian.<br />
   "EdgeDAM: Real-time Object Tracking for Mobile Devices." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.05463)]
+  [[code]( )]
+  
+- **SDMoEA:** Yabin Zhu, Jianqi Li, Chenglong Li, Jiaxiang Wang, Chengjie Gu, Jin Tang.<br />
+  "Sparse-Dense Mixture of Experts Adapter for Multi-Modal Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.13719)]
+  [[code]( )]
+
+- **Uni-MDTrack:** Wenrui Cai, Zhenyi Lu, Yuzhe Li, Yongchao Feng, Jinqing Zhang, Qingjie Liu, Yunhong Wang.<br />
+  "Uni-MDTrack: Learning Decoupled Memory and Dynamic States for Parameter-Efficient Visual Tracking in All Modality." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.14452)] 
   [[code]( )]
   
 - **UBATrack:** Qihua Liang, Liang Chen, Yaozong Zheng, Jian Nong, Zhiyi Mo, Bineng Zhong.<br />
@@ -372,7 +392,7 @@
   "PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11397188)] 
   [[code]( )]
-
+  
 - **ProMoT:** Jia Chen, Rui Xu, Si Chen, Yuzhen Niu, Yan Yan, Da-Han Wang.<br />
   "ProMoT: Progressive Prompting of Modality and Temporal Dynamics for RGB-T Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363450)] 
@@ -431,6 +451,11 @@
 - **Co-LLIETrack:** Vinayak Nageli, Arshad Jamal, Rama Krishna Sai S Gorthi.<br />
   "Co-LLIETrack: Co-trained Low Light Image Enhancement Tracker for UAV Tracking." TAI (2026).
   [[paper](https://ieeexplore.ieee.org/document/11354534)] 
+  [[code]( )]
+
+- **SAAttack:** Xingsen Huang, Yuqing Huang, Hongpeng Wang, Yaowei Wang, Xin Li.<br />
+  "Saliency-Aware Adversarial Attacks on Visual Trackers." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11432987)] 
   [[code]( )]
 
 - **MRTrack:** Yuanhui Wang, Ben Ye, Zhanchuan Cai, Hao Wu.<br />
@@ -1115,11 +1140,6 @@
 - **OneTrackerV2:** Anonymous authors.<br />
   "OneTrackerV2: Unified Multimodal Visual Object Tracking with Mixture of Experts." ArXiv (2025).
   [[paper](https://openreview.net/forum?id=sTXCoxide9)] 
-  [[code]( )]
-
-- **Uni-MDTrack:** Anonymous authors.<br />
-  "Uni-MDTrack: Prompt Unified Single Object Tracking with Deep Fusion of Memory and Dynamic State." ArXiv (2025).
-  [[paper](https://openreview.net/forum?id=FMOn4cjJKG)] 
   [[code]( )]
   
 - **VPTT:** Jiaming Liu, Yue Wu, Qiguang Miao, Maoguo Gong, Linghe Kong.<br />
