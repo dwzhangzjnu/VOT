@@ -473,10 +473,20 @@
   [[paper](https://ieeexplore.ieee.org/document/11333927)] 
   [[code](https://github.com/yitongli123/TSTrans)]
   
+- **FMPT:** Boyue Xu, Ruichao Hou, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
+  "Learning Frequency and Memory-aware Prompts for Multi-modal Object Tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S003132032600498X)] 
+  [[code](https://github.com/xuboyue1999/mmtrack)]
+
 - **DSPT:** Gang He, Long Gao, Yuze Ke, Haijun Chen, Yan Jiang.<br />
   "Multi-modal Object Tracking with Detailed Spatial Prompt Learning." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003985)] 
   [[code](https://github.com/sewkyz1/DSPT)]
+
+- **CAST:** Xiantao Hu, Fansheng Zeng, Bineng Zhong, Zhangyong Tang, Wenxuan Fang, Jun Li, Ying Tai, Jian Yang.<br />
+  "Curriculum Adaptation for One-Stream RGB–T Tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326004607)] 
+  [[code]( )]
 
 - **SSFTrack:** Wei Wei, Haolie Wang, Yuduo Bian, Haijiao Xing, Chen Ding, Lei Zhang, Tao Zhou, Jiangbin Zheng, Yanning Zhang.<br />
   "Category Text-Guided RGBT Tracking with Shared-Specific Feature Representation." PR (2026).
