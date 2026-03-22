@@ -513,6 +513,16 @@
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001139)] 
   [[code](https://github.com/ElliottZhen/SSTrack)]
 
+- **IMSETrack:** Xianxin Jia, Zhiqiang Hou, Sugang Ma, Lei Pu<br />
+  "Implicit Motion State Modeling for Efficient and Effective Video-Level Object Tracking." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426009966)] 
+  [[code]( )]
+
+- **MambaCPT:** Zhao Huang, Lei Liu, Shuai Wang, Jun Wang.<br />
+  "Mamba-driven Context-aware Tracking with Dual Prompts." MMSJ (2026).
+  [[paper](https://link.springer.com/article/10.1007/s00530-026-02228-7)] 
+  [[code](https://github.com/xiaomengxin123/MambaCPT)]
+
 - **LKTrack:** Hong Zhang, Huakao Lin, Ding Yuan, Jianbo Song, Hanyang Liu, Yifan Yang.<br />
   "LKTrack: A Novel Tracking Framework with Large Kernel Network." MMSJ (2026).
   [[paper](https://link.springer.com/article/10.1007/s00530-025-02135-3)] 
