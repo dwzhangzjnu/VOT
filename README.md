@@ -318,6 +318,11 @@
   [[paper](https://arxiv.org/abs/2602.14771)]
   [[code]( )]
   
+- **DPTracker:** Yiheng Wang, Changhong Fu, Liangliang Yao, Haobo Zuo, Zijie Zhang.<br />
+  "Dual Prompt-Driven Feature Encoding for Nighttime UAV Tracking." ICRA (2026).
+  [[paper](https://arxiv.org/abs/2603.19628)]
+  [[code](https://github.com/yiheng-wang-duke/DPTracker)]
+
 - **MSRTrack:** Tong Shen, Di Wang, José M. F. Moura.<br />
   "MSRTrack: LLM-Powered Object Tracking with Motion and Semantic Reasoning." WACV (2026).
   [[paper](https://openaccess.thecvf.com/content/WACV2026/html/Shen_MSRTrack_LLM-Powered_Object_Tracking_with_Motion_and_Semantic_Reasoning_WACV_2026_paper.html)]
@@ -332,11 +337,11 @@
   "SiamTrackCaps: A Siamese-based Single Object Tracker Using Capsule Networks." WACVW (2026).
   [[paper](https://wrap.warwick.ac.uk/id/eprint/196225/)]
   [[code]( )]
-  
-- **TrHelpTr:** Jiazheng Wen, Huanyu Liu, Junbao Li.<br />
-  "TrHelpTr: A Long-Term Single-Object Tracking Paradigm Based on Sequence Modeling Reinforcement Learning." PR (2026).
-  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001068)] 
-  [[code]( )]
+
+- **ChatTracker:** Yu Zhang, Yiming Sun, Mi Zhang, Fan Yu, Shaoxiang Chen, Yang Li, Changbo Wang, Jianke Zhu, Steven C.H. Hoi.<br />
+  "ChatTracker: Enhancing Visual Tracking via LLM-Driven Iterative Description Refinement." TPAMI (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11435004)] 
+  [[code](https://ymsun2020.github.io/ChatTrackerV2_website/)]
 
 - **SMTrack:** Yinchao Ma, Dengqing Yang, Zhangyu He, Wenfei Yang, Tianzhu Zhang.<br />
   "SMTrack: State-Aware Mamba for Efficient Temporal Modeling in Visual Tracking." TIP (2026).
@@ -472,6 +477,11 @@
   "TSTrans: Temporal-Sequence-Driven Transformer for Single Object Tracking in Satellite Videos." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11333927)] 
   [[code](https://github.com/yitongli123/TSTrans)]
+
+- **TrHelpTr:** Jiazheng Wen, Huanyu Liu, Junbao Li.<br />
+  "TrHelpTr: A Long-Term Single-Object Tracking Paradigm Based on Sequence Modeling Reinforcement Learning." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001068)] 
+  [[code]( )]
   
 - **FMPT:** Boyue Xu, Ruichao Hou, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
   "Learning Frequency and Memory-aware Prompts for Multi-modal Object Tracking." PR (2026).
