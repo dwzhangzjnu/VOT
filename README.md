@@ -118,6 +118,11 @@
   [[paper](https://arxiv.org/abs/2603.03617)]
   [[code](https://github.com/ldolLab/RAGTrack)]
 
+- **TrackMAE:** Renaud Vandeghen, Fida Mohammad Thoker, Marc Van Droogenbroeck, Bernard Ghanem.<br />
+  "TrackMAE: Video Representation Learning via Track Mask and Predict." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.27268)]
+  [[code](https://github.com/rvandeghen/TrackMAE)]
+  
 - **TAPFormer:** Jiaxiong Liu, Zhen Tan, Jinpu Zhang, Yi Zhou, Hui Shen, Xieyuanli Chen, Dewen Hu.<br />
   "TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.04989)]
@@ -303,9 +308,19 @@
   [[paper](https://arxiv.org/abs/2601.01022)] 
   [[code](https://github.com/Event-AHU/OpenEvTracking)]
 
+- **SOR-Track:** Dexing Huang, Shiao Wang, Fan Zhang, Xiao Wang.<br />
+  "Spatial Orthogonal Refinement for Robust RGB-Event Visual Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.27913)] 
+  [[code](https://github.com/Event-AHU/OpenEvTracking)]
+  
 - **GW-VLM:** Guiying Zhu, Bowen Yang, Yin Zhuang, Tong Zhang, Guanqun Wang, Zhihao Che, He Chen, Lianlin Li.<br />
   "A Training-Free Guess What Vision Language Model from Snippets to Open-Vocabulary Object Detection." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2601.11910)]
+  [[code]( )]
+
+- **STATrack:** Pengzhi Zhong, Jiwei Mo, Dan Zeng, Feixiang He, Shuiwang Li.<br />
+  "Fully Spiking Neural Networks with Target Awareness for Energy-Efficient UAV Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2603.27493)]
   [[code]( )]
 
 - **SiamGM:** Zixiao Wen, Zhen Yang, Jiawei Li, Xiantai Xiang, Guangyao Zhou, Yuxin Hu, Yuhan Liu.<br />
