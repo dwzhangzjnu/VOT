@@ -553,6 +553,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426009966)] 
   [[code]( )]
 
+- **DPTracker:** Junzhe Zhao, Jintao Su, Ye Liu, Jun Liu, Miaohui Wang.<br />
+  "DPTracker: DYNAMIC PROMPTER FOR RGB-D Tracking." PRL (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0167865526001224)] 
+  [[code](https://github.com/neilzhao996/DPTracker)]
+
 - **MambaCPT:** Zhao Huang, Lei Liu, Shuai Wang, Jun Wang.<br />
   "Mamba-driven Context-aware Tracking with Dual Prompts." MMSJ (2026).
   [[paper](https://link.springer.com/article/10.1007/s00530-026-02228-7)] 
