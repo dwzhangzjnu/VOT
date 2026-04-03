@@ -273,6 +273,11 @@
   [[paper](https://arxiv.org/abs/2602.18006)]
   [[code](https://github.com/AhsanBaidar/MUOT-3M_Dataset)]
 
+- **UAV-Track VLA:** Qiyao Zhang, Shuhua Zheng, Jianli Sun, Chengxiang Li, Xianke Wu, Zihan Song, Zhiyong Cui, Yisheng Lv, Yonglin Tian.<br />
+  "UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2604.02241)]
+  [[code](https://github.com/Hub-Tian/UAV-Track_VLA)]
+
 - **UAVBench:** Yang Zhan, Yuan Yuan.<br />
   "UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.14336)]
@@ -352,6 +357,11 @@
   "SiamTrackCaps: A Siamese-based Single Object Tracker Using Capsule Networks." WACVW (2026).
   [[paper](https://wrap.warwick.ac.uk/id/eprint/196225/)]
   [[code]( )]
+
+- **InteractTrack:** Yuqing Huang, Guotian Zeng, Zhenqiao Yuan, Zhenyu He, Xin Li, Yaowei Wang, Ming-Hsuan Yang.<br />
+  "Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2604.01974)] 
+  [[code](https://github.com/NorahGreen/InteractTrack)]
 
 - **ChatTracker:** Yu Zhang, Yiming Sun, Mi Zhang, Fan Yu, Shaoxiang Chen, Yang Li, Changbo Wang, Jianke Zhu, Steven C.H. Hoi.<br />
   "ChatTracker: Enhancing Visual Tracking via LLM-Driven Iterative Description Refinement." TPAMI (2026).
