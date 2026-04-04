@@ -393,6 +393,11 @@
   [[paper](https://dl.acm.org/doi/10.1145/3795518)] 
   [[code](https://github.com/masac11/EHCT)]
 
+- **CRToMP:** Di Yuan, Gu Geng, Qiao Liu, Xiaojun Chang, Zhenyu He.<br />
+  "Interactive Classification and Regression for Visual Tracking with Dual Update Strategy." TOMM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3803014)] 
+  [[code]( )]
+  
 - **UBATrack:** Qihua Liang, Liang Chen, Yaozong Zheng, Jian Nong, Zhiyi Mo, Bineng Zhong.<br />
   "UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11432969)]
@@ -507,6 +512,11 @@
   "TrHelpTr: A Long-Term Single-Object Tracking Paradigm Based on Sequence Modeling Reinforcement Learning." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001068)] 
   [[code]( )]
+
+- **LASTracker:** Zikai Wang, Siying Liu, Hanle Zheng, Sihan Wang, Yifan Hu, Hanxiao Fan, Yao Li, Hao Guo, Lei Deng.<br />
+  "LASTracker: A Lightweight RGB-E Tracking framework with ANN-SNN Adaptive Switching." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326005881)] 
+  [[code]( )]
   
 - **FMPT:** Boyue Xu, Ruichao Hou, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
   "Learning Frequency and Memory-aware Prompts for Multi-modal Object Tracking." PR (2026).
@@ -548,9 +558,19 @@
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001139)] 
   [[code](https://github.com/ElliottZhen/SSTrack)]
 
-- **IMSETrack:** Xianxin Jia, Zhiqiang Hou, Sugang Ma, Lei Pu<br />
+- **IMSETrack:** Xianxin Jia, Zhiqiang Hou, Sugang Ma, Lei Pu.<br />
   "Implicit Motion State Modeling for Efficient and Effective Video-Level Object Tracking." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426009966)] 
+  [[code]( )]
+
+- **SDTrack:** Tian Bai, Shirui Yang, Yang Wang, Guangtong Zhang.<br />
+  "Selective Distillation of Language Tokens for Redundancy Suppression in Vision-Language Tracking." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426011681)] 
+  [[code]( )]
+
+- **ESMT:** Jiapeng Zhang, Ying Wei, Yongfeng Li, Gang Yang.<br />
+  "ESMT: Context-adaptive Vision-language Tracking with Episodic-semantic Memory." APIN (2026).
+  [[paper](https://link.springer.com/article/10.1007/s10489-026-07218-w)] 
   [[code]( )]
 
 - **DPTracker:** Junzhe Zhao, Jintao Su, Ye Liu, Jun Liu, Miaohui Wang.<br />
