@@ -98,6 +98,11 @@
   [[paper](https://arxiv.org/abs/2602.23963)]
   [[code](https://github.com/faicaiwawa/SpikeTrack)]
 
+- **DTPTrack:** Yuqing Huang, Liting Lin, Weijun Zhuang, Zhenyu He, Xin Li.<br />
+  "Drift-Resilient Temporal Priors for Visual Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.02654)]
+  [[code](https://github.com/NorahGreen/DTPTrack)]
+
 - **SEATrack:** Junbin Su, Ziteng Xue, Shihui Zhang, Kun Chen, Weiming Hu, Zhipeng Zhang.<br />
   "SEATrack: Simple, Efficient, and Adaptive MultimodalTracker." CVPR (2026).
   [[paper]( )]
