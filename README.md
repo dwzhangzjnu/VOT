@@ -393,6 +393,11 @@
   [[paper](https://link.springer.com/article/10.1007/s11263-025-02666-2)] 
   [[code]( )]
 
+- **MEMLTrack:** Yuting He, Bin Fan, Zhexiong Wan, Qi Liu, Yuchao Dai.<br />
+  "Multi-event Representation and Multi-level Fusion for Robust RGB-event Object Tracking." KBS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126003369)] 
+  [[code]( )]
+  
 - **EHCT:** Yun Zhou, Hongfu Yin, Chunyu Tan, Qiaoyun Wu, Changyin Sun, Richang Hong.<br />
   "An Efficient Hybrid Cascade Tracker with Spiking Neural Networks for Event Domain Tracking." TOMM (2026).
   [[paper](https://dl.acm.org/doi/10.1145/3795518)] 
