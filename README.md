@@ -132,7 +132,16 @@
   "TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.04989)]
   [[code](https://github.com/ljx1002/TAPFormer)]
+
+- **STORM:** Zijia Lu, Jingru Yi, Jue Wang, Yuxiao Chen, Junwen Chen, Xinyu Li, Davide Modolo.<br />
+  "STORM: End-to-End Referring Multi-Object Tracking in Videos." CVPR Findings (2026).
+  [[paper](https://arxiv.org/abs/2604.10527)]
+  [[code](https://github.com/amazon-science/storm-referring-multi-object-grounding)]
   
+- **GeomPrompt:** Krishna Jaganathan, Patricio Vela.<br />
+  "GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth." CVPRW (2026).
+  [[paper](https://arxiv.org/abs/2604.11585)]
+  [[code](https://geomprompt.github.io/)]
 
 
 ### AAAI 2026
