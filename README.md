@@ -105,8 +105,8 @@
 
 - **SEATrack:** Junbin Su, Ziteng Xue, Shihui Zhang, Kun Chen, Weiming Hu, Zhipeng Zhang.<br />
   "SEATrack: Simple, Efficient, and Adaptive MultimodalTracker." CVPR (2026).
-  [[paper]( )]
-  [[code]( )]
+  [[paper](https://arxiv.org/abs/2604.12502)]
+  [[code](https://github.com/AutoLab-SAI-SJTU/SEATrack)]
   
 - **SCDT:** Andong Lu, Ziyi Zha, Jiandong Jin, Shihao Li, Chenglong Li, Jin Tang, Bin Luo.<br />
   "Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking." CVPR (2026).
@@ -576,6 +576,11 @@
   "SSTrack: Joint Scale-aware Temporal Prompts and Spatio-temporal Prior Transformer for Visual Object Tracking." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001139)] 
   [[code](https://github.com/ElliottZhen/SSTrack)]
+
+- **HATrack:** Shengbo Wang, Yunfeng Li, Lei Deng, Guangkai Sun, Mingli Dong, Lianqing Zhu.<br />
+  "HATrack: Cross-modal Fusion RGBT Tracking with Heterogeneous Adapter." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426013394)] 
+  [[code](https://github.com/wwwshengbo/HATrack)]
 
 - **IMSETrack:** Xianxin Jia, Zhiqiang Hou, Sugang Ma, Lei Pu.<br />
   "Implicit Motion State Modeling for Efficient and Effective Video-Level Object Tracking." ESWA (2026).
