@@ -104,7 +104,7 @@
   [[code](https://github.com/NorahGreen/DTPTrack)]
 
 - **SEATrack:** Junbin Su, Ziteng Xue, Shihui Zhang, Kun Chen, Weiming Hu, Zhipeng Zhang.<br />
-  "SEATrack: Simple, Efficient, and Adaptive MultimodalTracker." CVPR (2026).
+  "SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker." CVPR (2026).
   [[paper](https://arxiv.org/abs/2604.12502)]
   [[code](https://github.com/AutoLab-SAI-SJTU/SEATrack)]
   
