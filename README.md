@@ -331,7 +331,12 @@
   "Spatial Orthogonal Refinement for Robust RGB-Event Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.27913)] 
   [[code](https://github.com/Event-AHU/OpenEvTracking)]
-  
+
+- **MambaTrack:** Jinlin You, Muyu Li, Xudong Zhao.<br />
+  "Event-Adaptive State Transition and Gated Fusion for RGB-Event Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2604.13426)] 
+  [[code]( )]
+
 - **GW-VLM:** Guiying Zhu, Bowen Yang, Yin Zhuang, Tong Zhang, Guanqun Wang, Zhihao Che, He Chen, Lianlin Li.<br />
   "A Training-Free Guess What Vision Language Model from Snippets to Open-Vocabulary Object Detection." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2601.11910)]
