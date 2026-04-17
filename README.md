@@ -332,6 +332,11 @@
   [[paper](https://arxiv.org/abs/2603.27913)] 
   [[code](https://github.com/Event-AHU/OpenEvTracking)]
 
+- **FreqTrack:** Jinlin You, Muyu Li, Xudong Zhao.<br />
+  "FreqTrack: Frequency Learning based Vision Transformer for RGB-Event Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2604.14526)] 
+  [[code]( )]
+
 - **MambaTrack:** Jinlin You, Muyu Li, Xudong Zhao.<br />
   "Event-Adaptive State Transition and Gated Fusion for RGB-Event Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2604.13426)] 
