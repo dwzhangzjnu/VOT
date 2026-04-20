@@ -128,6 +128,11 @@
   [[paper](https://arxiv.org/abs/2603.27268)]
   [[code](https://github.com/rvandeghen/TrackMAE)]
   
+- **MMGait:** Chenye Wang, Qingyuan Cai, Saihui Hou, Aoqi Li, Yongzhen Huang.<br />
+  "MMGait: Towards Multi-Modal Gait Recognition." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.15979)]
+  [[code](https://github.com/BNU-IVC/MMGait)]
+
 - **TAPFormer:** Jiaxiong Liu, Zhen Tan, Jinpu Zhang, Yi Zhou, Hui Shen, Xieyuanli Chen, Dewen Hu.<br />
   "TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.04989)]
