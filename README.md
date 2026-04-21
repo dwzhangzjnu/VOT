@@ -537,6 +537,16 @@
   [[paper](https://ieeexplore.ieee.org/document/11358797)] 
   [[code]( )]
 
+- **VETD220:** Jiayu Qiu, Yasheng Zhang, Kaiyuan Zheng, Pengju Li, Jianan Li, Gege Sun.<br />
+  "VETD220: A Visible-Event Benchmark and Baseline for Tracking Drones." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11458000)] 
+  [[code](https://github.com/QiuuuJY/VETD220)]
+  
+- **TAPTrack:** Xiaolong Cui, Xingxiu Li, Panlong Wu, Xinan Liu, Shan He.<br />
+  "TAPTrack: An Efficient Temporal-Aware Prompt Tracker for Infrared Anti-UAV Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11477854)] 
+  [[code](https://github.com/cui344119693/TAPTrack)]
+
 - **TSTrans:** Yitong Li, Chen Wu, Jia Shao.<br />
   "TSTrans: Temporal-Sequence-Driven Transformer for Single Object Tracking in Satellite Videos." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11333927)] 
