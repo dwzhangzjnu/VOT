@@ -127,6 +127,11 @@
   "TrackMAE: Video Representation Learning via Track Mask and Predict." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.27268)]
   [[code](https://github.com/rvandeghen/TrackMAE)]
+
+- **OA-VAT:** Renaud Vandeghen, Fida Mohammad Thoker, Marc Van Droogenbroeck, Bernard Ghanem.<br />
+  "Instance-level Visual Active Tracking with Occlusion-Aware Planning." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.21453)]
+  [[code](https://github.com/SHWplus/OA-VAT)]
   
 - **MMGait:** Chenye Wang, Qingyuan Cai, Saihui Hou, Aoqi Li, Yongzhen Huang.<br />
   "MMGait: Towards Multi-Modal Gait Recognition." CVPR (2026).
