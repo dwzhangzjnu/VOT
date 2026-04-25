@@ -607,6 +607,11 @@
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001139)] 
   [[code](https://github.com/ElliottZhen/SSTrack)]
 
+- **DCTrack:** Yi Su, Yi Zhang.<br />
+  "Decoupled Temporal and Spatial Features for Adaptive Visual Tracking." ASOC (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S156849462600712X)] 
+  [[code](https://github.com/shirosy/DCTrack)]
+
 - **HATrack:** Shengbo Wang, Yunfeng Li, Lei Deng, Guangkai Sun, Mingli Dong, Lianqing Zhu.<br />
   "HATrack: Cross-modal Fusion RGBT Tracking with Heterogeneous Adapter." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426013394)] 
