@@ -269,6 +269,55 @@
   [[paper](https://arxiv.org/abs/2603.00527)]
   [[code]( )]
   
+
+### Others 2026
+
+- **DPTracker:** Yiheng Wang, Changhong Fu, Liangliang Yao, Haobo Zuo, Zijie Zhang.<br />
+  "Dual Prompt-Driven Feature Encoding for Nighttime UAV Tracking." ICRA (2026).
+  [[paper](https://arxiv.org/abs/2603.19628)]
+  [[code](https://github.com/yiheng-wang-duke/DPTracker)]
+
+- **MSRTrack:** Tong Shen, Di Wang, José M. F. Moura.<br />
+  "MSRTrack: LLM-Powered Object Tracking with Motion and Semantic Reasoning." WACV (2026).
+  [[paper](https://openaccess.thecvf.com/content/WACV2026/html/Shen_MSRTrack_LLM-Powered_Object_Tracking_with_Motion_and_Semantic_Reasoning_WACV_2026_paper.html)]
+  [[code]( )]
+
+- **DA-SAMURAI:** Tamara R. Lenhard, Andreas Weinmann, Hichem Snoussi, Tobias Koch.<br />
+  "Detector-Augmented SAMURAI for Long-Duration Drone Tracking." WACVW (2026).
+  [[paper](https://arxiv.org/abs/2601.04798)]
+  [[code]( )]
+
+- **SiamTrackCaps:** Abdullah M. Algamdi, Victor Sanchez, Chang-Tsun Li.<br />
+  "SiamTrackCaps: A Siamese-based Single Object Tracker Using Capsule Networks." WACVW (2026).
+  [[paper](https://wrap.warwick.ac.uk/id/eprint/196225/)]
+  [[code]( )]
+
+- **HAM-SAM2:** Kanghua Pan, Guo Chen, Wei Zhu, Danhuai Zhao, Tong Lu.<br />
+  "HAM-SAM2: Enhancing SAM2 for Visual Object Tracking with Adaptive Motion Modeling and Hierarchical Memory Bank." ICASSP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11462733)]
+  [[code]( )]
+
+- **DCVLT:** Guomao Guo, Gu Geng, Youqiang Xiong, Huayi Zhu, Pengfei Wei, Rui Chen, Di Yuan.<br />
+  "Dynamic Language Adaptation and Collaborative Memory Modeling for Vision-Language Tracking." ICASSP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11462109)]
+  [[code]( )]
+
+- **DIFTrack:** Ze Zhou, Chen Wu, YongWu, Chaobo Li, Yanwei Xu.<br />
+  "DIFTrack: Vision-Language Tracking with Deep Interaction Fusion." ICASSP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11464901)]
+  [[code](https://github.com/ChenWu6369/DIFTrack)]
+
+- **EA-Track:** Pengfei Wei, Rui Chen, Guomao Guo, Youqiang Xiong, Qiao Liu, Zhenyu He, Di Yuan.<br />
+  "Hyperspectral Object Tracking Method Based on General Expert Adapter." ICASSP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11464759)]
+  [[code]( )]
+
+- **MHPTrack:** Rui Zhu, DePeng Liu, ChaoGang Wang, ZhaoKang Lu, BoHan Liu, KaiRui Xu.<br />
+  "MHPTrack: Efficient Multimodal Historical Prompting for Aerial Target Tracking." ICASSP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11464380)]
+  [[code]( )]
+
+  
   
 ### ArXiv 2026
 
@@ -370,26 +419,6 @@
 - **GOT-JEPA:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin.<br />
   "GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.14771)]
-  [[code]( )]
-  
-- **DPTracker:** Yiheng Wang, Changhong Fu, Liangliang Yao, Haobo Zuo, Zijie Zhang.<br />
-  "Dual Prompt-Driven Feature Encoding for Nighttime UAV Tracking." ICRA (2026).
-  [[paper](https://arxiv.org/abs/2603.19628)]
-  [[code](https://github.com/yiheng-wang-duke/DPTracker)]
-
-- **MSRTrack:** Tong Shen, Di Wang, José M. F. Moura.<br />
-  "MSRTrack: LLM-Powered Object Tracking with Motion and Semantic Reasoning." WACV (2026).
-  [[paper](https://openaccess.thecvf.com/content/WACV2026/html/Shen_MSRTrack_LLM-Powered_Object_Tracking_with_Motion_and_Semantic_Reasoning_WACV_2026_paper.html)]
-  [[code]( )]
-
-- **DA-SAMURAI:** Tamara R. Lenhard, Andreas Weinmann, Hichem Snoussi, Tobias Koch.<br />
-  "Detector-Augmented SAMURAI for Long-Duration Drone Tracking." WACVW (2026).
-  [[paper](https://arxiv.org/abs/2601.04798)]
-  [[code]( )]
-
-- **SiamTrackCaps:** Abdullah M. Algamdi, Victor Sanchez, Chang-Tsun Li.<br />
-  "SiamTrackCaps: A Siamese-based Single Object Tracker Using Capsule Networks." WACVW (2026).
-  [[paper](https://wrap.warwick.ac.uk/id/eprint/196225/)]
   [[code]( )]
 
 - **InteractTrack:** Yuqing Huang, Guotian Zeng, Zhenqiao Yuan, Zhenyu He, Xin Li, Yaowei Wang, Ming-Hsuan Yang.<br />
