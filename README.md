@@ -496,6 +496,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11397188)] 
   [[code]( )]
   
+- **VDT1k:** Kaixiang Yan, Wenhua Qian, Jinde Cao, Cong Bi, Rufei Gan.<br />
+  "Visual object tracking via integrating images of visible, thermal, and depth modalities." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11494035)] 
+  [[code](https://github.com/yan245836977/VDT1k)]
+
 - **ProMoT:** Jia Chen, Rui Xu, Si Chen, Yuzhen Niu, Yan Yan, Da-Han Wang.<br />
   "ProMoT: Progressive Prompting of Modality and Temporal Dynamics for RGB-T Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363450)] 
