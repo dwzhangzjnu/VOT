@@ -561,6 +561,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11354534)] 
   [[code]( )]
 
+- **EAR:** Mengjie Jia, Yanyan Li, Jiawei Yuan.<br />
+  "Enhancing Adversarial Robustness in Transformer-Based UAV Tracking." TII (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11494852)] 
+  [[code]( )]
+  
 - **SAAttack:** Xingsen Huang, Yuqing Huang, Hongpeng Wang, Yaowei Wang, Xin Li.<br />
   "Saliency-Aware Adversarial Attacks on Visual Trackers." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11432987)] 
