@@ -415,11 +415,6 @@
   "SiamGM: Siamese Geometry-Aware and Motion-Guided Network for Real-Time Satellite Video Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.07564)]
   [[code](https://github.com/wenzx18/SiamGM)]
-  
-- **GOT-JEPA:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin.<br />
-  "GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture." ArXiv (2026).
-  [[paper](https://arxiv.org/abs/2602.14771)]
-  [[code]( )]
 
 - **InteractTrack:** Yuqing Huang, Guotian Zeng, Zhenqiao Yuan, Zhenyu He, Xin Li, Yaowei Wang, Ming-Hsuan Yang.<br />
   "Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation." arXiv (2026).
@@ -506,6 +501,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11363450)] 
   [[code]( )]
 
+- **GOT-JEPA:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin.<br />
+  "GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11436011)]
+  [[code](https://github.com/chenshihfang/GOT)]
+  
 - **SELA-Track:** Sai Zhou, Meiqin Liu, Jing Zhou, Ronghao Zheng.<br />
   "Enhancing Vision Transformer with Shift Expansion Linear Attention for Image Classification and Object Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11386976)] 
