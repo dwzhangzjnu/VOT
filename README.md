@@ -246,6 +246,11 @@
   [[paper](https://arxiv.org/abs/2511.09870)] 
   [[code](https://github.com/LinJ0866/SAM-DAQ)]
 
+- **X-SAM:** Hao Wang, Limeng Qiao, Zequn Jie, Zhijian Huang, Chengjian Feng, Qingfang Zheng, Lin Ma, Xiangyuan Lan, Xiaodan Liang.<br />
+  "X-SAM: From Segment Anything to Any Segmentation." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2508.04655)] 
+  [[code](https://github.com/wanghao9610/X-SAM)]
+  
 - **SM3Det:** Yuxuan Li, Xiang Li, Yunheng Li, Yicheng Zhang, Yimian Dai, Qibin Hou, Ming-Ming Cheng, Jian Yang.<br />
   "SM3Det: A Unified Model for Multi-Modal Remote Sensing Object Detection." AAAI (2026).
   [[paper](https://arxiv.org/abs/2412.20665)] 
@@ -320,6 +325,11 @@
   
   
 ### ArXiv 2026
+
+- **X2SAM:** Hao Wang, Limeng Qiao, Chi Zhang, Lin Ma, Guanglu Wan, Xiangyuan Lan, Xiaodan Liang.<br />
+  "X2SAM: Any Segmentation in Images and Videos." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.00891)]
+  [[code](https://wanghao9610.github.io/X2SAM/)]
 
 - **RGBX-R1:** Jiahe Wu, Bing Cao, Qilong Wang, Qinghua Hu, Dongdong Li, Pengfei Zhu.<br />
   "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." ArXiv (2026).
