@@ -277,6 +277,11 @@
 
 ### Others 2026
 
+- **OneTrackerV2:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Kaixun Jiang, Pinxue Guo, Zhaoyu Chen, Runze Li, Xingdong Sheng, Wenqiang Zhang.<br />
+  "Unified Multimodal Visual Tracking with Dual Mixture-of-Experts." ICML (2026).
+  [[paper](https://arxiv.org/abs/2605.03716)] 
+  [[code]( )]
+
 - **DPTracker:** Yiheng Wang, Changhong Fu, Liangliang Yao, Haobo Zuo, Zijie Zhang.<br />
   "Dual Prompt-Driven Feature Encoding for Nighttime UAV Tracking." ICRA (2026).
   [[paper](https://arxiv.org/abs/2603.19628)]
@@ -1323,11 +1328,6 @@
 - **MAGTrack:** Anonymous authors.<br />
   "MAGTrack: MLLM-Augmented Grounding and Text Refinement for Language-Guided Tracking." ArXiv (2025).
   [[paper](https://openreview.net/forum?id=IW8S0qIjTG)] 
-  [[code]( )]
-
-- **OneTrackerV2:** Anonymous authors.<br />
-  "OneTrackerV2: Unified Multimodal Visual Object Tracking with Mixture of Experts." ArXiv (2025).
-  [[paper](https://openreview.net/forum?id=sTXCoxide9)] 
   [[code]( )]
   
 - **VPTT:** Jiaming Liu, Yue Wu, Qiguang Miao, Maoguo Gong, Linghe Kong.<br />
