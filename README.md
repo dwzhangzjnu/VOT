@@ -361,6 +361,11 @@
   [[paper](https://arxiv.org/abs/2602.18006)]
   [[code](https://github.com/AhsanBaidar/MUOT-3M_Dataset)]
 
+- **VL-UniTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
+  "VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.04574)]
+  [[code](https://github.com/xuboyue1999/VL-UniTrack)]
+  
 - **UAV-Track VLA:** Qiyao Zhang, Shuhua Zheng, Jianli Sun, Chengxiang Li, Xianke Wu, Zihan Song, Zhiyong Cui, Yisheng Lv, Yonglin Tian.<br />
   "UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2604.02241)]
@@ -3615,6 +3620,11 @@
   [[paper](https://arxiv.org/abs/2303.14778)] 
   [[code]()]
   
+- **UGVT:** Dengdi Sun, Leilei Cheng, Song Chen, Chenglong Li, Yun Xiao, Bin Luo.<br />
+  "UAV-Ground Visual Tracking: A Unified Dataset and Collaborative Learning Approach." TCSVT (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10254588)] 
+  [[code](https://github.com/mmic-lcl/Datasets-and-benchmark-code/)]
+
 - **SiamTHN:** Jiahao Bao, Kaiqiang Chen, Xian Sun, Liangjin Zhao, Wenhui Diao, Menglong Yan.<br />
   "SiamTHN: Siamese Target Highlight Network for Visual Tracking." TCSVT (2023).
   [[paper](https://arxiv.org/abs/2303.12304)] 
@@ -3649,6 +3659,7 @@
   "Siamese Residual Network for Efficient Visual Tracking." Information Sciences (2023).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0020025522015778?via%3Dihub)] 
   [[code]()]
+
 
 ### IJCAI 2023
 
