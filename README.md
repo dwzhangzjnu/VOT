@@ -128,6 +128,11 @@
   [[paper](https://arxiv.org/abs/2603.27268)]
   [[code](https://github.com/rvandeghen/TrackMAE)]
 
+- **PNTrack:** Yaozong Zheng, Qihua Liang, Bineng Zhong, Shuimu Zeng, Yuanliang Xue, Ning Li, Shuxiang Song.<br />
+  "Boosting Self-Supervised Tracking with Contextual Prompts and Noise Learning." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.06092)]
+  [[code]( )]
+  
 - **OA-VAT:** Renaud Vandeghen, Fida Mohammad Thoker, Marc Van Droogenbroeck, Bernard Ghanem.<br />
   "Instance-level Visual Active Tracking with Occlusion-Aware Planning." CVPR (2026).
   [[paper](https://arxiv.org/abs/2604.21453)]
@@ -257,6 +262,39 @@
   [[code](https://github.com/zcablii/SM3Det)]
   
 
+### ICML 2026
+
+- **OneTrackerV2:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Kaixun Jiang, Pinxue Guo, Zhaoyu Chen, Runze Li, Xingdong Sheng, Wenqiang Zhang.<br />
+  "Unified Multimodal Visual Tracking with Dual Mixture-of-Experts." ICML (2026).
+  [[paper](https://arxiv.org/abs/2605.03716)] 
+  [[code]( )]
+
+- **RELO:** Xin Chen, Chuanyu Sun, Jiao Xu, Houwen Peng, Dong Wang, Huchuan Lu, Kede Ma.<br />
+  "RELO: Reinforcement Learning to Localize for Visual Object Tracking." ICML (2026).
+  [[paper](https://icml.cc/virtual/2026/poster/64964)] 
+  [[code]( )]
+
+- **ETBTrack:** Yinchao Ma, Jianpeng Yang, Yuyang Tang, Jie Xiao, Dengqing Yang, Tianzhu Zhang.<br />
+  "Learning Generalized Trackers with Elastic Token Budgets." ICML (2026).
+  [[paper](https://icml.cc/virtual/2026/poster/63126)] 
+  [[code]( )]
+
+- **FATrack:** Jiahao Wang, Fang Liu, Licheng Jiao, Shuo Li, Hao Wang, Lingling Li, Xinyi Wang, Xu Liu.<br />
+  "Foreground-Aware Token Routing Vision Transformer for Real-Time Satellite Video Tracking." ICML (2026).
+  [[paper](https://icml.cc/virtual/2026/poster/60644)] 
+  [[code]( )]
+
+- **AVTrack:** Yaoting Wang, Yun Zhou, Zipei Zhang, Henghui Ding.<br />
+  "AVTrack: Audio-Visual Speaker Tracking in Complex Scenes." ICML (2026).
+  [[paper](https://icml.cc/virtual/2026/poster/65747)] 
+  [[code]( )]
+
+- **DroneDINO:** Rui Chen, Dongdong Li, Yan Fan, Yan Liu, Yangliu Kuai, Pengfei Zhu.<br />
+  "DroneDINO: Towards Heterogeneous Routed Mixture of Experts for Drone-based Unified Object Detection." ICML (2026).
+  [[paper](https://icml.cc/virtual/2026/poster/60907)] 
+  [[code]( )]
+  
+
 ### ICLR 2026
 
 - **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
@@ -276,11 +314,6 @@
   
 
 ### Others 2026
-
-- **OneTrackerV2:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Kaixun Jiang, Pinxue Guo, Zhaoyu Chen, Runze Li, Xingdong Sheng, Wenqiang Zhang.<br />
-  "Unified Multimodal Visual Tracking with Dual Mixture-of-Experts." ICML (2026).
-  [[paper](https://arxiv.org/abs/2605.03716)] 
-  [[code]( )]
 
 - **DPTracker:** Yiheng Wang, Changhong Fu, Liangliang Yao, Haobo Zuo, Zijie Zhang.<br />
   "Dual Prompt-Driven Feature Encoding for Nighttime UAV Tracking." ICRA (2026).
@@ -400,6 +433,11 @@
   "Uni-MDTrack: Learning Decoupled Memory and Dynamic States for Parameter-Efficient Visual Tracking in All Modality." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.14452)] 
   [[code]( )]
+
+- **PSMTrack:** Shiao Wang, Xiao Wang, Duoqing Yang, Wenhao Zhang, Bo Jiang, Lin Zhu, Yonghong Tian, Bin Luo.<br />
+  "Dynamic Pondering Sparsity-aware Mixture-of-Experts Transformer for Event Stream based Visual Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.06112)] 
+  [[code](https://github.com/Event-AHU/OpenEvTracking)]
 
 - **APMTrack:** Shiao Wang, Xiao Wang, Haonan Zhao, Jiarui Xu, Bo Jiang, Lin Zhu, Xin Zhao, Yonghong Tian, Jin Tang.<br />
   "Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking." ArXiv (2026).
