@@ -584,6 +584,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11343838)] 
   [[code](https://github.com/xyyang317/Aba-ViTrack)]
 
+- **PoATrack:** Hongtao Yang, Bineng Zhong, Yaozong Zheng, Qihua Liang, Zhiruo Zhu, Shuxiang Song.<br />
+  "Unified Multi-Modal Tracking via Proxy Visual Prompts." TASE (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11505919)] 
+  [[code]( )]
+  
 - **SEAT:** Tianqi Shen, Huakao Lin, Ning An.<br />
   "Search Multilayer Perceptron-Based Fusion for Efficient and Accurate Siamese Tracking." TCDS (2026).
   [[paper](https://arxiv.org/abs/2603.01706)] 
