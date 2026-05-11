@@ -613,6 +613,11 @@
   "Modality Interaction Decoupling: Spatiotemporal Memory-Driven Unified Multimodal Tracking Framework." IOTJ (2026).
   [[paper](https://ieeexplore.ieee.org/document/11396679)] 
   [[code](https://github.com/qfxb/SMMTrack)]
+
+- **LCMTrack:** Lifan Sun, Liuzhuang Liu, Yang Liu, Dongkai Zhang, Dan Gao.<br />
+  "LCMTrack: Low Rank Gated Adaptation and Cross Modal Attention Fusion for Multi-Scale Spatio-Temporal RGB-T Tracking." JSEN (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11479652)] 
+  [[code]( )]
   
 - **WmLSTM:** Yao Chen, Guancheng Jia, Ding Ma, Yufei Zha, Peng Zhang.<br />
   "WmLSTM: A Plug-and-Play Window-Level mLSTM-Based Temporal Encoder for Robust Visual Tracking." TCSVT (2026).
@@ -754,6 +759,16 @@
   [[paper](https://link.springer.com/article/10.1007/s00530-026-02228-7)] 
   [[code](https://github.com/xiaomengxin123/MambaCPT)]
 
+- **USGA:** Xianxin Jia, Zhiqiang Hou, Hao Yue, Shuai Hu, Sugang Ma, Xiaobao Yang, Lei Pu.<br />
+  "USGA: unified intra- and cross-scale features with global–local aggregation for long-term tracking." MMSJ (2026).
+  [[paper](https://link.springer.com/article/10.1007/s00530-026-02339-1)] 
+  [[code]( )]
+  
+- **DBA:** Haibo Pang, Gang Xiao, Chengming Liu, Jun Jia, Qun Jin.<br />
+  "Diffusion-based adversarial attacks and defenses on template for visual object tracking." MVA (2026).
+  [[paper](https://link.springer.com/article/10.1007/s00138-026-01821-0)] 
+  [[code]( )]
+  
 - **LKTrack:** Hong Zhang, Huakao Lin, Ding Yuan, Jianbo Song, Hanyang Liu, Yifan Yang.<br />
   "LKTrack: A Novel Tracking Framework with Large Kernel Network." MMSJ (2026).
   [[paper](https://link.springer.com/article/10.1007/s00530-025-02135-3)] 
