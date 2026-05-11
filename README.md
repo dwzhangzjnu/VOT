@@ -128,6 +128,11 @@
   [[paper](https://arxiv.org/abs/2603.27268)]
   [[code](https://github.com/rvandeghen/TrackMAE)]
 
+- **SVLTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Shuimu Zeng, Haiying Xia, Shuxiang Song.<br />
+  "Learning to Track Instance from Single Nature Language Description." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.07064)]
+  [[code]( )]
+
 - **PNTrack:** Yaozong Zheng, Qihua Liang, Bineng Zhong, Shuimu Zeng, Yuanliang Xue, Ning Li, Shuxiang Song.<br />
   "Boosting Self-Supervised Tracking with Contextual Prompts and Noise Learning." CVPR (2026).
   [[paper](https://arxiv.org/abs/2605.06092)]
@@ -271,8 +276,8 @@
 
 - **RELO:** Xin Chen, Chuanyu Sun, Jiao Xu, Houwen Peng, Dong Wang, Huchuan Lu, Kede Ma.<br />
   "RELO: Reinforcement Learning to Localize for Visual Object Tracking." ICML (2026).
-  [[paper](https://icml.cc/virtual/2026/poster/64964)] 
-  [[code]( )]
+  [[paper](https://arxiv.org/abs/2605.07379)] 
+  [[code](https://github.com/Multimedia-Analytics-Laboratory/RELO)]
 
 - **ETBTrack:** Yinchao Ma, Jianpeng Yang, Yuyang Tang, Jie Xiao, Dengqing Yang, Tianzhu Zhang.<br />
   "Learning Generalized Trackers with Elastic Token Budgets." ICML (2026).
@@ -369,6 +374,11 @@
   [[paper](https://arxiv.org/abs/2605.00891)]
   [[code](https://wanghao9610.github.io/X2SAM/)]
 
+- **AS-SAM2:** Tao Lv, Shenrun Ding, Yuji Wang, Yue Li, Xiaohuan Lu, Youliang Tian.<br />
+  "AS-SAM2: Adaptive Self-correction for Visual Tracking with SAM2." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11506610)]
+  [[code](https://github.com/oatlvv/AS-SAM2)]
+  
 - **RGBX-R1:** Jiahe Wu, Bing Cao, Qilong Wang, Qinghua Hu, Dongdong Li, Pengfei Zhu.<br />
   "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.00504)]
