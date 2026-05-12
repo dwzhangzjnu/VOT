@@ -93,11 +93,16 @@
   [[paper](https://arxiv.org/abs/2602.23734)]
   [[code](https://github.com/EIT-NLP/UTPTrack)]
 
+- **ETCTrack:** Weijing Wu, Qihua Liang, Bineng Zhong, Haiying Xia, Zhiyi Mo, Shuxiang Song.<br />
+  "An Efficient Token Compression Framework for Visual Object Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.08329)]
+  [[code](https://github.com/PJD-WJ/ETCTrack)]
+
 - **SpikeTrack:** Qiuyang Zhang, Jiujun Cheng, Qichao Mao, Cong Liu, Yu Fang, Yuhong Li, Mengying Ge, Shangce Gao.<br />
   "SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2602.23963)]
   [[code](https://github.com/faicaiwawa/SpikeTrack)]
-
+  
 - **DTPTrack:** Yuqing Huang, Liting Lin, Weijun Zhuang, Zhenyu He, Xin Li.<br />
   "Drift-Resilient Temporal Priors for Visual Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2604.02654)]
