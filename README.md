@@ -2551,7 +2551,7 @@
   [[paper](https://arxiv.org/abs/2407.17272)] 
   [[code]( )]
 
-- **GLATrack:** Guangyao Li, Yajun Jian, Yajun Jian, Yan Yan, Yan Yan, Hanzi Wang, Hanzi Wang.<br />
+- **GLATrack:** Guangyao Li, Yajun Jian, Yajun Jian, Yan Yan, Yan Yan, Hanzi Wang.<br />
   "GLATrack: Global and Local Awareness for Open-Vocabulary Multiple Object Tracking." ACM MM (2024).
   [[paper](https://dl.acm.org/doi/10.1145/3664647.3681530)] 
   [[code]( )]
