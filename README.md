@@ -724,9 +724,14 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026001875)] 
   [[code]( )]
   
+- **PVMTrack:** Binbin Wang, Ziqing Yan, Lifeng Wang, Fasheng Wang, Fuming Sun, Haojie Li.<br />
+  "Towards a prompt-driven framework with state space models for UAV object tracking." KBS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126009299)] 
+  [[code](https://github.com/w515486391/PVMTrack)]
+
 - **SSTrack:** Sugang Ma, Zhen Wan, Bin Hu, Jinyu Zhang, Zhiqiang Hou, Xiangmo Zhao.<br />
   "SSTrack: Joint Scale-aware Temporal Prompts and Spatio-temporal Prior Transformer for Visual Object Tracking." KBS (2026).
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126001139)] 
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001139)] 
   [[code](https://github.com/ElliottZhen/SSTrack)]
 
 - **DCTrack:** Yi Su, Yi Zhang.<br />
