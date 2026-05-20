@@ -294,6 +294,11 @@
   [[paper](https://icml.cc/virtual/2026/poster/60644)] 
   [[code]( )]
 
+- **SymTrack:** Chenmin Yu, Liu Yu, Daiqing Wu, Gengluo Li, Zeyu Chen, Yu Zhou.<br />
+  "Beyond Detection: A Structure-Aware Framework for Scene Text Tracking." ICML (2026).
+  [[paper](https://arxiv.org/abs/2605.17270)] 
+  [[code](https://github.com/EdisonYCM/SymTrack)]
+
 - **AVTrack:** Yaoting Wang, Yun Zhou, Zipei Zhang, Henghui Ding.<br />
   "AVTrack: Audio-Visual Speaker Tracking in Complex Scenes." ICML (2026).
   [[paper](https://icml.cc/virtual/2026/poster/65747)] 
@@ -418,6 +423,11 @@
   "UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2604.02241)]
   [[code](https://github.com/Hub-Tian/UAV-Track_VLA)]
+
+- **DeTrack:** Guyue Hu, Haoming Liu, Siyuan Song, Chenglong Li, Feng Chen, Jin Tang.<br />
+  "DeTrack: A Benchmark and Altitude-Aware Dual World Model for Drone-embodied Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.17451)]
+  [[code]( )]
 
 - **UAVBench:** Yang Zhan, Yuan Yuan.<br />
   "UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding." ArXiv (2026).
