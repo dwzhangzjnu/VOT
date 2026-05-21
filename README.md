@@ -429,6 +429,11 @@
   [[paper](https://arxiv.org/abs/2605.17451)]
   [[code]( )]
 
+- **UAVNet-MS:** Yihang Luo, Jun Chen, Chao Xiao, Yingqian Wang, Zhaoxu Li, Qiang Ling, Xu He, Nuo Chen, Gaowei Guo, Hongge Li, Miao Li, Longguang Wang, Yulan Guo, Li Liu, Wei An, Zhijie Chen.<br />
+  "Towards UAV Detection in the Real World: A New Multispectral Dataset UAVNet-MS and a New Method." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.20963)]
+  [[code]( )]
+
 - **UAVBench:** Yang Zhan, Yuan Yuan.<br />
   "UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.14336)]
@@ -504,6 +509,11 @@
   [[paper](https://arxiv.org/abs/2604.01974)] 
   [[code](https://github.com/NorahGreen/InteractTrack)]
 
+- **E2EMPT:** Xu Han, Mohammad Aminul Islam, Lei Wang, Zekun Long, Guanmanyi Fu, Wangshu Cai, Kuldip K. Paliwal, Jun Zhou.<br />
+  "End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.20569)] 
+  [[code](https://github.com/han030927/E2EMPT)]
+  
 - **ChatTracker:** Yu Zhang, Yiming Sun, Mi Zhang, Fan Yu, Shaoxiang Chen, Yang Li, Changbo Wang, Jianke Zhu, Steven C.H. Hoi.<br />
   "ChatTracker: Enhancing Visual Tracking via LLM-Driven Iterative Description Refinement." TPAMI (2026).
   [[paper](https://ieeexplore.ieee.org/document/11435004)] 
