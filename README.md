@@ -384,6 +384,11 @@
   [[paper](https://arxiv.org/abs/2605.00891)]
   [[code](https://wanghao9610.github.io/X2SAM/)]
 
+- **SAMOSA:** Deyi Zhu, Yuji Wang, Yong Liu, Yansong Tang, Bingyao Yu, Jiwen Lu, Jie Zhou.<br />
+  "Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.22538)]
+  [[code](https://github.com/DurYi/SAMOSA)]
+  
 - **AS-SAM2:** Tao Lv, Shenrun Ding, Yuji Wang, Yue Li, Xiaohuan Lu, Youliang Tian.<br />
   "AS-SAM2: Adaptive Self-correction for Visual Tracking with SAM2." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11506610)]
@@ -709,6 +714,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326005881)] 
   [[code]( )]
   
+- **Switcher:** He Wang, Tianyang Xu, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
+  "Switcher: Adaptive framework for unified and customised multi-modal object tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326009878)] 
+  [[code](https://github.com/ouha1998/Switcher)]
+
 - **FMPT:** Boyue Xu, Ruichao Hou, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
   "Learning Frequency and Memory-aware Prompts for Multi-modal Object Tracking." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S003132032600498X)] 
