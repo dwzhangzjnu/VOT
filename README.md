@@ -589,6 +589,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11397188)] 
   [[code]( )]
   
+- **FSMT:** Long Gao, Zhuoyan Liu, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.<br />
+  "FSMT: Frequency-Spatial Mixture-of-Experts Hyperspectral Object Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11526988)] 
+  [[code](https://github.com/lgao001/FSMT)]
+
 - **VDT1k:** Kaixiang Yan, Wenhua Qian, Jinde Cao, Cong Bi, Rufei Gan.<br />
   "Visual object tracking via integrating images of visible, thermal, and depth modalities." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11494035)] 
@@ -703,6 +708,11 @@
   "TSTrans: Temporal-Sequence-Driven Transformer for Single Object Tracking in Satellite Videos." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11333927)] 
   [[code](https://github.com/yitongli123/TSTrans)]
+
+- **JointTrack:** Han Wu, Kui Liu, Yuli Sun, Hao Sun, Kefeng Ji, Gangyao Kuang.<br />
+  "JointTrack: Densely joint feature extraction and interaction via temporal–spatial prompt learning for object tracking in multi-drone videos." TGRS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0924271626002571)] 
+  [[code](https://github.com/HanJin0326/JointTrack)]
 
 - **TrHelpTr:** Jiazheng Wen, Huanyu Liu, Junbao Li.<br />
   "TrHelpTr: A Long-Term Single-Object Tracking Paradigm Based on Sequence Modeling Reinforcement Learning." PR (2026).
