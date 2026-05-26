@@ -393,6 +393,11 @@
   "AS-SAM2: Adaptive Self-correction for Visual Tracking with SAM2." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11506610)]
   [[code](https://github.com/oatlvv/AS-SAM2)]
+
+- **HVOT:** Yuzeng Chen, Qiangqiang Yuan, Naoto Yokoya, Junjue Wang, Weihao Xuan, Hongruixuan Chen, Zhuo Zheng, Zhuohong Li, Yuqi Tang, Min Chen, Jun Zhou, Liangpei Zhang.<br />
+  "Deep Learning for Hyperspectral Video Object Tracking." SSRN (2026).
+  [[paper](https://ssrn.com/abstract=6802779)]
+  [[code]( )]
   
 - **RGBX-R1:** Jiahe Wu, Bing Cao, Qilong Wang, Qinghua Hu, Dongdong Li, Pengfei Zhu.<br />
   "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." ArXiv (2026).
