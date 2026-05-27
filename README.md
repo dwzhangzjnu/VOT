@@ -529,6 +529,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11435004)] 
   [[code](https://ymsun2020.github.io/ChatTrackerV2_website/)]
 
+- **Diff-Tracking:** Zhengbo Zhang, Zhigang Tu, Junsong Yuan, De Wen Soh, Bo Du.<br />
+  "Leveraging Text-to-Image Diffusion Models for Unsupervised Visual Object Tracking." TPAMI (2026).
+  [[paper](https://arxiv.org/abs/2605.26933)] 
+  [[code]( )]
+  
 - **SMTrack:** Yinchao Ma, Dengqing Yang, Zhangyu He, Wenfei Yang, Tianzhu Zhang.<br />
   "SMTrack: State-Aware Mamba for Efficient Temporal Modeling in Visual Tracking." TIP (2026).
   [[paper](https://arxiv.org/abs/2602.01677)] 
