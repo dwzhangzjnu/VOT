@@ -98,6 +98,11 @@
   [[paper](https://arxiv.org/abs/2605.08329)]
   [[code](https://github.com/PJD-WJ/ETCTrack)]
 
+- **EATrack:** Hongtao Yang, Bineng Zhong, Qihua Liang, Yaozong Zheng, Xiantao Hu, Yuanliang Xue, Shuxiang Song.<br />
+  "Dual-branch Distilled Transformer for Efficient Asymmetric UAV Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.28018)]
+  [[code](https://github.com/GXNU-ZhongLab/EATrack)]
+  
 - **SpikeTrack:** Qiuyang Zhang, Jiujun Cheng, Qichao Mao, Cong Liu, Yu Fang, Yuhong Li, Mengying Ge, Shangce Gao.<br />
   "SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2602.23963)]
