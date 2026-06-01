@@ -93,21 +93,51 @@
   [[paper](https://arxiv.org/abs/2602.23734)]
   [[code](https://github.com/EIT-NLP/UTPTrack)]
 
+- **TGTrack:** Wanting Geng, Xin Chen, Chuanyu Sun, Jie Zhao, Ben Kang, Dong Wang, Huchuan Lu.<br />
+  "TGTrack: Temporal Generative Learning for Unified Single Object Tracking." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Geng_TGTrack_Temporal_Generative_Learning_for_Unified_Single_Object_Tracking_CVPR_2026_paper.html)]
+  [[code](https://github.com/wtg1/TGTrack)]
+  
 - **ETCTrack:** Weijing Wu, Qihua Liang, Bineng Zhong, Haiying Xia, Zhiyi Mo, Shuxiang Song.<br />
   "An Efficient Token Compression Framework for Visual Object Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2605.08329)]
   [[code](https://github.com/PJD-WJ/ETCTrack)]
 
+- **ARTrack-AC:** Tong Lin, Yifan Bai, Shiyi Liang, Ruigang Niu, Xing Wei.<br />
+  "Adaptive Capacity Autoregressive Visual Tracking." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lin_Adaptive_Capacity_Autoregressive_Visual_Tracking_CVPR_2026_paper.html)]
+  [[code](https://github.com/MIV-XJTU/ARTrackAC)]
+
 - **EATrack:** Hongtao Yang, Bineng Zhong, Qihua Liang, Yaozong Zheng, Xiantao Hu, Yuanliang Xue, Shuxiang Song.<br />
   "Dual-branch Distilled Transformer for Efficient Asymmetric UAV Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2605.28018)]
   [[code](https://github.com/GXNU-ZhongLab/EATrack)]
-  
+
+- **LETrack:** Chaocan Xue, Qihua Liang, Bineng Zhong, Yanting Zu, Yuanliang Xue, Haiying Xia, Shuxiang Song.<br />
+  "Toward Low-Cost yet Effective Temporal Learning for UAV Tracking." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Xue_Toward_Low-Cost_yet_Effective_Temporal_Learning_for_UAV_Tracking_CVPR_2026_paper.html)]
+  [[code](https://github.com/GXNU-ZhongLab/LETrack)]
+
+- **OCTrack:** Jian Zhang, Xincheng Yu, Yi Lin.<br />
+  "Rethinking Occlusion Modeling for UAV Tracking." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Rethinking_Occlusion_Modeling_for_UAV_Tracking_CVPR_2026_paper.html)]
+  [[code]( )]
+
 - **SpikeTrack:** Qiuyang Zhang, Jiujun Cheng, Qichao Mao, Cong Liu, Yu Fang, Yuhong Li, Mengying Ge, Shangce Gao.<br />
   "SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2602.23963)]
   [[code](https://github.com/faicaiwawa/SpikeTrack)]
-  
+
+- **SpikeTrack:** Yang Wang, Jiqing Zhang, Chuanyu Sun, Qianhui Liu, Huilin Ge, Ziqi Wei, Xin Yang.<br />
+  "SpikeTrack: High-performance and Energy-efficient Event-Based Object Tracking with Spiking Neural Network." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_SpikeTrack_High-performance_and_Energy-efficient_Event-Based_Object_Tracking_with_Spiking_Neural_CVPR_2026_paper.html)]
+  [[code]( )]
+
+- **EvoTrack:** Hao Dong, Yujin Liu, Haoyue Liu, Zhenyu Wang, Shihan Peng, Zhiwei Shi, Yi Chang, Luxin Yan.<br />
+  "Tracking through Severe Occlusion via Event-Derived Transient Cues." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Dong_Tracking_through_Severe_Occlusion_via_Event-Derived_Transient_Cues_CVPR_2026_paper.html)]
+  [[code]( )]
+
 - **DTPTrack:** Yuqing Huang, Liting Lin, Weijun Zhuang, Zhenyu He, Xin Li.<br />
   "Drift-Resilient Temporal Priors for Visual Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2604.02654)]
@@ -118,6 +148,11 @@
   [[paper](https://arxiv.org/abs/2604.12502)]
   [[code](https://github.com/AutoLab-SAI-SJTU/SEATrack)]
   
+- **ADTrack:** Tian Ding, Hongtao Yang, Liangtao Shi, Jun Li, Xiantao Hu, Jian Yang, Ying Tai.<br />
+  "Adaptive Depth Lightweight RGB-T Tracking with Holistic Token Routing." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Ding_Adaptive_Depth_Lightweight_RGB-T_Tracking_with_Holistic_Token_Routing_CVPR_2026_paper.html)]
+  [[code]( )]
+
 - **SCDT:** Andong Lu, Ziyi Zha, Jiandong Jin, Shihao Li, Chenglong Li, Jin Tang, Bin Luo.<br />
   "Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking." CVPR (2026).
   [[paper]( )]
@@ -125,7 +160,7 @@
 
 - **PMATrack:** Jiandong Jin, Chenglong Li, Hao Feng, Andong Lu, Lili Huang, Jin Tang.<br />
   "Progressive Multi-cue Alignment for Unaligned RGBT Tracking." CVPR (2026).
-  [[paper]( )]
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Jin_Progressive_Multi-cue_Alignment_for_Unaligned_RGBT_Tracking_CVPR_2026_paper.html)]
   [[code](https://github.com/NOP1224/Unaligned_RGBT_Tracking)]
 
 - **RAGTrack:** Hao Li, Yuhao Wang, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
@@ -133,6 +168,11 @@
   [[paper](https://arxiv.org/abs/2603.03617)]
   [[code](https://github.com/ldolLab/RAGTrack)]
 
+- **MVLM:** Dae-Hyeon Park, Mina Baek, Jeong-Hun Ha, Chan-Seop Park, Jamshidjon Ganiev, Seung-Hwan Bae.<br />
+  "MVLM: Template-Free Tracking via Vision-Language Margin Confidence and Memory-Gated Tracking." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Park_MVLM_Template-Free_Tracking_via_Vision-Language_Margin_Confidence_and_Memory-Gated_Tracking_CVPR_2026_paper.html)]
+  [[code](https://github.com/inha-vllab/MVLM)]
+  
 - **TrackMAE:** Renaud Vandeghen, Fida Mohammad Thoker, Marc Van Droogenbroeck, Bernard Ghanem.<br />
   "TrackMAE: Video Representation Learning via Track Mask and Predict." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.27268)]
@@ -162,6 +202,11 @@
   "TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.04989)]
   [[code](https://github.com/ljx1002/TAPFormer)]
+
+- **MOSSTrack:** Yisong Liu, He Yao, Junlong Cheng, Yujie Lu, Junqi Bai, Min Zhu.<br />
+  "MOSSTrack: Modality-Specific Spatio-Temporal Context Learning for RGB-T Tracking." CVPR Findings (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Liu_MOSSTrack__Modality-Specific_Spatio-Temporal_Context_Learning_for_RGB-T_Tracking_CVPRF_2026_paper.html)]
+  [[code](https://github.com/lyssyl157/MoSSTrack)]
 
 - **STORM:** Zijia Lu, Jingru Yi, Jue Wang, Yuxiao Chen, Junwen Chen, Xinyu Li, Davide Modolo.<br />
   "STORM: End-to-End Referring Multi-Object Tracking in Videos." CVPR Findings (2026).
