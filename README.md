@@ -155,8 +155,8 @@
 
 - **SCDT:** Andong Lu, Ziyi Zha, Jiandong Jin, Shihao Li, Chenglong Li, Jin Tang, Bin Luo.<br />
   "Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking." CVPR (2026).
-  [[paper]( )]
-  [[code]( )]
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lu_Spatio-Temporal_Conditional_Denoising_Transformer_for_Modality-Missing_RGBT_Tracking_CVPR_2026_paper.html)]
+  [[code](https://github.com/Multi-Modality-Tracking/SCDT-CVPR2026)]
 
 - **PMATrack:** Jiandong Jin, Chenglong Li, Hao Feng, Andong Lu, Lili Huang, Jin Tang.<br />
   "Progressive Multi-cue Alignment for Unaligned RGBT Tracking." CVPR (2026).
@@ -193,10 +193,15 @@
   [[paper](https://arxiv.org/abs/2604.21453)]
   [[code](https://github.com/SHWplus/OA-VAT)]
   
-- **MMGait:** Chenye Wang, Qingyuan Cai, Saihui Hou, Aoqi Li, Yongzhen Huang.<br />
-  "MMGait: Towards Multi-Modal Gait Recognition." CVPR (2026).
-  [[paper](https://arxiv.org/abs/2604.15979)]
-  [[code](https://github.com/BNU-IVC/MMGait)]
+- **CaptionFormer:** Gabriel Fiastre, Antoine Yang, Cordelia Schmid.<br />
+  "CaptionFormer: Unified Segmentation, Tracking, and Captioning for Spatio-Temporal Objects." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Fiastre_CaptionFormer_Unified_Segmentation_Tracking_and_Captioning_for_Spatio-Temporal_Objects_CVPR_2026_paper.html)]
+  [[code](https://www.gabriel.fiastre.fr/captionformer/)]
+
+- **UniKPT:** Jie Xiao, Yinchao Ma, Yuyang Tang, Dengqing Yang, Jianpeng Yang, Xu Zhou, Qiao Li, Wenfei Yang, Tianzhu Zhang.<br />
+  "Generalizable Structure-Aware Keypoint Correspondence for Category-Unified 3D Single Object Tracking." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Xiao_Generalizable_Structure-Aware_Keypoint_Correspondence_for_Category-Unified_3D_Single_Object_Tracking_CVPR_2026_paper.html)]
+  [[code]( )]
 
 - **TAPFormer:** Jiaxiong Liu, Zhen Tan, Jinpu Zhang, Yi Zhou, Hui Shen, Xieyuanli Chen, Dewen Hu.<br />
   "TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events." CVPR (2026).
@@ -212,6 +217,16 @@
   "STORM: End-to-End Referring Multi-Object Tracking in Videos." CVPR Findings (2026).
   [[paper](https://arxiv.org/abs/2604.10527)]
   [[code](https://github.com/amazon-science/storm-referring-multi-object-grounding)]
+  
+- **URVIS:** Andong Lu, Zhaodong Ding, Chenglong Li, Jin Tang, Zongwei Wu, Yuedong Tan, et. al.<br />
+  "Object Tracking in the Real World: URVIS 2026 Study and Benchmark." CVPRW (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026W/URVIS/html/Lu_Object_Tracking_in_the_Real_World_URVIS_2026_Study_and_CVPRW_2026_paper.html)]
+  [[code](https://github.com/Multi-Modality-Tracking/URVIS-2026-Object-Tracking-MMRGBT)]
+
+- **DCTrack:** Shilei Wang, Yipin Du, Yongkang Cheng, Pujian Lai, Dong Gao, Gong Cheng.<br />
+  "DCTrack: Divide-and-Conquer for Modality-Missing RGBT Tracking." CVPRW (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026W/URVIS/html/Wang_DCTrack_Divide-and-Conquer_for_Modality-Missing_RGBT_Tracking_CVPRW_2026_paper.html)]
+  [[code]( )]
   
 - **GeomPrompt:** Krishna Jaganathan, Patricio Vela.<br />
   "GeomPrompt: Geometric Prompt Learning for RGB-D Semantic Segmentation Under Missing and Degraded Depth." CVPRW (2026).
