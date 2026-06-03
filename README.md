@@ -222,12 +222,22 @@
   "Hypergraph-State Collaborative Reasoning for Multi-Object Tracking." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Song_Hypergraph-State_Collaborative_Reasoning_for_Multi-Object_Tracking_CVPR_2026_paper.html)]
   [[code](https://github.com/SkyeSong38/HyperMOT)]
+
+- **DynUAV:** Jingtao Ye, Kexin Zhang, Xunchi Ma, Yuechan Li, Guangming Zhu, Peiyi Shen, Linhua Jiang, Xiangdong Zhang, Liang Zhang.<br />
+  "Breaking Smooth-Motion Assumptions: A UAV Benchmark for Multi-Object Tracking in Complex and Adverse Conditions." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Ye_Breaking_Smooth-Motion_Assumptions_A_UAV_Benchmark_for_Multi-Object_Tracking_in_CVPR_2026_paper.html)]
+  [[code](https://github.com/kxzhang-lab/DynUAV)]
   
+- **MVTrackTrans:** Qi Zhang, Jixuan Chen, Kaiyi Zhang, Xinquan Yu, Antoni B. Chan, Hui Huang.<br />
+  "Multi-view Crowd Tracking Transformer with View-Ground Interactions Under Large Real-World Scenes." CVPR (2026).
+  [[paper]([https://openaccess.thecvf.com/content/CVPR2026/html/Xiao_Generalizable_Structure-Aware_Keypoint_Correspondence_for_Category-Unified_3D_Single_Object_Tracking_CVPR_2026_paper.html](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_Multi-view_Crowd_Tracking_Transformer_with_View-Ground_Interactions_Under_Large_Real-World_CVPR_2026_paper.html))]
+  [[code](https://github.com/zqyq/MVTrackTrans)]
+
 - **UniKPT:** Jie Xiao, Yinchao Ma, Yuyang Tang, Dengqing Yang, Jianpeng Yang, Xu Zhou, Qiao Li, Wenfei Yang, Tianzhu Zhang.<br />
   "Generalizable Structure-Aware Keypoint Correspondence for Category-Unified 3D Single Object Tracking." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Xiao_Generalizable_Structure-Aware_Keypoint_Correspondence_for_Category-Unified_3D_Single_Object_Tracking_CVPR_2026_paper.html)]
   [[code]( )]
-
+  
 - **CoWTracker:** Zihang Lai, Eldar Insafutdinov, Edgar Sucar, Andrea Vedaldi.<br />
   "CoWTracker: Tracking by Warping instead of Correlation." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lai_CoWTracker_Tracking_by_Warping_instead_of_Correlation_CVPR_2026_paper.html)]
@@ -242,6 +252,16 @@
   "MOSSTrack: Modality-Specific Spatio-Temporal Context Learning for RGB-T Tracking." CVPR Findings (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Liu_MOSSTrack__Modality-Specific_Spatio-Temporal_Context_Learning_for_RGB-T_Tracking_CVPRF_2026_paper.html)]
   [[code](https://github.com/lyssyl157/MoSSTrack)]
+
+- **SAMURAI++:** Cheng-Yen Yang, Hsiang-Wei Huang, Kuang-Ming Chen, Kunjun Li, Jenq-Neng Hwang.<br />
+  "Extending Segment Anything Model 2 to Multi-Object Tracking by Optimizing Hierarchical Trajectory Memory." CVPR Findings (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Yang_Extending_Segment_Anything_Model_2_to_Multi-Object_Tracking_by_Optimizing_CVPRF_2026_paper.html)]
+  [[code]( )]
+
+- **GOVTrack:** Zekun Qian, Ruize Han, Zhixiang Wang, Liang Wan, Wei Feng.<br />
+  "GOVTrack: Towards Generative Open-Vocabulary Multi-Object Tracking." CVPR Findings (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026F/html/Qian_GOVTrack_Towards_Generative_Open-Vocabulary_Multi-Object_Tracking_CVPRF_2026_paper.html)]
+  [[code](https://github.com/zekunqian/GOVTrackB)]
 
 - **STORM:** Zijia Lu, Jingru Yi, Jue Wang, Yuxiao Chen, Junwen Chen, Xinyu Li, Davide Modolo.<br />
   "STORM: End-to-End Referring Multi-Object Tracking in Videos." CVPR Findings (2026).
