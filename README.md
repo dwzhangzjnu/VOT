@@ -366,8 +366,8 @@
 
 - **AVTrack:** Yaoting Wang, Yun Zhou, Zipei Zhang, Henghui Ding.<br />
   "AVTrack: Audio-Visual Speaker Tracking in Complex Scenes." ICML (2026).
-  [[paper](https://icml.cc/virtual/2026/poster/65747)] 
-  [[code]( )]
+  [[paper](https://arxiv.org/abs/2606.02724)] 
+  [[code](https://fudancvl.github.io/AVTrack/)]
 
 - **DroneDINO:** Rui Chen, Dongdong Li, Yan Fan, Yan Liu, Yangliu Kuai, Pengfei Zhu.<br />
   "DroneDINO: Towards Heterogeneous Routed Mixture of Experts for Drone-based Unified Object Detection." ICML (2026).
@@ -463,6 +463,11 @@
   "Deep Learning for Hyperspectral Video Object Tracking." SSRN (2026).
   [[paper](https://ssrn.com/abstract=6802779)]
   [[code]( )]
+
+- **M3FusionTrack:** Haiwen Ying, Haili Zhao, Yudong Gao.<br />
+  "M3FusionTrack: All-Weather Visual Object Tracking via Multi-modal Multi-frequency Foundation Model with Adaptive Gated Fusion." SSRN (2026).
+  [[paper](https://www.researchsquare.com/article/rs-9732826/v1)]
+  [[code](https://anonymous.4open.science/r/M3fusiontrack-3B11/)]
   
 - **RGBX-R1:** Jiahe Wu, Bing Cao, Qilong Wang, Qinghua Hu, Dongdong Li, Pengfei Zhu.<br />
   "RGBX-R1: Visual Modality Chain-of-Thought Guided Reinforcement Learning for Multimodal Grounding." ArXiv (2026).
@@ -609,6 +614,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11415354)] 
   [[code]( )]
   
+- **UATrack:** Zhaodong Ding, Chenglong Li, Futian Wang, Jin Tang.<br />
+  "Uncertainty-Aware RGBT Tracking." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-026-02878-0)]
+  [[code](https://github.com/dongdong2061/UATrack)]
+
 - **GLAD:** Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu, Limin Wang.<br />
   "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates." IJCV (2026).
   [[paper](https://arxiv.org/abs/2602.00570)]
