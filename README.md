@@ -97,7 +97,12 @@
   "TGTrack: Temporal Generative Learning for Unified Single Object Tracking." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Geng_TGTrack_Temporal_Generative_Learning_for_Unified_Single_Object_Tracking_CVPR_2026_paper.html)]
   [[code](https://github.com/wtg1/TGTrack)]
-  
+
+- **UETrack:** Ben Kang, Jie Zhao, Xin Chen, Wanting Geng, Bin Zhang, Lu Zhang, Dong Wang, Huchuan Lu.<br />
+  "UETrack: A Unified and Efficient Framework for Single Object Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.01412)]
+  [[code](https://github.com/kangben258/UETrack)]
+
 - **ETCTrack:** Weijing Wu, Qihua Liang, Bineng Zhong, Haiying Xia, Zhiyi Mo, Shuxiang Song.<br />
   "An Efficient Token Compression Framework for Visual Object Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2605.08329)]
@@ -133,6 +138,11 @@
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_SpikeTrack_High-performance_and_Energy-efficient_Event-Based_Object_Tracking_with_Spiking_Neural_CVPR_2026_paper.html)]
   [[code]( )]
 
+- **SDTrack:** Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, Dehao Zhang, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Jiqing Zhang, Malu Zhang.<br />
+  "SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks." CVPR (2025).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Shan_SDTrack_A_Baseline_for_Event-based_Tracking_via_Spiking_Neural_Networks_CVPR_2026_paper.html)] 
+  [[code](https://github.com/YmShan/SDTrack)]
+  
 - **EvoTrack:** Hao Dong, Yujin Liu, Haoyue Liu, Zhenyu Wang, Shihan Peng, Zhiwei Shi, Yi Chang, Luxin Yan.<br />
   "Tracking through Severe Occlusion via Event-Derived Transient Cues." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Dong_Tracking_through_Severe_Occlusion_via_Event-Derived_Transient_Cues_CVPR_2026_paper.html)]
@@ -172,11 +182,21 @@
   "MVLM: Template-Free Tracking via Vision-Language Margin Confidence and Memory-Gated Tracking." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Park_MVLM_Template-Free_Tracking_via_Vision-Language_Margin_Confidence_and_Memory-Gated_Tracking_CVPR_2026_paper.html)]
   [[code](https://github.com/inha-vllab/MVLM)]
+
+- **InteractTrack:** Yuqing Huang, Guotian Zeng, Zhenqiao Yuan, Zhenyu He, Xin Li, Yaowei Wang, Ming-Hsuan Yang.<br />
+  "Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.01974)] 
+  [[code](https://github.com/NorahGreen/InteractTrack)] 
   
 - **TrackMAE:** Renaud Vandeghen, Fida Mohammad Thoker, Marc Van Droogenbroeck, Bernard Ghanem.<br />
   "TrackMAE: Video Representation Learning via Track Mask and Predict." CVPR (2026).
   [[paper](https://arxiv.org/abs/2603.27268)]
   [[code](https://github.com/rvandeghen/TrackMAE)]
+
+- **TIMI:** Kaiyang Lan, Ying Cui, Chenchen Jing, Jianwei Zheng, Dongyan Guo.<br />
+  "Beyond Explicit Language: Plug-and-Play Visual-to-Linguistic Modeling Toward General Object Tracking." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lan_Beyond_Explicit_Language_Plug-and-Play_Visual-to-Linguistic_Modeling_Toward_General_Object_Tracking_CVPR_2026_paper.html)]
+  [[code]( )]
 
 - **SVLTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Shuimu Zeng, Haiying Xia, Shuxiang Song.<br />
   "Learning to Track Instance from Single Nature Language Description." CVPR (2026).
@@ -188,7 +208,7 @@
   [[paper](https://arxiv.org/abs/2605.06092)]
   [[code]( )]
   
-- **OA-VAT:** Renaud Vandeghen, Fida Mohammad Thoker, Marc Van Droogenbroeck, Bernard Ghanem.<br />
+- **OA-VAT:** Haowei Sun, Kai Zhou, Hao Gao, Shiteng Zhang, Jinwu Hu, Xutao Wen, Qixiang Ye, Mingkui Tan.<br />
   "Instance-level Visual Active Tracking with Occlusion-Aware Planning." CVPR (2026).
   [[paper](https://arxiv.org/abs/2604.21453)]
   [[code](https://github.com/SHWplus/OA-VAT)]
@@ -198,10 +218,20 @@
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Fiastre_CaptionFormer_Unified_Segmentation_Tracking_and_Captioning_for_Spatio-Temporal_Objects_CVPR_2026_paper.html)]
   [[code](https://www.gabriel.fiastre.fr/captionformer/)]
 
+- **HyperSSM:** Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang, Xinchao Wang.<br />
+  "Hypergraph-State Collaborative Reasoning for Multi-Object Tracking." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Song_Hypergraph-State_Collaborative_Reasoning_for_Multi-Object_Tracking_CVPR_2026_paper.html)]
+  [[code](https://github.com/SkyeSong38/HyperMOT)]
+  
 - **UniKPT:** Jie Xiao, Yinchao Ma, Yuyang Tang, Dengqing Yang, Jianpeng Yang, Xu Zhou, Qiao Li, Wenfei Yang, Tianzhu Zhang.<br />
   "Generalizable Structure-Aware Keypoint Correspondence for Category-Unified 3D Single Object Tracking." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Xiao_Generalizable_Structure-Aware_Keypoint_Correspondence_for_Category-Unified_3D_Single_Object_Tracking_CVPR_2026_paper.html)]
   [[code]( )]
+
+- **CoWTracker:** Zihang Lai, Eldar Insafutdinov, Edgar Sucar, Andrea Vedaldi.<br />
+  "CoWTracker: Tracking by Warping instead of Correlation." CVPR (2026).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Lai_CoWTracker_Tracking_by_Warping_instead_of_Correlation_CVPR_2026_paper.html)]
+  [[code](https://cowtracker.github.io/)]
 
 - **TAPFormer:** Jiaxiong Liu, Zhen Tan, Jinpu Zhang, Yi Zhou, Hui Shen, Xieyuanli Chen, Dewen Hu.<br />
   "TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events." CVPR (2026).
@@ -217,7 +247,7 @@
   "STORM: End-to-End Referring Multi-Object Tracking in Videos." CVPR Findings (2026).
   [[paper](https://arxiv.org/abs/2604.10527)]
   [[code](https://github.com/amazon-science/storm-referring-multi-object-grounding)]
-  
+
 - **URVIS:** Andong Lu, Zhaodong Ding, Chenglong Li, Jin Tang, Zongwei Wu, Yuedong Tan, et. al.<br />
   "Object Tracking in the Real World: URVIS 2026 Study and Benchmark." CVPRW (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026W/URVIS/html/Lu_Object_Tracking_in_the_Real_World_URVIS_2026_Study_and_CVPRW_2026_paper.html)]
@@ -523,11 +553,6 @@
   "Monocular Multi-object 3D Visual Language Tracking." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11391514)] 
   [[code](https://github.com/hongkai-wei)]
-  
-- **UETrack:** Ben Kang, Jie Zhao, Xin Chen, Wanting Geng, Bin Zhang, Lu Zhang, Dong Wang, Huchuan Lu.<br />
-  "UETrack: A Unified and Efficient Framework for Single Object Tracking." ArXiv (2026).
-  [[paper](https://arxiv.org/abs/2603.01412)]
-  [[code](https://github.com/kangben258/UETrack)]
 
 - **EdgeDAM:** Syed Muhammad Raza, Syed Murtaza Hussain Abidi, Khawar Islam, Muhammad Ibrahim, Ajmal Saeed Mian.<br />
   "EdgeDAM: Real-time Object Tracking for Mobile Devices." ArXiv (2026).
@@ -583,11 +608,6 @@
   "SiamGM: Siamese Geometry-Aware and Motion-Guided Network for Real-Time Satellite Video Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.07564)]
   [[code](https://github.com/wenzx18/SiamGM)]
-
-- **InteractTrack:** Yuqing Huang, Guotian Zeng, Zhenqiao Yuan, Zhenyu He, Xin Li, Yaowei Wang, Ming-Hsuan Yang.<br />
-  "Interactive Tracking: A Human-in-the-Loop Paradigm with Memory-Augmented Adaptation." arXiv (2026).
-  [[paper](https://arxiv.org/abs/2604.01974)] 
-  [[code](https://github.com/NorahGreen/InteractTrack)]
 
 - **E2EMPT:** Xu Han, Mohammad Aminul Islam, Lei Wang, Zekun Long, Guanmanyi Fu, Wangshu Cai, Kuldip K. Paliwal, Jun Zhou.<br />
   "End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking." arXiv (2026).
@@ -1712,11 +1732,6 @@
   "ISTASTrack: Bridging ANN and SNN via ISTA Adapter for RGB-Event Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2509.09977)] 
   [[code](https://github.com/lsying009/ISTASTrack)]
-
-- **SDTrack:** Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, Dehao Zhang, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Jiqing Zhang, Malu Zhang, Yang Yang.<br />
-  "SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2503.08703)] 
-  [[code]( )]
 
 - **HAD:** Yao Deng, Xian Zhong, Wenxuan Liu, Zhaofei Yu, Jingling Yuan, Tiejun Huang.<br />
   "HAD: Hierarchical Asymmetric Distillation to Bridge Spatio-Temporal Gaps in Event-Based Object Tracking." ArXiv (2025).
