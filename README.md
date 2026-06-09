@@ -629,6 +629,11 @@
   [[paper](https://arxiv.org/abs/2603.07564)]
   [[code](https://github.com/wenzx18/SiamGM)]
 
+- **VLHTrack:** Rui Yao, Yuhong Zhang, Kunyang Sun, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao, Abdulmotaleb El Saddik.<br />
+  "Vision-Language Guided Hyperspectral Object Tracking via Semantics Fusion and Contextual Template Updating." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2606.09167)] 
+  [[code](https://github.com/rayyao/VLHTrack)]
+
 - **E2EMPT:** Xu Han, Mohammad Aminul Islam, Lei Wang, Zekun Long, Guanmanyi Fu, Wangshu Cai, Kuldip K. Paliwal, Jun Zhou.<br />
   "End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.20569)] 
@@ -692,6 +697,11 @@
 - **Refer-RGBT:** Xu Wang, Huanxin Zheng, Haohong Liao, Qiudan Zhang, Lin Ma, Jianmin Jiang.<br />
   "A Visual-Linguistic Approach for Robust RGB-Thermal Tracking with Dynamic Template Adaptation." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11417308)] 
+  [[code]( )]
+
+- **CFPTrack:** Zhibin Zhang, Wanli Xue, Kaihua Zhang, Yangcan Wu, Shengyong Chen.<br />
+  "Cross-Modality Fourier Prompt Tuning for Generalizable Visual-Language Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11552016)] 
   [[code]( )]
 
 - **RrmTrack:** Guangtong Zhang, Yang Wang, Bineng Zhong, Yuhao Mu, Tian Bai.<br />
