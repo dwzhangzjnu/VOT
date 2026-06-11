@@ -709,6 +709,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11417442)] 
   [[code]( )]
 
+- **TAVLT:** Tianpeng Liu, Xinrong Hu, Jing Li, Lefei Zhang.<br />
+  "Beyond Static Prompts: Dynamic Token Fusion for Temporal-Align Visual-Language Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11552759)] 
+  [[code]( )]
+  
 - **DDAT:** Qiao Liu, Qiao Li, Xin Li, Jiatian Pi, Di Yuan, Yunpeng Liu.<br />
   "Unsupervised Domain Adaptive Thermal Infrared Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11417270)] 
@@ -959,6 +964,11 @@
   [[paper](https://link.springer.com/article/10.1007/s00530-025-02135-3)] 
   [[code]( )]
 
+- **A2A-UAV-Tracking:** Yu Luo, Hao Cha, Hongwei Fu, Tingting Fu, Bin Tian, Huatao Tang.<br />
+  "A2A-UAV-Tracking: A Benchmark for Air-to-Air UAV Tracking." IJAP (2026).
+  [[paper](https://onlinelibrary.wiley.com/doi/10.1155/ijap/5024734)] 
+  [[code](https://github.com/KingArthurYu/A2A-UAV-Tracking)]
+  
 
   
 ### NeurIPS 2025
