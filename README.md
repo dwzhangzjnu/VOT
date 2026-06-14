@@ -654,6 +654,11 @@
   [[paper](https://arxiv.org/abs/2602.01677)] 
   [[code]( )]
 
+- **MPTrack:** Lei Liu, Chenglong Li, Andong Lu, Yabin Zhu, Shoufei Han, Xinye Cai.<br />
+  "Unveiling the Power of Multi-Modal Template Update in RGBT Tracking." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11551799)] 
+  [[code](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
+
 - **MSD:** Mohamed Awad, Ahmed Elliethy, M. Omair Ahmad, M.N.S. Swamy.<br />
   "A Multi-level Self-Distillation-Based Unified Tracker for Efficient RGB-T Tracking." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11415354)] 
@@ -854,6 +859,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0924271626002571)] 
   [[code](https://github.com/HanJin0326/JointTrack)]
 
+- **OASAMT:** Zhipeng Chen, Linning Peng, Tianyu Wang, Cheng Zeng, Yijin Pan, Jun-Bo Wang.<br />
+  "Occlusion-aware visual object tracking with explicit temporal state modeling and dual-memory mechanism." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326011209)] 
+  [[code](https://github.com/ChaseFalcon99/OASAMT)]
+
 - **TrHelpTr:** Jiazheng Wen, Huanyu Liu, Junbao Li.<br />
   "TrHelpTr: A Long-Term Single-Object Tracking Paradigm Based on Sequence Modeling Reinforcement Learning." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326001068)] 
@@ -964,6 +974,11 @@
   [[paper](https://link.springer.com/article/10.1007/s00530-025-02135-3)] 
   [[code]( )]
 
+- **ATA:** Wenchao Kang, Xuekai Zhang, Yueping Peng, Wei Tang, Qilong Li, Hexiang Hao, Kang Liu, Qinghe Chen.<br />
+  "ATA: A Benchmark for Vision–Language Tracking in Air-to-Air Counter-UAV of Tiny Drones." Drones (2026).
+  [[paper](https://www.mdpi.com/2504-446X/10/6/429)] 
+  [[code](https://github.com/kkbushi/ATA)]
+  
 - **A2A-UAV-Tracking:** Yu Luo, Hao Cha, Hongwei Fu, Tingting Fu, Bin Tian, Huatao Tang.<br />
   "A2A-UAV-Tracking: A Benchmark for Air-to-Air UAV Tracking." IJAP (2026).
   [[paper](https://onlinelibrary.wiley.com/doi/10.1155/ijap/5024734)] 
