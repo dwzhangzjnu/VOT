@@ -78,11 +78,7 @@
   "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.05424)] 
   [[code](https://github.com/mbzuai-oryx/Video-ChatGPT)]
-  
-- **SegGPT:** Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang.<br />
-  "SegGPT: Segmenting Everything In Context." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2304.03284)] 
-  [[code](https://github.com/baaivision/Painter)]
+
 
 
 
@@ -858,6 +854,11 @@
   "JointTrack: Densely joint feature extraction and interaction via temporal–spatial prompt learning for object tracking in multi-drone videos." TGRS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0924271626002571)] 
   [[code](https://github.com/HanJin0326/JointTrack)]
+
+- **FIST:** Zhen Wan, Boxiong Sun, Tonghao Han, Yufei Zha, Peng Zhang.<br />
+  "FIST: Flow-inspired spatio-temporal target state modeling for visual tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326012082)] 
+  [[code](https://github.com/ElliottZhen/FIST)]
 
 - **OASAMT:** Zhipeng Chen, Linning Peng, Tianyu Wang, Cheng Zeng, Yijin Pan, Jun-Bo Wang.<br />
   "Occlusion-aware visual object tracking with explicit temporal state modeling and dual-memory mechanism." PR (2026).
