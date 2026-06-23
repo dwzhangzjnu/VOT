@@ -564,6 +564,11 @@
   "UAVBench and UAVIT-1M: Benchmarking and Enhancing MLLMs for Low-Altitude UAV Vision-Language Understanding." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.14336)]
   [[code](https://uavbench.github.io/)]
+
+- **4DVLT:** Chaoyue Li, Boxue Yang, Shengyao Zhou, Haoyang Wu, Rui Qian, Linfeng Zhang.<br />
+  "4DVLT: Dynamic Scene Understanding with Worldline-Centered Vision-Language Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2606.22631)]
+  [[code](https://github.com/mikubaka88/4DVLT)]
   
 - **MoMo-3DVLT:** Hongkai Wei, Rong Wang, Haixiang Hu, Shijie Sun, Xiangyu Song, Mingtao Feng.<br />
   "Monocular Multi-object 3D Visual Language Tracking." TIP (2026).
@@ -800,11 +805,16 @@
   [[paper](https://ieeexplore.ieee.org/document/11382000)] 
   [[code](https://github.com/Xiaochen918/WmLSTM)]
   
+- **HOTMM:** Junnan Xu, Shaohui Mei, Yiqing Zhou, Yi Wang, Mingyang Ma, Jiao Shi.<br />
+  "HOTMM: Direction-Aware Spatial–Spectral Mamba with Long-Range Memory Guidance for Hyperspectral Object Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11569084)] 
+  [[code](https://github.com/creenciaxz/HOTMM)]
+
 - **S3T-FFS:** Hanzheng Wang, Wei Li, Xiang-Gen Xia, Bolun Cui, Zhicheng Shi, Hongyang Lin.<br />
   "Bring KANs to Tracker: A Nonlinear Fusion Strategy Over Frequency Decoupling for Temporal Hyperspectral Object Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11367018)] 
   [[code]( )]
-
+  
 - **LGTransT:** Yaohong Chen, Tianlei Ma, Donglin Xue, Xinhao Liu, Weining Chen.<br />
   "Unified Local and Global Transformer for Infrared Small UAV Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363611)] 
