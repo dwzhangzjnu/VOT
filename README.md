@@ -280,6 +280,24 @@
   [[code](https://geomprompt.github.io/)]
 
 
+### ECCV 2026
+
+- **SENTRY:** Mohamad Alansari, Yonathan Michael, Hasan AlMarzouqi, Muzammal Naseer, Naoufel Werghi, Sajid Javed.<br />
+  "SENTRY: SAM2-Enhanced Neighbor-Aware and Temporally Reasoned Memory for Visual Tracking." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2606.24449)]
+  [[code](https://hamadya.github.io/SENTRY/page/)]
+
+- **GeoLaV:** Tianyu Zhu, Yingping Liang, Hesong Li, Ying Fu.<br />
+  "Boosting Text-Driven Video Segmentation via Geometry-Aware Distillation." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2606.24464)]
+  [[code](https://github.com/Tony1882880/GeoLaV)]
+  
+- **PSMF:**  .<br />
+  "Progresvely Spiral Mamba Fuson for Multimodal Tracking." ECCV (2026).
+  [[paper]( )]
+
+  
+  
 ### AAAI 2026
 
 - **SATA:** Tianlu Zhang, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
