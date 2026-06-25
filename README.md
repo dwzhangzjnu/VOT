@@ -287,6 +287,11 @@
   [[paper](https://arxiv.org/abs/2606.24449)]
   [[code](https://hamadya.github.io/SENTRY/page/)]
 
+- **X2SAM:** Hao Wang, Limeng Qiao, Chi Zhang, Lin Ma, Guanglu Wan, Xiangyuan Lan, Xiaodan Liang.<br />
+  "X2SAM: Any Segmentation in Images and Videos." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2605.00891)]
+  [[code](https://wanghao9610.github.io/X2SAM/)]
+
 - **GeoLaV:** Tianyu Zhu, Yingping Liang, Hesong Li, Ying Fu.<br />
   "Boosting Text-Driven Video Segmentation via Geometry-Aware Distillation." ECCV (2026).
   [[paper](https://arxiv.org/abs/2606.24464)]
@@ -508,11 +513,6 @@
   
 ### ArXiv 2026
 
-- **X2SAM:** Hao Wang, Limeng Qiao, Chi Zhang, Lin Ma, Guanglu Wan, Xiangyuan Lan, Xiaodan Liang.<br />
-  "X2SAM: Any Segmentation in Images and Videos." ArXiv (2026).
-  [[paper](https://arxiv.org/abs/2605.00891)]
-  [[code](https://wanghao9610.github.io/X2SAM/)]
-
 - **SAMOSA:** Deyi Zhu, Yuji Wang, Yong Liu, Yansong Tang, Bingyao Yu, Jiwen Lu, Jie Zhou.<br />
   "Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.22538)]
@@ -563,6 +563,11 @@
   [[paper](https://arxiv.org/abs/2605.04574)]
   [[code](https://github.com/xuboyue1999/VL-UniTrack)]
   
+- **USS:** Yuchen Xie, Xinyu Zhou, Kuangji Zuo, Yanshuo Lu, Fengrui Huang, Boyu Ma, Jianfei Yang.<br />
+  "USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2606.25880)]
+  [[code](https://arescheah.github.io/uss-project-page/)]
+
 - **UAV-Track VLA:** Qiyao Zhang, Shuhua Zheng, Jianli Sun, Chengxiang Li, Xianke Wu, Zihan Song, Zhiyong Cui, Yisheng Lv, Yonglin Tian.<br />
   "UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2604.02241)]
