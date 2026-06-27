@@ -708,6 +708,11 @@
   [[paper](https://link.springer.com/article/10.1007/s11263-025-02666-2)] 
   [[code]( )]
 
+- **RELTrack:** Sara Alansari, Ameena Saad Al-Sumaiti, Khalifa Hassan Al Hosani, Syed Fawad Hussain.<br />
+  "RELTrack: A language-guided RGB-event object tracking framework." IPM (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0306457326003663)] 
+  [[code](https://github.com/XXXXX/RELTrack)]
+
 - **MEMLTrack:** Yuting He, Bin Fan, Zhexiong Wan, Qi Liu, Yuchao Dai.<br />
   "Multi-event Representation and Multi-level Fusion for Robust RGB-event Object Tracking." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126003369)] 
