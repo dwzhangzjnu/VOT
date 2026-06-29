@@ -803,6 +803,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11363582)] 
   [[code](https://github.com/xiaoqing0825/DGTrack)]
 
+- **SRTrack:** Fansheng Zeng, Qihua Liang, Bineng Zhong, Chaocan Xue, Yufei Tan, Zhiyi Mo, Shuxiang Song.<br />
+  "Learning Shallow-Robust Vision Transformers with Selective Distillation for Real-time UAV Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11578102)] 
+  [[code](https://github.com/GXNU-ZhongLab/SRTrack)]
+
 - **Aba-ViTrack++:** Xiangyang Yang, Dan Zeng, Xucheng Wang, Hengzhou Ye, Xiaolan Xie, Qijun Zhao, Shuiwang Li.<br />
   "Towards Real-Time UAV Tracking with Adaptive and Background-Aware Vision Transformers." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11343838)] 
