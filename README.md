@@ -688,6 +688,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11551799)] 
   [[code](https://github.com/mmic-lcl/Datasets-and-benchmark-code)]
 
+- **TPF:** Andong Lu, Yuanzhi Guo, Kunpeng Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "Pixel-Level RGBT Fusion Tracking via Heterogeneous Multi-Expert Distillation and Decoupled Representation Learning." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11574556)] 
+  [[code]( )]
+
 - **MSD:** Mohamed Awad, Ahmed Elliethy, M. Omair Ahmad, M.N.S. Swamy.<br />
   "A Multi-level Self-Distillation-Based Unified Tracker for Efficient RGB-T Tracking." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11415354)] 
@@ -708,6 +713,11 @@
   [[paper](https://link.springer.com/article/10.1007/s11263-025-02666-2)] 
   [[code]( )]
 
+- **SD-STSAtt:** Shaochuan Zhao, Tianyang Xu, Yong Zhou, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
+  "Attack Intensity is Target-Related: Exploration of Sparse Adversarial Attack against Visual Object Trackers." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-026-02909-w)] 
+  [[code](https://github.com/DjangoChaogh/STSAtt-main)]
+  
 - **RELTrack:** Sara Alansari, Ameena Saad Al-Sumaiti, Khalifa Hassan Al Hosani, Syed Fawad Hussain.<br />
   "RELTrack: A language-guided RGB-event object tracking framework." IPM (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0306457326003663)] 
