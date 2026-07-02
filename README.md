@@ -287,6 +287,11 @@
   [[paper](https://arxiv.org/abs/2606.24449)]
   [[code](https://hamadya.github.io/SENTRY/page/)]
 
+- **SFDATrack:** Siyuan Yao, Ziqi Wang, Ruiqi Yu, Junqi Huang, Wenqi Ren, Xiaochun Cao.<br />
+  "SFDATrack: Generalized Source-Free Domain Adaptive Tracking Under Adverse Weather Conditions." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2607.00369)]
+  [[code](https://github.com/watcherBR0/sfdatrack)]
+  
 - **X2SAM:** Hao Wang, Limeng Qiao, Chi Zhang, Lin Ma, Guanglu Wan, Xiangyuan Lan, Xiaodan Liang.<br />
   "X2SAM: Any Segmentation in Images and Videos." ECCV (2026).
   [[paper](https://arxiv.org/abs/2605.00891)]
