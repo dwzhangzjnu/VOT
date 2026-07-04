@@ -783,6 +783,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11397188)] 
   [[code]( )]
   
+- **CASS:** Yuzeng Chen, Qiangqiang Yuan, Bineng Zhong, Xiantao Hu, Jie Zhou, Xi Zhao, Xin Su, Yuqi Tang, Liangpei Zhang.<br />
+  "CASS: A Context-Aware Memory Framework with Spectral-Spatial Modulation for UAV Multispectral Video Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11586086)] 
+  [[code]( )]
+
 - **FSMT:** Long Gao, Zhuoyan Liu, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.<br />
   "FSMT: Frequency-Spatial Mixture-of-Experts Hyperspectral Object Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11526988)] 
@@ -1007,6 +1012,11 @@
   "Selective Distillation of Language Tokens for Redundancy Suppression in Vision-Language Tracking." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426011681)] 
   [[code]( )]
+
+- **CSETrack:** Xianxin Jia, Zhiqiang Hou, Nating Du, Hao Yue, Hao Cui, Sugang Ma, Yang Liu.<br />
+  "Continuous state evolution with token purification for visual tracking." NEUCOM (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226017893)] 
+  [[code](https://github.com/clbswdb/CSETrack)]
 
 - **ESMT:** Jiapeng Zhang, Ying Wei, Yongfeng Li, Gang Yang.<br />
   "ESMT: Context-adaptive Vision-language Tracking with Episodic-semantic Memory." APIN (2026).
