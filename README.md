@@ -423,11 +423,16 @@
   [[paper](https://arxiv.org/abs/2605.07379)] 
   [[code](https://github.com/Multimedia-Analytics-Laboratory/RELO)]
 
+- **G2TAM:** Chenming Zhu, Peizhou Cao, Jingli Lin, Wenbo Hu, Yunlong Ran, Jiangmiao Pang, Tai Wang, Xihui Liu.<br />
+  "G2TAM: Geometry Grounded Track Anything Model." ICML (2026).
+  [[paper](https://arxiv.org/abs/2607.03789)] 
+  [[code](https://zcmax.github.io/projects/G2TAM/)]
+
 - **ETBTrack:** Yinchao Ma, Jianpeng Yang, Yuyang Tang, Jie Xiao, Dengqing Yang, Tianzhu Zhang.<br />
   "Learning Generalized Trackers with Elastic Token Budgets." ICML (2026).
   [[paper](https://icml.cc/virtual/2026/poster/63126)] 
   [[code]( )]
-
+  
 - **FATrack:** Jiahao Wang, Fang Liu, Licheng Jiao, Shuo Li, Hao Wang, Lingling Li, Xinyi Wang, Xu Liu.<br />
   "Foreground-Aware Token Routing Vision Transformer for Real-Time Satellite Video Tracking." ICML (2026).
   [[paper](https://icml.cc/virtual/2026/poster/60644)] 
@@ -997,6 +1002,11 @@
   "Decoupled Temporal and Spatial Features for Adaptive Visual Tracking." ASOC (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S156849462600712X)] 
   [[code](https://github.com/shirosy/DCTrack)]
+
+- **PPAT:** Jingyuan Guo, Qiao Liu, Kanlun Tan, Di Yuan, Yunpeng Liu.<br />
+  "Physics Prior Adapter Tuning for Thermal Infrared Tracking." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S095741742602381X)] 
+  [[code]( )]
 
 - **HATrack:** Shengbo Wang, Yunfeng Li, Lei Deng, Guangkai Sun, Mingli Dong, Lianqing Zhu.<br />
   "HATrack: Cross-modal Fusion RGBT Tracking with Heterogeneous Adapter." ESWA (2026).
