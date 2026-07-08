@@ -583,6 +583,11 @@
   [[paper](https://arxiv.org/abs/2604.02241)]
   [[code](https://github.com/Hub-Tian/UAV-Track_VLA)]
 
+- **CosFly-Track:** Xiangyue Wang, Hanxuan Chen, Songsheng Cheng, Ruilong Ren, Jie Zheng, Shuai Yuan, Tianle Zeng, Hanzhong Guo, Kangli Wang, Ji Pei.<br />
+  "CosFly-Track: A Large-Scale Multi-Modal Dataset for UAV Visual Tracking via Multi-Constraint Trajectory Optimization." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2605.17776)]
+  [[code](https://huggingface.co/datasets/AutelRobotics/CosFly)]
+  
 - **DeTrack:** Guyue Hu, Haoming Liu, Siyuan Song, Chenglong Li, Feng Chen, Jin Tang.<br />
   "DeTrack: A Benchmark and Altitude-Aware Dual World Model for Drone-embodied Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.17451)]
@@ -677,6 +682,11 @@
   "End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.20569)] 
   [[code](https://github.com/han030927/E2EMPT)]
+
+- **SpecTrack:** Xingyu Tan, Yunrong Qin, Mengjie Hu.<br />
+  "SpecTrack: Spectral Prompt Guided Adaptive Experts for Multispectral Object Tracking." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.05988)] 
+  [[code](https://github.com/Star-Swift/SpecTrack)]
   
 - **ChatTracker:** Yu Zhang, Yiming Sun, Mi Zhang, Fan Yu, Shaoxiang Chen, Yang Li, Changbo Wang, Jianke Zhu, Steven C.H. Hoi.<br />
   "ChatTracker: Enhancing Visual Tracking via LLM-Driven Iterative Description Refinement." TPAMI (2026).
@@ -718,16 +728,21 @@
   [[paper](https://arxiv.org/abs/2602.00570)]
   [[code](https://github.com/Confetti-lxy/GLAD)]
   
+- **SD-STSAtt:** Shaochuan Zhao, Tianyang Xu, Yong Zhou, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
+  "Attack Intensity is Target-Related: Exploration of Sparse Adversarial Attack against Visual Object Trackers." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-026-02909-w)] 
+  [[code](https://github.com/DjangoChaogh/STSAtt-main)]
+
 - **TSETrack:** Jiqing Zhang, Xin Yang, Haoming Tang, Yuanchen Wang, Baocai Yin, Huibing Wang, Xianping Fu.<br />
   "Efficient Vision Transformer with Token Sparsification for Event-Based Object Tracking." IJCV (2026).
   [[paper](https://link.springer.com/article/10.1007/s11263-025-02666-2)] 
   [[code]( )]
 
-- **SD-STSAtt:** Shaochuan Zhao, Tianyang Xu, Yong Zhou, Zhangyong Tang, Xiao-Jun Wu, Josef Kittler.<br />
-  "Attack Intensity is Target-Related: Exploration of Sparse Adversarial Attack against Visual Object Trackers." IJCV (2026).
-  [[paper](https://link.springer.com/article/10.1007/s11263-026-02909-w)] 
-  [[code](https://github.com/DjangoChaogh/STSAtt-main)]
-  
+- **EPFT:** Fuling Lin, Junjie Ye, Zhiqiang Chen, Changhong Fu, Peng Lu.<br />
+  "Learning Event Perturbation Field for Continuous Event Stream-Based Object Tracking." RAL (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11593110)] 
+  [[code](https://epft.github.io/)]
+
 - **RELTrack:** Sara Alansari, Ameena Saad Al-Sumaiti, Khalifa Hassan Al Hosani, Syed Fawad Hussain.<br />
   "RELTrack: A language-guided RGB-event object tracking framework." IPM (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0306457326003663)] 
@@ -833,10 +848,15 @@
   [[paper](https://ieeexplore.ieee.org/document/11578102)] 
   [[code](https://github.com/GXNU-ZhongLab/SRTrack)]
 
-- **Aba-ViTrack++:** Xiangyang Yang, Dan Zeng, Xucheng Wang, Hengzhou Ye, Xiaolan Xie, Qijun Zhao, Shuiwang Li.<br />
-  "Towards Real-Time UAV Tracking with Adaptive and Background-Aware Vision Transformers." TCSVT (2026).
-  [[paper](https://ieeexplore.ieee.org/document/11343838)] 
-  [[code](https://github.com/xyyang317/Aba-ViTrack)]
+- **ODVTrack:** Gu Geng, Di Yuan, Xuyang Li, Qiao Liu, Xiaojun Chang, Zhenyu He.<br />
+  "ODVTrack: Only Decoder for Visual Tracking with Multiple Templates." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11593887)] 
+  [[code](https://github.com/cute-koala/ODVTrack)]
+
+- **DTTrack:** Yijun Liang, Ziyi Chen, Yewang Chen, Yun Chen, Dilong Li, Weiquan Liu, Cheng Wang, Jonathan Li.<br />
+  "DTTrack: Metric-Guided Dynamic Template Tracking Network." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11595036)] 
+  [[code]( )]
 
 - **PoATrack:** Hongtao Yang, Bineng Zhong, Yaozong Zheng, Qihua Liang, Zhiruo Zhu, Shuxiang Song.<br />
   "Unified Multi-Modal Tracking via Proxy Visual Prompts." TASE (2026).
@@ -1023,11 +1043,16 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426011681)] 
   [[code]( )]
 
+- **TPDFusion:** Yubo Fu, Xia Ye, Kai Lv, Yixin Wang.<br />
+  "TPDFusion: Task-prompt guided dual-branch mixture of experts network for infrared-visible image fusion." NEUCOM (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226018138)] 
+  [[code](https://github.com/fuyubo-0620/TPDFusion)]
+
 - **CSETrack:** Xianxin Jia, Zhiqiang Hou, Nating Du, Hao Yue, Hao Cui, Sugang Ma, Yang Liu.<br />
   "Continuous state evolution with token purification for visual tracking." NEUCOM (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226017893)] 
   [[code](https://github.com/clbswdb/CSETrack)]
-
+  
 - **ESMT:** Jiapeng Zhang, Ying Wei, Yongfeng Li, Gang Yang.<br />
   "ESMT: Context-adaptive Vision-language Tracking with Episodic-semantic Memory." APIN (2026).
   [[paper](https://link.springer.com/article/10.1007/s10489-026-07218-w)] 
