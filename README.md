@@ -291,6 +291,11 @@
   "SFDATrack: Generalized Source-Free Domain Adaptive Tracking Under Adverse Weather Conditions." ECCV (2026).
   [[paper](https://arxiv.org/abs/2607.00369)]
   [[code](https://github.com/watcherBR0/sfdatrack)]
+
+- **CoMaTrack:** Youzhi Liu, Li Gao, Liu Liu, Mingyang Lv, Yang Cai.<br />
+  "CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2603.22846)]
+  [[code](https://github.com/wlqcode/CoMaTrack-Bench)]
   
 - **X2SAM:** Hao Wang, Limeng Qiao, Chi Zhang, Lin Ma, Guanglu Wan, Xiangyuan Lan, Xiaodan Liang.<br />
   "X2SAM: Any Segmentation in Images and Videos." ECCV (2026).
