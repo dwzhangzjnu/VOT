@@ -296,6 +296,11 @@
   "CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models." ECCV (2026).
   [[paper](https://arxiv.org/abs/2603.22846)]
   [[code](https://github.com/wlqcode/CoMaTrack-Bench)]
+
+- **Whareformer:** Jacob Chalk, Saptarshi Sinha, Dima Damen, Yannis Kalantidis, Diane Larlus.<br />
+  "Whareformer: Learning to Track What is Where in Long Egocentric Videos." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2607.08537)]
+  [[code](https://jacobchalk.github.io/Whareformer/)]
   
 - **X2SAM:** Hao Wang, Limeng Qiao, Chi Zhang, Lin Ma, Guanglu Wan, Xiangyuan Lan, Xiaodan Liang.<br />
   "X2SAM: Any Segmentation in Images and Videos." ECCV (2026).
@@ -598,9 +603,19 @@
   [[paper](https://arxiv.org/abs/2605.17451)]
   [[code]( )]
 
+- **UAV-OVVIS:** Mingyu Dou, Shi Qiu, Ming Hu, Yifan Chen, Zhe Sun.<br />
+  "UAV-OVVIS: Unmanned Aerial Vehicles Also Need Open-Vocabulary Video Instance Segmentation." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.08075)]
+  [[code](https://github.com/Dmygithub/AeroTrack)]
+  
 - **UAVNet-MS:** Yihang Luo, Jun Chen, Chao Xiao, Yingqian Wang, Zhaoxu Li, Qiang Ling, Xu He, Nuo Chen, Gaowei Guo, Hongge Li, Miao Li, Longguang Wang, Yulan Guo, Li Liu, Wei An, Zhijie Chen.<br />
   "Towards UAV Detection in the Real World: A New Multispectral Dataset UAVNet-MS and a New Method." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.20963)]
+  [[code]( )]
+
+- **UniRef-UAV:** Haibin Tian, Huichao Xie, Xuelin Qian, Ruitao Lu, Junwei Han, Dingwen Zhang.<br />
+  "UniRef-UAV: A Multimodal Benchmark for Universal Referring in UAV Imagery." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.08267)]
   [[code]( )]
 
 - **UAVBench:** Yang Zhan, Yuan Yuan.<br />
@@ -662,6 +677,11 @@
   "Event-Adaptive State Transition and Gated Fusion for RGB-Event Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2604.13426)] 
   [[code]( )]
+
+- **DHNet:** Qishun Wang, Yapeng Li, Bin Luo, Zhengzheng Tu, Chenglong Li.<br />
+  "Dual-Correlation Hypergraph Network for Unaligned RGBT Video Object Detection and A Large-scale Benchmark." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.08191)]
+  [[code](https://github.com/tzz-ahu/)]
 
 - **GW-VLM:** Guiying Zhu, Bowen Yang, Yin Zhuang, Tong Zhang, Guanqun Wang, Zhihao Che, He Chen, Lianlin Li.<br />
   "A Training-Free Guess What Vision Language Model from Snippets to Open-Vocabulary Object Detection." ArXiv (2026).
@@ -782,6 +802,11 @@
   "Cross-Modality Fourier Prompt Tuning for Generalizable Visual-Language Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11552016)] 
   [[code]( )]
+
+- **DPU-VLT:** Xiao Wang, Liye Jin, Dan Xu, Yuehang Li, Lan Chen, Yaowei Wang, Yonghong Tian, Jin Tang.<br />
+  "Dynamic Parsing and Updating Natural Language Specification using VLMs for Robust Vision-Language Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2606.29357)] 
+  [[code](https://github.com/Event-AHU/Open_VLTrack)]
 
 - **RrmTrack:** Guangtong Zhang, Yang Wang, Bineng Zhong, Yuhao Mu, Tian Bai.<br />
   "RWKV-Inspired Multi-modal Relation Modeling for Vision-Language Tracking." TMM (2026).
