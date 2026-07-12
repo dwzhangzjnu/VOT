@@ -312,6 +312,15 @@
   [[paper](https://arxiv.org/abs/2606.24464)]
   [[code](https://github.com/Tony1882880/GeoLaV)]
   
+- **TR-MoE:** Tianle Wang, Xiangyang Yang, Jihua Zhu, Binrui Liu, YanZhao Li, and Shuiwang Li.<br />
+  "TR-MoE: Temporal Reliability-Aware Mixture-of-Experts for Robust Tracking." ECCV (2026).
+  [[paper]( )]
+  [[code](https://github.com/Avant1v/TR-MoE)]
+  
+- **GAP-Track:**  .<br />
+  "GAP-Track: Bridging the Resolution Gap for Cross-Resolution RGBT Tracking." ECCV (2026).
+  [[paper]( )]
+
 - **PSMF:**  .<br />
   "Progresvely Spiral Mamba Fuson for Multimodal Tracking." ECCV (2026).
   [[paper]( )]
@@ -928,6 +937,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11367018)] 
   [[code]( )]
   
+- **SFSTrack:** Lifan Sun, Yuxuan Du, Yang Liu, Dongkai Zhang, Dan Gao.<br />
+  "SFSTrack: Spatial-Frequency Synergistic Transformer for Robust Nighttime UAV Object Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11595851)] 
+  [[code]( )]
+
 - **LGTransT:** Yaohong Chen, Tianlei Ma, Donglin Xue, Xinhao Liu, Weining Chen.<br />
   "Unified Local and Global Transformer for Infrared Small UAV Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363611)] 
@@ -1048,6 +1062,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001139)] 
   [[code](https://github.com/ElliottZhen/SSTrack)]
 
+- **IMTrack:** Zhiqiang Hou, Chuangye Xu, Sugang Ma, Xiaobao Yang, Lei Pu.<br />
+  "Robust visual tracking via implicit memory-guided re-detection." EAAI (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0952197626018804)] 
+  [[code]( )]
+  
 - **DCTrack:** Yi Su, Yi Zhang.<br />
   "Decoupled Temporal and Spatial Features for Adaptive Visual Tracking." ASOC (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S156849462600712X)] 
