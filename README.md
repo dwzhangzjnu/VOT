@@ -552,6 +552,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11506610)]
   [[code](https://github.com/oatlvv/AS-SAM2)]
 
+- **ReviewHOT:** Mohammad Aminul Islam, Fengchao Xiong, Jun Zhou, Wangzhi Xing, Dong Bao, Yongsheng Gao.<br />
+  "A comprehensive review of recent advancements in hyperspectral object tracking." AIR (2026).
+  [[paper](https://link.springer.com/article/10.1007/s10462-026-11625-3)]
+  [[code](https://github.com/aamin0102/HOT-Review)]
+
 - **HVOT:** Yuzeng Chen, Qiangqiang Yuan, Naoto Yokoya, Junjue Wang, Weihao Xuan, Hongruixuan Chen, Zhuo Zheng, Zhuohong Li, Yuqi Tang, Min Chen, Jun Zhou, Liangpei Zhang.<br />
   "Deep Learning for Hyperspectral Video Object Tracking." SSRN (2026).
   [[paper](https://ssrn.com/abstract=6802779)]
@@ -656,6 +661,11 @@
   "Uni-MDTrack: Learning Decoupled Memory and Dynamic States for Parameter-Efficient Visual Tracking in All Modality." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.14452)] 
   [[code]( )]
+
+- **JEAT/SEHN:** Haidong Wang, Hengxing Cai, Wanlei Li, Xiaogang Xiong, Renxin Zhong.<br />
+  "Event-RGB Adaptive Tracking for Nighttime Highway Perception." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.11646)] 
+  [[code](https://github.com/haidongwang96/SEHN)]
 
 - **APRTrack:** Xiao Wang, Xufeng Lou, Zikang Yan, Lan Chen, Sibao Chen, Yaowei Wang, Yonghong Tian, Jin Tang.<br />
   "Active Adversarial Perturbation-driven Associative Memory Retrieval for RGB-Event Visual Object Tracking." ArXiv (2026).
@@ -847,6 +857,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11586086)] 
   [[code]( )]
 
+- **TMMSAM2:** Xiyou Fu, Ting Zhang, Xiaoyu Zhang, Mingying Lin, Zijun Lv, Wangquan He, Qi Ren, Meng Xu, Sen Jia.<br />
+  "TMMSAM2: Tracker-Aided Multitemporal Memory SAM2 for Hyperspectral Object Tracking." TNNLS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11597947)] 
+  [[code]( )]
+  
 - **FSMT:** Long Gao, Zhuoyan Liu, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.<br />
   "FSMT: Frequency-Spatial Mixture-of-Experts Hyperspectral Object Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11526988)] 
@@ -897,6 +912,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11595036)] 
   [[code]( )]
 
+- **TMQRTrack:** Jiabing Xiong, Yuejie Lu, Qiang Ling.<br />
+  "Temporal Mask-Embedding Learning and Query-Refined Head Network for Visual Tracking." TNNLS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11597913)] 
+  [[code]( )]
+  
 - **PoATrack:** Hongtao Yang, Bineng Zhong, Yaozong Zheng, Qihua Liang, Zhiruo Zhu, Shuxiang Song.<br />
   "Unified Multi-Modal Tracking via Proxy Visual Prompts." TASE (2026).
   [[paper](https://ieeexplore.ieee.org/document/11505919)] 
