@@ -662,6 +662,11 @@
   [[paper](https://arxiv.org/abs/2603.14452)] 
   [[code]( )]
 
+- **AE-UAV/FSFT:** Zixin Jiang, Bing He, Chaoran Xiong, Zhenzhen Wang, Xin Zhao, Ling Pei.<br />
+  "AE-UAV: An Air-to-Air Event-Based UAV Tracking Benchmark and a Real-Time Frequency-Domain Tracker." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.14726)] 
+  [[code](https://github.com/MSP-xEN/AE-UAV)]
+
 - **JEAT/SEHN:** Haidong Wang, Hengxing Cai, Wanlei Li, Xiaogang Xiong, Renxin Zhong.<br />
   "Event-RGB Adaptive Tracking for Nighttime Highway Perception." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.11646)] 
