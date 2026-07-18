@@ -1076,6 +1076,11 @@
   "MACTrack: Spatiotemporal Context Propagation with Motion Compensation for Anti-UAV Tracking." NEUNET (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026001875)] 
   [[code]( )]
+
+- **ODSTrack:** Zhiming Chen, Xue Wang, Xiaojiang Wu, Yunhua Wu, Bing Hua.<br />
+  "Online Decision Switching for Anti-UAV Tracking based on Reinforcement Learning." AESCTE (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1270963826015750)] 
+  [[code]( )]
   
 - **PVMTrack:** Binbin Wang, Ziqing Yan, Lifeng Wang, Fasheng Wang, Fuming Sun, Haojie Li.<br />
   "Towards a prompt-driven framework with state space models for UAV object tracking." KBS (2026).
@@ -1127,6 +1132,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0925231226017893)] 
   [[code](https://github.com/clbswdb/CSETrack)]
   
+- **OcclusionVOT:** Kazımhan Peker, D. Turgay Altılar.<br />
+  "Occlusion handling algorithms in visual object tracking: a survey." APIN (2026).
+  [[paper](https://link.springer.com/article/10.1007/s10489-026-07345-4)] 
+  [[code]( )]
+
 - **ESMT:** Jiapeng Zhang, Ying Wei, Yongfeng Li, Gang Yang.<br />
   "ESMT: Context-adaptive Vision-language Tracking with Episodic-semantic Memory." APIN (2026).
   [[paper](https://link.springer.com/article/10.1007/s10489-026-07218-w)] 
