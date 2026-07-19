@@ -317,6 +317,11 @@
   [[paper]( )]
   [[code](https://github.com/Avant1v/TR-MoE)]
   
+- **LGCTrack:** Yueying Zhang, Timing Li, Bing Cao, Pengfei Zhu.<br />
+  "Local-to-global Cross-modal Coordination for Self-supervised RGB-T Tracking." ECCV (2026).
+  [[paper]( )]
+  [[code](https://github.com/zyyyya/LGCTrack)]
+  
 - **GAP-Track:**  .<br />
   "GAP-Track: Bridging the Resolution Gap for Cross-Resolution RGBT Tracking." ECCV (2026).
   [[paper]( )]
