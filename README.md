@@ -972,6 +972,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11367018)] 
   [[code]( )]
   
+- **PCTrack:** Yanting Zu; Qihua Liang; Chaocan Xue; Yufei Tan; Shuxiang Song; Bineng Zhong.<br />
+  "Robust Nighttime UAV Tracking Via Parameter and Computation Efficient Transfer Learning." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11613180)] 
+  [[code]( )]
+
 - **SFSTrack:** Lifan Sun, Yuxuan Du, Yang Liu, Dongkai Zhang, Dan Gao.<br />
   "SFSTrack: Spatial-Frequency Synergistic Transformer for Robust Nighttime UAV Object Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11595851)] 
