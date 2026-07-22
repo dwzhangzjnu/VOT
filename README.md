@@ -597,6 +597,11 @@
   [[paper](https://arxiv.org/abs/2602.18006)]
   [[code](https://github.com/AhsanBaidar/MUOT-3M_Dataset)]
 
+- **SARLA:** Yun Xiao, Zhihong Hong, Jiandong Jin, Chenglong Li, Jin Tang, Amir Hussain.<br />
+  "Cross-Modal UAV Object Tracking: State-Aware Representation Learning and A Unified Benchmark." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.18768)]
+  [[code](https://github.com/hongsmile365/sarla-)]
+
 - **VL-UniTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
   "VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.04574)]
@@ -1006,7 +1011,7 @@
   "VETD220: A Visible-Event Benchmark and Baseline for Tracking Drones." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11458000)] 
   [[code](https://github.com/QiuuuJY/VETD220)]
-  
+
 - **TAPTrack:** Xiaolong Cui, Xingxiu Li, Panlong Wu, Xinan Liu, Shan He.<br />
   "TAPTrack: An Efficient Temporal-Aware Prompt Tracker for Infrared Anti-UAV Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11477854)] 
