@@ -595,13 +595,19 @@
 - **MUOT-3M:** Ahsan Baidar Bakht, Mohamad Alansari, Muhayy Ud Din, Muzammal Naseer, Sajid Javed, Irfan Hussain, Jiri Matas, Arif Mahmood.<br />
   "MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.18006)]
+  [[evaluation](https://www.codabench.org/competitions/17422/)]
   [[code](https://github.com/AhsanBaidar/MUOT-3M_Dataset)]
+
+- **DRGBT-1K:** Zhaodong Ding, Chenglong Li, Zeyu Ding, Futian Wang, Jin Tang.<br />
+  "DRGBT-1K: A Large-scale High-quality Benchmark for Dynamic RGBT Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.19772)]
+  [[code](https://github.com/zhaodongAH/DRGBT-1K)]
 
 - **SARLA:** Yun Xiao, Zhihong Hong, Jiandong Jin, Chenglong Li, Jin Tang, Amir Hussain.<br />
   "Cross-Modal UAV Object Tracking: State-Aware Representation Learning and A Unified Benchmark." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.18768)]
   [[code](https://github.com/hongsmile365/sarla-)]
-
+  
 - **VL-UniTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
   "VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.04574)]
