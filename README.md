@@ -808,6 +808,11 @@
   [[paper](https://link.springer.com/article/10.1007/s11263-025-02666-2)] 
   [[code]( )]
 
+- **SFTrack:** Shiao Wang, Xiao Wang, Liye Jin, Bo Jiang, Lin Zhu, Lan Chen, Yonghong Tian, Bin Luo.<br />
+  "Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach." TCSVT (2026).
+  [[paper](https://arxiv.org/abs/2505.12903)] 
+  [[code](https://github.com/Event-AHU/SlowFast_Event_Track)]
+  
 - **EPFT:** Fuling Lin, Junjie Ye, Zhiqiang Chen, Changhong Fu, Peng Lu.<br />
   "Learning Event Perturbation Field for Continuous Event Stream-Based Object Tracking." RAL (2026).
   [[paper](https://ieeexplore.ieee.org/document/11593110)] 
@@ -858,6 +863,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11417442)] 
   [[code]( )]
 
+- **DTP-Track:** Geng Xiong; Bineng Zhong; Qihua Liang; Xiaohai Li; Ning Li; Shuxiang Song.<br />
+  "DTP-Track: Diversity-Guided Token Pruning and Purification for Vision-Language Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11622554)] 
+  [[code]( )]
+  
 - **TAVLT:** Tianpeng Liu, Xinrong Hu, Jing Li, Lefei Zhang.<br />
   "Beyond Static Prompts: Dynamic Token Fusion for Temporal-Align Visual-Language Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11552759)] 
@@ -2031,11 +2041,6 @@
   "Toward Adaptive Meta-Gradient Adversarial Examples for Visual Tracking." TR (2025).
   [[paper](https://arxiv.org/abs/2505.08999)] 
   [[code](https://github.com/pgao-lab/AMGA)]
-
-- **SFTrack:** Shiao Wang, Xiao Wang, Liye Jin, Bo Jiang, Lin Zhu, Lan Chen, Yonghong Tian, Bin Luo.<br />
-  "Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2505.12903)] 
-  [[code](https://github.com/Event-AHU/SlowFast_Event_Track)]
 
 - **Attack4RGBE:** Qiang Chen, Xiao Wang, Haowen Wang, Bo Jiang, Lin Zhu, Dawei Zhang, Yonghong Tian, Jin Tang.<br />
   "Adversarial Attack for RGB-Event based Visual Object Tracking." ArXiv (2025).
