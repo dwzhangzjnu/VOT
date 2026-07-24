@@ -613,6 +613,11 @@
   [[paper](https://arxiv.org/abs/2605.04574)]
   [[code](https://github.com/xuboyue1999/VL-UniTrack)]
   
+- **ReferTrack:** Hanjing Ye, Tianle Zeng, Jiazhao Zhang, Shaoan Wang, Zibo Zhang, Weisi Situ, Yuchen Zhou, Yonggen Ling, Hong Zhang.<br />
+  "ReferTrack: Referring Then Tracking for Embodied Visual Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.20061)]   [[project](https://medlartea.github.io/referTrack/)]
+  [[code](https://github.com/MedlarTea/referTrack)]
+
 - **USS:** Yuchen Xie, Xinyu Zhou, Kuangji Zuo, Yanshuo Lu, Fengrui Huang, Boyu Ma, Jianfei Yang.<br />
   "USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2606.25880)]
