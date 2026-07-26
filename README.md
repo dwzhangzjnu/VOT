@@ -887,6 +887,11 @@
   "PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11397188)] 
   [[code]( )]
+
+- **HEATTrack:** Ling Yan; Xueyan Dong; Jian Yang; Qi Wang; Zhichao Meng; Zhong Wang.<br />
+  "HEATTrack: History Evidence Injection and Target-Aware Prompting for Aerial Multispectral Single-Object Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11593902)] 
+  [[code]( )]
   
 - **CASS:** Yuzeng Chen, Qiangqiang Yuan, Bineng Zhong, Xiantao Hu, Jie Zhou, Xi Zhao, Xin Su, Yuqi Tang, Liangpei Zhang.<br />
   "CASS: A Context-Aware Memory Framework with Spectral-Spatial Modulation for UAV Multispectral Video Tracking." TCSVT (2026).
