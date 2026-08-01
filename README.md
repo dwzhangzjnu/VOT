@@ -733,11 +733,21 @@
   [[paper](https://arxiv.org/abs/2601.11910)]
   [[code]( )]
 
+- **SATATrack:** Xiaozhen Qiao, Da Zhang, Yubin Guo, Junyu Gao, Zhiyuan Zhao, Xuelong Li.<br />
+  "Semantic-Aware Temporal Adaptation for UAV Anti-UAV Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.26511)]
+  [[code](https://github.com/XiaozhenQiao/SATATrack)]
+
+ - **CMRTrack:** Yuehai Chen, Jian Lan, Yuan Wei.<br />
+  "Counterfactual Motion Reliability Learning for Robust UAV Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2607.23209)]
+  [[code]( )]
+
 - **STATrack:** Pengzhi Zhong, Jiwei Mo, Dan Zeng, Feixiang He, Shuiwang Li.<br />
   "Fully Spiking Neural Networks with Target Awareness for Energy-Efficient UAV Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.27493)]
   [[code]( )]
-
+  
 - **SiamGM:** Zixiao Wen, Zhen Yang, Jiawei Li, Xiantai Xiang, Guangyao Zhou, Yuxin Hu, Yuhan Liu.<br />
   "SiamGM: Siamese Geometry-Aware and Motion-Guided Network for Real-Time Satellite Video Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.07564)]
