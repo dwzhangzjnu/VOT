@@ -678,11 +678,26 @@
   [[paper](https://arxiv.org/abs/2603.13719)]
   [[code]( )]
 
+- **PAFCNet:** Zhaodong Ding, Chenglong Li, Jiandong Jin, Kewei Ying, Wentao Wu.<br />
+  "Parameter-Dynamic Adaptive Fusion and Calibration Network for RGBT Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.01807)]
+  [[code]( )]
+
+- **ACTrack:** Wenrui Cai, Yuzhe Li, Qingjie Liu, Yunhong Wang.<br />
+  "Models as Tools: An Agentic Coordination Framework for Unified Multimodal Visual Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.00847)] 
+  [[code]( )]
+  
 - **Uni-MDTrack:** Wenrui Cai, Zhenyi Lu, Yuzhe Li, Yongchao Feng, Jinqing Zhang, Qingjie Liu, Yunhong Wang.<br />
   "Uni-MDTrack: Learning Decoupled Memory and Dynamic States for Parameter-Efficient Visual Tracking in All Modality." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.14452)] 
   [[code]( )]
 
+- **DTrack:** Yuqi Li, Yuedong Tan, Huiran Duan, Weilun Feng, Chuanguang Yang, Zhulin An, Zongwei Wu, Shiping Wen, Tingwen Huang, Yingli Tian.<br />
+  "Towards Compact Unified Multimodal Tracking: Synergizing Knowledge Distillation with Structural Pruning." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.01488)] 
+  [[code]( )]
+  
 - **AE-UAV/FSFT:** Zixin Jiang, Bing He, Chaoran Xiong, Zhenzhen Wang, Xin Zhao, Ling Pei.<br />
   "AE-UAV: An Air-to-Air Event-Based UAV Tracking Benchmark and a Real-Time Frequency-Domain Tracker." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.14726)] 
