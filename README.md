@@ -943,6 +943,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11363450)] 
   [[code]( )]
 
+- **FITrack:** Yunzhen Li; Bineng Zhong; Qihua Liang; Yaozong Zheng; Ning Li; Shuxiang Song.<br />
+  "Frequency-guided and Temporal Prompt Information Integration for RGB-T Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11631736)] 
+  [[code]( )]
+  
 - **GOT-JEPA:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin.<br />
   "GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11436011)]
