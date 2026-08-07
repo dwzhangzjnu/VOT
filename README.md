@@ -697,6 +697,11 @@
   "Towards Compact Unified Multimodal Tracking: Synergizing Knowledge Distillation with Structural Pruning." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.01488)] 
   [[code]( )]
+
+- **TAU-Bench:** Kepeng Yang, Dongxuan Liu, Rongxin Gao, Zixin Su, Rui Wu, Shuzhao Xie, Chenxin Li, Panwang Pan, Yuzhi Huang, Yue Huang, Jingyan Jiang.<br />
+  "TAU-Bench: From Anomaly Instance Tracking to Fine-Grained Video Anomaly Understanding." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.05699)] 
+  [[code]( )]
   
 - **AE-UAV/FSFT:** Zixin Jiang, Bing He, Chaoran Xiong, Zhenzhen Wang, Xin Zhao, Ling Pei.<br />
   "AE-UAV: An Air-to-Air Event-Based UAV Tracking Benchmark and a Real-Time Frequency-Domain Tracker." ArXiv (2026).
