@@ -494,6 +494,19 @@
   "TP-Spikformer: Token Pruned Spiking Transformer." ICLR (2026).
   [[paper](https://arxiv.org/abs/2603.00527)]
   [[code]( )]
+
+
+### ACM MM 2026
+
+- **AnyTrack:** Hao Li, Yunzhi Zhuge, Wenning Hao, Pingping Zhang, Xiaoxiong Zhang, Dong Wang, Huchuan Lu.<br />
+  "AnyTrack: Unifying Visual Object Tracking with Any Modalities." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2608.06773)]
+  [[code](https://github.com/IdolLab/AnyTrack)]
+
+- **API Attack:** Shaofeng Liang, Runwei Guan, Wenshuo Chen, Jiemin Wu, Bowen Tian, Haozhe Jia, Kaishen Yuan, Songning Lai, Daizong Liu, Yutao Yue.<br />
+  "When Efficiency Becomes Fragility: Exploiting Dynamic Routing Vulnerabilities in Adaptive UAV Tracking." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2608.03902)]
+  [[code]( )]
   
 
 ### Others 2026
@@ -893,6 +906,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11417442)] 
   [[code]( )]
 
+- **DynaMix-VLT:** Huanlong Zhang, Linjie Zhou, Liao Zhu, Fengli Shen, Jingjing Wu, Jianwei Zhang.<br />
+  "DynaMix-VLT: Dynamic Multi-head Attention and Semantic-guided Modal Mixing for Robust Vision-language Tracking." MIR (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11633-025-1605-x)] 
+  [[code]( )]
+  
 - **DTP-Track:** Geng Xiong; Bineng Zhong; Qihua Liang; Xiaohai Li; Ning Li; Shuxiang Song.<br />
   "DTP-Track: Diversity-Guided Token Pruning and Purification for Vision-Language Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11622554)] 
@@ -942,6 +960,11 @@
   "Visual object tracking via integrating images of visible, thermal, and depth modalities." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11494035)] 
   [[code](https://github.com/yan245836977/VDT1k)]
+
+- **GPTrack:** Jingjing Li; Hanlin Qin; Yue Yu; Xupei Zhang; Juliu Li.<br />
+  "GPTrack: Graph-Topological Priors and Physics-Aware Interaction for RGB-T Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11638211)] 
+  [[code](https://github.com/qixi-alt/GPTrack)]
 
 - **ProMoT:** Jia Chen, Rui Xu, Si Chen, Yuzhen Niu, Yan Yan, Da-Han Wang.<br />
   "ProMoT: Progressive Prompting of Modality and Temporal Dynamics for RGB-T Tracking." TCSVT (2026).
@@ -1168,6 +1191,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126001139)] 
   [[code](https://github.com/ElliottZhen/SSTrack)]
 
+- **GFATrack:** Yanfang Deng, Jie Chen, Canlong Zhang, Zhixin Li, Xiaochun Lu.<br />
+  "Gradually target activating and self-supervised enhancing for visual tracking." KBS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126015054)] 
+  [[code](https://github.com/Yinfonaaa/GFATrack)]
+  
 - **IMTrack:** Zhiqiang Hou, Chuangye Xu, Sugang Ma, Xiaobao Yang, Lei Pu.<br />
   "Robust visual tracking via implicit memory-guided re-detection." EAAI (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0952197626018804)] 
@@ -1183,6 +1211,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S095741742602381X)] 
   [[code]( )]
 
+- **DeSSTrack:** Tao Liu, Haolan Lu, Lingji Xu, Jianming Miao.<br />
+  "DeSSTrack: Decoupled search-centric temporal state transition for RGB-Sonar tracking." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426027582)] 
+  [[code](https://github.com/Tao-GCPD/DeSSTrack)]
+  
 - **HATrack:** Shengbo Wang, Yunfeng Li, Lei Deng, Guangkai Sun, Mingli Dong, Lianqing Zhu.<br />
   "HATrack: Cross-modal Fusion RGBT Tracking with Heterogeneous Adapter." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426013394)] 
