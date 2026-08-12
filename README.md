@@ -756,10 +756,9 @@
   [[paper](https://arxiv.org/abs/2604.13426)] 
   [[code]( )]
 
-- **DHNet:** Qishun Wang, Yapeng Li, Bin Luo, Zhengzheng Tu, Chenglong Li.<br />
-  "Dual-Correlation Hypergraph Network for Unaligned RGBT Video Object Detection and A Large-scale Benchmark." ArXiv (2026).
-  [[paper](https://arxiv.org/abs/2607.08191)]
-  [[code](https://github.com/tzz-ahu/)]
+- **FeedbackTrack:** Yueyang Cang, Xiaoteng Zhang, Zhiyuan Ning, Yuchen He, Li Shi.<br />
+  "FeedbackTrack: Visual-Cortex-Inspired Cross-Frame Feedback for Transformer Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.09369)]
 
 - **GW-VLM:** Guiying Zhu, Bowen Yang, Yin Zhuang, Tong Zhang, Guanqun Wang, Zhihao Che, He Chen, Lianlin Li.<br />
   "A Training-Free Guess What Vision Language Model from Snippets to Open-Vocabulary Object Detection." ArXiv (2026).
@@ -791,11 +790,16 @@
   [[paper](https://arxiv.org/abs/2606.09167)] 
   [[code](https://github.com/rayyao/VLHTrack)]
 
+- **MSP-Net:** Juliu Li, Hanlin Qin, Shuowen Yang, Jingjing Li, Yuedong Tan, Shuai Yuan, Huixin Zhou.<br />
+  "MSP-Net: Manifold-Guided Spectral Prompt Network for Hyperspectral Object Tracking." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.09575)] 
+  [[code](https://github.com/GGML668897/MSP-Net)]
+
 - **E2EMPT:** Xu Han, Mohammad Aminul Islam, Lei Wang, Zekun Long, Guanmanyi Fu, Wangshu Cai, Kuldip K. Paliwal, Jun Zhou.<br />
   "End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.20569)] 
   [[code](https://github.com/han030927/E2EMPT)]
-
+  
 - **SpecTrack:** Xingyu Tan, Yunrong Qin, Mengjie Hu.<br />
   "SpecTrack: Spectral Prompt Guided Adaptive Experts for Multispectral Object Tracking." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.05988)] 
