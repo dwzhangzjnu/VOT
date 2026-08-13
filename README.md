@@ -834,7 +834,12 @@
   "A Multi-level Self-Distillation-Based Unified Tracker for Efficient RGB-T Tracking." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11415354)] 
   [[code]( )]
-  
+
+- **SeDCP:** Ding Ma; Zexu Zhang; Xiangqian Wu.<br />
+  "Self-Chained Dynamic Context Perception to Tracking by Natural Language Specification." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11644814)] 
+  [[code]( )]
+
 - **UATrack:** Zhaodong Ding, Chenglong Li, Futian Wang, Jin Tang.<br />
   "Uncertainty-Aware RGBT Tracking." IJCV (2026).
   [[paper](https://link.springer.com/article/10.1007/s11263-026-02878-0)]
