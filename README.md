@@ -507,6 +507,12 @@
   "When Efficiency Becomes Fragility: Exploiting Dynamic Routing Vulnerabilities in Adaptive UAV Tracking." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.03902)]
   [[code]( )]
+
+- **Paths:** Yakun Huo, Yingquan Wang, Yangyang Liu, Tianyu Yan, Yunzhi Zhuge, Pingping Zhang, Huchuan Lu.<br />
+  "Paths: Prompt-aware Spatio-temporal Transformer with Hierarchical Multi-modal Fusion for RGB-Event Video Person Re-Identification." ACM MM (2026).
+  [[paper](https://arxiv.org/abs/2608.13092)]
+  [[code](https://github.com/Reflection0427/Paths)]
+
   
 
 ### Others 2026
