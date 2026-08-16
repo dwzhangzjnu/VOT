@@ -895,6 +895,11 @@
   "Interactive Classification and Regression for Visual Tracking with Dual Update Strategy." TOMM (2026).
   [[paper](https://dl.acm.org/doi/10.1145/3803014)] 
   [[code]( )]
+
+- **ParaTrack:** Yinghao Li; Guixi Liu; Ruke Xiong; Qian Lu; Yisong Xiao; Sen Li.<br />
+  "ParaTrack: An Efficient Parallel Framework for Visual Object Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11646462)]
+  [[code]( )]
   
 - **UBATrack:** Qihua Liang, Liang Chen, Yaozong Zheng, Jian Nong, Zhiyi Mo, Bineng Zhong.<br />
   "UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking." TMM (2026).
