@@ -935,6 +935,11 @@
   "DTP-Track: Diversity-Guided Token Pruning and Purification for Vision-Language Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11622554)] 
   [[code]( )]
+
+- **TATrack:** Zequan Cui; Ning Li; Zhiyi Mo; Qihua Liang; Shuxiang Song; Bineng Zhong.<br />
+  "Temporally Evolving Visual Memory and Adaptive Language Refinement for Object Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11655933)] 
+  [[code]( )]
   
 - **TAVLT:** Tianpeng Liu, Xinrong Hu, Jing Li, Lefei Zhang.<br />
   "Beyond Static Prompts: Dynamic Token Fusion for Temporal-Align Visual-Language Tracking." TCSVT (2026).
