@@ -1090,6 +1090,11 @@
   "SFSTrack: Spatial-Frequency Synergistic Transformer for Robust Nighttime UAV Object Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11595851)] 
   [[code]( )]
+  
+- **TrackingMambaV2:** Qingwang Wang; Liyao Zhou; Huaiyu Fan; Bei Cheng; Zhen Zhang; Yanfeng Gu.<br />
+  "TrackingMambaV2: UAV visual object tracking in mountain jungle." MGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11653047)] 
+  [[code](https://github.com/KustTeamWQW/TrackingMambaV2)]
 
 - **LGTransT:** Yaohong Chen, Tianlei Ma, Donglin Xue, Xinhao Liu, Weining Chen.<br />
   "Unified Local and Global Transformer for Infrared Small UAV Tracking." TGRS (2026).
