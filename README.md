@@ -1306,11 +1306,16 @@
   [[paper](https://link.springer.com/article/10.1007/s00530-025-02135-3)] 
   [[code]( )]
 
+- **RSconv:** Dakai Sun; Qian Jiang; Wangming Lan; Shiwei Wang; Xin Jin.<br />
+  "RSconv: A Shape-Adaptive Learnable Affine Convolution Mode for Robust UAV Tracking in Infrared Scene." OJIM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11655233)] 
+  [[code](https://github.com/jinxinhuo/RSConv)]
+  
 - **ATA:** Wenchao Kang, Xuekai Zhang, Yueping Peng, Wei Tang, Qilong Li, Hexiang Hao, Kang Liu, Qinghe Chen.<br />
   "ATA: A Benchmark for Vision–Language Tracking in Air-to-Air Counter-UAV of Tiny Drones." Drones (2026).
   [[paper](https://www.mdpi.com/2504-446X/10/6/429)] 
   [[code](https://github.com/kkbushi/ATA)]
-  
+
 - **A2A-UAV-Tracking:** Yu Luo, Hao Cha, Hongwei Fu, Tingting Fu, Bin Tian, Huatao Tang.<br />
   "A2A-UAV-Tracking: A Benchmark for Air-to-Air UAV Tracking." IJAP (2026).
   [[paper](https://onlinelibrary.wiley.com/doi/10.1155/ijap/5024734)] 
