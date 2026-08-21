@@ -945,7 +945,12 @@
   "Beyond Static Prompts: Dynamic Token Fusion for Temporal-Align Visual-Language Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11552759)] 
   [[code]( )]
-  
+
+- **HiPATrack:** Yuehao Li; Weisheng Li; Shunping Chen; Feiyan Li; Yidong Peng; Yucheng Shu.<br />
+  "HiPATrack: Hierarchical Dependency and Position-Aware for TIR Object Tracking." TASE (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11658725)] 
+  [[code]( )]
+
 - **DDAT:** Qiao Liu, Qiao Li, Xin Li, Jiatian Pi, Di Yuan, Yunpeng Liu.<br />
   "Unsupervised Domain Adaptive Thermal Infrared Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11417270)] 
