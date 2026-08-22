@@ -941,6 +941,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11655933)] 
   [[code]( )]
   
+- **BSTrack:** Yihao Zhen; Qiang Wang; Liangqiong Qu; Huijie Fan.<br />
+  "BSTrack: Bridging Cross-Modal Spatio-Temporal Differences in Vision-Language Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11660711)] 
+  [[code]( )]
+
 - **TAVLT:** Tianpeng Liu, Xinrong Hu, Jing Li, Lefei Zhang.<br />
   "Beyond Static Prompts: Dynamic Token Fusion for Temporal-Align Visual-Language Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11552759)] 
@@ -1091,6 +1096,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11613180)] 
   [[code]( )]
 
+- **DPTrack:** Zhiqiang Zhu, Xinbo Gao, Wen Lu, Jie Li, Zhaoyang Wang, Mingqian Ge.<br />
+  "DPTrack: Directional Kernel-Guided Prompting for Nighttime UAV Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11657537)] 
+  [[code](https://github.com/zzq-vipsl/DPTrack)]
+  
 - **SFSTrack:** Lifan Sun, Yuxuan Du, Yang Liu, Dongkai Zhang, Dan Gao.<br />
   "SFSTrack: Spatial-Frequency Synergistic Transformer for Robust Nighttime UAV Object Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11595851)] 
@@ -2038,12 +2048,7 @@
 - **MATrack:** Xuzhao Li, Xuchen Li, Shiyu Hu.<br />
   "MATrack: Efficient Multiscale Adaptive Tracker for Real-Time Nighttime UAV Operations." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2510.21586)] 
-  [[code](https://github.com/zzq-vipsl/DPTrack)]
-
-- **DPTrack:** Zhiqiang Zhu, Xinbo Gao, Wen Lu, Jie Li, Zhaoyang Wang, Mingqian Ge.<br />
-  "DPTrack: Directional Kernel-Guided Prompt Learning for Robust Nighttime Aerial Tracking." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2510.15449)] 
-  [[code](https://github.com/zzq-vipsl/DPTrack)]
+  [[code]( )]
   
 - **TrackingMiM:** Bingxi Liu, Calvin Chen, Junhao Li, Guyang Yu, Haoqian Song, Xuchen Liu, Jinqiang Cui, Hong Zhang.<br />
   "TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking." ArXiv (2025).
