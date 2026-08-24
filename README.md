@@ -1271,6 +1271,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426009966)] 
   [[code]( )]
 
+- **PNPTrack:** Jian Shi, Yang Yu, Bin Hui, Junze Shi, Haibo Luo.<br />
+  "Adaptive Positive-Negative Spatiotemporal Attention Feature Modulation for Plug-and-Play Visual Tracking." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426029489)] 
+  [[code]( )]
+  
 - **SDTrack:** Tian Bai, Shirui Yang, Yang Wang, Guangtong Zhang.<br />
   "Selective Distillation of Language Tokens for Redundancy Suppression in Vision-Language Tracking." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426011681)] 
