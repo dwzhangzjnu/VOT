@@ -1193,9 +1193,14 @@
 
 - **DSPT:** Gang He, Long Gao, Yuze Ke, Haijun Chen, Yan Jiang.<br />
   "Multi-modal Object Tracking with Detailed Spatial Prompt Learning." PR (2026).
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003985)] 
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326003985)] 
   [[code](https://github.com/sewkyz1/DSPT)]
 
+- **EME:** Yuya Sun, Shan Zhong, Haonan Tang, Yuting Wang, Lifeng Zhang.<br />
+  "EME: Out-of-view handling in visual object tracking via edge-aware motion estimation." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326016353)] 
+  [[code](https://github.com/LT-MOT-RL/EME)]
+  
 - **CAST:** Xiantao Hu, Fansheng Zeng, Bineng Zhong, Zhangyong Tang, Wenxuan Fang, Jun Li, Ying Tai, Jian Yang.<br />
   "Curriculum Adaptation for One-Stream RGB–T Tracking." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326004607)] 
@@ -1216,11 +1221,16 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526001582)] 
   [[code](https://github.com/HanJin0326/TSMamba)]
   
+- **SwitchTrack:** Yixin Xu, Wenkang Zhang, Tianyang Xu, Jinhui Wu, Qiang Wang, Wankou Yang.<br />
+  "Adaptive Multimodal Visual Tracking via Parameter-Efficient Vision Transformers." NEUNET (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026009895)] 
+  [[code]( )]
+
 - **MACTrack:** Wanying Xu, Haijiang Sun, Shuai Wang, Xiaowen Zhang, Yong Ji.<br />
   "MACTrack: Spatiotemporal Context Propagation with Motion Compensation for Anti-UAV Tracking." NEUNET (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026001875)] 
   [[code]( )]
-
+  
 - **ODSTrack:** Zhiming Chen, Xue Wang, Xiaojiang Wu, Yunhua Wu, Bing Hua.<br />
   "Online Decision Switching for Anti-UAV Tracking based on Reinforcement Learning." AESCTE (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1270963826015750)] 
