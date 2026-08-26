@@ -317,6 +317,11 @@
   [[paper]( )]
   [[code](https://github.com/Avant1v/TR-MoE)]
   
+- **MaST:** Qingmao Wei, Fagui Liu, Dengke Zhang, Qingze He, Quan Tang.<br />
+  "MaST: Motion-aware Sparse Pipeline for Lightweight Object Tracking." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2608.24365)]
+  [[code](https://github.com/TsingWei/MaST)]
+  
 - **LGCTrack:** Yueying Zhang, Timing Li, Bing Cao, Pengfei Zhu.<br />
   "Local-to-global Cross-modal Coordination for Self-supervised RGB-T Tracking." ECCV (2026).
   [[paper]( )]
@@ -1000,6 +1005,11 @@
   "GPTrack: Graph-Topological Priors and Physics-Aware Interaction for RGB-T Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11638211)] 
   [[code](https://github.com/qixi-alt/GPTrack)]
+
+- **IWATrack:** Shiyu Zhang; Tianyang Xu; Zhangyong Tang; Xiao-Jun Wu; Josef Kittler.<br />
+  "Focusing on What Matters: Importance Weighted Attention for RGB-T Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11658928)] 
+  [[code]( )]
 
 - **ProMoT:** Jia Chen, Rui Xu, Si Chen, Yuzhen Niu, Yan Yan, Da-Han Wang.<br />
   "ProMoT: Progressive Prompting of Modality and Temporal Dynamics for RGB-T Tracking." TCSVT (2026).
