@@ -789,7 +789,7 @@
 - **STATrack:** Pengzhi Zhong, Jiwei Mo, Dan Zeng, Feixiang He, Shuiwang Li.<br />
   "Fully Spiking Neural Networks with Target Awareness for Energy-Efficient UAV Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.27493)]
-  [[code]( )]
+  [[code](https://anonymous.4open.science/r/STATrack/README.md)]
   
 - **SiamGM:** Zixiao Wen, Zhen Yang, Jiawei Li, Xiantai Xiang, Guangyao Zhou, Yuxin Hu, Yuhan Liu.<br />
   "SiamGM: Siamese Geometry-Aware and Motion-Guided Network for Real-Time Satellite Video Object Tracking." ArXiv (2026).
@@ -1783,7 +1783,7 @@
 - **LVPTrack:** Hongjing Wu, Siyuan Yao, Feng Huang, Shu Wang, Linchao Zhang, Zhuoran Zheng, Wenqi Ren.<br />
   "LVPTrack: High Performance Domain Adaptive UAV Tracking with Label Aligned Visual Prompt Tuning." AAAI (2025).
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32906)] 
-  [[code]( )]
+  [[code](https://github.com/watcherBR0/LVPTrack)]
 
 - **MM-Tracker:** Mufeng Yao, Jinlong Peng, Qingdong He, Bo Peng, Hao Chen, Mingmin Chi, Chao Liu.<br />
   "MM-Tracker: Motion Mamba for UAV-platform Multiple Object Tracking." AAAI (2025).
