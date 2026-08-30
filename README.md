@@ -33,11 +33,6 @@
   [[paper](https://ieeexplore.ieee.org/document/11351313)] 
   [[code](https://github.com/yangchris11/samurai)]
 
-- **TrackingMeetsLMM:** Ayesha Ishaq, Jean Lahoud, Fahad Shahbaz Khan, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer.<br />
-  "Tracking Meets Large Multimodal Models for Driving Scenario Understanding." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2503.14498)] 
-  [[code](https://github.com/mbzuai-oryx/TrackingMeetsLMM)]
-
 - **4M-21:** Roman Bachmann, Oğuzhan Fatih Kar, David Mizrahi, Ali Garjani, Mingfei Gao, David Griffiths, Jiaming Hu, Afshin Dehghan, Amir Zamir.<br />
   "4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.09406)] 
@@ -1950,10 +1945,10 @@
   [[paper](https://arxiv.org/abs/2508.09524)] 
   [[code]( )]
   
-- **TPDOT:** Zhongping Dong, Liming Chen, Mohand Tahar Kechadi.<br />
-  "Trajectory Prediction in Dynamic Object Tracking: A Critical Study." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2506.19341)] 
-  [[code]( )]
+- **TrackingMeetsLMM:** Ayesha Ishaq, Jean Lahoud, Fahad Shahbaz Khan, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer.<br />
+  "Tracking Meets Large Multimodal Models for Driving Scenario Understanding." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.14498)] 
+  [[code](https://github.com/mbzuai-oryx/TrackingMeetsLMM)]
 
 - **R1-Track:** Biao Wang, Wenwen Li.<br />
   "R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning." ArXiv (2025).
