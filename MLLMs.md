@@ -15,6 +15,11 @@
   [[paper](https://arxiv.org/abs/2508.10104)]
   [[code](https://github.com/facebookresearch/dinov3)]
 
+- **Survey-MUG:** Yan Yang, Haochen Tian, Yang Shi, Wulin Xie, Yi-Fan Zhang, Yuhao Dong, Yibo Hu, Liang Wang, Ran He, Caifeng Shan, Chaoyou Fu, Tieniu Tan.<br />
+  "A Survey of Unified Multimodal Understanding and Generation: Advances and Challenges." arXiv (2025).
+  [[paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176289261.16802577/v1)]
+  [[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Unified)]
+  
 
 ### 2024
 
@@ -38,6 +43,16 @@
   [[paper](https://arxiv.org/abs/2312.03700)]
   [[code](https://github.com/csuhan/OneLLM)]
 
+- **MLLM-Survey:** Shukang Yin, Chaoyou Fu, Sirui Zhao, Ke Li, Xing Sun, Tong Xu, Enhong Chen.<br />
+  "A Survey on Multimodal Large Language Models." NSR (2024).
+  [[paper](https://arxiv.org/abs/2306.13549)]
+  [[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
+
+- **MME-Survey:** Chaoyou Fu, Yi-Fan Zhang, Shukang Yin, Bo Li, Xinyu Fang, Sirui Zhao, Haodong Duan, Xing Sun, Ziwei Liu, Liang Wang, Caifeng Shan, Ran He.<br />
+  "MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs." arXiv (2024).
+  [[paper](https://arxiv.org/abs/2411.15296)]
+  [[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Benchmarks)]
+  
 - **DINOv2 Meets Text:** Cijo Jose, Théo Moutakanni, Dahyun Kang, Federico Baldassarre, Timothée Darcet, Hu Xu, Daniel Li, Marc Szafraniec, Michaël Ramamonjisoa, Maxime Oquab, Oriane Siméoni, Huy V. Vo, Patrick Labatut, Piotr Bojanowski.<br />
   "DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment." arXiv (2024).
   [[paper](https://arxiv.org/abs/2412.16334)]
@@ -48,6 +63,11 @@
   [[paper](https://arxiv.org/abs/2304.07193)]
   [[code](https://github.com/facebookresearch/dinov2)]
 
+- **X-InstructBLIP:** Artemis Panagopoulou, Le Xue, Ning Yu, Junnan Li, Dongxu Li, Shafiq Joty, Ran Xu, Silvio Savarese, Caiming Xiong, Juan Carlos Niebles.<br />
+  "X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning." arXiv (2024).
+  [[paper](https://arxiv.org/abs/2311.18799)]
+  [[code](https://github.com/salesforce/LAVIS/tree/main/projects/xinstructblip)]
+  
 
 ### 2023
 
@@ -62,10 +82,20 @@
   [[openclip](https://github.com/mlfoundations/open_clip)]
   [[code](https://github.com/LAION-AI/scaling-laws-openclip)]
 
+- **Img2LLM-VQA:** Jiaxian Guo, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Boyang Li, Dacheng Tao, Steven C.H. Hoi.<br />
+  "From Images to Textual Prompts: Zero-shot VQA with Frozen Large Language Models." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2212.10846)]
+  [[code](https://github.com/salesforce/LAVIS/tree/main/projects/img2llm-vqa)]
+
 - **LLaVA:** Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee.
    "Visual Instruction Tuning." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2304.08485)]
   [[code](https://github.com/haotian-liu/LLaVA)]
+
+- **InstructBLIP:** Wenliang Dai, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Junqi Zhao, Weisheng Wang, Boyang Li, Pascale Fung, Steven Hoi.<br />
+  "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning." arXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.06500)]
+  [[code](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)]
 
 - **BLIP-2:** Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi.<br />
   "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models." arXiv (2023).
@@ -95,7 +125,17 @@
   [[paper](https://arxiv.org/abs/2204.14198)]
   [[code]( )]
 
+- **Plug-and-Play VQA:** Anthony Meng Huat Tiong, Junnan Li, Boyang Li, Silvio Savarese, Steven C.H. Hoi.<br />
+  "Plug-and-Play VQA: Zero-shot VQA by Conjoining Large Pretrained Models with Zero Training." EMNLP (2022).
+  [[paper](https://arxiv.org/abs/2210.08773)]
+  [[code](https://github.com/salesforce/LAVIS/tree/main/projects/pnp-vqa)]
+  
+- **LAVIS:** Dongxu Li, Junnan Li, Hung Le, Guangsen Wang, Silvio Savarese, Steven C.H. Hoi.<br />
+  "LAVIS: A Library for Language-Vision Intelligence." arXiv (2022).
+  [[paper](https://arxiv.org/abs/2209.09019)]
+  [[code](https://github.com/salesforce/LAVIS)]
 
+  
 ### 2021
 
 - **CLIP:** Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever.<br />
