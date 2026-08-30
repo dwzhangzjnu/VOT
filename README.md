@@ -33,10 +33,10 @@
   [[paper](https://ieeexplore.ieee.org/document/11351313)] 
   [[code](https://github.com/yangchris11/samurai)]
 
-- **DAMv2:** Lihe Yang, Bingyi Kang, Zilong Huang, Zhen Zhao, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao.<br />
-  "Depth Anything V2." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2406.09414)] 
-  [[code](https://depth-anything-v2.github.io/)]
+- **TrackingMeetsLMM:** Ayesha Ishaq, Jean Lahoud, Fahad Shahbaz Khan, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer.<br />
+  "Tracking Meets Large Multimodal Models for Driving Scenario Understanding." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2503.14498)] 
+  [[code](https://github.com/mbzuai-oryx/TrackingMeetsLMM)]
 
 - **4M-21:** Roman Bachmann, Oğuzhan Fatih Kar, David Mizrahi, Ali Garjani, Mingfei Gao, David Griffiths, Jiaming Hu, Afshin Dehghan, Amir Zamir.<br />
   "4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities." ArXiv (2024).
@@ -75,7 +75,7 @@
   [[code](https://www.wangjunke.info/ChatVideo/)]
   
 - **Video-ChatGPT:** Muhammad Maaz, Hanoona Rasheed, Salman Khan, Fahad Shahbaz Khan.<br />
-  "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models." ArXiv (2023).
+  "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models." ACL (2024).
   [[paper](https://arxiv.org/abs/2306.05424)] 
   [[code](https://github.com/mbzuai-oryx/Video-ChatGPT)]
 
