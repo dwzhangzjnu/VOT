@@ -10,6 +10,16 @@
 
 ### 2025
 
+- **Video-MME:** Chaoyou Fu, Yuhan Dai, Yongdong Luo, Lei Li, Shuhuai Ren, Renrui Zhang, Zihan Wang, Chenyu Zhou, Yunhang Shen, Mengdan Zhang, Peixian Chen, Yanwei Li, Shaohui Lin, Sirui Zhao, Ke Li, Tong Xu, Xiawu Zheng, Enhong Chen, Caifeng Shan, Ran He, Xing Sun.<br />
+  "Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2405.21075)]
+  [[code](https://video-mme.github.io/)]
+
+- **MME:** Chaoyou Fu, Peixian Chen, Yunhang Shen, Yulei Qin, Mengdan Zhang, Xu Lin, Jinrui Yang, Xiawu Zheng, Ke Li, Xing Sun, Yunsheng Wu, Rongrong Ji, Caifeng Shan, Ran He.<br />
+  "MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2306.13394)]
+  [[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]
+
 - **DINOv3:** Oriane Siméoni, Huy V. Vo, Maximilian Seitzer, Federico Baldassarre, Maxime Oquab, Cijo Jose, Vasil Khalidov, Marc Szafraniec, Seungeun Yi, Michaël Ramamonjisoa, Francisco Massa, Daniel Haziza, Luca Wehrstedt, Jianyuan Wang, Timothée Darcet, Théo Moutakanni, Leonel Sentana, Claire Roberts, Andrea Vedaldi, Jamie Tolan, John Brandt, Camille Couprie, Julien Mairal, Hervé Jégou, Patrick Labatut, Piotr Bojanowski.<br />
   "DINOv3." arXiv (2025).
   [[paper](https://arxiv.org/abs/2508.10104)]
