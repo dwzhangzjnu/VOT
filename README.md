@@ -975,22 +975,27 @@
   "PromptTrack: Streaming Spatial-Temporal Prompt Learning for RGB-T Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11397188)] 
   [[code]( )]
-
-- **HEATTrack:** Ling Yan; Xueyan Dong; Jian Yang; Qi Wang; Zhichao Meng; Zhong Wang.<br />
-  "HEATTrack: History Evidence Injection and Target-Aware Prompting for Aerial Multispectral Single-Object Tracking." TGRS (2026).
-  [[paper](https://ieeexplore.ieee.org/document/11593902)] 
-  [[code]( )]
   
 - **CASS:** Yuzeng Chen, Qiangqiang Yuan, Bineng Zhong, Xiantao Hu, Jie Zhou, Xi Zhao, Xin Su, Yuqi Tang, Liangpei Zhang.<br />
   "CASS: A Context-Aware Memory Framework with Spectral-Spatial Modulation for UAV Multispectral Video Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11586086)] 
   [[code]( )]
 
+- **HEATTrack:** Ling Yan; Xueyan Dong; Jian Yang; Qi Wang; Zhichao Meng; Zhong Wang.<br />
+  "HEATTrack: History Evidence Injection and Target-Aware Prompting for Aerial Multispectral Single-Object Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11593902)] 
+  [[code]( )]
+
+- **SAM-STIR:** Xiao Hu; Yun Zhou; Jian Lv; Wenjie Lai; Yadong Jiang.<br />
+  "SAM-STIR: Detection-Guided Memory Update for SAM 3-Based Infrared Small and Tiny Object Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11664481)] 
+  [[code]( )]
+
 - **TMMSAM2:** Xiyou Fu, Ting Zhang, Xiaoyu Zhang, Mingying Lin, Zijun Lv, Wangquan He, Qi Ren, Meng Xu, Sen Jia.<br />
   "TMMSAM2: Tracker-Aided Multitemporal Memory SAM2 for Hyperspectral Object Tracking." TNNLS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11597947)] 
   [[code]( )]
-  
+
 - **FSMT:** Long Gao, Zhuoyan Liu, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.<br />
   "FSMT: Frequency-Spatial Mixture-of-Experts Hyperspectral Object Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11526988)] 
