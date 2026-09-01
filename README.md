@@ -610,7 +610,12 @@
   "RT-RMOT: A Dataset and Framework for RGB-Thermal Referring Multi-Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.22033)]
   [[code]( )]
-  
+
+- **LVTrack:** Han Wang, Yuxuan Liu, Yuhan Sun, Jian Yang, Xiaotong Xu, Yixuan Lv, Zhuang Zhou, Shengyang Li.<br />
+  "Efficient Language-to-Vision Feature Injection for Referring Single-Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.29126)]
+  [[code]( )]
+
 - **MUOT-3M:** Ahsan Baidar Bakht, Mohamad Alansari, Muhayy Ud Din, Muzammal Naseer, Sajid Javed, Irfan Hussain, Jiri Matas, Arif Mahmood.<br />
   "MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2602.18006)]
