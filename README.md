@@ -737,6 +737,11 @@
   [[paper](https://arxiv.org/abs/2607.11646)] 
   [[code](https://github.com/haidongwang96/SEHN)]
 
+- **TextBridge-Track:** Ziang He; Ming Tong; Chu He; Yi Fan; Xi Chen; Shenghua Fan.<br />
+  "TextBridge-Track: Hierarchical Spatio-temporal Alignment for RGBE Tracking via CLIP’s Textual Guidance." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11672227)] 
+  [[code](https://github.com/RiverUp/TextBridge-Track)]
+
 - **APRTrack:** Xiao Wang, Xufeng Lou, Zikang Yan, Lan Chen, Sibao Chen, Yaowei Wang, Yonghong Tian, Jin Tang.<br />
   "Active Adversarial Perturbation-driven Associative Memory Retrieval for RGB-Event Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2606.26455)] 
@@ -825,7 +830,13 @@
   "Leveraging Text-to-Image Diffusion Models for Unsupervised Visual Object Tracking." TPAMI (2026).
   [[paper](https://arxiv.org/abs/2605.26933)] 
   [[code]( )]
-  
+
+- **Diff-MM:** Shiyu Xuan, Zechao Li, Jinhui Tang, Maocheng Zhao.<br />
+  "Diff-MM: Exploring Pre-Trained Text-to-Image Generation Models for Unified Multi-Modal Object Tracking." TPAMI (2026).
+  [[arXiv](https://arxiv.org/abs/2505.12606)] 
+  [[paper](https://ieeexplore.ieee.org/document/11668692)]
+  [[code]( )]
+
 - **SMTrack:** Yinchao Ma, Dengqing Yang, Zhangyu He, Wenfei Yang, Tianzhu Zhang.<br />
   "SMTrack: State-Aware Mamba for Efficient Temporal Modeling in Visual Tracking." TIP (2026).
   [[paper](https://arxiv.org/abs/2602.01677)] 
@@ -1974,11 +1985,6 @@
   "MVTD: A Benchmark Dataset for Maritime Visual Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2506.02866)] 
   [[code](https://github.com/AhsanBaidar/MVTD)]
-
-- **Diff-MM:** Shiyu Xuan, Zechao Li, Jinhui Tang.<br />
-  "Diff-MM: Exploring Pre-trained Text-to-Image Generation Model for Unified Multi-modal Object Tracking." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2505.12606)] 
-  [[code]( )]
 
 - **UniSOT:** Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Xu Zhou, Feng Wu.<br />
   "UniSOT: a Unified Framework for Multi-Modality Single Object Tracking." TPAMI (2025).
