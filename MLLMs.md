@@ -8,6 +8,12 @@
   [[paper](https://arxiv.org/abs/2502.21321)]
   [[code](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training)]
 
+- **VLM-based VLA Models:** Rui Shao, Wei Li, Lingsen Zhang, Renshan Zhang, Zhiyang Liu, Ran Chen, Liqiang Nie.<br />
+  "Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2508.13073)]
+  [[code](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)]
+
+
 ### 2025
 
 - **Video-MME:** Chaoyou Fu, Yuhan Dai, Yongdong Luo, Lei Li, Shuhuai Ren, Renrui Zhang, Zihan Wang, Chenyu Zhou, Yunhang Shen, Mengdan Zhang, Peixian Chen, Yanwei Li, Shaohui Lin, Sirui Zhao, Ke Li, Tong Xu, Xiawu Zheng, Enhong Chen, Caifeng Shan, Ran He, Xing Sun.<br />
