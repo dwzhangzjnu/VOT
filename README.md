@@ -976,6 +976,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11586086)] 
   [[code]( )]
 
+- **SSTP:** Xiaoyue Yan; Tingfa Xu; Haolin Qin; Tianhao Li; Jianan Li.<br />
+  "Spectral-Spatiotemporal Prompting for Multispectral UAV Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11667128)] 
+  [[code](https://github.com/YXYbit/SSTP)]
+
 - **HEATTrack:** Ling Yan; Xueyan Dong; Jian Yang; Qi Wang; Zhichao Meng; Zhong Wang.<br />
   "HEATTrack: History Evidence Injection and Target-Aware Prompting for Aerial Multispectral Single-Object Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11593902)] 
