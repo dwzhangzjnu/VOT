@@ -316,7 +316,12 @@
   "MaST: Motion-aware Sparse Pipeline for Lightweight Object Tracking." ECCV (2026).
   [[paper](https://arxiv.org/abs/2608.24365)]
   [[code](https://github.com/TsingWei/MaST)]
-  
+
+- **RGBT-GroundBench:** Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei.<br />
+  "RGBT-GroundBench: Visual Grounding Beyond RGB in Complex Real-World Scenarios." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2512.24561)] 
+  [[code](https://github.com/crazyxiaoxi/RGBT-GroundBench)]
+
 - **LGCTrack:** Yueying Zhang, Timing Li, Bing Cao, Pengfei Zhu.<br />
   "Local-to-global Cross-modal Coordination for Self-supervised RGB-T Tracking." ECCV (2026).
   [[paper]( )]
@@ -1975,11 +1980,6 @@
   "R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2506.21980)] 
   [[code](https://github.com/Wangbiao2/R1-Track)]
-  
-- **RGBT-VGNet:** Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei.<br />
-  "RGBT-Ground Benchmark: Visual Grounding Beyond RGB in Complex Real-World Scenarios." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2512.24561)] 
-  [[code]( )]
 
 - **MVTD:** Ahsan Baidar Bakht, Muhayy Ud Din, Sajid Javed, Irfan Hussain.<br />
   "MVTD: A Benchmark Dataset for Maritime Visual Object Tracking." ArXiv (2025).
