@@ -287,6 +287,11 @@
   [[paper](https://arxiv.org/abs/2607.00369)]
   [[code](https://github.com/watcherBR0/sfdatrack)]
 
+- **YesTrack:** Quansheng Hu, Qin Sun, Qiansen Dai, Jin Ding, Wan Zhang, Xue Zhou, Jianxiao Zou.<br />
+  "YesTrack: Referring Multi-Object Tracking via MLLM-based Yes/No Verification." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2609.02318)]
+  [[code](https://github.com/ggbondrighthere24/YesTrack)]
+
 - **CoMaTrack:** Youzhi Liu, Li Gao, Liu Liu, Mingyang Lv, Yang Cai.<br />
   "CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models." ECCV (2026).
   [[paper](https://arxiv.org/abs/2603.22846)]
@@ -575,7 +580,12 @@
   "Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.22538)]
   [[code](https://github.com/DurYi/SAMOSA)]
-  
+
+- **PATT:** Xin Chen, Jiao Xu, Dong Wang, Huchuan Lu, Kede Ma.<br />
+  "Learning to Track from Privileged Target Appearances." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.02471)]
+  [[code](https://github.com/Multimedia-Analytics-Laboratory/PATT)]
+
 - **AS-SAM2:** Tao Lv, Shenrun Ding, Yuji Wang, Yue Li, Xiaohuan Lu, Youliang Tian.<br />
   "AS-SAM2: Adaptive Self-correction for Visual Tracking with SAM2." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11506610)]
