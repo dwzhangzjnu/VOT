@@ -527,6 +527,11 @@
 
 ### Others 2026
 
+- **NASTrack:** Yihong Chen, Shuo Wang, Jiayao Zheng, Yongqiang Bai.<br />
+  "Joint Neural Architecture Search and Token Pruning for Efficient Visual Tracking." IJCAI (2026).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2026/2992.pdf)]
+  [[code](https://github.com/Cyhoon84/NASTrack)]
+
 - **DPTracker:** Yiheng Wang, Changhong Fu, Liangliang Yao, Haobo Zuo, Zijie Zhang.<br />
   "Dual Prompt-Driven Feature Encoding for Nighttime UAV Tracking." ICRA (2026).
   [[paper](https://arxiv.org/abs/2603.19628)]
