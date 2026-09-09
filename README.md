@@ -662,6 +662,11 @@
   [[paper](https://arxiv.org/abs/2607.20061)]   [[project](https://medlartea.github.io/referTrack/)]
   [[code](https://github.com/MedlarTea/referTrack)]
 
+- **CST-WM:** Junyi Hu, Shuaihang Yuan, Yi Fang.<br />
+  "CST-WM: A Causally Structured World Model for Embodied Visual Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.06302)]
+  [[code](https://junyi2005.github.io/cst-wm/)]
+
 - **USS:** Yuchen Xie, Xinyu Zhou, Kuangji Zuo, Yanshuo Lu, Fengrui Huang, Boyu Ma, Jianfei Yang.<br />
   "USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2606.25880)]
@@ -936,7 +941,7 @@
   "ParaTrack: An Efficient Parallel Framework for Visual Object Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11646462)]
   [[code]( )]
-  
+
 - **UBATrack:** Qihua Liang, Liang Chen, Yaozong Zheng, Jian Nong, Zhiyi Mo, Bineng Zhong.<br />
   "UBATrack: Spatio-Temporal State Space Model for General Multi-Modal Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11432969)]
@@ -991,6 +996,11 @@
   "HiPATrack: Hierarchical Dependency and Position-Aware for TIR Object Tracking." TASE (2026).
   [[paper](https://ieeexplore.ieee.org/document/11658725)] 
   [[code]( )]
+
+- **VSPT:** Qiao Liu; Chenghong Shi; Di Yuan; Xin Li; Yunpeng Liu.<br />
+  "Visual and Semantic Prior for Thermal Infrared Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11675916)] 
+  [[code](https://github.com/honggg-source/VSPT)]
 
 - **DDAT:** Qiao Liu, Qiao Li, Xin Li, Jiatian Pi, Di Yuan, Yunpeng Liu.<br />
   "Unsupervised Domain Adaptive Thermal Infrared Tracking." TMM (2026).
