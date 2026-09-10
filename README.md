@@ -1042,6 +1042,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11597947)] 
   [[code]( )]
 
+- **HucrTrack:** Yuzeng Chen; Qiangqiang Yuan; Hong Xie; Xin Su; Yuqi Tang; Renxiang Guan, Li Liu, Xinwang Liu, Liangpei Zhang.<br />
+  "Beyond Stepwise Modeling: Towards a Unified Contextual Reasoning Framework for Hyperspectral Video Object Tracking." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11677293)] 
+  [[code]( )]
+
 - **FSMT:** Long Gao, Zhuoyan Liu, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.<br />
   "FSMT: Frequency-Spatial Mixture-of-Experts Hyperspectral Object Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11526988)] 
@@ -1060,6 +1065,11 @@
 - **IWATrack:** Shiyu Zhang; Tianyang Xu; Zhangyong Tang; Xiao-Jun Wu; Josef Kittler.<br />
   "Focusing on What Matters: Importance Weighted Attention for RGB-T Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11658928)] 
+  [[code]( )]
+
+- **AALTrack:** Lili Huang; Chengzhi Yan; Jiandong Jin; Lei Liu; Chenglong Li.<br />
+  "Efficient RGBT Tracking via Alternating Attention Learning." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11677201)] 
   [[code]( )]
 
 - **ProMoT:** Jia Chen, Rui Xu, Si Chen, Yuzhen Niu, Yan Yan, Da-Han Wang.<br />
