@@ -2235,7 +2235,7 @@
   "DualFormer: A dual-branch transformer framework for frame-event tracking with complementary fusion attention and sparse spatial channel attention." EAAI (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0952197626000023)] 
   [[code]( )]
-  
+
 - **DiffDf:** Long Xu, Peng Gao, Wen-Jia Tang, Fei Wang, Ru-Yue Yuan.<br />
   "Towards Effective and Efficient Adversarial Defense with Diffusion Models for Robust Visual Tracking." INFFUS (2025).
   [[paper](https://arxiv.org/abs/2506.00325)] 
@@ -2630,7 +2630,12 @@
   "Multi-modal Adapter for RGB-T Tracking." INFFUS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000132)] 
   [[code](https://github.com/ouha1998/MAT)]
-  
+
+- **ProtoTrack:** Lei Liu, Chenglong Li, Futian Wang, Longfeng Shen, Jin Tang.<br />
+  "Prototype-based cross-modal object tracking." INFFUS (2025).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000144)] 
+  [[code]( )]
+
 - **FPDT:** Lihua Qi, Haijun Wang, Haoyu Qu, Zihao Su.<br />
   "Learning Adaptive Frequency-Prompt Denoising Transformer for UAV Nighttime Tracking." KBS (2025).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125013802)] 
@@ -2801,11 +2806,6 @@
   [[paper](https://ieeexplore.ieee.org/document/10949728)] 
   [[code](https://github.com/Zhangyong-Tang/M3Track)]
 
-- **AdaMoT:** Yongjun Wang, Xiaohui Hao.<br />
-  "AdaMoT: Adaptive Motion-Aware Transformer for Efficient Visual Tracking." SPL (2025).
-  [[paper](https://ieeexplore.ieee.org/document/10935672)] 
-  [[code]( )]
-
 - **EMTrack:** Xianda Xu, Shilong Jing, Zeshu Zhang, Chao Chen, Guangsha Guo, Hengyi Lv.<br />
   "EMTrack: Event-guide Multimodal Transformer for Challenging Single Object Tracking." TGRS (2025).
   [[paper](https://ieeexplore.ieee.org/document/11026009)] 
@@ -2834,11 +2834,6 @@
 - **TADMT:** Guocai Du, Peiyong Zhou, Nurbiya Yadikar, Alimjan Aysa, Kurban Ubul.<br />
   "Mamba Meets Tracker: Exploiting Token Aggregation and Diffusion for Robust Unmanned Aerial Vehicles Tracking." CAIS (2025).
   [[paper](https://link.springer.com/article/10.1007/s40747-025-01821-z)] 
-  [[code]( )]
-
-- **FCSurvey:** Wenqi Zhang, Xinqiang Li, Xingyu Liu, Shiteng Lu, Huanling Tang.<br />
-  "Facing Challenges: A Survey of Object Tracking." DSP (2025).
-  [[paper](https://www.sciencedirect.com/science/article/pii/S1051200425001046)] 
   [[code]( )]
   
 - **BFTrans:** Xinglong Sun, Haijiang Sun, Shan Jiang, Jiacheng Wang, Jiasong Wang.<br />
