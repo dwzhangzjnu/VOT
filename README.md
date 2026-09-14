@@ -651,7 +651,12 @@
   "Cross-Modal UAV Object Tracking: State-Aware Representation Learning and A Unified Benchmark." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.18768)]
   [[code](https://github.com/hongsmile365/sarla-)]
-  
+
+- **DRL:** Jue Liu; Lei Liu; Chenglong Li; Jin Tang; Feng Chen.<br />
+  "Robust Cross-Modal Object Tracking via Disentangled Representation Learning." TETCI (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11684385)]
+  [[code]( )]
+
 - **VL-UniTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
   "VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.04574)]
@@ -1092,11 +1097,16 @@
   [[paper](https://ieeexplore.ieee.org/document/11386976)] 
   [[code](https://github.com/saizhou777/SELA-ViT)]
 
+- **UVTrack3D:** Wen Guo; Minglei Gu; Tuo Wang; Junyu Gao; Tianzhu Zhang; Changsheng Xu.<br />
+  "UVTrack3D: Toward Category-Unified Structured Voxel Representation for 3D Single Object Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11684866)] 
+  [[code](https://github.com/GNoyual/UVTrack3D)]
+
 - **SPT:** Chenglizhao Chen, Shaofeng Liang, Luming Li, Mengke Song, Xu Yu, Shanchen Pang.<br />
   "Adapting Visual Trackers to Dynamic View Transitions with Shift-view Prompt Tuning." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11417211)] 
   [[code]( )]
-  
+
 - **DGTrack:** Jinglin Zhou, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
   "Adaptive Continual Learning for Online Visual Object Tracking via Dynamic Grassmannian Appearance Modelling." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363582)] 
