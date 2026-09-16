@@ -8,6 +8,11 @@
   [[paper](https://arxiv.org/abs/2502.21321)]
   [[code](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training)]
 
+- **Hyper-LLaVA:** Kunlun Xu, Yanqin Zhang, Wenwen Qiang, Jiahuan Zhou.<br />
+  "Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning." ICML (2026).
+  [[paper](https://arxiv.org/abs/2609.13742)]
+  [[code](https://github.com/zhoujiahuan1991/ICML2026-Hyper-LLaVA)]
+
 - **VLM-based VLA Models:** Rui Shao, Wei Li, Lingsen Zhang, Renshan Zhang, Zhiyang Liu, Ran Chen, Liqiang Nie.<br />
   "Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey." arXiv (2026).
   [[paper](https://arxiv.org/abs/2508.13073)]
