@@ -746,6 +746,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11391514)] 
   [[code](https://github.com/hongkai-wei)]
 
+- **MAETrack:** Sifan Zhou, Qiwei Wang, Linyue Tan, Ziyu Liu, Ziyu Zhao, Xiaobo Lu.<br />
+  "MAETrack: Unleashing the Potential of Pretrained Geometric Priors for 3D Single Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.16695)] 
+  [[code]( )]
+
 - **EdgeDAM:** Syed Muhammad Raza, Syed Murtaza Hussain Abidi, Khawar Islam, Muhammad Ibrahim, Ajmal Saeed Mian.<br />
   "EdgeDAM: Real-time Object Tracking for Mobile Devices." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.05463)]
