@@ -287,15 +287,68 @@
   [[paper](https://arxiv.org/abs/2607.00369)]
   [[code](https://github.com/watcherBR0/sfdatrack)]
 
+- **TR-MoE:** Tianle Wang, Xiangyang Yang, Jihua Zhu, Binrui Liu, YanZhao Li, and Shuiwang Li.<br />
+  "TR-MoE: Temporal Reliability-Aware Mixture-of-Experts for Robust Tracking." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37362-5_10)]
+  [[code](https://github.com/Avant1v/TR-MoE)]
+
+- **DASTrack:** Dailing Zhang, Shiyu Hu, Honghao Fu, Xiaokun Feng, Yipei Wang, Kang Hao Cheong, Kaiqi Huang.<br />
+  "Rethinking Temporal Modeling in Visual Object Tracking via Decoupled Auxiliary Supervision." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37432-5_12)]
+  [[code](https://github.com/ZhangDailing8/DASTrack)]
+
+- **ODONet:** Qinghua Liu, Wanli Xue, Shengyong Chen.<br />
+  "ODONet: Online Dynamic Offset Network for Visual Object Tracking." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/4749)]
+  [[code](https://github.com/WhiteButterflies/ODONet)]
+
 - **YesTrack:** Quansheng Hu, Qin Sun, Qiansen Dai, Jin Ding, Wan Zhang, Xue Zhou, Jianxiao Zou.<br />
   "YesTrack: Referring Multi-Object Tracking via MLLM-based Yes/No Verification." ECCV (2026).
   [[paper](https://arxiv.org/abs/2609.02318)]
   [[code](https://github.com/ggbondrighthere24/YesTrack)]
 
+- **MaST:** Qingmao Wei, Fagui Liu, Dengke Zhang, Qingze He, Quan Tang.<br />
+  "MaST: Motion-aware Sparse Pipeline for Lightweight Object Tracking." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2608.24365)]
+  [[code](https://github.com/TsingWei/MaST)]
+
+- **RGBT-GroundBench:** Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei.<br />
+  "RGBT-GroundBench: Visual Grounding Beyond RGB in Complex Real-World Scenarios." ECCV (2026).
+  [[paper](https://arxiv.org/abs/2512.24561)] 
+  [[code](https://github.com/crazyxiaoxi/RGBT-GroundBench)]
+
+- **LGCTrack:** Yueying Zhang, Timing Li, Bing Cao, Pengfei Zhu.<br />
+  "Local-to-global Cross-modal Coordination for Self-supervised RGB-T Tracking." ECCV (2026).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37627-5_19)]
+  [[code](https://github.com/zyyyya/LGCTrack)]
+  
+- **GAP-Track:** Shiyu Zhang, Tianyang Xu, Zhangyong Tang, Wang He, Xiao-Jun Wu, Josef Kittler.<br />
+  "GAP-Track: Bridging the Resolution Gap for Cross-Resolution RGBT Tracking." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/3545)]
+  [[code](https://github.com/shijiahahaha/GAPTrack)]
+
+- **OCTA-SOT:** Xiaokang Liu, Qi Jia, Jinrui Wang, Chengzhou Li, Yu Liu, Weimin Wang.<br />
+  "OCTA-SOT: Online Cross-Modal Trajectory Adjustment for RGBT Anti-UAV Single Object Tracking under Spatio-Temporal Misalignment." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/4855)]
+  [[code](https://github.com/xkliu-eps/AntiUAV_RGBT_Tracking)]
+
+- **PSMTrack:** Zixuan Wang, Baojie Fan, Jiajun Ai, Wenzhang Zhou.<br />
+  "Progressively Spiral Mamba Fusion for Multimodal Tracking." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/3752)]
+
+- **FeatTracker:** Jiaqing Li, Bin Lin, Chaocan Xue, Wu Ai, Qingping Zheng.<br />
+  "FeatTracker: Short- and Long-Range Temporal Feature Consistency for Robust Underwater Object Tracking." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/3939)]
+  [[code](https://github.com/fishgfish/FeatTracker)]
+
 - **CoMaTrack:** Youzhi Liu, Li Gao, Liu Liu, Mingyang Lv, Yang Cai.<br />
   "CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models." ECCV (2026).
   [[paper](https://arxiv.org/abs/2603.22846)]
   [[code](https://github.com/wlqcode/CoMaTrack-Bench)]
+
+- **VATA:** Haowei Sun, Shiteng Zhang, Jinwu Hu, Kaining Chen, Mingkui Tan.<br />
+  "Stabilizing Real-World Visual Active Tracking with Action-Smooth Test-Time Adaptation." ECCV (2026).
+  [[paper](https://eccv.ecva.net/virtual/2026/poster/4009)]
 
 - **Whareformer:** Jacob Chalk, Saptarshi Sinha, Dima Damen, Yannis Kalantidis, Diane Larlus.<br />
   "Whareformer: Learning to Track What is Where in Long Egocentric Videos." ECCV (2026).
@@ -311,36 +364,7 @@
   "Boosting Text-Driven Video Segmentation via Geometry-Aware Distillation." ECCV (2026).
   [[paper](https://arxiv.org/abs/2606.24464)]
   [[code](https://github.com/Tony1882880/GeoLaV)]
-  
-- **TR-MoE:** Tianle Wang, Xiangyang Yang, Jihua Zhu, Binrui Liu, YanZhao Li, and Shuiwang Li.<br />
-  "TR-MoE: Temporal Reliability-Aware Mixture-of-Experts for Robust Tracking." ECCV (2026).
-  [[paper]( )]
-  [[code](https://github.com/Avant1v/TR-MoE)]
-  
-- **MaST:** Qingmao Wei, Fagui Liu, Dengke Zhang, Qingze He, Quan Tang.<br />
-  "MaST: Motion-aware Sparse Pipeline for Lightweight Object Tracking." ECCV (2026).
-  [[paper](https://arxiv.org/abs/2608.24365)]
-  [[code](https://github.com/TsingWei/MaST)]
 
-- **RGBT-GroundBench:** Tianyi Zhao, Jiawen Xi, Linhui Xiao, Junnan Li, Xue Yang, Maoxun Yuan, Xingxing Wei.<br />
-  "RGBT-GroundBench: Visual Grounding Beyond RGB in Complex Real-World Scenarios." ECCV (2026).
-  [[paper](https://arxiv.org/abs/2512.24561)] 
-  [[code](https://github.com/crazyxiaoxi/RGBT-GroundBench)]
-
-- **LGCTrack:** Yueying Zhang, Timing Li, Bing Cao, Pengfei Zhu.<br />
-  "Local-to-global Cross-modal Coordination for Self-supervised RGB-T Tracking." ECCV (2026).
-  [[paper]( )]
-  [[code](https://github.com/zyyyya/LGCTrack)]
-  
-- **GAP-Track:**  .<br />
-  "GAP-Track: Bridging the Resolution Gap for Cross-Resolution RGBT Tracking." ECCV (2026).
-  [[paper]( )]
-
-- **PSMF:**  .<br />
-  "Progresvely Spiral Mamba Fuson for Multimodal Tracking." ECCV (2026).
-  [[paper]( )]
-
-  
   
 ### AAAI 2026
 
@@ -1285,6 +1309,11 @@
 - **CAST:** Xiantao Hu, Fansheng Zeng, Bineng Zhong, Zhangyong Tang, Wenxuan Fang, Jun Li, Ying Tai, Jian Yang.<br />
   "Curriculum Adaptation for One-Stream RGB–T Tracking." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326004607)] 
+  [[code]( )]
+
+- **UTPTrack:** Li Yin, Yi Fan, Yu Sun, Baigang Mi.<br />
+  "UTPTrack: Unlocking Text Potential via cascaded alignment and adaptive temporal modeling for Vision–Language Tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S003132032601616X)] 
   [[code]( )]
 
 - **SSFTrack:** Wei Wei, Haolie Wang, Yuduo Bian, Haijiao Xing, Chen Ding, Lei Zhang, Tao Zhou, Jiangbin Zheng, Yanning Zhang.<br />
