@@ -831,6 +831,11 @@
   [[paper](https://arxiv.org/abs/2604.13426)] 
   [[code]( )]
 
+- **Mask IPL:** Yimeng Shan, Malu Zhang.<br />
+  "Mask IPL: Noise-Free Intrinsic Position Learning via Computation Graph Clipping for Event-Based Spike-Driven Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.18716)] 
+  [[code]( )]
+
 - **FeedbackTrack:** Yueyang Cang, Xiaoteng Zhang, Zhiyuan Ning, Yuchen He, Li Shi.<br />
   "FeedbackTrack: Visual-Cortex-Inspired Cross-Frame Feedback for Transformer Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.09369)]
