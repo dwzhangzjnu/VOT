@@ -130,7 +130,7 @@
   [[code]( )]
 
 - **SDTrack:** Yimeng Shan, Zhenbang Ren, Haodi Wu, Wenjie Wei, Rui-Jie Zhu, Shuai Wang, Dehao Zhang, Yichen Xiao, Jieyuan Zhang, Kexin Shi, Jingzhinan Wang, Jason K. Eshraghian, Haicheng Qu, Jiqing Zhang, Malu Zhang.<br />
-  "SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks." CVPR (2025).
+  "SDTrack: A Baseline for Event-based Tracking via Spiking Neural Networks." CVPR (2026).
   [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Shan_SDTrack_A_Baseline_for_Event-based_Tracking_via_Spiking_Neural_Networks_CVPR_2026_paper.html)] 
   [[code](https://github.com/YmShan/SDTrack)]
   
