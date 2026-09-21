@@ -931,6 +931,11 @@
   [[paper](https://link.springer.com/article/10.1007/s11263-026-02878-0)]
   [[code](https://github.com/dongdong2061/UATrack)]
 
+- **MICTracker:** Xuefeng Zhu, Tianyang Xu, Yifan Pan, Xiao-Jun Wu, Josef Kittler .<br />
+  "MICTracker: Modality Informativeness Controlled Multi-modal Fusion for Adaptive RGB-D Visual Tracking." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-026-03048-y)]
+  [[code]( )]
+
 - **GLAD:** Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu, Limin Wang.<br />
   "GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates." IJCV (2026).
   [[paper](https://arxiv.org/abs/2602.00570)]
