@@ -1336,6 +1336,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326002761)] 
   [[code]( )]
 
+- **M3VTrack:** Kaixiang Yan, Xue Wang, Cong Bi, Qingsong Zhao, Wenhua Qian.<br />
+  "Multi-modal and multi-view object tracking via sequential probability distribution fusion." INFFUS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526006780)] 
+  [[code]( )]
+
 - **ICAttack:** Xinyu Xiang, Xuying Wu, Shengxiang Li, Qinglong Yan, Tong Zou, Hao Zhang, Jiayi Ma.<br />
   "Adversarial Perturbation for RGB-T Tracking via Intra-modal Excavation and Cross-modal Collusion." INFFUS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S156625352600062X)] 
