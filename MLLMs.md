@@ -8,6 +8,16 @@
   [[paper](https://arxiv.org/abs/2502.21321)]
   [[code](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training)]
 
+- **LLM-Discrete-Tokenization-Survey:** Jindong Li, Yali Fu, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang, Irwin King, Ming-Hsuan Yang.<br />
+  "Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey." TPAMI (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11455337)]
+  [[code](https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey)]
+
+- **CLIP-Powered DG/DA:** Jindong Li, Yongguang Li, Yali Fu, Jiahong Liu, Yixin Liu, Menglin Yang, Irwin King.<br />
+  "CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey." TPAMI (2026).
+  [[paper](https://arxiv.org/abs/2504.14280)]
+  [[code](https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation)]
+
 - **Hyper-LLaVA:** Kunlun Xu, Yanqin Zhang, Wenwen Qiang, Jiahuan Zhou.<br />
   "Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning." ICML (2026).
   [[paper](https://arxiv.org/abs/2609.13742)]
