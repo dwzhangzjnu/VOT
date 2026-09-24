@@ -845,6 +845,11 @@
   [[paper](https://arxiv.org/abs/2601.11910)]
   [[code]( )]
 
+- **SBMVTrack:** Pengzhi Zhong, Jiwei Mo, Haolun Li, Ge Zheng, Jingqi Wang, Xinyi Bo, Shuiwang Li.<br />
+  "SBMVTrack: Spike-Budgeted Multi-View Learning for Energy-Efficient UAV Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.25503)]
+  [[code]( )]
+
 - **SATATrack:** Xiaozhen Qiao, Da Zhang, Yubin Guo, Junyu Gao, Zhiyuan Zhao, Xuelong Li.<br />
   "Semantic-Aware Temporal Adaptation for UAV Anti-UAV Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.26511)]
@@ -1340,6 +1345,11 @@
   "Multi-modal and multi-view object tracking via sequential probability distribution fusion." INFFUS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526006780)] 
   [[code]( )]
+
+- **DSRTrack:** Jingjing Li, Hanlin Qin, Yue Yu, Shuai Yuan, Xupei Zhang, Juliu Li, Steven Landgraf.<br />
+  "DSRTrack: Disturbance-Aware State Recovery and Volatility Regulation for RGB-T Tracking." INFFUS (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526006792)] 
+  [[code](https://github.com/qixi-alt/DSRTrack)]
 
 - **ICAttack:** Xinyu Xiang, Xuying Wu, Shengxiang Li, Qinglong Yan, Tong Zou, Hao Zhang, Jiayi Ma.<br />
   "Adversarial Perturbation for RGB-T Tracking via Intra-modal Excavation and Cross-modal Collusion." INFFUS (2026).
