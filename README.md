@@ -1046,6 +1046,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11658725)] 
   [[code]( )]
 
+- **PADTrack:** Qiao Liu; Jingyuan Guo; Di Yuan; Xin Li; Yunpeng Liu.<br />
+  "PADTrack: Prior-guided Anisotropic Thermal Diffusion for Thermal Infrared Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11701598)] 
+  [[code]( )]
+
 - **VSPT:** Qiao Liu; Chenghong Shi; Di Yuan; Xin Li; Yunpeng Liu.<br />
   "Visual and Semantic Prior for Thermal Infrared Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11675916)] 
