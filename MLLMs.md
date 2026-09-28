@@ -28,6 +28,11 @@
   [[paper](https://arxiv.org/abs/2508.13073)]
   [[code](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)]
 
+- **ProCAP:** Hiwa Azeez Abbas, Fatemeh Daneshfar, Moloud Abdar.<br />
+  "ProCAP: Probabilistic Cross-Attentive Prompt Learning for Vision-Language Models." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.30434)]
+  [[code](https://github.com/hiwea/ProCAP)]
+  
 
 ### 2025
 
