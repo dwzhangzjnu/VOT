@@ -23,6 +23,11 @@
   [[paper](https://arxiv.org/abs/2609.13742)]
   [[code](https://github.com/zhoujiahuan1991/ICML2026-Hyper-LLaVA)]
 
+- **Survey-EVLA:** Zhaoshu Yu, Bo Wang, Pengpeng Zeng, Haonan Zhang, Ji Zhang, Zheng Wang, Lianli Gao, Jingkuan Song, Nicu Sebe, Heng Tao Shen.<br />
+  "A Survey on Efficient Vision-Language-Action Models." TPAMI (2026).
+  [[paper](https://arxiv.org/abs/2510.24795)]
+  [[code](https://evla-survey.github.io/)]
+
 - **VLM-based VLA Models:** Rui Shao, Wei Li, Lingsen Zhang, Renshan Zhang, Zhiyang Liu, Ran Chen, Liqiang Nie.<br />
   "Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey." arXiv (2026).
   [[paper](https://arxiv.org/abs/2508.13073)]
