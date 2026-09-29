@@ -864,7 +864,12 @@
   "Fully Spiking Neural Networks with Target Awareness for Energy-Efficient UAV Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.27493)]
   [[code](https://anonymous.4open.science/r/STATrack/README.md)]
-  
+
+- **LoopTrack:** Liang Peng, Chenxiao Li, Libo Zhang, Xingping Dong, Heng Fan.<br />
+  "LoopTrack: A Simple Baseline for Parameter-Efficient Transformer Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.33306)]
+  [[code]( )]
+
 - **SiamGM:** Zixiao Wen, Zhen Yang, Jiawei Li, Xiantai Xiang, Guangyao Zhou, Yuxin Hu, Yuhan Liu.<br />
   "SiamGM: Siamese Geometry-Aware and Motion-Guided Network for Real-Time Satellite Video Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.07564)]
@@ -884,7 +889,12 @@
   "End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking." arXiv (2026).
   [[paper](https://arxiv.org/abs/2605.20569)] 
   [[code](https://github.com/han030927/E2EMPT)]
-  
+
+- **HyperDAM:** Ryoga Yuzawa, Tasuku Takagi.<br />
+  "HyperDAM: Hyperspectral Distractor-Aware Memory with Amodal Expansion for SAM 3 Tracking." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.34396)] 
+  [[code](https://github.com/RyogaYuzawa/hotc2026-hyperdam)]
+
 - **SpecTrack:** Xingyu Tan, Yunrong Qin, Mengjie Hu.<br />
   "SpecTrack: Spectral Prompt Guided Adaptive Experts for Multispectral Object Tracking." arXiv (2026).
   [[paper](https://arxiv.org/abs/2607.05988)] 
