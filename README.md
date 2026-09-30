@@ -766,6 +766,11 @@
   [[paper](https://arxiv.org/abs/2608.01807)]
   [[code]( )]
 
+- **ESMTrack:** Shenglan Li, Rui Yao, Kunyang Sun, Hong Jia, Yong Zhou, Javen Qinfeng Shi, Xinyu Zhang.<br />
+  "End-to-End Self-Supervised RGB-T Tracking without Modality Misleading." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.37162)]
+  [[code](https://github.com/LiShenglana/ESMTrack)]
+
 - **ACTrack:** Wenrui Cai, Yuzhe Li, Qingjie Liu, Yunhong Wang.<br />
   "Models as Tools: An Agentic Coordination Framework for Unified Multimodal Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.00847)] 
