@@ -681,6 +681,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11684385)]
   [[code]( )]
 
+- **TSDA-Track:** Fereshteh Aghaee Meibodi, Amir Mehdi Soufi Enayati, Shadi Alijani, Homayoun Najjaran.<br />
+  "Template-Search Domain Adaptation via Multi-Stage Feature Alignment for Cross-Modal Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2609.38637)]
+  [[code]( )]
+
 - **VL-UniTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
   "VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.04574)]
