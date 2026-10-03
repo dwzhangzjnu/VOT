@@ -1236,6 +1236,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11569084)] 
   [[code](https://github.com/creenciaxz/HOTMM)]
 
+- **UST-Net:** Yanni Dong; Jiaqi Zhang; Xiaole Han; Jiawei Zhou.<br />
+  "UST-Net: Unified Spatial–Spectral–Temporal Modeling for Adaptive Hyperspectral Object Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11701388)] 
+  [[code]( )]
+
 - **S3T-FFS:** Hanzheng Wang, Wei Li, Xiang-Gen Xia, Bolun Cui, Zhicheng Shi, Hongyang Lin.<br />
   "Bring KANs to Tracker: A Nonlinear Fusion Strategy Over Frequency Decoupling for Temporal Hyperspectral Object Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11367018)] 
@@ -1354,6 +1359,11 @@
 - **CAST:** Xiantao Hu, Fansheng Zeng, Bineng Zhong, Zhangyong Tang, Wenxuan Fang, Jun Li, Ying Tai, Jian Yang.<br />
   "Curriculum Adaptation for One-Stream RGB–T Tracking." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326004607)] 
+  [[code]( )]
+
+- **DMATrack:** Bin Fan, Feng Gao, Hongmin Liu.<br />
+  "Dynamic modality activation for RGB-T tracking with prompt-guided enhancement and hierarchical fusion." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326020054)] 
   [[code]( )]
 
 - **UTPTrack:** Li Yin, Yi Fan, Yu Sun, Baigang Mi.<br />
