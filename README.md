@@ -824,7 +824,7 @@
 - **STDV:** Yuting He; Bin Fan; Zhongyang Ren; Qi Liu; Yuchao Dai.<br />
   "Learning Spatio-Temporal Dynamic Event Voxels for Robust Event-based Object Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11711220)] 
-  [[code](npucvr.github.io/STDV)]
+  [[code](https://npucvr.github.io/STDV/)]
 
 - **APMTrack:** Shiao Wang, Xiao Wang, Haonan Zhao, Jiarui Xu, Bo Jiang, Lin Zhu, Xin Zhao, Yonghong Tian, Jin Tang.<br />
   "Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking." ArXiv (2026).
