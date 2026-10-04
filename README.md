@@ -821,6 +821,11 @@
   [[paper](https://arxiv.org/abs/2605.06112)] 
   [[code](https://github.com/Event-AHU/OpenEvTracking)]
 
+- **STDV:** Yuting He; Bin Fan; Zhongyang Ren; Qi Liu; Yuchao Dai.<br />
+  "Learning Spatio-Temporal Dynamic Event Voxels for Robust Event-based Object Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11711220)] 
+  [[code](npucvr.github.io/STDV)]
+
 - **APMTrack:** Shiao Wang, Xiao Wang, Haonan Zhao, Jiarui Xu, Bo Jiang, Lin Zhu, Xin Zhao, Yonghong Tian, Jin Tang.<br />
   "Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2601.01022)] 
@@ -1070,6 +1075,11 @@
   "PADTrack: Prior-guided Anisotropic Thermal Diffusion for Thermal Infrared Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11701598)] 
   [[code]( )]
+
+- **STRF:** Qiao Li; Xueli Xie; Jianxiang Xi; Jingtian Zhao; Yunpeng Liu; Qiao Liu.<br />
+  "Search Token Reliability Modeling for Thermal Infrared Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11704859)] 
+  [[code](https://github.com/brave-ciao/STRF)]
 
 - **VSPT:** Qiao Liu; Chenghong Shi; Di Yuan; Xin Li; Yunpeng Liu.<br />
   "Visual and Semantic Prior for Thermal Infrared Tracking." TMM (2026).
