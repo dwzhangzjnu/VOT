@@ -1146,6 +1146,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11638211)] 
   [[code](https://github.com/qixi-alt/GPTrack)]
 
+- **FAFNet:** Dengdi Sun; Boshi Gao; Zhaodong Ding; Chenglong Li; Jin Tang; Bin Luo.<br />
+  "Frequency-based Adaptive Fusion Network for RGBT Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11715856)] 
+  [[code](https://github.com/Oneboboc/FAFNet)]
+
 - **IWATrack:** Shiyu Zhang; Tianyang Xu; Zhangyong Tang; Xiao-Jun Wu; Josef Kittler.<br />
   "Focusing on What Matters: Importance Weighted Attention for RGB-T Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11658928)] 
@@ -1310,6 +1315,11 @@
   "VETD220: A Visible-Event Benchmark and Baseline for Tracking Drones." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11458000)] 
   [[code](https://github.com/QiuuuJY/VETD220)]
+
+- **MTV:** Zhenyuan Xiao; Guangming Wang; Shenghai Yuan; Jianqi Yin; Mudan Wang; Hao Shi.<br />
+  "MTV: Selective State Space Tracker for Infrared UAV." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11717526)] 
+  [[code](https://github.com/AmazingDay1/MTV)]
 
 - **TAPTrack:** Xiaolong Cui, Xingxiu Li, Panlong Wu, Xinan Liu, Shan He.<br />
   "TAPTrack: An Efficient Temporal-Aware Prompt Tracker for Infrared Anti-UAV Tracking." TGRS (2026).
