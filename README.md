@@ -1331,6 +1331,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11333927)] 
   [[code](https://github.com/yitongli123/TSTrans)]
 
+- **SCRTrack:** Xiaowen Zhang; Haijiang Sun; Hanqing Sun; Hongliang Chang; Xilai Wei; Chao Ma.<br />
+  "Reliability-Aware Spatiotemporal Consistency Regulation for Satellite Video Tracking." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11718847)] 
+  [[code]( )]
+
 - **JointTrack:** Han Wu, Kui Liu, Yuli Sun, Hao Sun, Kefeng Ji, Gangyao Kuang.<br />
   "JointTrack: Densely joint feature extraction and interaction via temporal–spatial prompt learning for object tracking in multi-drone videos." TGRS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0924271626002571)] 
