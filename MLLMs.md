@@ -23,6 +23,11 @@
   [[paper](https://arxiv.org/abs/2609.13742)]
   [[code](https://github.com/zhoujiahuan1991/ICML2026-Hyper-LLaVA)]
 
+- **MoL:** Jeonghwan Kim, Sofia Stoica, Jiwan Chung, Ansel Blume, Hyeonjeong Ha, Zhenhailong Wang, Xin Luna Dong, Heng Ji.<br />
+  "Mixture of Layers: Dynamic Layer Routing for Visual Reasoning." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.09440)]
+  [[code](https://wjdghks950.github.io/mol.github.io/)]
+
 - **Survey-EVLA:** Zhaoshu Yu, Bo Wang, Pengpeng Zeng, Haonan Zhang, Ji Zhang, Zheng Wang, Lianli Gao, Jingkuan Song, Nicu Sebe, Heng Tao Shen.<br />
   "A Survey on Efficient Vision-Language-Action Models." TPAMI (2026).
   [[paper](https://arxiv.org/abs/2510.24795)]
