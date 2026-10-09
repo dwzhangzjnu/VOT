@@ -28,6 +28,16 @@
   [[paper](https://arxiv.org/abs/2610.09440)]
   [[code](https://wjdghks950.github.io/mol.github.io/)]
 
+- **SLVR:** Albert Gao, Bing Xue, Andrea Zanette.<br />
+  "SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.10563)]
+  [[code](https://bogao-code.github.io/SLVR/)]
+
+- **ComCLIP:** Zidan Wang, Yaqian Li, Xiaokai Zhang, Kaiwen Long, Kun He, Hanpeng Liu.<br />
+  "Rethinking Contrastive Loss in CLIP Post-training: A Complementary Framework with Frozen Text Encoder." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2610.11374)]
+  [[code](https://github.com/showstarpro/ComCLIP)]
+
 - **Survey-EVLA:** Zhaoshu Yu, Bo Wang, Pengpeng Zeng, Haonan Zhang, Ji Zhang, Zheng Wang, Lianli Gao, Jingkuan Song, Nicu Sebe, Heng Tao Shen.<br />
   "A Survey on Efficient Vision-Language-Action Models." TPAMI (2026).
   [[paper](https://arxiv.org/abs/2510.24795)]
@@ -37,6 +47,11 @@
   "Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey." arXiv (2026).
   [[paper](https://arxiv.org/abs/2508.13073)]
   [[code](https://github.com/JiuTian-VL/Large-VLM-based-VLA-for-Robotic-Manipulation)]
+
+- **AIMS:** Shuran Ma, JiaLe Li, Yuxin Dong, Shan Zheng, Qingyun Jiang, Xiang Chen, Qi Zhu, Deyi Ji, Yifan Yang, Jianfeng Pan, Yu Tian, Xue Yang.<br />
+  "Beyond Visual Enhancement: Adaptive Multi-Context Steering to Mitigate LVLM Hallucinations." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.11907)]
+  [[code](https://github.com/VisionXLab/AIMS)]
 
 - **ProCAP:** Hiwa Azeez Abbas, Fatemeh Daneshfar, Moloud Abdar.<br />
   "ProCAP: Probabilistic Cross-Attentive Prompt Learning for Vision-Language Models." arXiv (2026).
