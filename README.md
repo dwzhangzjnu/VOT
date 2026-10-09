@@ -672,7 +672,7 @@
   [[code](https://github.com/zhaodongAH/DRGBT-1K)]
 
 - **SARLA:** Yun Xiao, Zhihong Hong, Jiandong Jin, Chenglong Li, Jin Tang, Amir Hussain.<br />
-  "Cross-Modal UAV Object Tracking: State-Aware Representation Learning and A Unified Benchmark." ArXiv (2026).
+  "Cross-Modal UAV Object Tracking: State-Aware Representation Learning and A Unified Benchmark." TCSVT (2026).
   [[paper](https://arxiv.org/abs/2607.18768)]
   [[code](https://github.com/hongsmile365/sarla-)]
 
