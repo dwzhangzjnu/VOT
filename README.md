@@ -936,6 +936,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11668692)]
   [[code]( )]
 
+- **CAMATrack:** Tianyang Xu; Yong Zhou; Xuefeng Zhu; Xiao-Jun Wu; Josef Kittler.<br />
+  "Learning Channel-Aware Metric Attention for Harmonised Online Visual Object Tracking." TPAMI (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11731524)]
+  [[code]( )]
+
 - **SMTrack:** Yinchao Ma, Dengqing Yang, Zhangyu He, Wenfei Yang, Tianzhu Zhang.<br />
   "SMTrack: State-Aware Mamba for Efficient Temporal Modeling in Visual Tracking." TIP (2026).
   [[paper](https://arxiv.org/abs/2602.01677)] 
