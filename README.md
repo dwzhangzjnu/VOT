@@ -780,7 +780,12 @@
   "Models as Tools: An Agentic Coordination Framework for Unified Multimodal Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2608.00847)] 
   [[code]( )]
-  
+
+- **UniMergeTrack:** Shiao Wang, Xiao Wang, Yuhe Ding, Jiarui Xu, Zikang Yan, Bo Jiang, Yonghong Tian, Jin Tang.<br />
+  "UniMergeTrack: Hierarchical Model Merging for General RGB-X Visual Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.13053)] 
+  [[code](https://github.com/Event-AHU/OpenEvTracking)]
+
 - **Uni-MDTrack:** Wenrui Cai, Zhenyi Lu, Yuzhe Li, Yongchao Feng, Jinqing Zhang, Qingjie Liu, Yunhong Wang.<br />
   "Uni-MDTrack: Learning Decoupled Memory and Dynamic States for Parameter-Efficient Visual Tracking in All Modality." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2603.14452)] 
