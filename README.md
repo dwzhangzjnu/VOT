@@ -711,6 +711,11 @@
   [[paper](https://arxiv.org/abs/2604.02241)]
   [[code](https://github.com/Hub-Tian/UAV-Track_VLA)]
 
+- **VLX-Go:** Kyusong Lee, Heting Ying, Tiancheng Zhao.<br />
+  "VLX-Go: Robust Embodied Tracking through Multi-Stage Learning and On-Policy Refinement." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.19361)]
+  [[code]( )]
+
 - **CosFly-Track:** Xiangyue Wang, Hanxuan Chen, Songsheng Cheng, Ruilong Ren, Jie Zheng, Shuai Yuan, Tianle Zeng, Hanzhong Guo, Kangli Wang, Ji Pei.<br />
   "CosFly-Track: A Large-Scale Multi-Modal Dataset for UAV Visual Tracking via Multi-Constraint Trajectory Optimization." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.17776)]
