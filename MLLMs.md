@@ -23,10 +23,20 @@
   [[paper](https://arxiv.org/abs/2609.13742)]
   [[code](https://github.com/zhoujiahuan1991/ICML2026-Hyper-LLaVA)]
 
+- **V-GIFT:** Sophia Sirko-Galouchenko, Monika Wysoczanska, Andrei Bursuc, Nicolas Thome, Spyros Gidaris.<br />
+  "V-GIFT: Boosting Visual Instruction Tuning with Self-Supervised Guidance." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2604.12966)]
+  [[code](https://github.com/sirkosophia/V-GIFT)]
+
 - **MoL:** Jeonghwan Kim, Sofia Stoica, Jiwan Chung, Ansel Blume, Hyeonjeong Ha, Zhenhailong Wang, Xin Luna Dong, Heng Ji.<br />
   "Mixture of Layers: Dynamic Layer Routing for Visual Reasoning." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.09440)]
   [[code](https://wjdghks950.github.io/mol.github.io/)]
+
+- **NV-CoT:** Kesen Zhao, Beier Zhu, Junbao Zhou, Xingyu Zhu, Zhongqi Yue, Hanwang Zhang.<br />
+  "Thinking with Images as Continuous Actions: Numerical Visual Chain-of-Thought." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2602.23959)]
+  [[code](https://kesenzhao.github.io/NV-CoT/)]
 
 - **SLVR:** Albert Gao, Bing Xue, Andrea Zanette.<br />
   "SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows." NeurIPS (2026).
@@ -52,6 +62,11 @@
   "Beyond Visual Enhancement: Adaptive Multi-Context Steering to Mitigate LVLM Hallucinations." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.11907)]
   [[code](https://github.com/VisionXLab/AIMS)]
+
+- **DK-VLM:** Han Su, Meng Tian, Tianyu Huang, Mingyu Gao, Lennox Wei, Dongxu Li, Jianhua Han, Hang Xu, Xiaohe Wu, Wangmeng Zuo.<br />
+  "DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.22356)]
+  [[code](https://sumuru789.github.io/DK-VLM-website/)]
 
 - **ProCAP:** Hiwa Azeez Abbas, Fatemeh Daneshfar, Moloud Abdar.<br />
   "ProCAP: Probabilistic Cross-Attentive Prompt Learning for Vision-Language Models." arXiv (2026).
