@@ -615,6 +615,11 @@
   [[paper](https://arxiv.org/abs/2609.02471)]
   [[code](https://github.com/Multimedia-Analytics-Laboratory/PATT)]
 
+- **SAM3RL:** Tomáš Čížek, Matej Straka, Illia Volkov, Matěj Kripner, Ervin Macić, Jiri Matas, Klara Janouskova, Martin Schmid.<br />
+  "SAM3RL: Memory Control via Reinforcement Learning for Visual Object Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.19931)]
+  [[code]( )]
+
 - **AS-SAM2:** Tao Lv, Shenrun Ding, Yuji Wang, Yue Li, Xiaohuan Lu, Youliang Tian.<br />
   "AS-SAM2: Adaptive Self-correction for Visual Tracking with SAM2." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11506610)]
