@@ -1,6 +1,15 @@
 ## Multimodal-Large-Language-Models
 
 
+### 2027
+
+- **CatchUp:** Eunju Park, Uiwon Hwang.<br />
+  "CatchUp: Depth-Aware Re-Admission of Visual Tokens for Efficient Large Vision-Language Models." WACV (2027).
+  [[paper](https://arxiv.org/abs/2610.23324)]
+  [[code](https://github.com/pej0918/CatchUp)]
+
+
+
 ### 2026
 
 - **LLM Post-Training:** Komal Kumar, Tajamul Ashraf, Omkar Thawakar, Rao Muhammad Anwer, Hisham Cholakkal, Mubarak Shah, Ming-Hsuan Yang, Phillip H.S. Torr, Fahad Shahbaz Khan, Salman Khan.<br />
