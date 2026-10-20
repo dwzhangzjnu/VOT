@@ -72,10 +72,20 @@
   [[paper](https://arxiv.org/abs/2610.11907)]
   [[code](https://github.com/VisionXLab/AIMS)]
 
+- **Bifocal:** Peiran Yin, Hao Wu, Zihao Yang, Fengyu Zhou, Yijuan Liang, Haozhe Hu, Xudong Wang, Wei Zhang, Xiaoyu Shen.<br />
+  "Bifocal: Training-Free Mixed Granularity Visual Token Pruning for Multimodal LLMs." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.18399)]
+  [[code](https://github.com/EIT-NLP/Bifocal)]
+
 - **DK-VLM:** Han Su, Meng Tian, Tianyu Huang, Mingyu Gao, Lennox Wei, Dongxu Li, Jianhua Han, Hang Xu, Xiaohe Wu, Wangmeng Zuo.<br />
   "DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.22356)]
   [[code](https://sumuru789.github.io/DK-VLM-website/)]
+
+- **Unisense:** Shiyun Xiong, Dongming Wu, Peiwen Sun, Bokang Yang, Jiaxu Wang, Xiaolou Sun, Mingxing Wen, Xiangyu Yue.<br />
+  "Beyond Omni: A Unified MLLM for Embodied Sensory Understanding." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.26751)]
+  [[code](https://github.com/Shiyun-x/Unisense)]
 
 - **ProCAP:** Hiwa Azeez Abbas, Fatemeh Daneshfar, Moloud Abdar.<br />
   "ProCAP: Probabilistic Cross-Attentive Prompt Learning for Vision-Language Models." arXiv (2026).
