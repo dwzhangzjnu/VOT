@@ -82,6 +82,11 @@
   [[paper](https://arxiv.org/abs/2610.22356)]
   [[code](https://sumuru789.github.io/DK-VLM-website/)]
 
+- **WeVisOne-VL:** Tianming Liang, Junyi Pan, Yuxi Li, Canmiao Fu, Zhipeng Huang, Chong Sun, Chen Li, Jing Lyu.<br />
+  "WeVisOne-VL: Unified Visual Perception from Objects to Pixels." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.31329)]
+  [[code](https://github.com/Tencent/WeVisOne-VL)]
+
 - **Unisense:** Shiyun Xiong, Dongming Wu, Peiwen Sun, Bokang Yang, Jiaxu Wang, Xiaolou Sun, Mingxing Wen, Xiangyu Yue.<br />
   "Beyond Omni: A Unified MLLM for Embodied Sensory Understanding." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.26751)]
