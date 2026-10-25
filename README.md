@@ -2425,6 +2425,11 @@
   [[paper](https://ieeexplore.ieee.org/document/10975100)] 
   [[code]( )]
 
+- **SAVLT:** Jie Zhao; Xin Chen; Shengming Li; Chunjuan Bo; Dong Wang; Huchuan Lu.<br />
+  "Self-Adaptive Vision-Language Tracking With Context Prompting." TIP (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11284903)] 
+  [[code](https://github.com/zj5559/SAVLT)]
+
 - **UncTrack:** Siyuan Yao, Yang Guo, Yanyang Yan, Wenqi Ren, Xiaochun Cao.<br />
   "UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network." TIP (2025).
   [[paper](https://arxiv.org/abs/2503.12888)] 
@@ -4319,11 +4324,6 @@
   "Tracking Anything in High Quality." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.13974)] 
   [[code](https://github.com/jiawen-zhu/HQTrack)]
-
-- **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Bo Liu.<br />
-  "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2311.17085)] 
-  [[code]( )]
 
 - **PSTM:** Zechu Zhou, Xinyu Zhou, Zhaoyu Chen, Pinxue Guo, Qian-Yu Liu, Wenqiang Zhang.<br />
   "Memory Network With Pixel-Level Spatio-Temporal Learning for Visual Object Tracking." TCSVT (2023).
