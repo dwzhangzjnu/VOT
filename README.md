@@ -1496,6 +1496,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426013394)] 
   [[code](https://github.com/wwwshengbo/HATrack)]
 
+- **MAVT:** Ruke Xiong, Guixi Liu, Yinghao Li, Qian Lu, Yisong Xiao, Sen Li, Yi Zhang.<br />
+  "MAVT: Modality-Specific Enhancement and Adaptive Fusion Screening for Video-Level Frame-Event Tracking." ESWA (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426037218)] 
+  [[code]( )]
+
 - **IMSETrack:** Xianxin Jia, Zhiqiang Hou, Sugang Ma, Lei Pu.<br />
   "Implicit Motion State Modeling for Efficient and Effective Video-Level Object Tracking." ESWA (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426009966)] 
