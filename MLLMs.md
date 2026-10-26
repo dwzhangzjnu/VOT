@@ -57,6 +57,11 @@
   [[paper](https://arxiv.org/abs/2610.11374)]
   [[code](https://github.com/showstarpro/ComCLIP)]
 
+- **StemBind:** Xixiang He, Baiqi Wu, Xingming Li, Ao Cheng, Qiyao Sun, Xuanyu Ji, Qingyong Hu.<br />
+  "StemBind: When MLLMs Get Lost Between Rules and Instances in Abstract Visual Reasoning." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2606.00148)]
+  [[code](https://github.com/hexixiang/StemBind)]
+
 - **Survey-EVLA:** Zhaoshu Yu, Bo Wang, Pengpeng Zeng, Haonan Zhang, Ji Zhang, Zheng Wang, Lianli Gao, Jingkuan Song, Nicu Sebe, Heng Tao Shen.<br />
   "A Survey on Efficient Vision-Language-Action Models." TPAMI (2026).
   [[paper](https://arxiv.org/abs/2510.24795)]
