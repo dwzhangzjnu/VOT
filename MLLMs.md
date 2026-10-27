@@ -27,6 +27,11 @@
   [[paper](https://arxiv.org/abs/2504.14280)]
   [[code](https://github.com/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation)]
 
+- **DeCLIP:** Junjie Wang, Keyu Chen, Yulin Li, Bin Chen, Hengshuang Zhao, Xiaojuan Qi, Zhuotao Tian.<br />
+  "Generalized Decoupled Learning for Enhancing Open-Vocabulary Dense Perception." TPAMI (2026).
+  [[paper](https://arxiv.org/abs/2508.11256)]
+  [[code](https://github.com/xiaomoguhz/DeCLIP)]
+
 - **Hyper-LLaVA:** Kunlun Xu, Yanqin Zhang, Wenwen Qiang, Jiahuan Zhou.<br />
   "Hyper-LLaVA: Hyperbolic Uncertainty-aware Modality-Balanced Routing for Multimodal Continual Instruction Tuning." ICML (2026).
   [[paper](https://arxiv.org/abs/2609.13742)]
