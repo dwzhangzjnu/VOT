@@ -791,6 +791,11 @@
   [[paper](https://arxiv.org/abs/2608.00847)] 
   [[code]( )]
 
+- **Fed-MAPTrack:** Xiangyu Liu, Yijie Shen, Yue Yin, Zhitong Yin, Yongqi Pan, Wentao Fan.<br />
+  "Fed-MAPTrack: Federated Modality-aware Prompt Tuning for RGB-X Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2610.34939)] 
+  [[code]( )]
+
 - **UniMergeTrack:** Shiao Wang, Xiao Wang, Yuhe Ding, Jiarui Xu, Zikang Yan, Bo Jiang, Yonghong Tian, Jin Tang.<br />
   "UniMergeTrack: Hierarchical Model Merging for General RGB-X Visual Object Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2610.13053)] 
@@ -1170,6 +1175,11 @@
   "Frequency-based Adaptive Fusion Network for RGBT Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11715856)] 
   [[code](https://github.com/Oneboboc/FAFNet)]
+
+- **DYTrack:** Pinzhuo Chen; Haiyan Li; Yifan Wang; Guanbo Wang; Pengfei Yu; Xun Lang.<br />
+  "DYTrack: Discriminative Prior and Y-Shaped Topology for RGBT Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11744433)] 
+  [[code]( )]
 
 - **IWATrack:** Shiyu Zhang; Tianyang Xu; Zhangyong Tang; Xiao-Jun Wu; Josef Kittler.<br />
   "Focusing on What Matters: Importance Weighted Attention for RGB-T Tracking." TCSVT (2026).
