@@ -62,6 +62,11 @@
   [[paper](https://arxiv.org/abs/2606.00148)]
   [[code](https://github.com/hexixiang/StemBind)]
 
+- **SAYO:** Siqu Ou, Tianrui Wan, Zhiyuan Zhao, Junyu Gao, Xuelong Li.<br />
+  "Do MLLMs Really See It: Reinforcing Visual Attention in Multimodal LLMs." EMNLP (2026).
+  [[paper](https://arxiv.org/abs/2602.08241)]
+  [[code](https://github.com/Cratileo/Sayo)]
+
 - **Survey-EVLA:** Zhaoshu Yu, Bo Wang, Pengpeng Zeng, Haonan Zhang, Ji Zhang, Zheng Wang, Lianli Gao, Jingkuan Song, Nicu Sebe, Heng Tao Shen.<br />
   "A Survey on Efficient Vision-Language-Action Models." TPAMI (2026).
   [[paper](https://arxiv.org/abs/2510.24795)]
