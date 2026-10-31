@@ -606,8 +606,9 @@
 ### ArXiv 2026
 
 - **SAMOSA:** Deyi Zhu, Yuji Wang, Yong Liu, Yansong Tang, Bingyao Yu, Jiwen Lu, Jie Zhou.<br />
-  "Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking." ArXiv (2026).
-  [[paper](https://arxiv.org/abs/2605.22538)]
+  "Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking." TCSVT (2026).
+  [[arxiv](https://arxiv.org/abs/2605.22538)]
+  [[paper](https://ieeexplore.ieee.org/document/11753893)]
   [[code](https://github.com/DurYi/SAMOSA)]
 
 - **PATT:** Xin Chen, Jiao Xu, Dong Wang, Huchuan Lu, Kede Ma.<br />
@@ -1025,7 +1026,12 @@
   "Multi-event Representation and Multi-level Fusion for Robust RGB-event Object Tracking." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126003369)] 
   [[code]( )]
-  
+
+- **SANet:** Mianzhao Wang; Zixuan Zhang; Fan Shi; Xu Cheng; Shengyong Chen.<br />
+  "Spatial–Angular Aggregation with Sparse Awareness and Temporal Enhancement for Light Field Object Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11753891)] 
+  [[code]( )]
+
 - **EHCT:** Yun Zhou, Hongfu Yin, Chunyu Tan, Qiaoyun Wu, Changyin Sun, Richang Hong.<br />
   "An Efficient Hybrid Cascade Tracker with Spiking Neural Networks for Event Domain Tracking." TOMM (2026).
   [[paper](https://dl.acm.org/doi/10.1145/3795518)] 
@@ -1155,6 +1161,11 @@
   "Beyond Stepwise Modeling: Towards a Unified Contextual Reasoning Framework for Hyperspectral Video Object Tracking." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11677293)] 
   [[code]( )]
+
+- **UnHOT:** Simiao Lai; Yang Liu; Dong Wang; Huchuan Lu.<br />
+  "UnHOT: Toward Simple and Unified Hyperspectral Object Tracking." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11744633)] 
+  [[code](https://github.com/laisimiao/UnHOT)]
 
 - **FSMT:** Long Gao, Zhuoyan Liu, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.<br />
   "FSMT: Frequency-Spatial Mixture-of-Experts Hyperspectral Object Tracking." TCSVT (2026).
@@ -1416,10 +1427,10 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326004607)] 
   [[code]( )]
 
-- **DMATrack:** Bin Fan, Feng Gao, Hongmin Liu.<br />
-  "Dynamic modality activation for RGB-T tracking with prompt-guided enhancement and hierarchical fusion." PR (2026).
-  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326020054)] 
-  [[code]( )]
+- **MVTD:** Ahsan Baidar Bakht, Muhayy Ud Din, Sajid Javed, Irfan Hussain.<br />
+  "A large scale maritime visual object tracking dataset and benchmark." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326021564)] 
+  [[code](https://github.com/AhsanBaidar/MVTD)]
 
 - **UTPTrack:** Li Yin, Yi Fan, Yu Sun, Baigang Mi.<br />
   "UTPTrack: Unlocking Text Potential via cascaded alignment and adaptive temporal modeling for Vision–Language Tracking." PR (2026).
