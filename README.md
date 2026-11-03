@@ -561,6 +561,11 @@
   [[paper](https://arxiv.org/abs/2603.19628)]
   [[code](https://github.com/yiheng-wang-duke/DPTracker)]
 
+- **SProTrack:** Wangshu Cai, Jun Zhou, Lei Wang, Mohammad Aminul Islam, Xu Han, Kuldip Paliwal.<br />
+  "Latent Spectral Prompting for Multimodal Hyperspectral Object Tracking." WACV (2027).
+  [[paper](https://arxiv.org/abs/2611.02512)]
+  [[code]( )]
+
 - **MSRTrack:** Tong Shen, Di Wang, José M. F. Moura.<br />
   "MSRTrack: LLM-Powered Object Tracking with Motion and Semantic Reasoning." WACV (2026).
   [[paper](https://openaccess.thecvf.com/content/WACV2026/html/Shen_MSRTrack_LLM-Powered_Object_Tracking_with_Motion_and_Semantic_Reasoning_WACV_2026_paper.html)]
@@ -569,11 +574,6 @@
 - **DA-SAMURAI:** Tamara R. Lenhard, Andreas Weinmann, Hichem Snoussi, Tobias Koch.<br />
   "Detector-Augmented SAMURAI for Long-Duration Drone Tracking." WACVW (2026).
   [[paper](https://arxiv.org/abs/2601.04798)]
-  [[code]( )]
-
-- **SiamTrackCaps:** Abdullah M. Algamdi, Victor Sanchez, Chang-Tsun Li.<br />
-  "SiamTrackCaps: A Siamese-based Single Object Tracker Using Capsule Networks." WACVW (2026).
-  [[paper](https://wrap.warwick.ac.uk/id/eprint/196225/)]
   [[code]( )]
 
 - **HAM-SAM2:** Kanghua Pan, Guo Chen, Wei Zhu, Danhuai Zhao, Tong Lu.<br />
