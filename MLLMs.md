@@ -52,6 +52,11 @@
   [[paper](https://arxiv.org/abs/2602.23959)]
   [[code](https://kesenzhao.github.io/NV-CoT/)]
 
+- **TuneCLIP:** Anant Mehta, Xingyu Chen, Xiyuan Wei, Tianbao Yang.<br />
+  "Tune-Up Open-Weight CLIP: Optimization Framework for Self-Supervised Fine-tuning of CLIP." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2601.09859)]
+  [[code](https://github.com/Optimization-AI/TuneCLIP)]
+
 - **SLVR:** Albert Gao, Bing Xue, Andrea Zanette.<br />
   "SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.10563)]
@@ -86,6 +91,11 @@
   "Beyond Visual Enhancement: Adaptive Multi-Context Steering to Mitigate LVLM Hallucinations." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.11907)]
   [[code](https://github.com/VisionXLab/AIMS)]
+
+- **SIMIT:** Mehmet Onurcan Kaya, Desmond Elliott, Dim P. Papadopoulos.<br />
+  "SIMIT: Self-Improving Vision-Language Models via Imagination at Test-Time." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.00053)]
+  [[code](https://monurcan.github.io/simit/)]
 
 - **Bifocal:** Peiran Yin, Hao Wu, Zihao Yang, Fengyu Zhou, Yijuan Liang, Haozhe Hu, Xudong Wang, Wei Zhang, Xiaoyu Shen.<br />
   "Bifocal: Training-Free Mixed Granularity Visual Token Pruning for Multimodal LLMs." arXiv (2026).
