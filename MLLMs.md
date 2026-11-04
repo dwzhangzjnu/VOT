@@ -67,6 +67,11 @@
   [[paper](https://arxiv.org/abs/2610.11374)]
   [[code](https://github.com/showstarpro/ComCLIP)]
 
+- **CDIM:** Taehoon Kim, Wonjun Hwang, Hyunsouk Cho.<br />
+  "Bridging CLIP with DINO: Cross-Modal Information Maximization for Online Test-Time Adaptation." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2611.04489)]
+  [[code](https://github.com/B1ueC1oud/CDIM)]
+
 - **StemBind:** Xixiang He, Baiqi Wu, Xingming Li, Ao Cheng, Qiyao Sun, Xuanyu Ji, Qingyong Hu.<br />
   "StemBind: When MLLMs Get Lost Between Rules and Instances in Abstract Visual Reasoning." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2606.00148)]
