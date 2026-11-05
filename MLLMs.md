@@ -47,6 +47,11 @@
   [[paper](https://arxiv.org/abs/2610.09440)]
   [[code](https://wjdghks950.github.io/mol.github.io/)]
 
+- **DGP:** Yingying Yan, Jiaqi Tang, Wei Wei, Qianzhou Wang, Lei Zhang, Jianmin Chen, Yuyang Xia, Botong Geng, Jinjian Wu, Qifeng Chen.<br />
+  "Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2611.06844)]
+  [[code](https://github.com/YingyingYan1/DGP)]
+
 - **NV-CoT:** Kesen Zhao, Beier Zhu, Junbao Zhou, Xingyu Zhu, Zhongqi Yue, Hanwang Zhang.<br />
   "Thinking with Images as Continuous Actions: Numerical Visual Chain-of-Thought." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2602.23959)]
