@@ -532,10 +532,55 @@
 
 ### ACM MM 2026
 
+- **BWM:** Xuan Yao, Jiahao Zhang, Junyu Gao, Yong Rui, Changsheng Xu.<br />
+  "Bipartite World Modeling: Unifying Egocentric and Allocentric Dynamics for Embodied Target Tracking." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3836377)]
+  [[code](https://github.com/JahaoZhang/Bipartite-World-Modeling-for-EVT)]
+
 - **AnyTrack:** Hao Li, Yunzhi Zhuge, Wenning Hao, Pingping Zhang, Xiaoxiong Zhang, Dong Wang, Huchuan Lu.<br />
   "AnyTrack: Unifying Visual Object Tracking with Any Modalities." ACM MM (2026).
   [[paper](https://arxiv.org/abs/2608.06773)]
   [[code](https://github.com/IdolLab/AnyTrack)]
+
+- **SiM:** Yao Chen, Ding Ma, Guancheng Jia, Yufei Zha.<br />
+  "SiM: Event-Driven Temporal Modeling for Robust Any-Modal Visual Tracking." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835885)]
+  [[code]( )]
+
+- **U2Track:** Qionglin Ren, Dawei Zhang, Chunxu Tian, Dan Zhang.<br />
+  "Object-Centric Alignment and Deformable Fusion for Unaligned RGBT Anti-UAV Tracking." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835490)]
+  [[code]( )]
+
+- **GateKVT:** Jinxia Xie, Jianjun Qian, Liangtao Shi, Lei Luo, Jian Yang.<br />
+  "Gated KV-Cache-Based Progressive Fusion for RGB-T Tracking." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835287)]
+  [[code]( )]
+
+- **FreeTrack:** Rui Zhu, Zhaokang Lu, Bohan Liu, KaiRui Xu, Depeng Liu, Xuan Zhang, Yun Yang.<br />
+  "FreeTrack: Training-Free Anti-Distractor Tracker with Focused Prompts and Semantic-Aware." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3836047)]
+  [[code]( )]
+
+- **DiffMamba:** Binbin Wang, Fasheng Wang, Lifeng Wang, Lupiao Hu, Ziqing Yan, Fuming Sun, Haojie Li.<br />
+  "DiffMamba: Learning Diffusion Enhanced Mamba Tracker with Temporal Memory for Day-and-night UAV Tracking." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835859)]
+  [[code]( )]
+
+- **CSTrack:** Yinghao Li, Guixi Liu, Ruke Xiong, Qian Lu, Yisong Xiao, Sen Li, Zhiyu Wu.<br />
+  "CSTrack: Compile-then-Specialize Framework for Efficient Visual Tracking." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835739)]
+  [[code]( )]
+
+- **SMTrack:** Jiahao Wang, Hao Xu, Shuo Li, Xinyang Shen, Jingyu Wang.<br />
+  "SMTrack: Subspace Memory via Low-Rank Manifold Modeling for Satellite Video Tracking." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835819)]
+  [[code]( )]
+
+- **RP2Track:** Heng Yang, Fang Liu, Li Shuo, Jiahao Wang, Xinyan Huang, Puhua Chen, Kehuan Song.<br />
+  "RP2Track: Reflectance-Aware 3D Single Object Tracking via Dual-Branch Fusion." ACM MM (2026).
+  [[paper](https://dl.acm.org/doi/10.1145/3767308.3835734)]
+  [[code]( )]
 
 - **API Attack:** Shaofeng Liang, Runwei Guan, Wenshuo Chen, Jiemin Wu, Bowen Tian, Haozhe Jia, Kaishen Yuan, Songning Lai, Daizong Liu, Yutao Yue.<br />
   "When Efficiency Becomes Fragility: Exploiting Dynamic Routing Vulnerabilities in Adaptive UAV Tracking." ACM MM (2026).
@@ -1476,7 +1521,12 @@
   "Online Decision Switching for Anti-UAV Tracking based on Reinforcement Learning." AESCTE (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1270963826015750)] 
   [[code]( )]
-  
+
+- **SenaTrack:** Peng Gao, Jia-Le Chen, Han-Ting Li, Hamido Fujita.<br />
+  "Segmented multi-scale adaptation for thermal infrared tracking." JOLT (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0030399226021699)] 
+  [[code](https://github.com/pgao-lab/SenaTrack)]
+
 - **PVMTrack:** Binbin Wang, Ziqing Yan, Lifeng Wang, Fasheng Wang, Fuming Sun, Haojie Li.<br />
   "Towards a prompt-driven framework with state space models for UAV object tracking." KBS (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0950705126009299)] 
