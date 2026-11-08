@@ -1217,6 +1217,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11526988)] 
   [[code](https://github.com/lgao001/FSMT)]
 
+- **HyMamba:** Long Gao; Yunhe Zhang; Songyuheng Gao; Yan Jiang; Weiying Xie; Yunsong Li.<br />
+  "Mamba-Based Unified Cross-Depth and Temporal Spectral Learning for Hyperspectral Object Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11769758)] 
+  [[code](https://github.com/lgao001/HyMamba)]
+
 - **VDT1k:** Kaixiang Yan, Wenhua Qian, Jinde Cao, Cong Bi, Rufei Gan.<br />
   "Visual object tracking via integrating images of visible, thermal, and depth modalities." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11494035)] 
@@ -1277,6 +1282,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11417211)] 
   [[code]( )]
 
+- **DCATrack:** Yong Zhou; Tianyang Xu; Xuefeng Zhu; Xiao-Jun Wu; Josef Kittler.<br />
+  "Dynamic Computation Allocation for Efficient Visual Object Tracking Guided by Runtime Scene Complexity." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11770367)] 
+  [[code](https://github.com/JNU2023ZY/DCATrack)]
+
 - **DGTrack:** Jinglin Zhou, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
   "Adaptive Continual Learning for Online Visual Object Tracking via Dynamic Grassmannian Appearance Modelling." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11363582)] 
@@ -1321,6 +1331,11 @@
   "Modality Interaction Decoupling: Spatiotemporal Memory-Driven Unified Multimodal Tracking Framework." IOTJ (2026).
   [[paper](https://ieeexplore.ieee.org/document/11396679)] 
   [[code](https://github.com/qfxb/SMMTrack)]
+
+- **MambaSTM:** Kai Yang; Mengqing Chen; Mengting Zhang; Aiwu Shi; Xinrong Hu.<br />
+  "MambaSTM: Spatio-temporal Memory Mamba for Visual Tracking." TCE (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11770254)] 
+  [[code]( )]
 
 - **LCMTrack:** Lifan Sun, Liuzhuang Liu, Yang Liu, Dongkai Zhang, Dan Gao.<br />
   "LCMTrack: Low Rank Gated Adaptation and Cross Modal Attention Fusion for Multi-Scale Spatio-Temporal RGB-T Tracking." JSEN (2026).
@@ -1611,6 +1626,10 @@
   "DPTracker: DYNAMIC PROMPTER FOR RGB-D Tracking." PRL (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0167865526001224)] 
   [[code](https://github.com/neilzhao996/DPTracker)]
+
+- **DAPTrack:** Mingqian Ge, Peilin Yang, Mingzhe Zhu, Lihuo He, Zhencheng Sun, Yu Zhu, Zhe Li.<br />
+  "DAPTrack: degradation-aware prompt learning for low-light UAV tracking." TVC (2026).
+  [[paper](https://link.springer.com/article/10.1007/s00371-026-04803-5)] 
 
 - **MambaCPT:** Zhao Huang, Lei Liu, Shuai Wang, Jun Wang.<br />
   "Mamba-driven Context-aware Tracking with Dual Prompts." MMSJ (2026).
