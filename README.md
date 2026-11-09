@@ -752,6 +752,11 @@
   [[paper](https://arxiv.org/abs/2609.06302)]
   [[code](https://junyi2005.github.io/cst-wm/)]
 
+- **DobotTrack:** Shengjun Deng, Yinghan Zhang, Chengrui Wei, Liu Liang, Songyuan Liu, Pengkun Zheng, Yajun Zheng, Ying Zhang, Yuan Tian, Xi Li, Teng Wang.<br />
+  "DobotTrack: Target-Grounded Vision-Language-Action Learning for Embodied Person Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.09041)]
+  [[code](https://github.com/Dobot-Team/dobot_track)]
+
 - **USS:** Yuchen Xie, Xinyu Zhou, Kuangji Zuo, Yanshuo Lu, Fengrui Huang, Boyu Ma, Jianfei Yang.<br />
   "USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2606.25880)]
