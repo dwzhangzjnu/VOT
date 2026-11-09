@@ -67,6 +67,11 @@
   [[paper](https://arxiv.org/abs/2610.10563)]
   [[code](https://bogao-code.github.io/SLVR/)]
 
+- **ACTOR:** Jihwan Bang, Sumyeong Ahn, Hwanjun Song, Jae-Gil Lee.<br />
+  "Training-Free Active Test-Time Adaptation for Vision-Language Models." NeurIPS (2026).
+  [[paper](https://arxiv.org/abs/2611.09084)]
+  [[code](https://github.com/kaist-dmlab/ACTOR)]
+
 - **ComCLIP:** Zidan Wang, Yaqian Li, Xiaokai Zhang, Kaiwen Long, Kun He, Hanpeng Liu.<br />
   "Rethinking Contrastive Loss in CLIP Post-training: A Complementary Framework with Frozen Text Encoder." NeurIPS (2026).
   [[paper](https://arxiv.org/abs/2610.11374)]
