@@ -738,10 +738,10 @@
   [[code]( )]
 
 - **VL-UniTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
-  "VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking." ArXiv (2026).
+  "VL-UniTrack: A Unified Framework with Visual-Language Prompts for UAV-Ground Visual Tracking." TMM (2026).
   [[paper](https://arxiv.org/abs/2605.04574)]
   [[code](https://github.com/xuboyue1999/VL-UniTrack)]
-  
+
 - **ReferTrack:** Hanjing Ye, Tianle Zeng, Jiazhao Zhang, Shaoan Wang, Zibo Zhang, Weisi Situ, Yuchen Zhou, Yonggen Ling, Hong Zhang.<br />
   "ReferTrack: Referring Then Tracking for Embodied Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2607.20061)]   [[project](https://medlartea.github.io/referTrack/)]
