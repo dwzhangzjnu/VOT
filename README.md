@@ -728,7 +728,7 @@
   [[code](https://github.com/hongsmile365/sarla-)]
 
 - **TSAT:** Yun Xiao, Hailong Ye, Zhicheng Zhao, Lei Liu, Amir Hussain.<br />
-  "Test-Time Selective Adaptation for Cross-Modal UAV Object Tracking with Token Shift." TCSVT (2026).
+  "Test-Time Selective Adaptation for Cross-Modal UAV Object Tracking with Token Shift." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2611.15059)]
   [[code]( )]
 
