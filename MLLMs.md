@@ -150,6 +150,16 @@
   [[paper](https://arxiv.org/abs/2306.13394)]
   [[code](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]
 
+- **MoE-LLaVA:** Bin Lin; Zhenyu Tang; Yang Ye; Jinfa Huang; Junwu Zhang; Yatian Pang.<br />
+  "MoE-LLaVA: Mixture of Experts for Large Vision-Language Models." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11353922)]
+  [[code](https://github.com/PKU-YuanGroup/MoE-LLaVA)]
+
+- **MMToT:** Ning Xu; Zimu Lu; Hongshuo Tian; Bolun Zheng; Jinbo Cao; An-An Liu.<br />
+  "MMToT: Multi-Modal Token-of-Thought Reasoning for Large Models." TMM (2025).
+  [[paper](https://ieeexplore.ieee.org/document/11353924)]
+  [[code]( )]
+
 - **DINOv3:** Oriane Siméoni, Huy V. Vo, Maximilian Seitzer, Federico Baldassarre, Maxime Oquab, Cijo Jose, Vasil Khalidov, Marc Szafraniec, Seungeun Yi, Michaël Ramamonjisoa, Francisco Massa, Daniel Haziza, Luca Wehrstedt, Jianyuan Wang, Timothée Darcet, Théo Moutakanni, Leonel Sentana, Claire Roberts, Andrea Vedaldi, Jamie Tolan, John Brandt, Camille Couprie, Julien Mairal, Hervé Jégou, Patrick Labatut, Piotr Bojanowski.<br />
   "DINOv3." arXiv (2025).
   [[paper](https://arxiv.org/abs/2508.10104)]
