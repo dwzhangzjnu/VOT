@@ -727,6 +727,11 @@
   [[paper](https://arxiv.org/abs/2607.18768)]
   [[code](https://github.com/hongsmile365/sarla-)]
 
+- **TSAT:** Yun Xiao, Hailong Ye, Zhicheng Zhao, Lei Liu, Amir Hussain.<br />
+  "Test-Time Selective Adaptation for Cross-Modal UAV Object Tracking with Token Shift." TCSVT (2026).
+  [[paper](https://arxiv.org/abs/2611.15059)]
+  [[code]( )]
+
 - **DRL:** Jue Liu; Lei Liu; Chenglong Li; Jin Tang; Feng Chen.<br />
   "Robust Cross-Modal Object Tracking via Disentangled Representation Learning." TETCI (2026).
   [[paper](https://ieeexplore.ieee.org/document/11684385)]
