@@ -898,8 +898,8 @@
   [[code](https://npucvr.github.io/STDV/)]
 
 - **APMTrack:** Shiao Wang, Xiao Wang, Haonan Zhao, Jiarui Xu, Bo Jiang, Lin Zhu, Xin Zhao, Yonghong Tian, Jin Tang.<br />
-  "Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking." ArXiv (2026).
-  [[paper](https://arxiv.org/abs/2601.01022)] 
+  "Decoupling Amplitude and Phase Attention in Frequency Domain for RGB-Event based Visual Object Tracking." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11733530)] 
   [[code](https://github.com/Event-AHU/OpenEvTracking)]
 
 - **SOR-Track:** Dexing Huang, Shiao Wang, Fan Zhang, Xiao Wang.<br />
