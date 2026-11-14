@@ -1222,6 +1222,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11744633)] 
   [[code](https://github.com/laisimiao/UnHOT)]
 
+- **EAT:** Long Gao; Yunhe Zhang; Songyuheng Gao; Weiying Xie; Yunsong Li.<br />
+  "EAT: Environment-Aware Spectral Learning for Hyperspectral Object Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11793825)] 
+  [[code]( )]
+
 - **FSMT:** Long Gao, Zhuoyan Liu, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.<br />
   "FSMT: Frequency-Spatial Mixture-of-Experts Hyperspectral Object Tracking." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11526988)] 
@@ -1371,7 +1376,12 @@
   "Bring KANs to Tracker: A Nonlinear Fusion Strategy Over Frequency Decoupling for Temporal Hyperspectral Object Tracking." TGRS (2026).
   [[paper](https://ieeexplore.ieee.org/document/11367018)] 
   [[code]( )]
-  
+
+- **TSTrack:** Yao Chen; Guancheng Jia; Yufei Zha; Peng Zhang.<br />
+  "Efficient Plug-and-Play Mamba-Based Selective Target State Modeling for Lightweight Visual Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11457753)] 
+  [[code](https://github.com/Xiaochen918/TSTrack)]
+
 - **PCTrack:** Yanting Zu; Qihua Liang; Chaocan Xue; Yufei Tan; Shuxiang Song; Bineng Zhong.<br />
   "Robust Nighttime UAV Tracking Via Parameter and Computation Efficient Transfer Learning." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11613180)] 
@@ -1410,6 +1420,11 @@
 - **SAAttack:** Xingsen Huang, Yuqing Huang, Hongpeng Wang, Yaowei Wang, Xin Li.<br />
   "Saliency-Aware Adversarial Attacks on Visual Trackers." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11432987)] 
+  [[code]( )]
+
+- **BiTrack:** Junhao Long; Hui Li; Wentao Hu; Kai Yang; Haijun Zhang.<br />
+  "BiTrack: A Bidirectional Self-Calibration for Online Visual Tracking." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11783145)] 
   [[code]( )]
 
 - **MRTrack:** Yuanhui Wang, Ben Ye, Zhanchuan Cai, Hao Wu.<br />
