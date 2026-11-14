@@ -1017,6 +1017,11 @@
   [[paper](https://arxiv.org/abs/2602.01677)] 
   [[code]( )]
 
+- **SonarT165/STFTrack:** Yunfeng Li, Bo Wang, Jiahao Wan, Xueyi Wu, Ye Li.<br />
+  "SonarT165: A Large-Scale Benchmark and STFTrack Framework for Underwater Acoustic Object Tracking." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11769688)] 
+  [[code](https://github.com/LiYunfengLYF/SonarT165)]
+
 - **MPTrack:** Lei Liu, Chenglong Li, Andong Lu, Yabin Zhu, Shoufei Han, Xinye Cai.<br />
   "Unveiling the Power of Multi-Modal Template Update in RGBT Tracking." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11551799)] 
@@ -2424,11 +2429,6 @@
   "SwiTrack: Tri-State Switch for Cross-Modal Object Tracking." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2511.16227)] 
   [[code](https://github.com/xuboyue1999/SwiTrack)]
-  
-- **SonarT165:** Yunfeng Li, Bo Wang, Jiahao Wan, Xueyi Wu, Ye Li.<br />
-  "SonarT165: A Large-scale Benchmark and STFTrack Framework for Acoustic Object Tracking." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2504.15609)] 
-  [[code](https://github.com/LiYunfengLYF/SonarT165)]
 
 - **LightFC-X:** Yunfeng Li, Bo Wang, Ye Li.<br />
   "LightFC-X: Lightweight Convolutional Tracker for RGB-X Tracking." ArXiv (2025).
