@@ -1037,6 +1037,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11415354)] 
   [[code]( )]
 
+- **DET:** Shilei Wang; Pujian Lai; Jifeng Ning; Gong Cheng.<br />
+  "Dynamic Computational Load Adjustment Based on Scene Adaptation for Efficient Object Tracking." TIP (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11783286)] 
+  [[code]( )]
+
 - **SeDCP:** Ding Ma; Zexu Zhang; Xiangqian Wu.<br />
   "Self-Chained Dynamic Context Perception to Tracking by Natural Language Specification." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11644814)] 
@@ -1451,6 +1456,11 @@
   "MTV: Selective State Space Tracker for Infrared UAV." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/document/11717526)] 
   [[code](https://github.com/AmazingDay1/MTV)]
+
+- **MASTrack:** Bingbing Wei; Xinying Zhang; Xu Wang; Peiwen He; Qingchuan Zhai; Yuanke Zhang.<br />
+  "MASTrack: Motion-Appearance Semantic Tracking for Thermal Infrared Anti-UAV." TGRS (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11789778)] 
+  [[code](https://github.com/bingbing-wei/MASTrack)]
 
 - **TAPTrack:** Xiaolong Cui, Xingxiu Li, Panlong Wu, Xinan Liu, Shan He.<br />
   "TAPTrack: An Efficient Temporal-Aware Prompt Tracker for Infrared Anti-UAV Tracking." TGRS (2026).
