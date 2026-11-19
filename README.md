@@ -1187,6 +1187,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11417270)] 
   [[code](https://github.com/QiaoLiuHit/DDAT)]
   
+- **D3Track:** Fangmei Chen; Weixin Kong; Lifeng Wang; Fasheng Wang; Fuming Sun; Haojie Li.<br />
+  "Denoising-Driven RGB-T Tracking via Distillation and Dynamic Fusion." TMM (2026).
+  [[paper](https://ieeexplore.ieee.org/document/11794507)] 
+  [[code](https://github.com/KWX2025/D3Track)]
+
 - **VCT:** Jiaqi Deng, Si Chen, Da-Han Wang, Xu-Yao Zhang, Yan Yan.<br />
   "Video-Level Cross-Modal Temporal-Navigation for RGBT Tracking." TMM (2026).
   [[paper](https://ieeexplore.ieee.org/document/11417207)] 
