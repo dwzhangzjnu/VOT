@@ -117,6 +117,16 @@
   [[paper](https://arxiv.org/abs/2610.18399)]
   [[code](https://github.com/EIT-NLP/Bifocal)]
 
+- **DiLE:** Ben Kang, Junda Wang, Yuxuan Yuan, Hang Li, Yuhan Liu, Xin Chen, Wanting Geng, Tong Lin, Pei Fu, Dong Wang, Jian Luan, Huchuan Lu.<br />
+  "DiLE: Discrimination-Aware Latent-Space Learning for Universal Multimodal Embeddings." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.25419)]
+  [[code]( )]
+
+- **ReBA:** Ziang Wu, Peng Jin, Qishen Yin, Munan Ning, Hao Li, Peizhen Zhang, Huihui Zhou, Li Yuan.<br />
+  "Relax Within, Balance Across: Load Balancing under Composition Shifts in Vision-Language Mixture-of-Experts." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2608.00574)]
+  [[code](https://github.com/ZiangWu-77/ReBA)]
+
 - **DK-VLM:** Han Su, Meng Tian, Tianyu Huang, Mingyu Gao, Lennox Wei, Dongxu Li, Jianhua Han, Hang Xu, Xiaohe Wu, Wangmeng Zuo.<br />
   "DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models." arXiv (2026).
   [[paper](https://arxiv.org/abs/2610.22356)]
