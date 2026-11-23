@@ -781,7 +781,12 @@
   "CosFly-Track: A Large-Scale Multi-Modal Dataset for UAV Visual Tracking via Multi-Constraint Trajectory Optimization." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.17776)]
   [[code](https://huggingface.co/datasets/AutelRobotics/CosFly)]
-  
+
+- **PanoUAV-Track:** Bingyu Li, Lichang Yang, Zhiyuan Zhao, Junyu Gao, Xuelong Li.<br />
+  "PanoUAV-Track: Full-Spherical UAV Visual Tracking in the Wild." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.27383)]
+  [[code](https://libingyu01.github.io/PanoUAV-Track/)]
+
 - **DeTrack:** Guyue Hu, Haoming Liu, Siyuan Song, Chenglong Li, Feng Chen, Jin Tang.<br />
   "DeTrack: A Benchmark and Altitude-Aware Dual World Model for Drone-embodied Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2605.17451)]
@@ -2436,8 +2441,9 @@
   [[code]( )]
 
 - **FocusTrack:** Ying Wang, Tingfa Xu, Jianan Li.<br />
-  "FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking." ArXiv (2025).
-  [[paper](https://arxiv.org/abs/2504.13604)] 
+  "FocusTrack: A Self-Adaptive Local Sampling Algorithm for Efficient Anti-UAV Tracking." TGRS (2025).
+  [[arXiv](https://arxiv.org/abs/2504.13604)]
+  [[paper](https://ieeexplore.ieee.org/document/10972031)] 
   [[code](https://github.com/vero1925/FocusTrack)]
 
 - **SwiTrack:** Boyue Xu, Ruichao Hou, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
