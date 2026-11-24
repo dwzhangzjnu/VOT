@@ -927,6 +927,11 @@
   [[paper](https://arxiv.org/abs/2604.13426)] 
   [[code]( )]
 
+- **EM-SDTrack:** Yimeng Shan, Haodi Wu, Wei Zheng, Xiaowei Ye, Shuai Wang, Yu Liang, Wei Hua, Chenxiao Dou, Malu Zhang.<br />
+  "EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.22700)] 
+  [[code](https://github.com/YmShan/EM-SDTrack)]
+
 - **Mask IPL:** Yimeng Shan, Malu Zhang.<br />
   "Mask IPL: Noise-Free Intrinsic Position Learning via Computation Graph Clipping for Event-Based Spike-Driven Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2609.18716)] 
@@ -1501,6 +1506,11 @@
   "Occlusion-aware visual object tracking with explicit temporal state modeling and dual-memory mechanism." PR (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326011209)] 
   [[code](https://github.com/ChaseFalcon99/OASAMT)]
+
+- **TMKD:** Rui Ruan, Yunlong Kang, Lei Liu, Jingpeng Sun, Chenglong Li, Jin Tang.<br />
+  "Temporal multimodal knowledge distillation for modality-missing RGBT tracking." PR (2026).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326009568)] 
+  [[code]( )]
 
 - **TrHelpTr:** Jiazheng Wen, Huanyu Liu, Junbao Li.<br />
   "TrHelpTr: A Long-Term Single-Object Tracking Paradigm Based on Sequence Modeling Reinforcement Learning." PR (2026).
