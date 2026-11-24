@@ -87,6 +87,11 @@
   [[paper](https://arxiv.org/abs/2606.00148)]
   [[code](https://github.com/hexixiang/StemBind)]
 
+- **VLM-UQBench:** Chenyu Wang, Tianle Chen, Yuxin Wu, Qijia He, Mingyu Chen, H. M. Sabbir Ahmad, Kayhan Batmanghelich, Wenchao Li.<br />
+  "VLM-UQBench: A Benchmark for Modality-Specific and Cross-Modality Uncertainties in Vision Language Models." CVPR Workshop (2026).
+  [[paper](https://arxiv.org/abs/2602.09214)]
+  [[code](https://cskyl.github.io/vlm-uqbench/)]
+
 - **SAYO:** Siqu Ou, Tianrui Wan, Zhiyuan Zhao, Junyu Gao, Xuelong Li.<br />
   "Do MLLMs Really See It: Reinforcing Visual Attention in Multimodal LLMs." EMNLP (2026).
   [[paper](https://arxiv.org/abs/2602.08241)]
