@@ -606,6 +606,11 @@
   [[paper](https://arxiv.org/abs/2603.19628)]
   [[code](https://github.com/yiheng-wang-duke/DPTracker)]
 
+- **SAM2-DA-CDS:** Adonay Demewez Gebremedhin, Mohamad Alansari, Wessam Shehieb, Muzammal Naseer.<br />
+  "Distractors are the Real Enemy: Visual Distraction Adversarial Perturbations on SAM2-Based Video Tracking and Segmentation." WACV (2027).
+  [[paper](https://arxiv.org/abs/2611.32011)]
+  [[code](https://adonaydem.github.io/sam2-da-page/)]
+
 - **SProTrack:** Wangshu Cai, Jun Zhou, Lei Wang, Mohammad Aminul Islam, Xu Han, Kuldip Paliwal.<br />
   "Latent Spectral Prompting for Multimodal Hyperspectral Object Tracking." WACV (2027).
   [[paper](https://arxiv.org/abs/2611.02512)]
@@ -771,6 +776,11 @@
   "UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2604.02241)]
   [[code](https://github.com/Hub-Tian/UAV-Track_VLA)]
+
+- **MCWM:** Jiahao Zhang, Xuan Yao, Junyu Gao, Changsheng Xu.<br />
+  "Motion Conditioned World Modeling for Embodied Visual Tracking." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.32900)]
+  [[code]( )]
 
 - **VLX-Go:** Kyusong Lee, Heting Ying, Tiancheng Zhao.<br />
   "VLX-Go: Robust Embodied Tracking through Multi-Stage Learning and On-Policy Refinement." ArXiv (2026).
