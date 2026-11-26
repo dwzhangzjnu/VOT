@@ -777,6 +777,11 @@
   [[paper](https://arxiv.org/abs/2604.02241)]
   [[code](https://github.com/Hub-Tian/UAV-Track_VLA)]
 
+- **360UAV-ETrack/360UAV-TVLA:** Bingyu Li, Wu Du, Zhiyuan Zhao, Junyu Gao, Xuelong Li.<br />
+  "Towards 360∘ Embodied UAV Tracking Without Turning." ArXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.33934)]
+  [[code](https://libingyu01.github.io/360UAV-ETrack_360UAV-TVLA/)]
+
 - **MCWM:** Jiahao Zhang, Xuan Yao, Junyu Gao, Changsheng Xu.<br />
   "Motion Conditioned World Modeling for Embodied Visual Tracking." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2611.32900)]
@@ -932,11 +937,6 @@
   [[paper](https://arxiv.org/abs/2604.14526)] 
   [[code]( )]
 
-- **MambaTrack:** Jinlin You, Muyu Li, Xudong Zhao.<br />
-  "Event-Adaptive State Transition and Gated Fusion for RGB-Event Object Tracking." ArXiv (2026).
-  [[paper](https://arxiv.org/abs/2604.13426)] 
-  [[code]( )]
-
 - **EM-SDTrack:** Yimeng Shan, Haodi Wu, Wei Zheng, Xiaowei Ye, Shuai Wang, Yu Liang, Wei Hua, Chenxiao Dou, Malu Zhang.<br />
   "EM-SDTrack: Efficient Multi-Scale Spike-driven Tracking for Event Cameras." ArXiv (2026).
   [[paper](https://arxiv.org/abs/2611.22700)] 
@@ -1062,6 +1062,11 @@
   [[paper](https://ieeexplore.ieee.org/document/11783286)] 
   [[code]( )]
 
+- **TaCo-Tracker:** Qingmao Wei, Fagui Liu, Quan Tang.<br />
+  "TaCo: Rethinking Correlation for Visual Tracking on Edge Devices." arXiv (2026).
+  [[paper](https://arxiv.org/abs/2611.34084)] 
+  [[code](https://github.com/TsingWei/TaCo-Tracker)]
+
 - **SeDCP:** Ding Ma; Zexu Zhang; Xiangqian Wu.<br />
   "Self-Chained Dynamic Context Perception to Tracking by Natural Language Specification." TIP (2026).
   [[paper](https://ieeexplore.ieee.org/document/11644814)] 
@@ -1106,6 +1111,11 @@
   "RELTrack: A language-guided RGB-event object tracking framework." IPM (2026).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0306457326003663)] 
   [[code](https://github.com/XXXXX/RELTrack)]
+
+- **MambaTrack:** Muyu Li, Jinlin You, Mingxin Liu, Shengming Li, Xudong Zhao.<br />
+  "Adaptive Multimodal Fusion of RGB and Event Streams via Gated State Transitions for Object Tracking." INFFUS (2026).
+  [[arXiv](https://arxiv.org/abs/2604.13426)]
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1566253526008870)]
 
 - **MEMLTrack:** Yuting He, Bin Fan, Zhexiong Wan, Qi Liu, Yuchao Dai.<br />
   "Multi-event Representation and Multi-level Fusion for Robust RGB-event Object Tracking." KBS (2026).
